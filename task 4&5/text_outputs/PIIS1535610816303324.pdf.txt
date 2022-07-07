@@ -1,0 +1,273 @@
+Loss of the Par3 Polarity Protein Promotes Breast Tumorigenesis and Metastasis
+
+
+IGF-1R
+
+MM1s WT TP53 RPMI-8226 Mut TP53
+Scr 192 194 215 Scr 192 194 215
+
+pS6
+S6
+
+IGF-1
+miR-
+
+pAkt
+
+Akt
+IGF-1
+ng/ml
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+0 12.5 25 50 100 200
+
+M
+ig
+
+ra
+tio
+
+n 
+fo
+
+ld
+ in
+
+cr
+ea
+
+se
+s 
+
+IGF-1
+ng/ml Migration 
+
+HS-5MM1s
+
+Bone Marrow 
+Engraftment
+
+0
+
+2e106
+
+4e106
+
+6e106
+
+8e106
+
+1e107
+
+1.2e107
+
+1.4e107
+
+0 1 2 3 4 5
+
+B
+io
+
+-lu
+m
+
+in
+es
+
+ce
+nc
+
+e 
+in
+
+te
+ns
+
+ity
+ p
+
+/s
+ec
+
+/c
+m
+
+e2
+/s
+
+r
+
+Wks
+
+Scr
+miR-194
+miR-192
+miR-215
+
+Saturation 
+
+Migration 
+
+M
+ig
+
+ra
+tio
+
+n 
+fo
+
+ld
+ in
+
+cr
+ea
+
+se
+s 
+
+0 12.5 25 50 100 200
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+HS-5RPMI-8226
+
+A B
+
+C
+
+Scr
+miR-192
+miR-194
+miR-215
+
+p<0.01
+
+p<0.001
+
+Dorsal
+
+Ventral
+
+Scr miR-194 miR-192 miR-192
+
+CD138 
+
+12±3% 4±2% 2±2%25±15%
+
+CD-138 CD-138 CD-138
+
+C
+el
+
+ls
+ n
+
+um
+be
+
+r
+
+E
+
+D
+
+P2 P2 P2 P2
+
+Gapdh
+
+10 102 103 104 105 10 102 103 104 105 10 102 103 104 105 10 102 103 104 105
+
+10
+
+102
+
+103
+
+104
+
+105
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+x10
+6
+
+Figure 7. miR-194, 215, and 194 Block Invasion Ability of MM Cells
+
+Cancer Cell
+
+Corrections
+Loss of the Par3 Polarity Protein
+Promotes Breast Tumorigenesis and Metastasis
+Luke Martin McCaffrey,* JoAnne Montalbano, Constantina Mihai, and Ian G. Macara
+*Correspondence: luke.mccaffrey@mcgill.ca
+
+http://dx.doi.org/10.1016/j.ccell.2016.07.001
+
+(Cancer Cell 22, 601–614; November 13, 2012)
+
+During figure preparation for this article, the authors inadvertently duplicated control tubulin blots in Figure 5D and Figure 5E. The
+
+authors regret this error and apologize for any confusion that it may have caused. These errors have now been corrected in the figure
+
+below.
+Cancer Cell 30, 349–365, August 8, 2016 ª 2016 Elsevier Inc. 351
+
+mailto:luke.mccaffrey@mcgill.ca
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.ccell.2016.07.001&domain=pdf
+http://dx.doi.org/10.1016/j.ccell.2016.07.001
+
+
+Figure 5. Loss of Par3 Activates Stat3 Signaling through aPKC
+
+Cancer Cell
+
+Corrections
+
+352 Cancer Cell 30, 349–365, August 8, 2016
+
+
+	Loss of the Par3 Polarity Protein Promotes Breast Tumorigenesis and Metastasis

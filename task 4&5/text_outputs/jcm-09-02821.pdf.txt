@@ -1,0 +1,1350 @@
+Understanding the Complexity of Sjögren’s Syndrome: Remarkable Progress in Elucidating NF-B Mechanisms
+
+
+Journal of
+
+Clinical Medicine
+
+Review
+
+Understanding the Complexity of Sjögren’s
+Syndrome: Remarkable Progress in Elucidating
+NF-κB Mechanisms
+
+Margherita Sisto * , Domenico Ribatti and Sabrina Lisi
+
+Department of Basic Medical Sciences, Neurosciences and Sensory Organs (SMBNOS),
+Section of Human Anatomy and Histology, University of Bari “Aldo Moro”, 70124 Bari, Italy;
+domenico.ribatti@uniba.it (D.R.); sabrina.lisi@uniba.it (S.L.)
+* Correspondence: margherita.sisto@uniba.it; Tel.: +39-080-547-8315; Fax: +39-080-547-8327
+
+Received: 3 July 2020; Accepted: 28 August 2020; Published: 31 August 2020
+����������
+�������
+
+Abstract: Sjögren’s syndrome (SS) is a systemic autoimmune inflammatory disease with a poorly
+defined aetiology, which targets exocrine glands (particularly salivary and lachrymal glands), affecting
+the secretory function. Patients suffering from SS exhibit persistent xerostomia and keratoconjunctivitis
+sicca. It is now widely acknowledged that a chronic grade of inflammation plays a central role in the
+initiation, progression, and development of SS. Consistent with its key role in organizing inflammatory
+responses, numerous recent studies have shown involvement of the transcription factor nuclear
+factor κ (kappa)-light-chain-enhancer of activated B cells (NF-κB) in the development of this disease.
+Therefore, chronic inflammation is considered as a critical factor in the disease aetiology, offering hope
+for the development of new drugs for treatment. The purpose of this review is to describe the current
+knowledge about the NF-κB-mediated molecular events implicated in the pathogenesis of SS.
+
+Keywords: Sjögren’s syndrome; NF-κB; inflammation
+
+1. Introduction
+
+The nuclear factor κ (kappa)-light-chain-enhancer of activated B cells (NF-κB) is a pleiotropic
+regulator of many cellular signalling pathways activated in response to a wide variety of stimuli linked
+to inflammation. Once activated, this B cell enhancer plays an important role in the pathogenesis
+of several inflammatory autoimmune diseases, including Sjögren’s syndrome (SS) [1]. SS presents
+lymphocytic infiltration of the salivary glands (SGs) and lachrymal glands as the characteristic hallmark
+resulting in chronic inflammation. A dry mouth and dry eyes, resulting in keratoconjunctivitis sicca
+and xerostomia, are common complaints in SS [2]. NF-κB is a family of DNA-binding proteins that
+regulates many cellular processes, notably the immune response and inflammation, influencing the
+transcription of a broad array of pro-inflammatory cytokines [3]. NF-κB is ubiquitously expressed
+in SGs, and the constitutive NF-κB activation observed in primary SS (pSS) is associated with NF-κB
+release and nuclear translocation of NF-κB, to focal infiltrated lymphocytes and the acinar epithelium
+of patients with pSS, to regulate the pro-inflammatory gene transcriptions [4]. However, the role of
+NF-κB in pSS remains to be clarified in detail. This article provides an update on the current state of
+knowledge about the relationship between NF-κB-molecular pathway activation in SGs and the chronic
+inflammation characterizing pSS, with the aim of providing a strong basis for a better understanding
+of the signal transduction pathways mediating the induction of NF-κB in pSS SGs, in order to allow
+this disease to be manipulated, to gain therapeutic benefit.
+
+J. Clin. Med. 2020, 9, 2821; doi:10.3390/jcm9092821 www.mdpi.com/journal/jcm
+
+http://www.mdpi.com/journal/jcm
+http://www.mdpi.com
+https://orcid.org/0000-0001-8349-1121
+https://orcid.org/0000-0003-4768-8431
+http://www.mdpi.com/2077-0383/9/9/2821?type=check_update&version=1
+http://dx.doi.org/10.3390/jcm9092821
+http://www.mdpi.com/journal/jcm
+
+
+J. Clin. Med. 2020, 9, 2821 2 of 18
+
+2. Sjögren’s Syndrome
+
+The chronic inflammatory autoimmune disorder SS arises as primary SS (pSS) and, when linked
+with another underlying systemic autoimmune disorder, such as scleroderma, systemic lupus
+erythematosus (SLE), or rheumatoid arthritis (RA), is defined as secondary SS [5]. The evolution
+to non-Hodgkin’s lymphoma occurs in a larger percentage of SS patients than in the normal
+population [6,7]. The clinical hallmarks of SS, keratoconjunctivitis sicca and xerostomia [2], can be
+confirmed by various objective tests highlighting significant functional impairment of the SGs and
+lachrymal glands [8]. The involvement of these glands is characterized by focal infiltrating lymphocytes
+that surround the ducts and, in some patients, extend and replace the secretory functional units.
+Although infiltration of the SGs by lymphocytes is a hallmark of SS [9,10], multiple cytokines
+are upregulated, even in the absence of lymphocytic infiltrates, and have a direct effect on SGs
+epithelial cells (SGEC). Interestingly, substantial new evidence supports the role of epithelia in the
+production of constitutive or inducible mediators of the innate and acquired immune responses.
+The picture that emerges shows intrinsically activated SGEC that induce and promote chronic
+inflammatory reactions [11]. For this reason, on the basis of clinical observation, pSS was defined
+as an “autoimmune epithelitis” [12]. Indeed, SGEC are capable of releasing many cytokines that
+result overexpressed and thus act as key molecules in chronic inflammation, contributing to both
+systemic and exocrine manifestations of pSS [13–29]. A number of explanations has been offered for
+the dysregulated cytokine network in pSS and, in the past, the presence of anti-Ro/SSA and anti-La/SSB
+antibodies was shown to be related to increased glandular and extra-glandular manifestations.
+Important findings provided evidence for a pathogenic role of autoantibodies, demonstrating that
+anti-Ro/SSA autoantibodies stimulate the production of pro-inflammatory cytokines such as IL-6
+and IL-8 by human SGEC from healthy donors, promoting chronic inflammatory reactions [25].
+Furthermore, pSS autoantibodies can promote the activation of the NF-κB pathway, leading to the
+overexpression of multiple proangiogenic/pro-inflammatory factors. Indeed, inhibiting the NF-κB
+activity abrogated the release of these cytokines [25]. Starting from the initial studies carried out
+on autoantibodies, considerable progress has been made in identifying other possible molecular
+mechanisms implicated in the activation of NF-κB, which could explain the chronic inflammatory
+situation characteristic of SS. Accumulated data suggest that the multiple roles of NF-κB in pSS could
+be related to the dynamic context of dysregulated inflammatory factors observed in pSS.
+
+3. NF-κB Transcription Factors
+
+The family of NF-κB is composed of five members of proteins linking to DNA, (RelA, RelB, RelC,
+NFκ-B1, and NFκ-B2) that trigger a set of inflammatory downstream effectors after nuclear translocation,
+involved in a broad range of biological processes. Either a canonical or a non-canonical pathway
+can be responsible for their activation; the canonical pathway mediates inflammatory responses
+and leads to a rapid but transient NF-κB activation, while the non-canonical signalling is a slow,
+long-lasting pathway (see Figure 1). Typical inducers of the non-canonical NF-κB pathway are ligands
+of a subset of the tumour necrosis factor receptors (TNFR) superfamily involved in the differentiation
+of the immune system, as well as in secondary lymphoid organogenesis [30]. The NF-κB family
+members show homology through a 300 amino acid N-terminal DNA binding/dimerization domain,
+named the Rel homology domain (RHD). The RHD is a complex system where family members can
+constitute homodimers and heterodimers, which are normally kept inactive in the cytoplasm through
+interaction with inhibitory proteins of the IκB family (IκBs) [31]. The common regulatory step in both
+the canonical and non-canonical cascades is the activation of an IκB kinase (IKK) complex consisting of
+catalytic kinase subunits (IKKα and/or IKKβ) and the regulatory non-enzymatic scaffold protein NF-κB
+essential modulator (NEMO), also known as IKKγ [31]. NF-κB dimers are activated by IKK-mediated
+phosphorylation of IκBs, which triggers proteasomal IκBs degradation, liberating the dimers of NF-κB
+from the NF-κB-IκBs complex, that subsequently translocate to the nucleus, linking to κB enhancer
+elements of target genes [32] (Figure 1). Among the IκBs, the best characterized is IκBα, which requires
+
+
+
+J. Clin. Med. 2020, 9, 2821 3 of 18
+
+degradation of the activity of IKK kinase. IκBα functions as a negative feedback loop to sequester
+NF-κB subunits, because NF-κB activation induces the expression of the IκBα gene, which terminates
+signalling unless a persistent activation signal is present [32].
+
+J. Clin. Med. 2019, 8, x FOR PEER REVIEW 3 of 18 1). Among the IκBs, the best characterized is IκBα, which requires degradation of the activity of IKK 
+kinase. IκBα functions as a negative feedback loop to sequester NF-κB subunits, because NF-κB 
+activation induces the expression of the IκBα gene, which terminates signalling unless a persistent 
+activation signal is present [32]. 
+
+Figure 1. Canonical and non-canonical nuclear factor κ (kappa)-light-chain-enhancer of activated B 
+cells (NF-κB) signalling pathways. The canonical NF-κB pathway starts with the activation of innate 
+and adaptive immune receptors in response to various ligand molecules, which transfers the signal 
+across the cell membrane causing the activation of the trimeric IκB kinase (IKK) complex, composed 
+of catalytic (IKKα and IKKβ) and regulatory (IKKγ) subunits. The IKK complex phosphorylates IκBα 
+and phosphorylated IκB undergo ubiquitylation and proteasomal degradation, allowing nuclear 
+translocation of the RelA/p50 dimer of the NF-κB heterodimer. The non-canonical NF-κB pathway 
+selectively responds to a subset of TNFR members that induce the activation of the NF-κB-inducing 
+kinase (NIK). NIK phosphorylates and activates IKKα, which in turn phosphorylates carboxy-
+terminal serine residues of p100, triggering selective degradation of the C-terminal IκB-like structure 
+of p100, and mediates the persistent activation of the RelB/p52 complex. 
+
+NF-κB is activated in every cell type and has a central role in inflammation. It is, therefore, 
+fundamentally implicated in the molecular pathways that induce the transcription of pro-
+inflammatory genes [17,18,25,26,33,34]. NF-κB is highly activated in various inflammatory disorders 
+and triggers the transcription of chemokines, cytokines, pro-inflammatory enzymes, adhesion 
+proteins, and other factors to modulate the inflammatory response, such as metalloproteinases, Cox-
+2, and inducible nitric oxide synthase [35–37], although the mechanism is still unclear (a schematic 
+representation of NF-κB activation is reported in Figure 2). In RA, NF-κB is highly expressed in the 
+inflamed synovial stratum [38,39], where it enhances the engagement of inflammatory cells and pro-
+inflammatory cytokines production such as IL-1, IL-6, IL-8, and TNF-α [38,39]. Interestingly, recent 
+
+Figure 1. Canonical and non-canonical nuclear factor κ (kappa)-light-chain-enhancer of activated B
+cells (NF-κB) signalling pathways. The canonical NF-κB pathway starts with the activation of innate
+and adaptive immune receptors in response to various ligand molecules, which transfers the signal
+across the cell membrane causing the activation of the trimeric IκB kinase (IKK) complex, composed
+of catalytic (IKKα and IKKβ) and regulatory (IKKγ) subunits. The IKK complex phosphorylates
+IκBα and phosphorylated IκB undergo ubiquitylation and proteasomal degradation, allowing nuclear
+translocation of the RelA/p50 dimer of the NF-κB heterodimer. The non-canonical NF-κB pathway
+selectively responds to a subset of TNFR members that induce the activation of the NF-κB-inducing
+kinase (NIK). NIK phosphorylates and activates IKKα, which in turn phosphorylates carboxy-terminal
+serine residues of p100, triggering selective degradation of the C-terminal IκB-like structure of p100,
+and mediates the persistent activation of the RelB/p52 complex.
+
+NF-κB is activated in every cell type and has a central role in inflammation. It is, therefore,
+fundamentally implicated in the molecular pathways that induce the transcription of pro-inflammatory
+genes [17,18,25,26,33,34]. NF-κB is highly activated in various inflammatory disorders and triggers
+the transcription of chemokines, cytokines, pro-inflammatory enzymes, adhesion proteins, and other
+factors to modulate the inflammatory response, such as metalloproteinases, Cox-2, and inducible
+nitric oxide synthase [35–37], although the mechanism is still unclear (a schematic representation of
+NF-κB activation is reported in Figure 2). In RA, NF-κB is highly expressed in the inflamed synovial
+stratum [38,39], where it enhances the engagement of inflammatory cells and pro-inflammatory
+cytokines production such as IL-1, IL-6, IL-8, and TNF-α [38,39]. Interestingly, recent evidence has
+shown that alterations in the modulation of NF-κB-dependent gene expression lead to a variety of
+
+
+
+J. Clin. Med. 2020, 9, 2821 4 of 18
+
+other inflammatory and autoimmune disorders, neurological conditions and cancers [33,34]. In pSS,
+a correlation between NF-κB signalling and chronic inflammation has been demonstrated by various
+reports; nuclear translocation of NF-κB into focal infiltrated lymphocytes and into the acinar epithelium
+surrounding the infiltrates from SGs of patients with pSS was detected, while distal normal acini
+and ductal structures showed no nuclear translocation [1]. In addition, the non-canonical NF-κB p65
+nuclear translocation has been induced in pSS SGEC by a range of molecular agents such as epidermal
+growth receptor (EGFR) and B-cell activator CD40 [40,41]. Furthermore, a downregulated gene and
+protein expression of IκBαwas detected in pSS monocytes, contributing to an enhanced NF-κB activity.
+Finally, pSS autoantibodies can trigger the NF-κB signalling pathway, thus, contributing to exacerbate
+the inflammatory condition [13].
+
+J. Clin. Med. 2019, 8, x FOR PEER REVIEW 4 of 18 
+evidence has shown that alterations in the modulation of NF-κB-dependent gene expression lead to 
+a variety of other inflammatory and autoimmune disorders, neurological conditions and cancers 
+[33,34]. In pSS, a correlation between NF-κB signalling and chronic inflammation has been 
+demonstrated by various reports; nuclear translocation of NF-κB into focal infiltrated lymphocytes 
+and into the acinar epithelium surrounding the infiltrates from SGs of patients with pSS was detected, 
+while distal normal acini and ductal structures showed no nuclear translocation [1]. In addition, the 
+non-canonical NF-κB p65 nuclear translocation has been induced in pSS SGEC by a range of 
+molecular agents such as epidermal growth receptor (EGFR) and B-cell activator CD40 [40,41]. 
+Furthermore, a downregulated gene and protein expression of IκBα was detected in pSS monocytes, 
+contributing to an enhanced NF-κB activity. Finally, pSS autoantibodies can trigger the NF-κB 
+signalling pathway, thus, contributing to exacerbate the inflammatory condition [13]. 
+
+Figure 2. NF-κB signalling pathway dictates the inflammatory responses. After its activation, it can 
+induce the transcription of a large number of genes including pro-inflammatory cytokines, 
+chemokines, adhesion molecules, cell cycle regulatory molecules, anti-apoptotic proteins and 
+angiogenic factors, and thereby regulate cell proliferation, apoptosis, morphogenesis, differentiation, 
+angiogenesis, and inflammation. The regulation of inflammation, cell proliferation and apoptosis is 
+central to the understanding of many diseases, such as autoimmune diseases and cancer. 
+Based on all these assumptions, that are extensively documented, we report a close review of 
+
+the recent literature on the molecular mechanisms that check NF-κB activation in pSS and on the 
+potential of new pharmacological interventions for optimizing pSS treatment regimes. 
+
+4. Small-Molecule Inhibitors of NF-κB in Sjögren’s Syndrome
+
+The modulation of the NF-κB pathways has frequently been described as “pro-inflammatory”, 
+largely due to the key role of NF-κB in the pro-inflammatory genes expression including cytokines, 
+chemokines, and adhesion molecules [42,43]. Many findings demonstrated that epithelial cells in the 
+glandular sites of patients affected by pSS are able to release factors that address the chemoattraction 
+of lymphocytes and promote chronic inflammatory responses [12,15,16,24–26]. NF-κB pathway 
+modulation was therefore investigated in pSS, highlighting a role in regulating the production of pro-
+
+Figure 2. NF-κB signalling pathway dictates the inflammatory responses. After its activation, it can
+induce the transcription of a large number of genes including pro-inflammatory cytokines, chemokines,
+adhesion molecules, cell cycle regulatory molecules, anti-apoptotic proteins and angiogenic factors,
+and thereby regulate cell proliferation, apoptosis, morphogenesis, differentiation, angiogenesis,
+and inflammation. The regulation of inflammation, cell proliferation and apoptosis is central to
+the understanding of many diseases, such as autoimmune diseases and cancer.
+
+Based on all these assumptions, that are extensively documented, we report a close review of the
+recent literature on the molecular mechanisms that check NF-κB activation in pSS and on the potential
+of new pharmacological interventions for optimizing pSS treatment regimes.
+
+4. Small-Molecule Inhibitors of NF-κB in Sjögren’s Syndrome
+
+The modulation of the NF-κB pathways has frequently been described as “pro-inflammatory”,
+largely due to the key role of NF-κB in the pro-inflammatory genes expression including cytokines,
+chemokines, and adhesion molecules [42,43]. Many findings demonstrated that epithelial cells in the
+glandular sites of patients affected by pSS are able to release factors that address the chemoattraction
+of lymphocytes and promote chronic inflammatory responses [12,15,16,24–26]. NF-κB pathway
+
+
+
+J. Clin. Med. 2020, 9, 2821 5 of 18
+
+modulation was therefore investigated in pSS, highlighting a role in regulating the production of
+pro-inflammatory cytokines, leukocyte enrolment, or cell survival [17,18,25,26,44]. In pSS, the NF-κB
+activation cascade can be modulated at different levels [30]. Considering the correlation with the biopsy
+focus score, grade of infiltration and evaluated disease activity, phosphorylated IKKε, responsible
+for the degradation of IkB proteins, were significantly and positively correlated with NF-κB levels
+in pSS [4]. The levels of B-Cell Activating Factor (BAFF) and those of numerous pro-inflammatory
+cytokines, all regulated by NF-κB signalling, are augmented in pSS [45]. Nucleotide polymorphisms
+in NF-κB pathway genes have been linked with pSS [46], and a specific mutation in the Ikα-826T,
+one of the promoters of a member of the inhibitory IkB complex, was associated with susceptibility
+of pSS [47,48]. Numerous small molecule inhibitors of the NF-κB signalling pathways are currently
+commercially available for use, and NF-κB modulators are under study in clinical trials for pSS
+treatment [19,25,30,49–54]. Many preclinical studies have already analysed the role of NF-κB signalling
+in the glandular tissue in pSS. The pSS SGECs have been recognized to have an active NF-κB pathway.
+The phosphorylated forms of IKKε, IκBα, and NF-κB were expressed in the ductal cells in minor
+SGs derived from pSS patients [19]. By stimulating the Toll-Like Receptor 2 (TLR2) in SGECs,
+IL-2 production was induced through the NF-κB cascade in pSS SGECs [49–51]. SGECs treated with the
+anti-Ro/SSA autoantibodies isolated from pSS patients showed a progressive increase in constitutive
+NF-κB activation, and transfection of SGECs with IκBα in SGECs treated with anti-Ro/SSA led to
+a remarkable production of pro-inflammatory cytokines and an enhanced apoptosis [25]. Furthermore,
+recent findings showed that gene silencing of the natural NF-κB inhibitor TNF Alpha Induced Protein
+3 (TNFAIP3) in keratin-14-positive epithelial cells, promoting the activation of the constitutive NF-κB
+cascade, induces the initial phases of pSS, leading to a reduced production of saliva and lymphocyte
+invasion in the SGs [52]. This effect is likely related to the calcium pathway in the acinar cells,
+since calcium signalling has an important role in NF-κB pathway activity [53,54]. A list of NF-κB small
+molecule inhibitors tested in pSS is reported in Table 1.
+
+Table 1. List of NF-κB small molecules inhibitors tested or identified in primary SS (pSS).
+
+Small Inhibitors of NF-kB in pSS Study References
+
+Iguratimod Clinical study [30]
+
+Syk-inihibitor-Gs-9876 Clinical study [30]
+
+IKKε Pre-clinical study [4,30]
+
+IκBα Pre-clinical study [19,26,47,48]
+
+anti-Ro/SSA autoantibodies Pre-clinical study [14,16,24,25]
+
+TNFAIP3 Pre-clinical study [17]
+
+Calcium mobilization Pre-clinical study [53,54]
+
+The Key Role of IκBα in NF-κB Modulation in pSS
+
+Among the well-characterized regulators of NF-κB activation in SGEC, IκBα is particularly
+important for the pathogenesis of pSS. The concept that IκBα expression negatively regulates
+NF-κB DNA binding activity was demonstrated by the fact that reduced IκBα overlaps with nuclear
+translocation of the NF-κB and the appearance of NF-κB activity [55]. For SGs, adenoid cystic carcinoma
+of human SGs cell lines, stably transfected with the mutant IκBα expression vector (IκBαM) share
+an effectively cancelled constitutive and liposaccharide-induced NF-κB activity, concomitantly with
+a significantly diminished VEGF gene and protein expression. This effect leads to a lower endothelial
+cell mobility and, thus, might represent a promising anti-angiogenesis strategy in adenoid cystic
+carcinoma (ACC) therapy [56]. In pSS SGEC, abnormal levels of IκBαwere detected in comparison
+with those in healthy subjects, showing a clear reduction of IκBα in salivary tissues from active pSS
+patients [19]. This was confirmed in biopsy specimens, where a moderate IκBα positive staining
+
+
+
+J. Clin. Med. 2020, 9, 2821 6 of 18
+
+located in the cytoplasm of acini and ductal cells was revealed in healthy controls, whereas in pSS
+salivary gland biopsies the cytoplasmic positivity for IκBα was very weak [19]. All of this suggests
+that the production of proinflammatory cytokines occurs through the persistent activation of NF-κB
+signalling [17,18,25,26]. In addition, a reduced gene and protein expression of IκBα was demonstrated
+in monocytes from pSS patients in comparison with healthy subjects, suggesting that the reduced
+expression of this NF-κB inhibitor may reflect an increased inflammatory response [26]. Specifically,
+published data show that mutations in IκBα are linked to inflammatory autoimmune disorders. An 8-bp
+insertion in the promoter region of IκBα represents a protective factor against the development of
+primary progressive multiple sclerosis [57]. Klein et al. showed that IκBα polymorphisms might also
+be associated with Crohn’s disease [58], SLE [59] and pSS [47,48]. In particular, mutant mice, that have
+defective IκBα expression, showed a shorter lifetime, hypersensitivity to septic shock and altered T cell
+development, all features of pSS [47,48]. Furthermore, overexpression of the NF-κB repressor, IκBα,
+determines an inhibitory effect on the production of STAT-4 protein, a transcription factor activated by
+interleukin 12 whose gene polymorphism was recently linked to pSS [60,61].
+
+NF-κB signalling activation and termination is secured by various regulatory processes. In view
+of the well-characterized links between NF-κB and pSS disease, disentangling the complexity of NF-κB
+modulation is an essential goal in order to find effective, more specific therapeutic agents for the
+treatment of pSS.
+
+5. Impaired NF-κB Signalling Activated by EDA-A1/EDAR in pSS Salivary Glands
+
+In addition to its role in mediation inflammation, NF-κB is also essential for developing the
+epidermal derivatives, hair, nails, and SGs [62]; a series of molecular signals is now well defined,
+beginning with the binding of ectodysplasin (EDA-A1) to the EDA-receptor (EDAR), components of the
+tumour necrosis factor α (TNFα)-related signalling pathway [62]. EDA-A1 signalling is recognized as
+an important evolutionarily conserved pathway regulating the formation and patterning of vertebrate
+skin appendages, including SGs [63]. When these genes show mutations, a condition known as
+hypohidrotic (or anhidrotic) ectodermal dysplasia (HED/EDA) occurs [64]. The NF-κB pathway that
+mainly impinges on EDA-A1/EDAR-dependent SGs branching morphogenesis is the canonical NF-κB
+activation cascade [65].
+
+Over the last years, great progress has been made in identifying the key molecular regulators
+controlling NF-κB activation, and a repertoire of crucial self-regulators ensuring the termination of
+NF-κB responses has been identified [66]. Interestingly, this well-orchestrated biological process
+may undergo alterations [33,34,67] and, consequently, deregulated NF-κB activation contributes to
+the autoimmune diseases pathogenesis, characterized by an intense inflammatory response [34,67].
+As a matter of fact, NF-κB was demonstrated to play a salient role in the pathological development of pSS,
+correlated with the intense chronic inflammation findings in this disease [17,18,25,26,48]. In this context,
+several studies conducted on SGEC derived from pSS patients investigated the mechanism-of-action
+of the NF-κB cascade and performed target identification in the deregulated inflammatory situation.
+Recent findings demonstrated that EDA-A1 induces several genes involved in the synthesis of the
+NF-κB pathway molecules, including the feedback inhibitors IκBα and TNFAIP3. IκBα is known to
+be expressed in hair placodes and SGs [68], and TNFAIP3, a key negative feedback regulator of the
+NF-κB signalling cascade, plays a role in the EDA-A1, EDAR and EDAR-associated death domain
+(EDARADD) genes control, which results mutated in HED/EDA [69]. Therefore, recently, chemokines
+have been revealed as immediate target genes of the EDA/NF-κB pathway, leading to modulation of
+the multiple signalling pathways implicated in skin appendage development; when this scheme is
+deregulated, an inflammatory process may be induced [69]. Against this background, a recent study has
+investigated the EDA-A1 and EDAR genes and proteins expression in pSS SGs, showing that TNFAIP3
+is deregulated in pSS SGEC. This results in an increased and excessive EDA-A1/EDAR gene and
+protein expression in pSS SGEC that determines a correlated high induction of NF-κB [70] (Figure 3).
+Furthermore, TNFAIP3 gene knockdown performed on healthy SGEC, through the application of the
+
+
+
+J. Clin. Med. 2020, 9, 2821 7 of 18
+
+siRNA gene silencing technology, determined an over-activation of the EDA-A1/EDAR expression and
+consequently NF-κB nuclear translocation and activation [70] (Figure 3). The authors have shown that,
+in pSS SGEC, NF-κB is activated downstream of EDA-A1/EDAR signalling and after transfecting pSS
+SGEC with the mutated form of the regulatory protein IκBα, the EDA-A1/EDAR-NF-κB signalling
+pathway was affected in SGs, suggesting that the IκBα-dependent canonical NF-κB cascade was
+active in pSS SGEC [70]. This recent discovery suggests that the pathways involved in ectodermal
+development and inflammation may be fundamentally the same, but lead to target gene activation
+depending on the cell type and/or on the specific pathological condition features. The implication of
+the NF-κB pathway in development was a very surprising finding, because it is involved primarily
+in TNF-α receptors-mediated inflammation and immunity; now, the recurrent question is how cells
+can distinguish between the NF-κB pathway activation signals, as well as how specific target genes
+activation is precisely and independently controlled during developmental or inflammatory events.
+
+J. Clin. Med. 2019, 8, x FOR PEER REVIEW 7 of 18 
+
+ 
+
+affected in SGs, suggesting that the IκBα-dependent canonical NF-κB cascade was active in pSS SGEC 
+[70]. This recent discovery suggests that the pathways involved in ectodermal development and 
+inflammation may be fundamentally the same, but lead to target gene activation depending on the 
+cell type and/or on the specific pathological condition features. The implication of the NF-κB pathway 
+in development was a very surprising finding, because it is involved primarily in TNF-α receptors-
+mediated inflammation and immunity; now, the recurrent question is how cells can distinguish 
+between the NF-κB pathway activation signals, as well as how specific target genes activation is 
+precisely and independently controlled during developmental or inflammatory events. 
+
+ 
+
+Figure 3. Schematic overview of the EDA/EDAR/canonical NF-κB pathway. The EDA isoform of the 
+TNF-α family member Ectodysplasin interacts with its receptor EDAR leading to the recruitment of 
+EDARADD (death domain adaptor); in turn, this complex activates the IKK complex. The IKK 
+complex phosphorylates IκBα, that undergoes ubiquitylation and proteasomal degradation, inducing 
+nuclear translocation of the NF-κB heterodimer RelA/p50 that triggers the transcription of pro-
+inflammatory genes, including those that encode the negative regulators IκBα and TNF-α-induced 
+protein 3 (TNFAIP3). EDA: Ectodysplasin-A; EDAR: Ectodysplasin-A Receptor; EDARADD: 
+Ectodysplasin-A receptor-associated associated death domain. 
+
+6. Toll-Like Receptor-Mediated NF-κB Activation in pSS 
+A large volume of recent evidence underlines the finding that the SGs epithelium is the major 
+
+actor in the promotion and progression of the chronic inflammatory reactions observed in pSS, 
+through the induction of pro-inflammatory cytokines and chemokines [8,71]. The innate immune 
+system uses a diverse set of recognition receptors to activate the intracellular signalling pathway, 
+such as Toll-like receptors (TLRs) molecules. Indeed, TLRs activation lead to the recruitment of 
+adaptor proteins within the cytosol, that culminates in signal transduction resulting in the 
+transcription of genes involved in chronic inflammation [72,73]. TLRs were initially identified as 
+receptors important only in host defences, but it is now clear that the TLRs, for example TLR2 and 
+TLR4, are crucial in autoimmunity development [74–76], as demonstrated in RA [74], SLE [77], 
+
+Figure 3. Schematic overview of the EDA/EDAR/canonical NF-κB pathway. The EDA isoform of the
+TNF-α family member Ectodysplasin interacts with its receptor EDAR leading to the recruitment of
+EDARADD (death domain adaptor); in turn, this complex activates the IKK complex. The IKK complex
+phosphorylates IκBα, that undergoes ubiquitylation and proteasomal degradation, inducing nuclear
+translocation of the NF-κB heterodimer RelA/p50 that triggers the transcription of pro-inflammatory
+genes, including those that encode the negative regulators IκBα and TNF-α-induced protein
+3 (TNFAIP3). EDA: Ectodysplasin-A; EDAR: Ectodysplasin-A Receptor; EDARADD: Ectodysplasin-A
+receptor-associated associated death domain.
+
+6. Toll-Like Receptor-Mediated NF-κB Activation in pSS
+
+A large volume of recent evidence underlines the finding that the SGs epithelium is the major actor
+in the promotion and progression of the chronic inflammatory reactions observed in pSS, through the
+induction of pro-inflammatory cytokines and chemokines [8,71]. The innate immune system uses
+a diverse set of recognition receptors to activate the intracellular signalling pathway, such as Toll-like
+receptors (TLRs) molecules. Indeed, TLRs activation lead to the recruitment of adaptor proteins within
+
+
+
+J. Clin. Med. 2020, 9, 2821 8 of 18
+
+the cytosol, that culminates in signal transduction resulting in the transcription of genes involved
+in chronic inflammation [72,73]. TLRs were initially identified as receptors important only in host
+defences, but it is now clear that the TLRs, for example TLR2 and TLR4, are crucial in autoimmunity
+development [74–76], as demonstrated in RA [74], SLE [77], multiple sclerosis [78], and inflammatory
+bowel diseases [79]. Studies comparing mice and humans revealed that numerous types of epithelial
+cells express TLRs, supporting the hypothesis that the epithelium represents the first line of defence
+of the innate immune system [80,81]. These observations were confirmed also in pSS; the induction
+of TLRs signalling in SGEC leads to the release of inflammatory mediators, including IL-6, IL-8,
+and TNF-α [72], which are critical mediators of the inflammatory processes of pSS. In addition, recent
+works have evidenced the important contribution of TLRs activation to the initiation and progression of
+the pSS pathogenesis. In particular, TLR2, TLR3, and TLR4 are expressed on the SGEC membrane [82],
+and in addition, immunohistochemical analyses of TLR2, 3 and 4 on labial SG tissue from pSS patients
+confirmed a significantly higher constitutive expression of these receptors, found in SG-infiltrating
+mononuclear cells as well as acinar cells and ductal SGEC, supporting the intrinsic epithelial activation
+in pSS [40]. TLR4, in particular, resulted highly expressed specifically in infiltrating mononuclear cells
+and in ductal and acinar cells [83,84] of pSS SGs, and receptor levels were correlated with the degree of
+glandular inflammation [83,84]. At the same time, investigations conducted on pSS peripheral blood
+mononuclear cell (PBMC) confirmed a dysregulation of TLR7, 8 and 9 molecules compared to controls,
+where TLR7 and 8 recognize single-stranded RNA [85], while TLR9 is activated by un-methylated
+CpG DNA [86]. This led to an altered recognition of DNA and RNA, eventually resulting in the
+development of pSS. [87].
+
+Role of TLRs in the NF-κB-Mediated Inflammatory State in pSS
+
+Several authors now agree that TLRs trigger an intracellular cascade of molecular events, which has,
+as its final step, NF-κB activation. Active NF-κB determines the transcription of inflammatory cytokine
+genes responsible for the exacerbation of inflammation [73]. Studies conducted on experimental animal
+models confirm that an intensely inflammatory microenvironment could be the basis of autoimmune
+diseases [88]. This scenario seems to be plausible also for pSS. A recent study reported that TLR-7
+and its downstream signalling factors are strongly expressed in labial SG of pSS patients. The authors
+observed that TLR-7 downstream molecules are expressed in pSS SGEC after TLR-7 ligand stimulation
+in vitro, inducing the activation of the NF-κB pathway, which elicits the release of inflammatory factors
+such as IFN-α and IFN-γ [89]. Furthermore, Kwok et al. demonstrated an increased expression
+of TLR2, TLR4, and TLR6 in pSS SGs, in association with IL-17, IL-6, and IL-23 over-expression,
+factors that promote T helper17 (Th17) differentiation and amplification. The signalling pathway
+starts with TLR2 stimulation, which induces a cascade that involves the activation of TLR4 and TLR6.
+This determines the production of IL-17 and IL-23, which, as demonstrated by the authors, occurs
+through IκBα phosphorylation, the IL-6, signal transducer and activator of transcription 3 (STAT3),
+and NF-κB pathways [90]. However, the ligands that eventually activate TLR2 in the context of pSS
+are still doubtful and little known. Using peptidoglycan (PNG) as stimulus for TLR2 activation, an
+increased expression of immune mediators (ICAM-1, CD40, and MHC-1) was observed in SGECs
+derived from pSS patients and controls [82]. In a corroborative study using SGEC from pSS patients,
+TLR2 drove the NF-κB-dependent secretion of IL-15 [50,51] as confirmed using antibodies anti-TLR2 to
+block IL-15 secretion [50,51]. Furthermore, by using the dominant-negative inhibitory IκBα vector to
+inhibit NF-κB activation, TLR2-dependent IL-15 production was reduced, suggesting a transcriptional
+level control [50,51]. Therefore, this study underlines the importance of the TLR2/IL-15/ NF-κB pathway
+as a strong potential candidate for the therapeutic modulation of pSS, ameliorating both local and
+systemic pSS disease manifestations [50,51] A schematic representation of the TLR2 molecular pathway
+activation in pSS is reported in Figure 4.
+
+
+
+J. Clin. Med. 2020, 9, 2821 9 of 18
+J. Clin. Med. 2019, 8, x FOR PEER REVIEW 9 of 18 
+
+ 
+
+ 
+
+Figure 4. Schematic representation of the Toll-Like Receptor 2 (TLR2)/IL-15/NF-κB pathway in pSS 
+SGEC. TLR2, in response to pro-inflammatory stimuli, activate the NF-κB pathway; in the nucleus, 
+the active NF-κB promote IL-15 gene transcription; thus, incrementing inflammatory disorders in SGs 
+of pSS patients. 
+
+7. Modulation of NF-κB Activation by the Anti CD-20 Monoclonal Antibody Rituximab 
+The management of pSS patients is essentially symptomatic, no curative agents for SS yet exist 
+
+and demonstrations of the efficacy of systemic drugs are lacking. Given the key role of chronic B-cell 
+activation in pSS, B-cell target therapies based on B-cell downregulation have been individuated as 
+the first potential candidates. CD20’s attractiveness as a therapeutic target derived from the growing 
+understanding of the molecular basis for several properties related to its structure and its interaction 
+networks [91]. CD20 is a non-glycosylated surface phosphoprotein, found on a variety of healthy and 
+malignant B cells, whose function is probably involved in calcium influx [92,93]. CD20 expression 
+appears early during B cell maturation but is lost during B-cell differentiation into plasma cells [94]. 
+For many years, the function of CD20 in normal immune physiology remained poorly defined, based 
+on few data demonstrating a role in the generation of the long-term humoral response [95]. 
+
+Hypothetical Scenario Involving RTX as a Negative Regulator of the NF-κB Pathway in pSS 
+Rituximab (RTX), a mouse/human chimeric monoclonal antibody directed against CD20 antigen 
+
+on B cells surface, represents a treatment for both pSS and SS-related malignant lymphoproliferative 
+disease [96], whose efficacy has been investigated in the last decade, in the presence (or not) of a 
+lymphoproliferative disorder [97–99], owing to its proven efficacy in other chronic inflammatory 
+diseases, such as RA [100] and systemic vasculitis [101]. 
+
+Recent experimental evidence demonstrated that in a co-culture system of pSS SGEC with pSS 
+lymphocytes, RTX stimulation causes B cells depletion, leading to a drastically reduced transcription 
+of pro-inflammatory mediator genes and protein secretion. This report suggests that B-lymphocytes 
+
+Figure 4. Schematic representation of the Toll-Like Receptor 2 (TLR2)/IL-15/NF-κB pathway in pSS
+SGEC. TLR2, in response to pro-inflammatory stimuli, activate the NF-κB pathway; in the nucleus,
+the active NF-κB promote IL-15 gene transcription; thus, incrementing inflammatory disorders in SGs
+of pSS patients.
+
+7. Modulation of NF-κB Activation by the Anti CD-20 Monoclonal Antibody Rituximab
+
+The management of pSS patients is essentially symptomatic, no curative agents for SS yet exist
+and demonstrations of the efficacy of systemic drugs are lacking. Given the key role of chronic B-cell
+activation in pSS, B-cell target therapies based on B-cell downregulation have been individuated as
+the first potential candidates. CD20’s attractiveness as a therapeutic target derived from the growing
+understanding of the molecular basis for several properties related to its structure and its interaction
+networks [91]. CD20 is a non-glycosylated surface phosphoprotein, found on a variety of healthy and
+malignant B cells, whose function is probably involved in calcium influx [92,93]. CD20 expression
+appears early during B cell maturation but is lost during B-cell differentiation into plasma cells [94].
+For many years, the function of CD20 in normal immune physiology remained poorly defined, based on
+few data demonstrating a role in the generation of the long-term humoral response [95].
+
+Hypothetical Scenario Involving RTX as a Negative Regulator of the NF-κB Pathway in pSS
+
+Rituximab (RTX), a mouse/human chimeric monoclonal antibody directed against CD20 antigen
+on B cells surface, represents a treatment for both pSS and SS-related malignant lymphoproliferative
+disease [96], whose efficacy has been investigated in the last decade, in the presence (or not) of
+a lymphoproliferative disorder [97–99], owing to its proven efficacy in other chronic inflammatory
+diseases, such as RA [100] and systemic vasculitis [101].
+
+Recent experimental evidence demonstrated that in a co-culture system of pSS SGEC with pSS
+lymphocytes, RTX stimulation causes B cells depletion, leading to a drastically reduced transcription
+of pro-inflammatory mediator genes and protein secretion. This report suggests that B-lymphocytes
+regulate the cytokine and chemokine release by pSS SGEC because of their proximity in inflammatory
+areas. This intrinsic activation of SGEC exacerbates the inflammation, further modulating the release
+
+
+
+J. Clin. Med. 2020, 9, 2821 10 of 18
+
+of inflammatory factors along post-translational pathways [102,103]. In this hypothetical scenario,
+a decisive role could be played by the inhibition of the constitutive activation of NF-κB. Treatment with
+RTX of pSS SGEC co-cultured with pSS B-lymphocytes, determines a lower NF-κB DNA binding activity
+in the SGEC, so inhibiting the pro-inflammatory genes transcription [102,103]. Now, RTX interferes
+with the constitutive activation of the NF-κB pathway through the modulation of Raf-1 kinase inhibitor
+protein (RKIP) expression [104], which acts directly by down-regulating IkB kinase (IKK) activity
+and indirectly by interfering with IKK activators [105]. RKIP is believed to play an important role in
+various inflammatory diseases and cancers [106] and results constitutively under-expressed in pSS
+SGEC [102]. These data suggest that RKIP could increase NF-κB activity, leading to the persistent
+chronic inflammatory condition characteristic of pSS. Therefore, the function of RTX as a negative
+regulator of the NF-κB pathway in pSS SGEC is based on the modulation of RKIP expression; RTX,
+in fact, up-regulates RKIP expression in pSS SGEC, and RTX-mediated RKIP induction diminishes the
+phosphorylation of the components of the NF-κB pathway [102] (Figure 5). Experimental RKIP gene
+silencing in pSS SGEC confirmed this hypothesis, leading to pro-inflammatory cytokine secretion by
+pSS SGEC, and preventing NF-κB inhibition. However, what is the effect of RTX on NF-κB relate to the
+B cells depletion, since literature indicates that treatment with RTX leads to an effective depletion of B
+cells in pSS patients? Evidence suggests that Fc/FcγR interactions are critical, as determined in both
+animal models and humans [107]. Data collected suggest that the formation of IgG immune complexes
+between B lymphocytes and RTX could engage specific FcγR on pSS SGEC, resulting in a decreased
+NF-κB activity and interruption of the NF-κB signalling pathway through the up-regulation of the RKIP
+protein [102] and engagement of the mitogen-activated protein kinase (MAP kinase) signalling [108].
+A schematic model of RTX-mediated inhibition of the NF-κB pathway in pSS SGEC is reported
+in Figure 5.
+
+J. Clin. Med. 2019, 8, x FOR PEER REVIEW 10 of 18 
+
+ 
+
+regulate the cytokine and chemokine release by pSS SGEC because of their proximity in inflammatory 
+areas. This intrinsic activation of SGEC exacerbates the inflammation, further modulating the release 
+of inflammatory factors along post-translational pathways [102,103]. In this hypothetical scenario, a 
+decisive role could be played by the inhibition of the constitutive activation of NF-κB. Treatment with 
+RTX of pSS SGEC co-cultured with pSS B-lymphocytes, determines a lower NF-κB DNA binding 
+activity in the SGEC, so inhibiting the pro-inflammatory genes transcription [102,103]. Now, RTX 
+interferes with the constitutive activation of the NF-κB pathway through the modulation of Raf-1 
+kinase inhibitor protein (RKIP) expression [104], which acts directly by down-regulating IkB kinase 
+(IKK) activity and indirectly by interfering with IKK activators [105]. RKIP is believed to play an 
+important role in various inflammatory diseases and cancers [106] and results constitutively under-
+expressed in pSS SGEC [102]. These data suggest that RKIP could increase NF-κB activity, leading to 
+the persistent chronic inflammatory condition characteristic of pSS. Therefore, the function of RTX as 
+a negative regulator of the NF-κB pathway in pSS SGEC is based on the modulation of RKIP 
+expression; RTX, in fact, up-regulates RKIP expression in pSS SGEC, and RTX-mediated RKIP 
+induction diminishes the phosphorylation of the components of the NF-κB pathway [102] (Figure 5). 
+Experimental RKIP gene silencing in pSS SGEC confirmed this hypothesis, leading to pro-
+inflammatory cytokine secretion by pSS SGEC, and preventing NF-κB inhibition. However, what is 
+the effect of RTX on NF-κB relate to the B cells depletion, since literature indicates that treatment with 
+RTX leads to an effective depletion of B cells in pSS patients? Evidence suggests that Fc/FcγR 
+interactions are critical, as determined in both animal models and humans [107]. Data collected 
+suggest that the formation of IgG immune complexes between B lymphocytes and RTX could engage 
+specific FcγR on pSS SGEC, resulting in a decreased NF-κB activity and interruption of the NF-κB 
+signalling pathway through the up-regulation of the RKIP protein [102] and engagement of the 
+mitogen-activated protein kinase (MAP kinase) signalling [108]. A schematic model of RTX-mediated 
+inhibition of the NF-κB pathway in pSS SGEC is reported in Figure 5. 
+
+ 
+
+Figure 5. Rituximab (RTX) inhibits NF-κB signalling in pSS SGEC. The pSS SGs epithelial cells (SGEC) 
+were found to express low levels of Raf-1 kinase inhibitor protein (RKIP). In a co-culture system with 
+
+Figure 5. Rituximab (RTX) inhibits NF-κB signalling in pSS SGEC. The pSS SGs epithelial cells
+(SGEC) were found to express low levels of Raf-1 kinase inhibitor protein (RKIP). In a co-culture
+system with pSS B-lymphocytes, the FcγR-mediated interaction of RTX/CD20 induces the upregulation
+of RKIP expression, decreasing NF-κB activity, and, consequently, inhibiting the pro-inflammatory
+genes transcription.
+
+
+
+J. Clin. Med. 2020, 9, 2821 11 of 18
+
+8. Fine Modulation of NF-κB Activity by TNFAIP3
+
+Numerous studies reported in this review clearly show that several cell types isolated from
+patients affected by autoimmune diseases show constitutively activated NF-κB transcription factors;
+there is considerable evidence of NF-κB activation in SGECs derived from pSS patients [17,18,25,26].
+Dysregulation of NF-κB-dependent gene expression leads to a variety of autoimmune inflammatory
+conditions, cancer and neurological disorders [33,34]. Since NF-κB signalling activation is important
+for several cellular processes, not surprisingly, a tight modulation of this pathway is absolutely
+essential to trigger target genes. As reported above, among the small regulators of NF-κB activity,
+great attention has been paid, in the last years, to TNFAIP3, which is a negative feedback regulator of
+NF-κB activation via TNF-α signalling. Given its key role in the fine modulation of NF-κB pathway,
+it has been demonstrated that a dysregulated expression of TNFAIP3 protein contributes to chronic
+inflammation and tissue injury [109]. The importance of TNFAIP3 in reducing inflammation is
+underlined by the linking of TNFAIP3 genomic region polymorphisms with human autoimmune
+and inflammatory diseases, including RA [110], psoriasis [111], SLE [112], and type 1 diabetes [113].
+Thus, TNFAIP3 has been considered as a crucial anti-inflammatory factor acting to limit prolonged
+inflammation. A presumed association of TNFAIP3 polymorphism with pSS syndrome has recently
+been reported [114]. Moreover, TNFAIP3 gene and protein expression levels resulted diminished
+in salivary tissue from active pSS, demonstrating that under-expression of this protein may reflect
+an enhanced inflammatory reaction.
+
+Reduced TNFAIP3 Expression Levels in pSS Affect NF-κB Signalling
+
+Recent investigations support an anti-inflammatory role of TNFAIP3, indeed, knockout mice
+for this gene evolve multiple organ inflammation [115], TNFAIP3 gene silencing in dendritic cells
+leads to the release of specific co-stimulatory factors, such as pro-inflammatory cytokines [116] and
+genetically TNFAIP3 deficient mice also show severe intestinal inflammation [115]. The reduced levels
+of TNFAIP3 observed in pSS, characterized by a remarkable inflammation of the SGs, may promote
+chronic invasive immune processes in these patients, triggering an initial abnormal inflammatory
+response. Several findings suggest that the reduction of TNFAIP3 expression levels could lead to
+the deregulation of NF-κB signalling in pSS patients who show a higher transcriptional activity of
+NF-κB than normal control subjects [17]. Since TNFAIP3 is a negative regulator of NF-κB signalling
+in human SGECs, its deregulation could be responsible for the persistent expression of NF-κB that
+occurs in pSS. This corroborates the notion that human SGECs play an essential role in coordinating
+the SGs inflammatory reactions to pro-inflammatory factors and suggests that the NF-κB pathway is
+crucial in these cells for modulating immune responses (see, for example, Figure 3) [17]. Since TNF-α
+contributes to tissue inflammation, a system mediated by TNF-α-dependent NF-κB activation, it is
+plausible to postulate that it may translocate the nucleus and promote the expression of inflammatory
+genes [117]. In accordance with this hypothesis, our recent findings have shown a higher expression
+of TNF-α in SGECs isolated from pSS patients [15], confirming the role of TNF-α as an inducer of
+TNFAIP3 protein expression. The enhanced NF-κB activity that occurs in human SGECs, following
+treatment of the epithelium with TNF-α, could be responsible for the paracrine progression of the
+inflammatory response shown in SS, inducing pro-inflammatory genes transcription. Therefore,
+because TNFAIP3 is affected in the negative regulation of NF-κB activation, the inactivity of TNFAIP3
+protein was postulated to give rise to a constitutive activation of NF-κB contributing to marked
+inflammatory reactions. These hypotheses were demonstrated in TNFAIP3 knockdown experiments
+showing that TNFAIP3 gene silencing induces a constitutive activation of NF-κB in human healthy
+SGEC [17] (Figure 6) and in experiments conducted on TNFAIP3 knockout mice [115]. Mice with
+deficient TNFAIP3 are, in fact, hypersensitive to TNF-α and showed grave inflammation and severe
+damage in multiple organs. TNFAIP3-deficient cells are not able to terminate TNF-α-induced NF-κB
+responses and rapidly die due to TNF-α-mediated apoptosis [115].
+
+
+
+J. Clin. Med. 2020, 9, 2821 12 of 18
+
+J. Clin. Med. 2019, 8, x FOR PEER REVIEW 12 of 18 
+
+ 
+
+inflammation and severe damage in multiple organs. TNFAIP3-deficient cells are not able to 
+terminate TNF-α-induced NF-κB responses and rapidly die due to TNF-α-mediated apoptosis [115]. 
+
+ 
+
+Figure 6. Effect of TNFAIP3 gene silencing in TNF-α stimulated healthy SGEC. This scheme shows 
+how TNFAIP3 knockdown experiments induce a constitutive activation of NF-κB in human healthy 
+SGEC, leading to a severe inflammatory response. siRNA: short interfering RNA; dashed line 
+represents inhibition of the constitutive activation of NF-κB; solid line indicates activation. 
+
+9. Conclusions 
+In this review, we summarize the aberrant activation of NF-κB in pSS, clearly demonstrating 
+
+that NF-κB has a crucial role in the pathogenesis of pSS, since it promotes chronic inflammation. NF-
+κB, through intrinsic SGEC activation, regulates sophisticated feedback circuits in pSS that comprise 
+all elements of the cellular immune response. Since NF-κB and members of its signalling pathways 
+regulate cellular activity from DNA transcription to translation into proteins, efficient and properly 
+controlled NF-κB signalling is important during physiological immune homeostasis. In fact, the 
+integrity of the signal triggered by NF-κB is essential in preventing the onset of pSS autoimmune 
+disease. It is noteworthy that the significance of NF-κB activation in pSS suggests that inhibition of 
+this signalling pathway could provide novel strategies for the prevention and treatment of the SGs 
+dysfunction characterizing pSS. New future perspectives suggest, for example, the use of IKKε 
+inhibitors for the treatment of pSS, repressing downstream NF-κB signalling activation. Furthermore, 
+great attention is now being paid to the modulation of NF-κB activity and expression of NF-κB target 
+genes through an IκBα-mediated negative feedback mechanism. Hopefully, as our understanding of 
+
+Figure 6. Effect of TNFAIP3 gene silencing in TNF-α stimulated healthy SGEC. This scheme shows how
+TNFAIP3 knockdown experiments induce a constitutive activation of NF-κB in human healthy SGEC,
+leading to a severe inflammatory response. siRNA: short interfering RNA; dashed line represents
+inhibition of the constitutive activation of NF-κB; solid line indicates activation.
+
+9. Conclusions
+
+In this review, we summarize the aberrant activation of NF-κB in pSS, clearly demonstrating that
+NF-κB has a crucial role in the pathogenesis of pSS, since it promotes chronic inflammation. NF-κB,
+through intrinsic SGEC activation, regulates sophisticated feedback circuits in pSS that comprise all
+elements of the cellular immune response. Since NF-κB and members of its signalling pathways regulate
+cellular activity from DNA transcription to translation into proteins, efficient and properly controlled
+NF-κB signalling is important during physiological immune homeostasis. In fact, the integrity of
+the signal triggered by NF-κB is essential in preventing the onset of pSS autoimmune disease. It is
+noteworthy that the significance of NF-κB activation in pSS suggests that inhibition of this signalling
+pathway could provide novel strategies for the prevention and treatment of the SGs dysfunction
+characterizing pSS. New future perspectives suggest, for example, the use of IKKε inhibitors for the
+treatment of pSS, repressing downstream NF-κB signalling activation. Furthermore, great attention is
+now being paid to the modulation of NF-κB activity and expression of NF-κB target genes through
+an IκBα-mediated negative feedback mechanism. Hopefully, as our understanding of the regulation of
+the NF-κB pathways increases, insights into a better design of drugs that can effectively target NF-κB
+for the prevention and treatment of pSS may be gained.
+
+
+
+J. Clin. Med. 2020, 9, 2821 13 of 18
+
+Author Contributions: All authors conceived of the presented idea and approved the final version of the
+manuscript. M.S. and S.L. collected the data reported in the study and take responsibility for their integrity.
+D.R. performed a critical reading of this review. All authors have read and agreed to the published version of
+the manuscript.
+
+Funding: No external funding was involved in this review.
+
+Acknowledgments: We are grateful to the professional scientific text editor M.V.C. Pragnell, B.A., for critical
+reading of the manuscript.
+
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+
+1. Wang, X.; Shaalan, A.; Liefers, S.; Coudenys, J.; Elewaut, D.; Proctor, G.B.; Bootsma, H.; Kroese, F.G.M.;
+Pringle, S. Dysregulation of NF-kB in glandular epithelial cells results in Sjögren’s-like features. PLoS ONE
+2018, 13, e0200212. [CrossRef]
+
+2. Fox, P.C. Autoimmune Diseases and Sjögren’s Syndrome. Ann. N. Y. Acad. Sci. 2007, 1098, 15–21. [CrossRef]
+[PubMed]
+
+3. Oeckinghaus, A.; Ghosh, S. The NF-kappaB family of transcription factors and its regulation. Cold Spring
+Harb. Perspect. Biol. 2009, 1, a000034. [CrossRef] [PubMed]
+
+4. Chen, W.; Lin, J.; Cao, H.; Xu, D.; Xu, B.; Xu, L.; Yue, L.; Sun, C.; Wu, G.; Qian, W. Local and Systemic IKKε
+and NF-κB Signaling Associated with Sjögren’s Syndrome Immunopathogenesis. J. Immunol. Res. 2015,
+2015, 534648. [CrossRef]
+
+5. Cafaro, G.; Croia, C.; Argyropoulou, O.D.; Leone, M.C.; Orlandi, M.; Finamore, F.; Cecchettini, A.; Ferro, F.;
+Baldini, C.; Bartoloni, E. One year in review 2019: Sjögren’s syndrome. Clin. Exp. Rheumatol. 2019, 118, 3–15.
+
+6. Tzioufas, A.G.; Voulgarelis, M. Update on Sjögren’s syndrome autoimmune epithelitis: From classification to
+increased neoplasias. Best Pract. Res. Clin. Rheumatol. 2007, 21, 989–1010. [CrossRef]
+
+7. Papageorgiou, A.; Ziogas, D.C.; Mavragani, C.P.; Zintzaras, E.; Tzioufas, A.G.; Moutsopoulos, H.M.;
+Voulgarelis, M. Predicting the outcome of Sjogren’s syndrome-associated non-hodgkin’s lymphoma patients.
+PLoS ONE 2015, 10, e0116189. [CrossRef]
+
+8. Voulgarelis, M.; Tzioufas, A.G. Current aspects of pathogenesis in Sjögren’s syndrome. Ther. Adv. Musculoskelet.
+Dis. 2010, 2, 325–334. [CrossRef]
+
+9. Fox, P.C.; Speight, P.M. Current concepts of autoimmune exocrinopathy: Immunologic mechanisms in the
+salivary pathology of Sjögren’s syndrome. Crit. Rev. Oral Biol. Med. 1996, 7, 144–158. [CrossRef]
+
+10. Humphreys-Beher, M.G.; Peck, A.B.; Dang, H.; Talal, N. The role of apoptosis in the initiation of the
+autoimmune response in Sjögren’s syndrome. Clin. Exp. Immunol. 1999, 116, 383–387. [CrossRef]
+
+11. Manoussakis, M.N.; Kapsogeorgou, E.K. The role of epithelial cells in the pathogenesis of Sjögren’s syndrome.
+Clin. Rev. Allergy Immunol. 2007, 32, 225–230. [CrossRef]
+
+12. Moutsopoulos, H.M. Sjögren’s syndrome: Autoimmune epithelitis. Clin. Immunol. Immunopathol. 1994, 72,
+162–165. [CrossRef] [PubMed]
+
+13. Sisto, M.; Lisi, S.; Castellana, D.; Scagliusi, P.; D’Amore, M.; Caprio, S.; Scagliusi, A.; Acquafredda, A.A.;
+Panaro, M.A.; Mitolo, V. Autoantibodies from Sjögren’s syndrome induce activation of both the intrinsic
+and extrinsic apoptotic pathways in human salivary gland cell line A-253. J. Autoimmun. 2006, 27, 38–49.
+[CrossRef]
+
+14. Sisto, M.; Lisi, S.; Lofrumento, D.; D’Amore, M.; Scagliusi, P.; Mitolo, V. Autoantibodies from Sjögren’s
+syndrome trigger apoptosis in salivary gland cell line. Ann. N. Y. Acad. Sci. 2007, 1108, 418–425. [CrossRef]
+[PubMed]
+
+15. Sisto, M.; Lisi, S.; Lofrumento, D.D.; Caprio, S.; Mitolo, V.; D’Amore, M. TNF blocker drugs modulate
+human TNF-α-converting enzyme pro-domain shedding induced by autoantibodies. Immunobiology 2010,
+215, 874–883. [CrossRef] [PubMed]
+
+16. Sisto, M.; Lisi, S.; Lofrumento, D.D.; Ingravallo, G.; Mitolo, V.; D’Amore, M. Expression of pro-inflammatory
+TACE-TNF-α-amphiregulin axis in Sjögren’s syndrome salivary glands. Histochem. Cell Biol. 2010, 134,
+345–353. [CrossRef]
+
+http://dx.doi.org/10.1371/journal.pone.0200212
+http://dx.doi.org/10.1196/annals.1384.003
+http://www.ncbi.nlm.nih.gov/pubmed/17332090
+http://dx.doi.org/10.1101/cshperspect.a000034
+http://www.ncbi.nlm.nih.gov/pubmed/20066092
+http://dx.doi.org/10.1155/2015/534648
+http://dx.doi.org/10.1016/j.berh.2007.09.001
+http://dx.doi.org/10.1371/journal.pone.0116189
+http://dx.doi.org/10.1177/1759720X10381431
+http://dx.doi.org/10.1177/10454411960070020301
+http://dx.doi.org/10.1046/j.1365-2249.1999.00888.x
+http://dx.doi.org/10.1007/s12016-007-8007-4
+http://dx.doi.org/10.1006/clin.1994.1123
+http://www.ncbi.nlm.nih.gov/pubmed/8050187
+http://dx.doi.org/10.1016/j.jaut.2006.05.001
+http://dx.doi.org/10.1196/annals.1422.044
+http://www.ncbi.nlm.nih.gov/pubmed/17894006
+http://dx.doi.org/10.1016/j.imbio.2009.11.005
+http://www.ncbi.nlm.nih.gov/pubmed/20061048
+http://dx.doi.org/10.1007/s00418-010-0735-5
+
+
+J. Clin. Med. 2020, 9, 2821 14 of 18
+
+17. Sisto, M.; Lisi, S.; Lofrumento, D.D.; Ingravallo, G.; Maiorano, E.; D’Amore, M. A failure of TNFAIP3 negative
+regulation maintains sustained NF-κB activation in Sjögren’s syndrome. Histochem. Cell Biol. 2011, 135,
+615–625. [CrossRef]
+
+18. Sisto, M.; Lisi, S.; Lofrumento, D.D.; D’Amore, M.; Frassanito, M.A.; Ribatti, D. Sjögren’s syndrome
+pathological neovascularization is regulated by VEGF-A-stimulated TACE-dependent crosstalk between
+VEGFR2 and NF-κB. Genes Immun. 2012, 13, 411–420. [CrossRef]
+
+19. Sisto, M.; Lisi, S.; Lofrumento, D.D.; Ingravallo, G.; De Lucro, R.; D’Amore, M. Salivary gland expression
+level of IκBα regulatory protein in Sjögren’s syndrome. J. Mol. Histol. 2013, 44, 447–454. [CrossRef]
+
+20. Sisto, M.; Lisi, S.; D’Amore, M.; Lofrumento, D.D. The metalloproteinase ADAM17 and the epidermal
+growth factor receptor (EGFR) signaling drive the inflammatory epithelial response in Sjögren’s syndrome.
+Clin. Exp. Med. 2015, 15, 215–225. [CrossRef]
+
+21. Lisi, S.; Sisto, M.; Soleti, R.; Saponaro, C.; Scagliusi, P.; D’Amore, M.; Saccia, M.; Maffione, A.B.; Mitolo, V.
+Fcgamma receptors mediate internalization of anti-Ro and anti-La autoantibodies from Sjögren’s syndrome
+and apoptosis in human salivary gland cell line A-253. J. Oral Pathol. Med. 2007, 36, 511–523. [CrossRef]
+[PubMed]
+
+22. Lisi, S.; Sisto, M.; Scagliusi, P.; Mitolo, V.; D’Amore, M. Siögren’s syndrome: Anti-Ro and anti-La
+autoantibodies trigger apoptotic mechanism in the human salivary gland cell line, A-253. Panminerva Med.
+2007, 49, 103–108.
+
+23. Lisi, S.; D’Amore, M.; Scagliusi, P.; Mitolo, V.; Sisto, M. Anti-Ro/SSA autoantibody-mediated regulation of
+extracellular matrix fibulins in human epithelial cells of the salivary gland. Scand. J. Rheumatol. 2009, 38,
+198–206. [CrossRef] [PubMed]
+
+24. Lisi, S.; Sisto, M.; Lofrumento, D.D.; Cucci, L.; Frassanito, M.A.; Mitolo, V.; D’Amore, M. Pro-inflammatory
+role of Anti-Ro/SSA autoantibodies through the activation of Furin-TACE-amphiregulin axis. J. Autoimmun.
+2010, 35, 160–170. [CrossRef] [PubMed]
+
+25. Lisi, S.; Sisto, M.; Lofrumento, D.D.; D’Amore, M. Sjögren’s syndrome autoantibodies provoke changes in
+gene expression profiles of inflammatory cytokines triggering a pathway involving TACE/NF-κB. Lab. Investig.
+2012, 92, 615–624. [CrossRef]
+
+26. Lisi, S.; Sisto, M.; Lofrumento, D.D.; D’Amore, M. Altered IκBα expression promotes NF-κB activation
+in monocytes from primary Sjögren’s syndrome patients. Pathology 2012, 44, 557–561. [CrossRef] [PubMed]
+
+27. Lisi, S.; Sisto, M.; Lofrumento, D.D.; D’Amore, M.; De Lucro, R.; Ribatti, D. A potential role of
+the GRO-α/CXCR2 system in Sjögren’s syndrome: Regulatory effects of pro-inflammatory cytokines.
+Histochem. Cell Biol. 2013, 139, 371–379. [CrossRef]
+
+28. Lisi, S.; Sisto, M.; D’Amore, M.; Lofrumento, D.D.; Ribatti, D. Emerging avenues linking inflammation,
+angiogenesis and Sjögren’s syndrome. Cytokine 2013, 61, 693–703. [CrossRef]
+
+29. Lisi, S.; Sisto, M.; Ribatti, D.; D’Amore, M.; De Lucro, R.; Frassanito, M.A.; Lorusso, L.; Vacca, A.;
+Lofrumento, D.D. Chronic inflammation enhances NGF-β/TrkA system expression via EGFR/MEK/ERK
+pathway activation in Sjögren’s syndrome. J. Mol. Med. 2014, 92, 523–537. [CrossRef]
+
+30. Pringle, S.; Wang, X.; Bootsma, H.; Spijkervet, F.K.L.; Vissink, A.; Kroese, F.G.M. Small-molecule inhibitors
+and the salivary gland epithelium in Sjögren’s syndrome. Expert Opin. Investig. Drugs. 2019, 28, 605–616.
+[CrossRef]
+
+31. Hayden, M.S.; Ghosh, S. NF-κB, the first quarter-century: Remarkable progress and outstanding questions.
+Genes Dev. 2012, 26, 203–234. [CrossRef]
+
+32. Sun, S.C.; Ganchi, P.A.; Ballard, D.W.; Greene, W.C. NF-κB controls expression of inhibitor IκBα: Evidence
+for an inducible autoregulatory pathway. Science 1993, 259, 1912–1915. [CrossRef]
+
+33. Christman, J.W.; Sadikot, R.T.; Blackwell, T.S. The role of nuclear factor-kappa B in pulmonary diseases.
+Chest 2000, 117, 1482–1487. [CrossRef]
+
+34. Yamamoto, Y.; Gaynor, R.B. Role of the NF-kB pathway in the pathogenesis of human disease states.
+Curr. Mol. Med. 2001, 1, 287–296. [CrossRef]
+
+35. Li, Q.; Verma, I.M. NF-kappaB regulation in the immune system. Nat. Rev. Immunol. 2002, 2, 725–734.
+[CrossRef]
+
+36. Kaltschmidt, B.; Widera, D.; Kaltschmidt, C. Signaling via NF-kappaB in the nervous system.
+Biochim. Biophys. Acta 2005, 1745, 287–299. [CrossRef]
+
+37. Ledoux, A.C.; Perkins, N.D. NF-kappaB and the cell cycle. Biochem. Soc. Trans. 2014, 42, 76–81. [CrossRef]
+
+http://dx.doi.org/10.1007/s00418-011-0821-3
+http://dx.doi.org/10.1038/gene.2012.9
+http://dx.doi.org/10.1007/s10735-013-9487-6
+http://dx.doi.org/10.1007/s10238-014-0279-4
+http://dx.doi.org/10.1111/j.1600-0714.2007.00563.x
+http://www.ncbi.nlm.nih.gov/pubmed/17850433
+http://dx.doi.org/10.1080/03009740802520722
+http://www.ncbi.nlm.nih.gov/pubmed/19229767
+http://dx.doi.org/10.1016/j.jaut.2010.06.020
+http://www.ncbi.nlm.nih.gov/pubmed/20673622
+http://dx.doi.org/10.1038/labinvest.2011.190
+http://dx.doi.org/10.1097/PAT.0b013e3283580388
+http://www.ncbi.nlm.nih.gov/pubmed/22935973
+http://dx.doi.org/10.1007/s00418-012-1035-z
+http://dx.doi.org/10.1016/j.cyto.2012.12.021
+http://dx.doi.org/10.1007/s00109-014-1130-9
+http://dx.doi.org/10.1080/13543784.2019.1631796
+http://dx.doi.org/10.1101/gad.183434.111
+http://dx.doi.org/10.1126/science.8096091
+http://dx.doi.org/10.1378/chest.117.5.1482
+http://dx.doi.org/10.2174/1566524013363816
+http://dx.doi.org/10.1038/nri910
+http://dx.doi.org/10.1016/j.bbamcr.2005.05.009
+http://dx.doi.org/10.1042/BST20130156
+
+
+J. Clin. Med. 2020, 9, 2821 15 of 18
+
+38. Han, Z.; Boyle, D.L.; Manning, A.M.; Firestein, G.S. AP-1 and NF-kappa B regulation in rheumatoid arthritis
+and murine collagen-induced arthritis. Autoimmunity 1998, 28, 197–208. [CrossRef] [PubMed]
+
+39. Makarov, S.S. NF-kappa B in rheumatoid arthritis: A pivotal regulator of inflammation, hyperplasia,
+and tissue destruction. Arthritis Res. 2001, 3, 200–206. [CrossRef]
+
+40. Nakamura, H.; Kawakami, A.; Ida, H.; Koji, T.; Eguchi, K. EGF activates PI3K-Akt and NF-κB via distinct
+pathways in salivary epithelial cells in Sjögren’s syndrome. Rheumatol. Int. 2007, 28, 127–136. [CrossRef]
+
+41. Ping, L.; Ogawa, N.; Zhang, Y.; Sugai, S.; Masaki, Y.; Xiao, W. p38 mitogen-activated protein kinase and nuclear
+factor-kappaB facilitate CD40-mediated salivary epithelial cell death. J. Rheumatol. 2012, 39, 1256–1264.
+[CrossRef]
+
+42. Barnes, P.; Karin, M. Nuclear Factor-κB: A Pivotal Transcription Factor in Chronic Inflammatory Diseases.
+N. Engl. J. Med. 1997, 336, 1066–1071. [CrossRef]
+
+43. Tak, P.P.; Firestein, G.S. NF-kappaB: A key role in inflammatory diseases. J. Clin. Investig. 2001, 107, 7–11.
+[CrossRef]
+
+44. Dale, E.; Davis, M.; Faustman, D.L. A role for transcription factor NF-κB in autoimmunity:
+Possible interactions of genes, sex, and the immune response. Adv. Physiol. Educ. 2006, 30, 152–158.
+[CrossRef]
+
+45. Thompson, N.; Isenberg, D.A.; Jury, E.C.; Ciurtin, C. Exploring BAFF: Its expression, receptors and
+contribution to the immunopathogenesis of Sjögren’s syndrome. Rheumatology 2016, 55, 1548–1555. [CrossRef]
+
+46. Nordmark, G.; Wang, C.; Vasaitis, L.; Eriksson, P.; Theander, E.; Kvarnstrom, M.; Forsblad-d’Elia, H.; Jazebi, H.;
+Sjowall, C.; Reksten, T.R.; et al. Association of Genes in the NF-kappaB Pathway with Antibody-Positive
+Primary Sjogren’s Syndrome. Scand. J. Immunol. 2013, 78, 447–454. [CrossRef]
+
+47. Ou, T.T.; Lin, C.H.; Lin, Y.C.; Li, R.N.; Tsai, W.C.; Liu, H.W.; Yen, J.H. IkappaBalpha promoter polymorphisms
+in patients with primary Sjögren’s syndrome. J. Clin. Immunol. 2008, 28, 440–444. [CrossRef]
+
+48. Peng, B.; Ling, J.; Lee, A.J.; Wang, Z.; Chang, Z.; Jin, W.; Kang, Y.; Zhang, R.; Shim, D.; Wang, H.; et al.
+Defective feedback regulation of NF-kappaB underlies Sjogren’s syndrome in mice with mutated kappaB
+enhancers of the IkappaBalpha promoter. Proc. Natl. Acad. Sci. USA 2010, 107, 15193–15198. [CrossRef]
+
+49. Kwok, S.K.; Cho, M.L.; Her, Y.M.; Oh, H.J.; Park, M.K.; Lee, S.Y.; Woo, Y.J.; Ju, J.H.; Park, K.S.; Kim, H.Y.; et al.
+TLR2 ligation induces the production of IL-23/IL-17 via IL-6, STAT3 and NF-kB pathway in patients with
+primary Sjogren’s syndrome. Arthritis Res. Ther. 2012, 14, R64. [CrossRef]
+
+50. Sisto, M.; Lorusso, L.; Lisi, S. Interleukin-15 as a potential new target in Sjögren’s syndrome-associated
+inflammation. Pathology 2016, 48, 602–607. [CrossRef]
+
+51. Sisto, M.; Lorusso, L.; Lisi, S. TLR2 signals via NF-κB to drive IL-15 production in salivary gland epithelial
+cells derived from patients with primary Sjögren’s syndrome. Clin. Exp. Med. 2017, 17, 341–350. [CrossRef]
+[PubMed]
+
+52. Das, T.; Chen, Z.; Hendriks, R.W.; Kool, M. A20/Tumor Necrosis Factor α-Induced Protein 3 in Immune
+Cells Controls Development of Autoinflammation and Autoimmunity: Lessons from Mouse Models.
+Front. Immunol. 2018, 9, 104. [CrossRef] [PubMed]
+
+53. Dawson, L.J.; Field, E.A.; Harmer, A.R.; Smith, P.M. Acetylcholine-evoked calcium mobilization and ion
+channel activation in human labial gland acinar cells from patients with primary Sjogren’s syndrome.
+Clin. Exp. Immunol. 2001, 124, 480–485. [CrossRef] [PubMed]
+
+54. Lilienbaum, A.; Israël, A. From calcium to NF-kappa B signaling pathways in neurons. Mol. Cell. Biol. 2003,
+23, 2680–2698. [CrossRef] [PubMed]
+
+55. Liu, T.; Zhang, L.; Joo, D.; Sun, S.C. NF-κB signaling in inflammation. Sig. Transduct. Target Ther. 2017,
+2, 17023. [CrossRef]
+
+56. Zhang, J.; Peng, B. NF-kappaB promotes iNOS and VEGF expression in salivary gland adenoid cystic
+carcinoma cells and enhances endothelial cell motility in vitro. Cell Prolif. 2009, 42, 150–161. [CrossRef]
+
+57. Miterski, B.; Böhringer, S.; Klein, W.; Sindern, E.; Haupts, M.; Schimrigk, S.; Epplen, J.T. Inhibitors in the
+NFkappaB cascade comprise prime candidate genes predisposing to multiple sclerosis, especially in selected
+combinations. Genes Immun. 2002, 3, 211–219. [CrossRef]
+
+58. Klein, W.; Tromm, A.; Folwaczny, C.; Hagedorn, M.; Duerig, N.; Epplen, J.T.; Schmiegel, W.H.; Griga, T.
+A polymorphism of the NFKBIA gene is associated with Crohn’s disease patients lacking a predisposing
+allele of the CARD15 gene. Int. J. Colorectal Dis. 2004, 19, 153–156. [CrossRef]
+
+http://dx.doi.org/10.3109/08916939808995367
+http://www.ncbi.nlm.nih.gov/pubmed/9892501
+http://dx.doi.org/10.1186/ar300
+http://dx.doi.org/10.1007/s00296-007-0411-9
+http://dx.doi.org/10.3899/jrheum.110097
+http://dx.doi.org/10.1056/NEJM199704103361506
+http://dx.doi.org/10.1172/JCI11830
+http://dx.doi.org/10.1152/advan.00065.2006
+http://dx.doi.org/10.1093/rheumatology/kev420
+http://dx.doi.org/10.1111/sji.12101
+http://dx.doi.org/10.1007/s10875-008-9212-5
+http://dx.doi.org/10.1073/pnas.1005533107
+http://dx.doi.org/10.1186/ar3780
+http://dx.doi.org/10.1016/j.pathol.2016.06.001
+http://dx.doi.org/10.1007/s10238-016-0429-y
+http://www.ncbi.nlm.nih.gov/pubmed/27260411
+http://dx.doi.org/10.3389/fimmu.2018.00104
+http://www.ncbi.nlm.nih.gov/pubmed/29515565
+http://dx.doi.org/10.1046/j.1365-2249.2001.01526.x
+http://www.ncbi.nlm.nih.gov/pubmed/11472412
+http://dx.doi.org/10.1128/MCB.23.8.2680-2698.2003
+http://www.ncbi.nlm.nih.gov/pubmed/12665571
+http://dx.doi.org/10.1038/sigtrans.2017.23
+http://dx.doi.org/10.1111/j.1365-2184.2009.00588.x
+http://dx.doi.org/10.1038/sj.gene.6363846
+http://dx.doi.org/10.1007/s00384-003-0531-y
+
+
+J. Clin. Med. 2020, 9, 2821 16 of 18
+
+59. Zubair, A.; Frieri, M. NF-κB and systemic lupus erythematosus: Examining the link. J. Nephrol. 2013, 26,
+953–959. [CrossRef]
+
+60. Gestermann, N.; Mekinian, A.; Comets, E.; Loiseau, P.; Puechal, X.; Hachulla, E.; Gottenberg, L.E.; Mariette, X.;
+Miceli-Richard, C. STAT4 is a confirmed genetic risk factor for Sjögren’s syndrome and could be involved
+in type 1 interferon pathway signaling. Genes Immun. 2010, 11, 432438.
+
+61. Palomino-Morales, R.J.; Diaz-Gallo, L.M.; Witte, T.; Anaya, J.M.; Martín, J. Influence of STAT4 polymorphism
+in primary Sjögren’s syndrome. J. Rheumatol. 2010, 37, 1016–1019. [CrossRef] [PubMed]
+
+62. Pispa, J.; Pummila, M.; Barker, P.A.; Thesleff, I.; Mikkola, M.L. Edar and Troy signalling pathways act
+redundantly to regulate initiation of hair follicle development. Hum. Mol. Genet. 2008, 17, 3380–3391.
+[CrossRef] [PubMed]
+
+63. Mikkola, M.L. TNF superfamily in skin appendage development. Cytokine Growth Factor Rev. 2008, 19,
+219–230. [CrossRef] [PubMed]
+
+64. Headon, D.J.; Emmal, S.A.; Ferguson, B.M.; Tucker, A.S.; Justice, M.J.; Sharpe, P.T.; Zonana, J.; Overbeek, P.A.
+Gene defect in ectodermal dysplasia implicates a death domain adapter in development. Nature 2001, 414,
+913–916. [CrossRef] [PubMed]
+
+65. Melnick, M.; Jaskoll, T. Mouse submandibular gland morphogenesis: A paradigm for embryonic signal
+processing. Crit. Rev. Oral Biol. Med. 2000, 11, 199–215. [CrossRef] [PubMed]
+
+66. Skaug, B.; Jiang, X.; Chen, Z.J. The role of ubiquitin in NF-kappaB regulatory pathways. Annu. Rev. Biochem.
+2009, 78, 769–796. [CrossRef]
+
+67. Yamamoto, Y.; Gaynor, R.B. Therapeutic potential of inhibition of the NF-kappaB pathway in the treatment
+of inflammation and cancer. J. Clin. Investig. 2001, 107, 135–142. [CrossRef]
+
+68. Schmidt-Ullrich, R.; Aebischer, T.; Hulsken, J.; Birchmeier, W.; Klemm, U.; Scheidereit, C. Requirement of
+NF-kappaB/Rel for the development of hair follicles and other epidermal appendices. Development 2001, 128,
+3843–3853.
+
+69. Courtney, J.M.; Blackburn, J.; Sharpe, P.T. The Ectodysplasin and NFkappaB signalling pathways
+in odontogenesis. Arch. Oral Biol. 2005, 50, 159–163. [CrossRef]
+
+70. Sisto, M.; Barca, A.; Lofrumento, D.D.; Lisi, S. Downstream activation of NF-κB in the EDA-A1/EDAR
+signalling in Sjögren’s syndrome and its regulation by the ubiquitin-editing enzyme A20. Clin. Exp. Immunol.
+2016, 184, 183–196. [CrossRef] [PubMed]
+
+71. Ambrosi, A.; Wahren-Herlenius, M. Update on the immunobiology of Sjögren’s syndrome.
+Curr. Opin. Rheumatol. 2015, 27, 468–475. [CrossRef]
+
+72. Takeda, K.; Kaisho, T.; Akira, S. Toll-like receptors. Annu. Rev. Immunol. 2003, 21, 335–376. [CrossRef]
+73. Kawai, T.; Akira, S. Signaling to NF-kB by Toll-like receptors. Trends Mol. Med. 2007, 13, 460–469. [CrossRef]
+74. Brentano, F.; Kyburz, D.; Schorr, O.; Gay, R.; Gay, S. The role of Toll like receptor signaling in the pathogenesis
+
+of arthritis. Cell Immunol. 2005, 233, 90–96. [CrossRef]
+75. Kanczkowski, W.; Ziegler, C.G.; Zacharowski, K.; Bornstein, S.R. Toll-like receptors in endocrine disease and
+
+diabetes. NeuroImmunoModulation 2008, 15, 54–60. [CrossRef]
+76. Pisetsky, D.S. The role of innate immunity in the induction of autoimmunity. Autoimmun. Rev. 2008, 8, 69–72.
+
+[CrossRef]
+77. Wu, Y.W.; Tang, W.; Zuo, J.P. Toll-like receptors: Potential targets for lupus treatment. Acta Pharmacol. Sin.
+
+2015, 36, 1395–1407. [CrossRef]
+78. Gooshe, M.; Aleyasin, A.R.; Abdolghaffari, A.H.; Rezaei, N. Toll like receptors: A new hope on the horizon
+
+to treat multiple sclerosis. Expert Rev. Clin. Immunol. 2014, 10, 1277–1279. [CrossRef]
+79. Sipos, F.; Furi, I.; Constantinovits, M.; Tulassay, Z.; Muzes, G. Contribution of TLR signaling to the
+
+pathogenesis of colitis-associated cancer in inflammatory bowel disease. World J. Gastroenterol. 2014, 20,
+12713–12721. [CrossRef]
+
+80. Birchler, T.; Seibl, R.; Buchner, K.; Loeliger, S.; Seger, R.; Hossle, J.P.; Aguzzi, A.; Lauener, R.P. Human Toll-like
+receptor 2 mediates induction of the antimicrobial peptide human beta-defensin 2 in response to bacterial
+lipoprotein. Eur. J. Immunol. 2001, 31, 3131–3137. [CrossRef]
+
+81. Hertz, C.J.; Wu, Q.; Porter, E.M.; Zhang, Y.J.; Weismüller, K.H.; Godowski, P.J.; Ganz, T.; Randell, S.H.;
+Modlin, R.L. Activation of Toll-like receptor 2 on human tracheobronchial epithelial cells induces the
+antimicrobial peptide human beta defensin-2. J. Immunol. 2003, 171, 6820–6826. [CrossRef]
+
+http://dx.doi.org/10.5301/jn.5000272
+http://dx.doi.org/10.3899/jrheum.091007
+http://www.ncbi.nlm.nih.gov/pubmed/20360187
+http://dx.doi.org/10.1093/hmg/ddn232
+http://www.ncbi.nlm.nih.gov/pubmed/18689798
+http://dx.doi.org/10.1016/j.cytogfr.2008.04.008
+http://www.ncbi.nlm.nih.gov/pubmed/18495521
+http://dx.doi.org/10.1038/414913a
+http://www.ncbi.nlm.nih.gov/pubmed/11780064
+http://dx.doi.org/10.1177/10454411000110020401
+http://www.ncbi.nlm.nih.gov/pubmed/12002815
+http://dx.doi.org/10.1146/annurev.biochem.78.070907.102750
+http://dx.doi.org/10.1172/JCI11914
+http://dx.doi.org/10.1016/j.archoralbio.2004.11.019
+http://dx.doi.org/10.1111/cei.12764
+http://www.ncbi.nlm.nih.gov/pubmed/26724675
+http://dx.doi.org/10.1097/BOR.0000000000000195
+http://dx.doi.org/10.1146/annurev.immunol.21.120601.141126
+http://dx.doi.org/10.1016/j.molmed.2007.09.002
+http://dx.doi.org/10.1016/j.cellimm.2005.04.018
+http://dx.doi.org/10.1159/000135624
+http://dx.doi.org/10.1016/j.autrev.2008.07.028
+http://dx.doi.org/10.1038/aps.2015.91
+http://dx.doi.org/10.1586/1744666X.2014.953061
+http://dx.doi.org/10.3748/wjg.v20.i36.12713
+http://dx.doi.org/10.1002/1521-4141(200111)31:11&lt;3131::AID-IMMU3131&gt;3.0.CO;2-G
+http://dx.doi.org/10.4049/jimmunol.171.12.6820
+
+
+J. Clin. Med. 2020, 9, 2821 17 of 18
+
+82. Spachidou, M.P.; Bourazopoulou, E.; Maratheftis, C.I.; Kapsogeorgou, E.K.; Moutsopoulos, H.M.;
+Tzioufas, A.G.; Manoussakis, M.N. Expression of functional Toll-like receptors by salivary gland epithelial
+cells: Increased mRNA expression in cells derived from patients with primary Sjogren’s syndrome.
+Clin. Exp. Immunol. 2007, 147, 497–503. [CrossRef]
+
+83. Liu, Y.; Yin, H.; Zhao, M.; Lu, Q. TLR2 and TLR4 in Autoimmune Diseases: A Comprehensive Review.
+Clin. Rev. Allerg. Immunol. 2014, 47, 136–147. [CrossRef] [PubMed]
+
+84. Kiripolsky, J.; Kramer, J.M. Current and Emerging Evidence for Toll-Like Receptor Activation in Sjögren’s
+Syndrome. J. Immunol. Res. 2018, 2018, 1246818. [CrossRef] [PubMed]
+
+85. Heil, F.; Hemmi, H.; Hochrein, H.; Franziska Ampenberger, F.; Kirschning, C.; Akira, S.; Lipford, G.;
+Wagner, H.; Bauer, S. Species-specific recognition of single-stranded RNA via toll-like receptor 7 and 8.
+Science 2004, 303, 1526–1529. [CrossRef] [PubMed]
+
+86. Bauer, S.; Kirschning, C.J.; Häcker, H.; Redecke, V.; Hausmann, S.; Akira, S.; Wagner, H.; Lipford, G.B. Human
+TLR9 confers responsiveness to bacterial DNA via species-specific CpG motif recognition. Proc. Natl. Acad.
+Sci. USA 2001, 98, 9237–9242. [CrossRef]
+
+87. Zheng, L.; Zhang, Z.; Yu, C.; Yang, C. Expression of Toll-like receptors 7, 8, and 9 in primary Sjogren’s
+syndrome. Oral Surg. Oral Med. Oral Pathol. Oral Radiol. Endodontol. 2010, 109, 844–850. [CrossRef]
+
+88. Rosenblum, M.D.; Remedios, K.A.; Abbas, A.K. Mechanisms of human autoimmunity. J. Clin. Investig. 2015,
+125, 2228–2233. [CrossRef]
+
+89. Shimizu, T.; Nakamura, H.; Takatani, A.; Umeda, V.; Horai, Y.; Kurushima, S.; Michitsuji, T.; Nakashima, Y.;
+Kawakami, A. Activation of Toll-like receptor 7 signaling in labial salivary glands of primary Sjögren’s
+syndrome patients. Clin. Exp. Immunol. 2019, 196, 39–51. [CrossRef] [PubMed]
+
+90. Flynn, C.M.; Garbers, Y.; Lokau, J.; Wesch, D.; Schulte, D.M.; Laudes, M.; Lieb, W.; Aparicio-Siegmund, S.;
+Garbers, C. Activation of Toll Like Receptor 2 (TLR2) induces interleukin-6 trans-signalling. Sci. Rep. 2019,
+9, 7306. [CrossRef] [PubMed]
+
+91. Nadler, L.M.; Ritz, J.; Hardy, R.; Pesando, J.M.; Schlossman, S.F.; Stashenko, P. A unique cell surface antigen
+identifying lymphoid malignancies of B cell origin. J. Clin. Investig. 1981, 67, 134–140. [CrossRef] [PubMed]
+
+92. Cragg, M.S.; Walshe, C.A.; Ivanov, A.O.; Glennie, M.J. The biology of CD20 and its potential as a target for
+mAb therapy In: B cell trophic factors and B cell antagonism in autoimmune disease. Curr. Dir. Autoimmun.
+2005, 8, 140–174.
+
+93. Walshe, C.A.; Beers, S.A.; French, R.R.; Chan, C.H.T.; Johnson, P.W.; Packham, G.K.; Glennie, M.J.; Cragg, M.S.
+Induction of cytosolic calcium flux by CD20 is dependent upon B Cell antigen receptor signaling. J. Biol. Chem.
+2008, 283, 16971–16984. [CrossRef]
+
+94. Leandro, M.J. B-cell subpopulations in humans and their differential susceptibility to depletion with
+anti-CD20 monoclonal antibodies. Arthritis Res. Ther. 2013, 15, S3. [CrossRef]
+
+95. Rehnberg, M.; Amu, S.; Tarkowski, A.; Bokarewa, M.J.; Brisslert, M. Short- and long-term effects of anti-CD20
+treatment on B cell ontogeny in bone marrow of patients with rheumatoid arthritis. Arthritis Res. Ther. 2009,
+11, R123. [CrossRef]
+
+96. Polyak, M.J.; Li, H.; Shariat, N.; Deans, J.P. CD20 homo-oligomers physically associate with the B cell antigen
+receptor. J. Biol. Chem. 2008, 283, 18545–18552. [CrossRef]
+
+97. Devauchelle-Pensec, V.; Pennec, Y.; Morvan, J.; Pers, J.O.; Daridon, C.; Jousse-Joulin, S.; Roudaut, A.; Jamin, C.;
+Renaudineau, Y.; Roué, I.Q.; et al. Improvement of Sjögren’s syndrome after two infusions of rituximab
+(anti-CD20). Arthritis Rheum. 2007, 57, 310–317. [CrossRef]
+
+98. Meijer, J.M.; Meiners, P.M.; Vissink, A.; Spijkervet, F.K.L.; Abdulahad, W.; Kamminga, N.; Brouwer, E.;
+Kallenberg, C.G.M.; Bootsma, H. Effectiveness of rituximab treatment in primary Sjögren’s syndrome:
+A randomized, double-blind, placebo controlled trial. Arthritis Rheum. 2010, 62, 960–968. [CrossRef]
+
+99. Abdulahad, W.H.; Meijer, J.M.; Kroese, F.G.; Meiners, P.M.; Vissink, A.; Spijkervet, F.K.; Kallenberg, C.G.;
+Bootsma, H. B cell reconstitution and T helper cell balance after rituximab treatment of active primary
+Sjogren’s syndrome: A double-blind, placebo-controlled study. Arthritis Rheum. 2011, 63, 1116–1123.
+[CrossRef]
+
+100. Edwards, J.C.; Szczepanski, L.; Szechinski, J.; Filipowicz-Sosnowska, A.; Emery, P.; Close, D.R.; Stevens, R.M.;
+Shaw, T. Efficacy of B-cell-targeted therapy with rituximab in patients with rheumatoid arthritis. N. Engl.
+J. Med. 2004, 350, 2572–2581. [CrossRef]
+
+http://dx.doi.org/10.1111/j.1365-2249.2006.03311.x
+http://dx.doi.org/10.1007/s12016-013-8402-y
+http://www.ncbi.nlm.nih.gov/pubmed/24352680
+http://dx.doi.org/10.1155/2018/1246818
+http://www.ncbi.nlm.nih.gov/pubmed/30671484
+http://dx.doi.org/10.1126/science.1093620
+http://www.ncbi.nlm.nih.gov/pubmed/14976262
+http://dx.doi.org/10.1073/pnas.161293498
+http://dx.doi.org/10.1016/j.tripleo.2010.01.006
+http://dx.doi.org/10.1172/JCI78088
+http://dx.doi.org/10.1111/cei.13242
+http://www.ncbi.nlm.nih.gov/pubmed/30446998
+http://dx.doi.org/10.1038/s41598-019-43617-5
+http://www.ncbi.nlm.nih.gov/pubmed/31086276
+http://dx.doi.org/10.1172/JCI110005
+http://www.ncbi.nlm.nih.gov/pubmed/6969730
+http://dx.doi.org/10.1074/jbc.M708459200
+http://dx.doi.org/10.1186/ar3908
+http://dx.doi.org/10.1186/ar2789
+http://dx.doi.org/10.1074/jbc.M800784200
+http://dx.doi.org/10.1002/art.22536
+http://dx.doi.org/10.1002/art.27314
+http://dx.doi.org/10.1002/art.30236
+http://dx.doi.org/10.1056/NEJMoa032534
+
+
+J. Clin. Med. 2020, 9, 2821 18 of 18
+
+101. Stone, J.H.; Merkel, P.A.; Spiera, R.; Merkel, P.A.; Seo, P.; Spiera, R.; Langford, C.A.; Hoffman, G.S.;
+Kallenberg, C.G.M.; Clair, E.W.S.; et al. Rituximab versus cyclophosphamide for ANCA associated vasculitis.
+N. Engl. J. Med. 2010, 363, 221–232. [CrossRef]
+
+102. Sisto, M.; Lisi, S.; D’Amore, M.; Lofrumento, D.D. Rituximab-mediated Raf kinase inhibitor protein induction
+modulates NF-κB in Sjögren syndrome. Immunology 2014, 143, 42–51. [CrossRef]
+
+103. Lisi, S.; Sisto, M.; D’Amore, M.; Lofrumento, D.D. Co-culture system of human salivary gland epithelial cells
+and immune cells from primary Sjögren’s syndrome patients: An in vitro approach to study the effects of
+Rituximab on the activation of the Raf-1/ERK1/2 pathway. Int. Immunol. 2015, 27, 183–194. [CrossRef]
+
+104. Jazirehi, A.R.; Huerta-Yepez, S.; Cheng, G.; Bonavida, B. Rituximab (chimeric anti-CD20 monoclonal antibody)
+inhibits the constitutive nuclear factor-jB signalling pathway in non-Hodgkin’s lymphoma B-cell lines: Role
+in sensitization to chemotherapeutic drug induced apoptosis. Cancer Res. 2005, 65, 264–276.
+
+105. Zeng, L.; Imamoto, A.; Rosner, M.R. Raf kinase inhibitory protein (RKIP): A physiological regulator and
+future therapeutic target. Expert Opin. Ther. Targets 2008, 12, 1275–1287. [CrossRef]
+
+106. Al-Mulla, F.; Bitar, M.S.; Taqi, Z.; Yeung, K.C. RKIP: Much more than Raf kinase inhibitory protein.
+J. Cell Physiol. 2013, 228, 1688–1702. [CrossRef]
+
+107. Casey, E.; Bournazos, S.; Mo, G.; Mondello, P.; Tan, K.S.; Ravetch, J.V.; Scheinberg, D.A. A new mouse
+expressing human Fcγ receptors to better predict therapeutic efficacy of human anti-cancer antibodies.
+Leukemia 2018, 32, 547–549. [CrossRef]
+
+108. Zhao, J.; Wenzel, S. Interactions of RKIP with Inflammatory Signaling Pathways critical reviews in oncogenesis.
+Crit. Rev. Oncog. 2014, 19, 497–504. [CrossRef]
+
+109. Bedford, L.; Lowe, J.; Dick, L.; Mayer, R.J.; Brownell, J.E. Ubiquitin-like protein conjugation and the
+ubiquitin–proteasome system as drug targets. Nat. Rev. Drug Discov. 2011, 10, 29–46. [CrossRef]
+
+110. Plenge, R.M.; Cotsapas, C.; Davies, L.; Price, A.L.; de Bakker, P.I.; Maller, J.; Pe’er, I.; Burtt, N.P.; Blumenstiel, B.;
+DeFelice, M.; et al. Two independent alleles at 6q23 associated with risk of rheumatoid arthritis. Nat. Genet.
+2007, 39, 1477–1482. [CrossRef]
+
+111. Nair, R.P.; Duffin, K.C.; Helms, C.; Ding, J.; Stuart, P.E.; Goldgar, D.; Gudjonsson, J.E.; Li, Y.; Tejasvi, T.;
+Feng, B.J.; et al. Genome-wide scan reveals association of psoriasis with IL-23 and NF-kappa B pathways.
+Nat. Genet. 2009, 41, 199–204. [CrossRef]
+
+112. Graham, R.R.; Cotsapas, C.; Davies, L.; Hackett, R.; Lessard, C.J.; Leon, J.M.; Burtt, N.P.; Guiducci, C.;
+Parkin, M.; Gates, C.; et al. Genetic variants near TNFAIP3 on 6q23 are associated with systemic lupus
+erythematosus. Nat. Genet. 2008, 40, 1059–1061. [CrossRef] [PubMed]
+
+113. Fung, E.Y.; Smyth, D.J.; Howson, J.M.; Cooper, J.D.; Walker, N.M.; Stevens, H.; Wicker, L.S.; Todd, J.A.
+Analysis of 17 autoimmune disease associated variants in type 1 diabetes identifi es 6q23/TNFAIP3 as
+a susceptibility. Genes Immun. 2009, 10, 188–191. [CrossRef] [PubMed]
+
+114. Musone, S.L.; Taylor, K.E.; Lu, T.T.; Nititham, J.; Ferreira, R.C.; Ortmann, W.; Shifrin, N.; Petri, M.A.;
+Kamboh, M.I.; Manzi, S.; et al. Multiple polymorphisms in the TNFAIP3 region are independently associated
+with systemic lupus erythematosus. Nat. Genet. 2008, 40, 1062–1064. [CrossRef] [PubMed]
+
+115. Lee, E.G.; Boone, D.L.; Chai, S.; Libby, S.L.; Chien, M.; Lodolce, J.P.; Ma, A. Failure to regulate TNF-induced
+NF-kappa B and cell death responses in A20-deficient mice. Science 2000, 289, 2350–2354. [CrossRef]
+
+116. Song, X.T.; Evel-Kabler, K.; Shen, L.; Rollins, L.; Huang, X.F.; Chen, S.Y. A20 is an antigen presentation
+attenuator, and its inhibition overcomes regulatory T cell-mediated suppression. Nat. Med. 2008, 14, 258–265.
+[CrossRef] [PubMed]
+
+117. Heyninck, K.; Beyaert, R. A20 inhibits NF-kappa B activation by dual ubiquitin-editing functions.
+Trends Biochem. Sci. 2005, 30, 1–4. [CrossRef]
+
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+http://dx.doi.org/10.1056/NEJMoa0909905
+http://dx.doi.org/10.1111/imm.12288
+http://dx.doi.org/10.1093/intimm/dxu100
+http://dx.doi.org/10.1517/14728222.12.10.1275
+http://dx.doi.org/10.1002/jcp.24335
+http://dx.doi.org/10.1038/leu.2017.293
+http://dx.doi.org/10.1615/CritRevOncog.2014011950
+http://dx.doi.org/10.1038/nrd3321
+http://dx.doi.org/10.1038/ng.2007.27
+http://dx.doi.org/10.1038/ng.311
+http://dx.doi.org/10.1038/ng.200
+http://www.ncbi.nlm.nih.gov/pubmed/19165918
+http://dx.doi.org/10.1038/gene.2008.99
+http://www.ncbi.nlm.nih.gov/pubmed/19110536
+http://dx.doi.org/10.1038/ng.202
+http://www.ncbi.nlm.nih.gov/pubmed/19165919
+http://dx.doi.org/10.1126/science.289.5488.2350
+http://dx.doi.org/10.1038/nm1721
+http://www.ncbi.nlm.nih.gov/pubmed/18311150
+http://dx.doi.org/10.1016/j.tibs.2004.11.001
+http://creativecommons.org/
+http://creativecommons.org/licenses/by/4.0/.
+
+	Introduction 
+	Sjögren’s Syndrome 
+	NF-B Transcription Factors 
+	Small-Molecule Inhibitors of NF-B in Sjögren’s Syndrome 
+	Impaired NF-B Signalling Activated by EDA-A1/EDAR in pSS Salivary Glands 
+	Toll-Like Receptor-Mediated NF-B Activation in pSS 
+	Modulation of NF-B Activation by the Anti CD-20 Monoclonal Antibody Rituximab 
+	Fine Modulation of NF-B Activity by TNFAIP3 
+	Conclusions 
+	References

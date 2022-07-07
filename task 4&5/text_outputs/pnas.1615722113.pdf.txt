@@ -1,0 +1,145 @@
+pnas201615722 6904..6904
+
+
+Correction
+
+BIOCHEMISTRY
+Correction for “The costimulatory immunogen LPS induces the
+B-Cell clones that infiltrate transplanted human kidneys,” by
+Rajesh K. Grover, Julong Cheng, Yingjie Peng, Teresa M. Jones,
+Diana I. Ruiz, Richard J. Ulevitch, John I. Glass, Edward A.
+Dennis, Daniel R. Salomon, and Richard A. Lerner, which
+appeared in issue 16, April 17, 2012, of Proc Natl Acad Sci
+USA (109:6036–6041; first published April 6, 2012; 10.1073/
+pnas.1202214109).
+
+The authors wish to note the following: “In the experiment de-
+picted in Fig. 1B, regarding two negative controls (panels 3 and 4),
+an unrelated primary antibody and only secondary antibody were
+used. Both were blank in the Western blot analysis. During the
+construction of Fig. 1, one blank control panel was inadvertently
+exchanged for the other blank control panel. Because both panels
+were blank, this error in no way changes the conclusions from the
+experiment.” The corrected Fig. 1 and its legend appear below.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1615722113
+
+Fig. 1. (A) Western blot analysis of the reactivity of kidney-derived ScFv antibodies VH169 and VH323 with Yeast, K12 strain of E. coli, Wil2 cell extracts, and
+BSA. Control antibodies were an unrelated ScFv antibody against the IL1-RA protein and the secondary antiflag antibody (Sigma) alone. E. coli and yeast cells
+were grown in appropriate media and after centrifugation the cells were lysed according to the manufacturer’s protocol using lysis buffer from Sigma Al-
+drich. Nucleic acids were degraded by treatment with DNase and RNase. A Protease inhibitor mixture (Roche) was added to prevent proteolytic degradation.
+The extracts were separated on SDS-page gels and transferred to nitrocellulose membranes for Western blot analysis. (B) Western blot analysis of antibody
+reactivity after treatment of the extracts with 0.05 N NaOH (lane 5 all panels). The E. coli extract was treated with 0.05 NaOH for 2 h and neutralized to pH 7.0
+with HCl. The extracts were separated on SDS-page gels as described in Fig. 1A. (C) Molecular structures of (i) Braun N-terminal (pam3cys) modification of
+bacterial lipoproteins and (ii) LPS and kdo2-Lipid A from k12 E. coli.
+
+E6904 | PNAS | November 1, 2016 | vol. 113 | no. 44 www.pnas.org
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ h
+tt
+
+ps
+:/
+
+/w
+w
+
+w
+.p
+
+na
+s.
+
+or
+g 
+
+by
+ N
+
+or
+ri
+
+s 
+M
+
+ed
+ic
+
+al
+ L
+
+ib
+ra
+
+ry
+ U
+
+ni
+v 
+
+S
+ou
+
+th
+er
+
+n 
+C
+
+al
+if
+
+or
+ni
+
+a 
+on
+
+ J
+un
+
+e 
+19
+
+, 2
+02
+
+2 
+fr
+
+om
+ I
+
+P
+ a
+
+dd
+re
+
+ss
+ 1
+
+54
+.5
+
+9.
+12
+
+4.
+74
+
+.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1615722113

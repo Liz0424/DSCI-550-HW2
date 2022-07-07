@@ -1,0 +1,4386 @@
+Rab1A Is an mTORC1 Activator and a Colorectal Oncogene
+
+
+Cancer Cell
+
+Article
+Rab1A Is an mTORC1 Activator
+and a Colorectal Oncogene
+Janice D. Thomas,1,3,6 Yan-Jie Zhang,1,3,4,6 Yue-Hua Wei,2 Jun-Hung Cho,2 Laura E. Morris,2 Hui-Yun Wang,1,3,5
+
+and X.F. Steven Zheng1,3,5,*
+1Rutgers Cancer Institute of New Jersey, Rutgers, The State University of New Jersey, 195 Little Albany Street, New Brunswick,
+
+NJ 08903, USA
+2Cellular and Molecular Pharmacology Graduate Program, Rutgers, The State University of New Jersey, 675 Hoes Lane, Piscataway,
+
+NJ 08854, USA
+3Department of Pharmacology, Robert Wood Johnson Medical School, Rutgers, The State University of New Jersey, 675 Hoes Lane,
+
+Piscataway, NJ 08854, USA
+4Department of Gastroenterology, No. 3 People’s Hospital Affiliated to Shanghai Jiaotong University School of Medicine, Shanghai 201900,
+
+China
+5Sun Yat-Sen University Cancer Center, National Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer
+
+Medicine, Guangzhou 510060, China
+6Co-first author
+
+*Correspondence: zhengst@cinj.rutgers.edu
+
+http://dx.doi.org/10.1016/j.ccell.2014.09.008
+SUMMARY
+Amino acid (AA) is a potent mitogen that controls growth andmetabolism. Here we describe the identification
+of Rab1 as a conserved regulator of AA signaling to mTORC1. AA stimulates Rab1A GTP binding and
+interaction with mTORC1 and Rheb-mTORC1 interaction in the Golgi. Rab1A overexpression promotes
+mTORC1 signaling and oncogenic growth in an AA- and mTORC1-dependent manner. Conversely, Rab1A
+knockdown selectively attenuates oncogenic growth of Rab1-overexpressing cancer cells. Moreover,
+Rab1A is overexpressed in colorectal cancer (CRC), which is correlated with elevated mTORC1 signaling,
+tumor invasion, progression, and poor prognosis. Our results demonstrate that Rab1 is anmTORC1 activator
+and an oncogene and that hyperactive AA signaling through Rab1A overexpression drives oncogenesis
+and renders cancer cells prone to mTORC1-targeted therapy.
+INTRODUCTION
+
+Cell growth is a process of assimilating extracellular nutrients
+
+into the cell mass, which requires the coordinated regulation of
+
+nutrient transport and protein synthetic capability. Signaling
+
+modules have evolved to transduce nutrient cues to cellular pro-
+
+grams such as transcription and translation (Dechant and Peter,
+
+2008; Jorgensen and Tyers, 2004; Zaman et al., 2008). mTOR is a
+
+conserved central growth controller in eukaryotes (Loewith and
+
+Hall, 2011; Sengupta et al., 2010). It forms two distinct kinase
+
+complexes, mTORC1 and mTORC2 (Loewith et al., 2002;
+
+Sarbassov et al., 2004). In response to nutrient signals, mTORC1
+Significance
+
+AA is an essential nutrient and key chemical signal for cell gro
+GTPase previously known for vesicular trafficking, has a cruc
+mTORC1 by AA and elucidates a Golgi-based mechanism by
+further demonstrates that aberrant hyperactivation of AA sig
+driving oncogenic transformation and malignant growth. Mor
+sensitivity, suggesting that it is a determinant for mTORC1-ta
+have important implications in normal cell physiology and the
+
+754 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc
+controls cellular growth and metabolic processes, and mTORC2
+
+regulates survival through AKT phosphorylation.
+
+HyperactivemTORC1 signaling is amajor cause of human dis-
+
+eases such as cancer (Tsang et al., 2007). Because mTORC1 is
+
+commonly hyperactivated in human tumors, it is a desirable
+
+target for cancer therapy (Bjornsti and Houghton, 2004; Zhang
+
+et al., 2011). Two rapamycin analogs (rapalogs), everolimus
+
+and temsirolimus, are Food and Drug Administration-approved
+
+drugs for advanced renal and breast carcinomas. However,
+
+the overall objective response rate remains low for rapalogs.
+
+Therefore, studying the regulation of mTORC1 is of considerable
+
+biological and clinical importance.
+wth and metabolism. This study shows that Rab1A, a small
+ial role in the Rag- and lysosome-independent activation of
+which Rab1A engages mTORC1 interaction with Rheb. It
+
+naling through Rab1A overexpression is a common event
+eover, Rab1A overexpression is correlated with rapamycin
+rgeted cancer therapy. Further study of this process could
+pathobiology and therapy of human cancer.
+
+.
+
+mailto:zhengst@cinj.rutgers.edu
+http://dx.doi.org/10.1016/j.ccell.2014.09.008
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.ccell.2014.09.008&domain=pdf
+
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+AA is not only an essential nutrient but also a potent mitogen.
+
+AA rapidly activatesmTORC1. Rag proteins are lysosomal/vacu-
+
+olar membrane-bound small GTPases. Upon AA stimulation,
+
+Rag GTPases function as heterodimers that bind to and activate
+
+TORC1 (Kim et al., 2008; Sancak et al., 2008). In the presence of
+
+leucine, leucyl tRNA synthetase binds to Rags and promotes
+
+TORC1 signaling (Han et al., 2012). Rag is well conserved from
+
+yeast to humans (Sekiguchi et al., 2001). The yeast Rag homo-
+
+logs Gtr1 and Gtr2 have been shown recently to also mediate
+
+AA signaling to TORC1 (Binda et al., 2009; Bonfils et al., 2012).
+
+Because the importance of AA in cell growth and metabolism,
+
+however, Rag proteins are probably not the only sensors. The
+
+goal of this study is to identify the Rag-independent regulator
+
+of AA signaling and investigate the underlying mechanism and
+
+significance.
+
+RESULTS
+
+Ypt1 Is Essential for AA to Activate TORC1 in Yeast
+Gtr1 and Gtr2, the yeast orthologs of RagA/RagB and RagC/
+
+RagD, respectively, function as a heterodimer to regulate
+
+TORC1 (Binda et al., 2009; Bonfils et al., 2012). Consistently,
+
+gtr1D and gtr2D mutants are hypersensitive to rapamycin (Fig-
+
+ure 1A), indicative of their role in TORC1 signaling (Bertram
+
+et al., 1998). However, thesemutants exhibit no apparent growth
+
+defect, and AA can still fully activate TORC1 in gtr1D and gtr2D
+
+mutants, as judged by phosphorylation of the TORC1 substrates
+
+Sch9 and Maf1 (Figure 1B) (Wei and Zheng, 2009; Wei and
+
+Zheng, 2010). Additionally, the dominant-active Gtr1-guanosine
+
+triphosphate (GTP) and Gtr2-guanosine diphosphate (GDP) do
+
+not affect TORC1 activity during AA starvation and restimulation
+
+(Figure 1C). The yeast vacuole (lysosome) anchors Gtr1 and
+
+Gtr2 signaling (Binda et al., 2009; Bonfils et al., 2012), but the
+
+growth and TORC1 signaling remain normal in vacuolar biogen-
+
+esis mutants vps16D, vps33D, pep3D, and pep5D (Figures 1A
+
+and 1D). Together, these observations clearly show that GTR
+
+and the vacuole are dispensable for AA signaling to TORC1 in
+
+yeast.
+
+We showed previously that genes in the TORC1 pathway
+
+display the rapamycin-sensitive phenotype (Bertram et al.,
+
+1998). Using this assay, we carried out a genomic screen and
+
+identified a large set of TORC1 signaling genes (Chan et al.,
+
+2000). Because most known mTORC1 activators are small
+
+GTPases (e.g., Rheb, Rag, and Rho1) (Inoki et al., 2003; Kim
+
+et al., 2008; Sancak et al., 2008; Stocker et al., 2003; Tee et al.,
+
+2003; Yan et al., 2012; Zhang et al., 2003), we focused our search
+
+for the Rag-independent TORC1 activator on small GTPases,
+
+particularly Rab, one of the largest small GTPase subfamilies
+
+(Hutagalung and Novick, 2011; Stenmark, 2009). Among the
+
+nine nonessential yeast Rab mutants, ypt6D and ypt7D are
+
+hypersensitive to rapamycin (Figure 1E). With the two essential
+
+Rab genes, when assayed under Tet-off conditions (Hughes
+
+et al., 2000), the Tet-YPT1 strain, but not the Tet-SEC4 strain,
+
+showed a rapamycin-hypersensitive phenotype (Figure 1F). The
+
+ypt1-ts mutant also displayed rapamycin hypersensitivity (Fig-
+
+ure 1G). Therefore, Ypt1, Ypt6, and Ypt7 are involved in TORC1
+
+signaling. However, depletion of YPT1 (Figure 1H), but not YPT6
+
+and YPT7, blocks the activation of TORC1 by AA (Figures 1H
+
+and 1I), indicating that Ypt1 is essential for AA signaling. The pre-
+Can
+cise role of Ypt6 and Ypt7 in TORC1 signaling is presently
+
+unknown.
+
+Ypt1 is the yeast paralog of Rab1, a highly conserved Golgi
+
+membrane-bound GTPase previously known for ER-to-Golgi
+
+vesicular trafficking (Hutagalung and Novick, 2011; Stenmark,
+
+2009). However, a large number of yeast mutants in ER-Golgi
+
+trafficking do not display a rapamycin-sensitive phenotype
+
+(Figure S1A available online), suggesting that the role of
+
+Rab1 in TORC1 signaling is not directly related to its trafficking
+
+function. Consistently, Ypt1 interacts with Tor1, which is a
+
+TORC1-specific component in yeast, in a GTP- and AA-
+
+dependent manner (Figure S1B), and AA stimulates GTP-bind-
+
+ing by Ypt1 (Figures S1C and S1D). These results indicate that
+
+AA regulates Ypt1 and its GTP-dependent interaction with
+
+TORC1.
+
+AA Stimulates Rab1A Interaction with mTORC1 in a
+GTP- and Golgi-Dependent Manner in HEK293E cells
+A recent RNAi screen revealed that dRAB1 knockdown in
+
+Drosophila S2 cells strongly inhibits dS6K phosphorylation
+
+(Li et al., 2010), suggesting that the Rab1 function in TORC1
+
+signaling is conserved. To further explore this, we knocked
+
+down Rab1A in human embryonic kidney 293E (HEK293E)
+
+cells with three distinct Rab1A small hairpin RNAs (shRNAs),
+
+all of which efficiently downregulate Rab1A expression and
+
+inhibit the phosphorylation of S6K1(T389) but not AKT(S473),
+
+indicating that Rab1A is specifically required for mTORC1
+
+signaling (Figure 2A). Rab1A knockdown attenuates the
+
+activation of mTORC1 by AA (Figure 2B). In contrast, mTORC1
+
+can still be stimulated by insulin after Rab1A knockdown
+
+(albeit the overall mTORC1 signaling level is decreased) (Figure
+
+2C). The latter phenomenon is similar to that of Rag knock-
+
+down (Kim et al., 2008).Therefore, Rab1A function in AA
+
+signaling is conserved in humans. Of note, Rab1A knockdown
+
+does not cause cell death, as judged by lack of PARP cleav-
+
+age (Figure 2A), which is consistent with the mTORC1-specific
+
+function for Rab1A.
+
+As in yeast, endogenous Rab1A also interacts with mTORC1
+
+(Figure 2D). Hemagglutinin (HA)-Rab1A is associated with
+
+mTOR and Raptor, not Rictor (Figure S2A), and is bound more
+
+with Myc-Raptor than Myc-mTOR (Figures S2B and S2C). Myc-
+
+Raptor, not Myc-mTOR, remained associated with HA-Rab1A
+
+after the immunocomplex was washed with 0.5% TX-100, a con-
+
+dition known to disrupt mTORC1 (Figure S2D), indicating that
+
+Raptor mediates the binding of Rab1A. Rab1A is a small GTP-
+
+binding protein anchored on ER and Golgi membranes through
+
+prenylation (Calero et al., 2003; Gomes et al., 2003). mTOR
+
+preferentially binds to Rab1A-GTP (Rab1A-Q70L, Rab1AGTP)
+
+(Pind et al., 1994) compared with Rab1A-GDP (Rab1A-S25N,
+
+Rab1AGDP) (Alvarez et al., 2003) or a Rab1AC202, 203S mutant
+
+(Rab1AC2S) deficient of prenylation and ER/Golgi localization
+
+(Calero et al., 2003; Gomes et al., 2003) (Figure 2E).
+
+Upon AA stimulation, there is a significant increase in the GTP-
+
+binding activity of Rab1A (Figures 2F and 2G). Moreover, AA reg-
+
+ulates the Rab1A interaction with mTORC1 in a GTP-dependent
+
+manner (Figure 2H). Strikingly, Rab1AGTP binds persistently to
+
+mTORC1 and sustains mTORC1 signaling even during AA star-
+
+vation (Figures 2H and 2I). In contrast, serum and insulin do not
+
+affect Rab1A GTP-binding (Figure 2J) or the Rab1A-mTORC1
+cer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc. 755
+
+
+
+A B
+
+E
+
+D
+
+WT
+
+ypt10∆
+
+ypt11∆
+
+tor1∆
+
+ypt52∆
+
+ypt53∆
+
+WT
+
+tet-YPT1
+
+tet-SEC4
+
+ypt31∆
+
+ypt32∆
+
+ypt6∆
+
+ypt7∆
+
+F
+
+ypt51∆
+
+WT
+
+ypt1-ts
+
+G
+
+WT
+
+tet-YPT1
+
+tet-SEC4
+
+      Rap       Rap
+
+      Rap       Rap
+
+       Rap
+
+       Rap
+
+      Rap
+
+Rap      Dox Dox
+
+WT Tet -YPT1
+
+Dox
+AA 
+
+HA-Sch9
+
+Maf1-Myc
+
+H I
+WT ypt6∆ ypt7∆ 
+
+   AA 
+
+Maf1-Myc
+
+HA-Sch9
+P-Sch9
+  Sch9
+
+P-Maf1
+  Maf1
+
+P-Sch9
+  Sch9
+
+P-Maf1
+  Maf1
+
+WT pep3∆ pep5∆ vps16∆ vps33∆ 
+
+HA-
+Sch9
+
+Maf1-
+Myc
+
+   AA 
+P-Sch9
+  Sch9
+
+P-Maf1
+  Maf1
+
+WT gtr1∆ gtr2∆ 
+
+HA-Sch9
+
+Maf1-Myc
+
+  AA 
+P-Sch9
+  Sch9
+
+P-Maf1
+  Maf1
+
+WT
+
+pep5∆ 
+
+pep3∆ 
+
+vps16∆
+
+gtr1∆ 
+
+vps33∆ 
+
+gtr2∆ 
+
+      Rap       Rap
+
+C
+
+P-Sch9
+  Sch9
+
+P-Maf1
+Maf1-Myc
+
+WT
+
+Sch9-HA
+
+ AA 
+
+GTR2GDPGTR1GTP
+
+Figure 1. Ypt1/Rab1 Is Crucial for AA to Activate TORC1 in Yeast
+
+(A) GTR wild-type (WT) and mutant yeast cells were assayed for rapamycin sensitivity by a spot assay (10-fold serial dilutions).
+
+(B) WT, gtr1D, and gtr2D cells were starved of AA and restimulated. TORC1 signaling was measured by immunoblotting for phosphorylation of HA-Sch9 and
+
+Maf1-Myc.
+
+(C) Yeast expressing Gtr1-GTP or Gtr2-GDP was starved of AA, restimulated, and assayed for TORC1 signaling as above.
+
+(D) The WT and vacuolar biogenesis mutants were starved, restimulated with AA, and assayed for TORC1 signaling.
+
+(E) Nonessential Rab gene deletion mutants were measured for rapamycin sensitivity. The tor1D strain was used as a positive control.
+
+(F) The WT and Tet-off essential Rab mutant strains were assayed for rapamycin sensitivity with or without doxycycline (Dox).
+
+(G) The WT and the ypt1 temperature-sensitive (ypt1-ts) mutant were assayed for rapamycin sensitivity at a permissive temperature.
+
+(H) WT and Tet-YPT1 cells were starved and restimulated with AA in the presence or absence of Dox, and assayed for TORC1 signaling.
+
+(I) WT, ypt6D, and ypt7D cells were starved, restimulated with AA, and assayed for TORC1 signaling.
+
+See also Figure S1.
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+
+756 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc.
+
+
+
+D
+
+A
+
+Ra
+b1
+
+A-
+1
+
+Ra
+b1
+
+A-
+2
+
+Ra
+b1
+
+A-
+3
+
+Co
+ntr
+
+ol
+
+PARP
+
+P-S6K1
+
+S6K1
+
+Rab1A
+
+AKT
+
+P-AKT
++ - - - -
+- + - - -
+- - + - -
+- - - + -
+- - - - +
+
+HA -Rap2A
+HA -Rab1A
+HA -Rab1AGTP
+
+HA -Rab1AGDP
+
+HA -Rab1AC2S
+
+mTOR
+
+Raptor
+
+HA
+
+mTOR
+
+HA
+
+IP
+:m
+
+T
+O
+
+R
+T
+
+ot
+al
+
+ ly
+sa
+
+te
+
+E
+
+G H
+
+Myc-
+mTOR
+
+HA-
+Rab1A
+
+Myc-
+mTOR
+
+HA-
+Rab1A
+
+IP:
+Myc 
+
+Cell
+Lysates
+
+Rap2A Rab1A
+
+AA - + - + - + - +
+
+Rab1A
+GTP
+
+Rab1A
+GDP
+
+Rap2A
+
+Rap2A
+
+Rab1A
+
+Rab1A
+
+AA
+
+100
+
+75
+
+50
+
+25
+
+0
+
++ - + -
+
+GTP-bound
+
+Cell lysates
+
+J
+
+Rap2A Rab1A
+
+Rap2A Rab1A
+
+Serum + - + -
+
+GTP-bound
+
+Cell lysates
+
+100
+
+75
+
+50
+
+25
+
+0
+
+shCon shRab1A
+Insulin - + - +
+
+P-S6K1
+
+S6K1
+
+Rab1A
+
+IgG
+IP:
+
+mTOR
+
+IP-
+WB
+
+Total
+WB
+
+Raptor
+
+Rab1A
+
+mTOR
+
+Raptor
+
+Rab1A
+
+An
+ti-
+
+    
+Ra
+
+b1
+A
+
+AA - +
+
+GDP
+
+GTP
+
+origin
+
+%GTP: +- +-95 565   5
+
+C
+
+F
+
+I
+
+AA - + - + - + - + - +
+
+P-S6K1
+
+S6K1
+
+HA
+
+Rap2A Rab1A Rab1A Rab1A Rheb1
+
+Control shRab1A
+
+P-S6K1
+
+S6K1
+
+Rab1A
+
+AA - + - +
+
+B
+
+GTP GDP GTP
+
+%
+ G
+
+TP
+-b
+
+ou
+nd
+
+  (
+-A
+
+A
+/+
+
+A
+A
+
+)
+
+  %
+ G
+
+TP
+-b
+
+ou
+nd
+
+(-
+S
+
+er
+um
+
+/+
+S
+
+er
+um
+
+)
+
+Figure 2. Rab1A Is Essential for mTORC1
+
+Activation by AA in Human Cells
+
+(A) HEK293E cells infected with lentiviral Rab1A
+
+shRNAs were analyzed for P-S6K1(T389), S6K,
+
+P-AKT(S473), AKT, and PARP cleavage.
+
+(B) HEK293E cells infected with Rab1A shRNA
+
+were starved, restimulated with AA for 10 min,
+
+and analyzed for P-S6K1(T389).
+
+(C) HEK293E cells were starved of serum (full
+
+complement of culture ingredients except serum),
+
+restimulated with 100 ng insulin for 10 min, and
+
+analyzed for P-S6K1(T389).
+
+(D) Endogenous Rab1A was immunoprecipitated
+
+and analyzed for the presence of mTOR and
+
+Raptor.
+
+(E) WT and mutant HA-Rab1A was transiently
+
+expressed in HEK293E cells. mTOR was immu-
+
+noprecipitated and analyzed for its interaction
+
+with HA-tagged proteins and endogenous raptor.
+
+HA-Rap2A was a negative control.
+
+(F) 32P-labeled HEK293E cells were starved and
+
+restimulated with AA. Rab1A was immunopre-
+
+cipitated and analyzed for the bound 32P-labeled
+
+GTP and GDP by thin-layer chromatography. The
+
+numbers at the bottom show means ± SD of three
+
+independent experiments.
+
+(G) HEK293E cells were starved and restimulated
+
+with AA. Extracts of cells were incubated with
+
+GTP-agarose beads and the binding of Rab1A
+
+were analyzed by western blot. The bottom panel
+
+shows means ± SD of three independent experi-
+
+ments.
+
+(H) HEK293E cells expressing Myc-mTOR and WT
+
+or mutant HA-Rab1A proteins were starved and
+
+re-stimulated with AA. Myc-mTOR and HA-Rab1A
+
+were analyzed for interaction by co-IP. HA-Rap2A
+
+is a negative control.
+
+(I) The same as Figure 2H, except mTORC1
+
+signaling was analyzed by P-S6K1. Rheb was
+
+used as a positive control.
+
+(J) The same as Figure 2G, except cells were
+
+starved and restimulated with serum. The bottom
+
+panel shows means ± SD of three independent
+
+experiments.
+
+See also Figure S2.
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+interaction (Figure S2E). These observations indicate that Rab1A
+
+mediates AA signaling to mTORC1, which is a conserved phe-
+
+nomenon. Curiously, AA starvation disrupts the association of
+
+Ypt1GTP with TORC1 in yeast but not Rab1AGTP with mTORC1
+
+in humans. This is likely due to the fact that nutrients such as
+
+AA play a more prominent growth regulatory role in single-celled
+
+organisms than in mammals. The latter is regulated by nutrients
+
+as well as polypeptide factors (e.g., cytokines and hormones).
+
+Consistent with this notion, starvation of HEK293E cells of both
+
+serum and AA also blocks the binding of Rab1AGTP to mTORC1
+
+(data not shown).
+Cancer Cell 26, 754–769, N
+Rab1A Regulates the Formation
+of the Rheb-mTORC1 Complex
+in the Golgi
+When ectopically expressed, Rab1A
+
+stimulates the level of P-S6K1 and
+P-4EBP1 but not P-AKT (Figures S3A and S3B), indicating
+
+that Rab1A overexpression specifically promotes mTORC1
+
+signaling. The ability of Rab1A to enhance mTORC1 sig-
+
+naling is dependent on Rab1A GTP-binding and associa-
+
+tion with Golgi/ER membranes because such Rab1AGDP and
+
+Rab1AC202, 203S mutants fail to increase S6K1 phosphorylation
+
+(Figures S3A and S3B). To understand the underlying mecha-
+
+nism, we examined the functional relationship between Rab1A
+
+and two other major mTORC1 activators, Rheb and Rag.
+
+Rab1A knockdown strongly attenuates RagB/RagC-dependent
+
+mTORC1 activation by AA (Figure 3A). On the other hand,
+ovember 10, 2014 ª2014 Elsevier Inc. 757
+
+
+
+Golgi
+
+Raptor/
+Rab1A
+
+Rab1A
+
+Raptor
+
+Duolink Merge Enlarged Golgi
+
+Rheb
+
+Raptor/
+Rheb
+
+GolgiRaptor/Rheb
+
+Merge Merge (enlarged)
+
+Raptor
+
+Duolink Merge Enlarged
+C
+
+E
+
+G
+
+D
+
+BA
+
+Golgi
+Raptor/Rheb
+
+Duolink
+
+Rab1A
+siRNA
+
+Control
+siRNA
+
+Merge Enlarged
+
+F
+MergeRab1A
+
+Control siRNA Rab1A siRNA
+
+Rab1A Merge
+
++ + + + - - - - - - - -
+
+AA
+
+- - - - + + + + - - - -
+
+- - - - - - - - + + + +
+- - - - + + + + - - - -
+
+- - + + - - + + - - + +
+- + - + - + - + - + - +
+
+Tubulin
+
+S6K1
+
+p-S6K1
+
+Rab1A
+
+Tubulin
+
+Rap2A RagB/C RhebHA-tag
+
+shRab1A
+AA
+
+- - + + - - + + - - + +
+- + - + - + - + - + - +
+
+HA
+
+shControl
+shRagA
+shRagB
+shRheb
+Rab1A
+
+P-S6K
+
+S6K
+
+RagB
+
+RagA
+
+Rheb
+
+GFP-Rab1A
+
+Figure 3. Rab1A Stimulates mTORC1 Signaling and Regulates Rheb-mTORC1 Interaction in the Golgi
+
+(A) HEK293E cells infected with Rab1A shRNA or a control shRNA in the presence or absence of overexpressed RagB/RagC or Rheb were starved with
+
+AA (containing all culture ingredients except AA) and restimulated with AA for 10 min. The effect of Rab1A knockdown on P-S6K1 was analyzed by western blot.
+
+(B) HEK293E cells overexpressing HA-Rab1A were infected with lentiviral shRNA against RagA/RagB or Rheb and then treated with AA starvation and
+
+restimulation. The effect on mTORC1 signaling was assayed by western blot.
+
+(C) Duolink was used to detect the interaction of endogenous Rab1A and Raptor (red) in HEK293E cells transiently expressing GM130-GFP (Golgi, green). Shown
+
+is a representative image (n > 350). Scale bars, 10 mm.
+
+(D) Duolink was used to detect the interaction of endogenous Rheb and Raptor (red) in HEK293E cells transiently expressingGM130-GFP (Golgi, green). Shown is
+
+a representative image (n > 350). Scale bars, 10 mm.
+
+(E) The same as Figure 3E, except the images were analyzed by confocal microscopy. Shown is a Z section of the confocal images. Arrowheads indicate Golgi
+
+location. Scale bars, 10 mm.
+
+(legend continued on next page)
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+
+758 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+although downregulation of Rheb abolishes Rab1A-dependent
+
+mTORC1 activation by AA, RagA/RagB knockdown only has
+
+a partial effect (Figure 3B). Curiously, the dominant-active
+
+RagBGTP/RagCGDP can partially rescue the loss of Rab1A
+
+(Figure S3C). These observations indicate that the regulation
+
+of mTORC1 by Rab1A is dependent on Rheb but that Rab1A
+
+and Rag are relatively independent of each other, with Rab1A
+
+having a more prominent role, which is consistent with the
+
+yeast results.
+
+Although Rag GTPases regulate mTORC1 in lysosomes
+
+(Sancak et al., 2010), mTORC1 is widely distributed throughout
+
+the cell, including the ER, the Golgi, endosomes, mitochondria,
+
+and the nucleus (Drenan et al., 2004; Li et al., 2006; Liu and
+
+Zheng, 2007; Sancak et al., 2008; Schieke et al., 2006), sug-
+
+gesting that the regulation of mTORC1 signaling is more
+
+complex than currently thought, involving multiple subcellular
+
+systems and mechanisms. To locate where Rab1A engages
+
+mTORC1, we used Duolink, which allows the detection of
+
+protein-protein interactions in situ in intact cells and tissues
+
+(Söderberg et al., 2006), to analyze in situ Rab1A-mTORC1
+
+interaction. Antibodies against Rab1A and Raptor or mTOR
+
+together, but not each individually or under the condition that
+
+one partner is knocked down, generated a strong signal in
+
+the Golgi (Figure 3C; Figures S3D–S3H). Therefore, Rab1A in-
+
+teracts with mTORC1 specifically in the Golgi, which is consis-
+
+tent with our earlier observation that Golgi localization is
+
+required for Rab1A to bind to and activate mTORC1 (Figure 2E;
+
+Figure S3A).
+
+To further investigate the mechanism of mTORC1 regulation
+
+by Rab1A, we examined the localization of the Rheb-mTORC1
+
+complex. Rheb-Raptor interaction prominently occurs in the
+
+Golgi, as judged by conventional and confocal microscopy
+
+(Figures 3D and 3E; Figure S3D). This result is consistent
+
+with the observation that both Rheb and mTORC1 are promi-
+
+nently localized in this organelle (Figure S3I) (Buerger et al.,
+
+2006; Drenan et al., 2004; Hanker et al., 2010; Liu and Zheng,
+
+2007). In addition, Rheb interaction with mTORC1 has been
+
+mainly detected in the Golgi in live cells (Yadav et al., 2013).
+
+Raptor-Rheb15 is a fusion protein of Raptor and the C-terminal
+
+Rheb CAAX signal sequence. When expressed in cells, it
+
+causes constitutive activation of mTORC1 (Sancak et al.,
+
+2010). Because Rheb15 contains the CAAX motif that is suffi-
+
+cient to target Rheb to the Golgi (Buerger et al., 2006; Hanker
+
+et al., 2010), we investigated Raptor-Rheb15 subcellular local-
+
+ization and found that it is indeed predominantly found in the
+
+Golgi (Figures S3J and S3K). Moreover, Rab1A knockdown
+
+disrupts mTORC1 localization or Rheb-mTORC1 interaction
+
+in the Golgi (Figures 3F and 3G; Figure S3L) while not affecting
+
+mTORC1 localization or interaction with Rag in the lysosomes
+
+(Figures S3M-S3Q). Therefore, Rab1A controls mTORC1
+
+signaling by regulating the formation of the Golgi Rheb-
+
+mTORC1 complex.
+(F) HEK293E cells were transfected with a Rab1A small interfering RNA (siRNA) or
+
+bar, 10 mm.
+
+(G) HEK293E cells transiently expressing GM130-GFP (green) were analyzed for
+
+siRNA. Shown is a representative image (n > 350). Scale bars, 10 mm.
+
+See also Figure S3.
+
+Can
+Rab1A Is Overexpressed in Human Colorectal Cancer,
+Which Is Correlated with Hyperactive mTORC1
+Signaling, Tumor Invasion, and Poor Prognosis
+A previous microarray study revealed that Rab1A is overex-
+
+pressed in 98% of human tongue squamous carcinomas
+
+(Shimada et al., 2005). To ask whether Rab1A is also aberrantly
+
+expressed in other malignancies, we performed immunohisto-
+
+chemistry (IHC) staining of Rab1A in primary human colorectal
+
+cancer (CRC) and adjacent normal tissues. Rab1A staining is
+
+much stronger (median H score, 255) in tumors than the match-
+
+ing normal tissues (median H score, 40) (Figures 4A and 4B).
+
+Rab1A is scored higher in approximately 80% tumors, although
+
+the intensity is markedly variable, with IHC scores 100-fold
+
+higher in tumors than in normal tissues (Figure 4C).
+
+We next examined the relationship between Rab1A expres-
+
+sion and mTORC1 signaling by staining Rab1A and P-S6K1 in
+
+consecutive tissue sections. Overall, Rab1A expression is
+
+strongly correlated with P-S6K1 staining (Figures 4D and 4E).
+
+In tumors with heterogeneous Rab1A expression, the P-S6K1
+
+level still showed a striking correlation with the Rab1A level. In
+
+tumor nodules with high Rab1A expression, P-S6K1 staining is
+
+also stronger (Figure 4F). We further examined the relationship
+
+between Rab1A staining and different clinicopathologic param-
+
+eters and found that high Rab1A-positive staining is statistically
+
+significantly correlated with poor survival (Figure 4G), increased
+
+tumor invasion, and advanced tumor stages (Table S1). In
+
+addition, high Rab1A-positive staining appears to be associated
+
+with lymph node metastasis, but the result is not statistically
+
+significant because of limited sample size (Table S1). Together,
+
+these results show that Rab1A is frequently overexpressed in
+
+CRC and that high Rab1A expression is correlated with hyper-
+
+active mTORC1 signaling, tumor invasion and progression, and
+
+poor prognosis.
+
+Rab1A Is Essential for the Oncogenic Growth of
+Rab1A-Overexpressing CRC Cells
+In a panel of CRC cell lines, Rab1A expression is also highly
+
+variable, ranging from high (e.g., DLD-1 and CACO2) to low
+
+(e.g., RKO and COLO205) but is correlated with P-S6K1, not
+
+P-AKT (Figure 5A; Figures S4A and S4B). Therefore, these cell
+
+lines have similar characteristics as primary tumors and are
+
+good models for studying the significance of Rab1A expression.
+
+Surprisingly, P-S6K1 is not correlated with the expression of
+
+Rab1B, Rheb, RagA, RagB, RagC, and RagD (Figures S4C–
+
+S4H), suggesting that, unlike Rab1A, other known mTORC1 ac-
+
+tivators are not responsible for hyperactive mTORC1 signaling
+
+in CRC cells. When Rab1A is knocked down in three pairs of
+
+CRC cell lines (DLD-1 and CACO2, KM12 and HCT116, and
+
+RKO and COLO205, representative of high, moderate and low
+
+Rab1A expression in cells, respectively), mTORC1 signaling is
+
+abrogated (Figure 5B). However, there is a striking inverse
+
+correlation between growth inhibition and Rab1A expression.
+a control siRNA, and the Rab1A protein was analyzed by IF microscopy. Scale
+
+Rheb-Raptor interaction by Duolink (red) in the presence of Rab1A or control
+
+cer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc. 759
+
+
+
+A
+
+D
+
+C
+
+E
+
+Case 40 Case 41 Case 43 G
+
+Rab1A 
+
+P-S6K1
+
+Rab1A 
+
+P-S6K1
+
+F
+
+Case 70
+
+Tumor NormalTumor
+
+S
+tr
+
+on
+g 
+
+P
+os
+
+iti
+ve
+
+W
+ea
+
+k 
+P
+
+os
+iti
+
+ve
+N
+
+eg
+at
+
+iv
+e
+
+Normal
+
+Case 20Case 52
+
+Case 78 Case 25
+
+Case 85 Case 86
+
+Case 53 Case 84
+
+B
+
+p < 0.0001
+
+Cancer Non-cancer
+0
+
+100
+
+200
+
+300
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+C
+an
+
+ce
+r/
+
+N
+on
+
+-c
+an
+
+ce
+r 
+
+(lo
+g)
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+0 100 200 300
+
+P
+-S
+
+6 K
+1 
+
+H
+-s
+
+co
+re
+
+Rab1A H-score
+
+r = 0.7546
+p < 0.0001
+
+n = 90
+
+Log Rank = 10.394
+p = 0.001 High
+
+Low
+
+Month
+  0                 20                40                60
+
+C
+um
+
+ul
+at
+
+iv
+e 
+
+S
+ur
+
+v i
+v a
+
+l
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+R
+ab
+
+1A
+ H
+
+-s
+co
+
+re
+ 
+
+Figure 4. Rab1A Is Frequently Overexpressed in CRC, Which Is Correlated with Hyperactive mTORC1 Signaling and Poor Survival
+
+(A) IHC staining of the primary human CRC tissue microarray and adjacent noncancerous tissues. Shown are stained tumor and noncancerous tissue sections
+
+representative of high, low, and negative Rab1A staining. Scale bar, 50 mm.
+
+(B) Box plot graph showing a statistical analysis of Rab1A expression in CRC and adjacent noncancerous tissues.
+
+(legend continued on next page)
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+
+760 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+Growth and colony formation are strongly, moderately, and
+
+slightly inhibited, respectively, in the three cell pairs (Figures
+
+5C–5H). Of note, Rab1A knockdown did not affect cell viability
+
+because no significant increase in apoptotic cell death was
+
+seen (data not shown), which is consistent with the results
+
+with HEK293E cells (Figure 2A). Furthermore, Rab1A knock-
+
+down attenuates mTORC1 signaling (P-S6K1 staining) and
+
+oncogenic growth (Ki67 staining and mitotic index) of DLD-1
+
+xenograft tumors in nude mice (Figures 5I–5K). The fact that
+
+Rab1A knockdown preferentially inhibits CRC cells with high
+
+Rab1A suggests that Rab1A overexpression is a key driver for
+
+cancer growth.
+
+Rab1A Overexpression Rather Than Activated PI3K
+or MEK Is Essential for Hyperactive mTORC1 Signaling
+and Oncogenic Growth of CRC Cells
+Phosphatidylinositol 3-kinase (PI3K) is thought to be a major
+
+upstream regulator of mTOR signaling. DLD1, HCT116, and
+
+RKO each carry a heterozygote-activating mutant PIK3CA allele.
+
+The P-S6K1 level is very low in RKO (Figure 5A), indicating that
+
+activated PI3K is insufficient to promote mTORC1 signaling in
+
+RKO cells. However, P-S6K is moderate or high in DLD1 and
+
+HCT116 (Figure 5A), presenting an interesting dilemma. Is
+
+Rab1A or PI3K responsible for elevated mTORC1 signaling and
+
+oncogenic growth? To address this question, we analyzed the
+
+isogenic DLD1 and HCT116 cell lines in which the PIK3CAWT
+
+or PIK3CAmutant allele is deleted (Samuels et al., 2005). Deletion
+
+of thePIK3CAmutant allele abolishes AKT but not S6K1 phosphor-
+
+ylation (Figures 6A; Figure S5A), which is in contrast to Rab1A
+
+knockdown, which abolishes mTORC1 signaling (Figure 6A).
+
+Moreover, Rab1A knockdown, rather than PIK3CAmutant dele-
+
+tion, attenuates CRC cell growth and colony formation (Figures
+
+6B–6E). This result is consistent with a previous report showing
+
+that the activated PI3K mutant is responsible for enhanced
+
+survival but not growth of CRC cells (Samuels et al., 2005). The
+
+Ras/MEK/ERK pathway is another major mitogenic signaling
+
+pathway that is frequently mutated in CRC. However, MEK
+
+inhibition had little effect on mTORC1 signaling, cell growth, or
+
+colony formation of DLD1 and CACO2 cells that both have
+
+Rab1A overexpression and high ERK signaling (Figures S5B–
+
+S5D). These data show that Rab1A-AA signaling, rather than
+
+PI3K and the MEK pathway, is crucial for hyperactive mTORC1
+
+signaling and growth of DLD1, HCT116, and CACO2 cells.
+
+CRC Cells with Rab1A Overexpression Are Addictive
+to AA for Growth
+Because Rab1A mediates AA signaling to activate mTORC1,
+
+we investigated how AA modulates CRC oncogenic growth
+(C) Scatter plot showing the Rab1A staining level in individual tumors as a ratio o
+
+(D) Consecutive CRC tissue sections were stained for Rab1A and P-S6K1. Shown
+
+P-S6K1 staining. Scale bar, 100 mm.
+
+(E) Correlation plot of Rab1A and P-S6K1 IHC staining (arbitrary units). Correlation
+
+coefficient of correlation (r), and the p value (p) are indicated.
+
+(F) Correlation between Rab1A and P-S6K1 in cases with heterogeneous levels
+
+black arrowhead, low Rab1A-positive/P-S6K1 staining. Scale bar, 50 mm.
+
+(G) Kaplan-Meier survival analysis of CRC cases separated into two groups by th
+
+rank test.
+
+See also Table S1.
+
+Can
+by analyzing the effect of AA restriction on three pairs of CRC
+
+cell lines with different Rab1A expression levels. There is a
+
+striking inverse relationship between Rab1A expression and
+
+cell growth during AA restriction. DLD1 and CACO2 cells
+
+(high Rab1A expression) are much more sensitive to AA restric-
+
+tion than RKO and COLO205 (low Rab1A expression), whereas
+
+HCT116 and KM12 (modest Rab1A expression) are inter-
+
+mediate (Figure 6F). For example, the growth of DLD1 and
+
+CACO2 cells is reduced by nearly 50% in culture medium
+
+supplied with 75% AA (Figure 6F). In contrast, that of RKO
+
+and COLO205 remains normal. On the other hand, no sig-
+
+nificant correlation is seen between Rab1A expression and
+
+the sensitivity to serum or glucose starvation (Figures 6G
+
+and 6H; Figure S5E). These observations suggest that CRC
+
+cells with Rab1A overexpression are highly addictive to AA
+
+for growth.
+
+Rab1A Overexpression Promotes Oncogenic
+Transformation and Malignant Growth
+To evaluate the pathological consequence of Rab1A overex-
+
+pression, we ectopically expressed GFP or GFP-Rab1A in NIH
+
+3T3 cells. As observed in HEK293E cells, GFP-Rab1A stimulates
+
+S6K1 phosphorylation compared with GFP (Figure 7A) and the
+
+growth and colony formation of NIH 3T3 cells (Figures 7B and
+
+7C; Figure S6A). These cells also form large foci in confluent cul-
+
+ture and exhibit anchorage-independent growth (Figures 7D and
+
+7E; Figure S6B). In contrast, the H-RasV12 mutant does not sig-
+
+nificantly affect mTORC1 signaling or promote oncogenic
+
+growth (Figures 7A–7E; Figures S6A and S6B). Of note, cells
+
+with GFP-Rab1A display similar oncogenic growth in the
+
+absence or presence of H-RasV12, indicating that Rab1A does
+
+not cooperate with H-RasV12 in oncogenic transformation.
+
+Compared with WT Rab1A, Rab1A-GTP further promotes,
+
+whereas Rab1A-GDP and Rab1A-C2S reduce, cell growth (Fig-
+
+ure S6C), which is consistent with their mTORC1-activating
+
+activity.
+
+We further evaluated the oncogenic potential of Rab1A in vivo
+
+by injecting nude mice with NIH 3T3 cells stably expressing
+
+GFP-Rab1A or GFP. Control cells have a low propensity to
+
+form tiny tumors in nude mice (6 out of 12) (Figures 7F and
+
+7G), which is consistent with previously studies (Greig et al.,
+
+1985; Rong et al., 1994). In contrast, GFP-Rab1A cells form large
+
+tumors with 100% efficiency (12 out of 12) (Figures 7F and 7G).
+
+Histologically, GFP-Rab1A tumors display elevated S6K1 phos-
+
+phorylation and malignant phenotypes (e.g., high cell density,
+
+mitotic index, and nuclear variability) (Figure 7H). These results
+
+indicate that Rab1A overexpression is sufficient to transform
+
+immortalized cells.
+f Rab1A staining in CRC versus paired non-cancerous tissue.
+
+are representative cases with high, moderate, or negative Rab1A staining and
+
+was evaluated by a nonparametric Spearman test. The number of cases (n), the
+
+of Rab1A and P-S6K1. Red arrowhead, high Rab1A-positive/P-S6K1 staining;
+
+e median value for Rab1A-positive staining. The p value was calculated by log
+
+cer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc. 761
+
+
+
+CA
+CO
+
+2
+
+CO
+LO
+
+20
+5
+
+DL
+D-
+
+1
+
+HC
+T1
+
+16
+
+KM
+12
+
+LO
+VO
+
+RK
+O
+SW
+
+11
+16
+
+SW
+48
+SW
+
+48
+0
+
+P-AKT1
+
+Tubulin
+
+P-S6K1
+
+S6K1
+
+AKT1
+
+Rab1A
+
+A B
+
+I J
+
+K
+
+0
+
+40
+
+80
+
+120
+
+160
+
+0 30 60 90
+
+r = 0.9152
+p = 0.0002
+
+P
+-S
+
+6K
+1 
+
+(T
+38
+
+9)
+
+n = 10
+
+Control shRNA
+
+NC    shRab1A
+
+1 cm
+
+Rab1A
+
+S6K1
+
+P-AKT
+
+AKT
+
+β-Actin
+
+shRab1A 
+KM12
+-    +
+
+Longer exposure
+
+Moderate High Low
+
+P-S6K1
+
+Rab1A
+expression
+
+HCT116 DLD1 CACO2    COLO205RKO  
+
+CACO2
+
+0
+0.05
+0.1
+
+0.15
+0.2
+
+0.25
+0.3
+
+0.35
+0.4
+
+0.45
+
+0 24 48 72
+
+NC
+shRab1A
+
+R
+el
+
+at
+iv
+
+e 
+C
+
+el
+l G
+
+ro
+w
+
+th
+
+R
+el
+
+at
+iv
+
+e 
+C
+
+el
+l  G
+
+r o
+w
+
+th
+
+0
+0.05
+0.1
+
+0.15
+0.2
+
+0.25
+0.3
+
+0.35
+0.4
+
+0.45
+0.5
+
+0 24 48 72
+
+NC
+shRab1A
+
+HCT116
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0 24 48 72
+
+NC
+shRab1A
+
+R
+el
+
+at
+iv
+
+e 
+C
+
+el
+l G
+
+ro
+w
+
+th
+
+KM12
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0 24 48 72
+
+NC
+shRab1A
+
+R
+el
+
+at
+iv
+
+e 
+C
+
+el
+l G
+
+ro
+w
+
+th
+
+RKO
+
+0
+0.05
+0.1
+
+0.15
+0.2
+
+0.25
+0.3
+
+0.35
+
+0 24 48 72
+
+NC
+shRab1A
+
+COLO205
+
+0
+0.05
+0.1
+
+0.15
+0.2
+
+0.25
+0.3
+
+0.35
+0.4
+
+0 24 48 72
+
+NC
+shRab1A
+
+NC       shRab1A
+
+HCT116CACO2 KIM12 RKODLD1
+
+NC   shR1A        
+
+100
+75
+
+50
+
+25
+
+0
+
+C
+ol
+
+o
+ny
+
+ #
+
+100
+75
+
+50
+
+25
+
+NC   shRab1A       
+0
+
+C
+ol
+
+o
+ny
+
+ #
+
+100
+75
+
+50
+
+25
+
+NC   shRab1A     
+0
+
+C
+ol
+
+o
+ny
+
+ #
+
+NC   shRab1A     
+
+100
+
+75
+
+50
+
+25
+
+0
+
+C
+ol
+
+o
+ny
+
+ #
+
+NC   shRab1A     
+
+100
+75
+
+50
+
+25
+0
+
+C
+ol
+
+o
+ny
+
+ #
+
+NC   shRab1A     
+
+100
+75
+
+50
+
+25
+0
+
+C
+ol
+
+o
+ny
+
+ #
+NC       shRab1A NC       shRab1A NC       shRab1A NC       shRab1A NC       shRab1A
+
+C
+
+D E
+
+F
+
+COLO205
+
+Day after injection
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+4 6 8 10 12 14
+
+n=8
+
+T
+um
+
+or
+ V
+
+ol
+um
+
+e 
+(m
+
+m
+  )3
+
+H&ERab1A p-S6K1 Ki67
+
+R
+el
+
+at
+iv
+
+e 
+C
+
+e l
+l G
+
+ro
+w
+
+th
+
+R
+el
+
+at
+iv
+
+e 
+C
+
+e l
+l G
+
+ro
+w
+
+th
+
+G H
+
+-    + -    + -    + -    + -    +
+COLO205RKO  
+
+-    + -    +
+
+shRab1A
+NC
+
+DLD1
+
+Rab1A
+
+Mitotic index:  11-15 per HPF Mitotic index:  1-3 per HPF
+
+H&ERab1A p-S6K1 Ki67
+
+Rab1A shRNA
+
+(legend on next page)
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+
+762 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+RKO is a CRC cell line with low Rab1A expression. GFP-
+
+Rab1A overexpression enhances S6K1 phosphorylation (Fig-
+
+ure 7I) and promotes RKO cell growth and colony formation
+
+(Figures 7J and 7K) and xenograft tumor growth in nude mice
+
+(Figures 7L and 7M). RKO tumors expressing GFP-Rab1A
+
+show elevated P-S6K1 and an elevatedmitotic index (Figure 7N).
+
+Therefore, Rab1A overexpression can also enhance the malig-
+
+nant growth of established tumors. To determine the depen-
+
+dence of Rab1A-mediated transformation on Rheb and Rag
+
+GTPases, we knocked down Rheb or RagA/RagB in RKO cells
+
+overexpressing GFP-Rab1A. Downregulation of Rheb and
+
+Raptor much more significantly attenuates Rab1A-stimulated
+
+mTORC1 signaling, cell growth, and colony formation than
+
+knockdown of RagA and RagB (Figures S6D–S6F). Therefore,
+
+Rab1A is primarily dependent on Rheb for stimulation of
+
+mTORC1 signaling and oncogenic growth.
+
+Rab1A Overexpression Promotes mTORC1-Dependent
+Oncogenic Growth and Determines Rapamycin
+Sensitivity in CRC
+Successful targeted cancer therapy hinges on hyperactivation
+
+of the target signaling pathway (Shawver et al., 2002). Cancer
+
+cells become dependent on, or ‘‘addicted to’’ such ‘‘growth
+
+driver’’ pathway, rendering these cells prone to the targeted
+
+treatment. We therefore investigated the relationship between
+
+Rab1A overexpression and rapamycin sensitivity. Indeed,
+
+there is a strong correlation between Rab1A expression and
+
+growth inhibition in the panel of CRC cell lines, with the highest
+
+rapamycin sensitivity for DLD1 and CACO2 and the lowest for
+
+RKO and COLO205 (Figure 8A). To verify this finding in vivo,
+
+we generated DLD1 and RKO xenograft tumors, representing
+
+CRC with high and low Rab1A expression, respectively. After
+
+tumors were established, the animals were treated with rapa-
+
+mycin or a control vehicle. Rapamycin completely blocks the
+
+growth of DLD1 tumors but has no discernible effect on RKO
+
+tumors (Figure 8B), despite strong on-target inhibition of
+
+mTORC1 signaling by rapamycin (Figure 8C). Moreover, rapa-
+
+mycin abrogates the elevated mTORC1 signaling, growth,
+
+and colony formation of NIH 3T3 and RKO cells driven by
+
+Rab1A overexpression (Figures 8D and 8E), indicating that
+
+the oncogenic growth by Rab1A overexpression is indeed
+
+mediated by mTORC1. Together, these results demonstrate
+
+that Rab1A overexpression drives mTORC1-dependent onco-
+
+genic growth and determines drug sensitivity to mTORC1-
+
+targeted therapy in CRC.
+Figure 5. Rab1A Overexpression Is a Driver for CRC Growth
+
+(A) A panel of human CRC cell lines were analyzed for the level of Rab1A, P-S6K1(
+
+the level of Rab1A and the level of P-S6K1(T389) was determined (bottom panel
+
+(B) Rab1A was knocked down in three pairs of CRC cell lines representing h
+
+P-S6K1(T389), S6K, P-AKT(S473), and AKT was analyzed by immunoblot.
+
+(C–E) Rab1A was knocked down in human CRC cell lines expressing high (C), m
+
+was analyzed by sulforhodamine B (SRB) assay. Data represent means ± SD of
+
+(F–H) Rab1A was knocked down in human CRC cell lines expressing high (F), m
+
+determined. Data represent means ± SD of three independent experiments (colo
+
+(I and J) Quantification results of tumor growth (I) and representative images o
+
+knockdown on the growth of DLD-1 xenograft tumors. Data represent means ±
+
+(K) DLD1 xenograft tumors were analyzed by hematoxylin and eosin (H&E) stain
+
+mitotic nuclei per high power field (HPF). Scale bar, 50 mm.
+
+See also Figure S4.
+
+Can
+DISCUSSION
+
+Rab1 is a small GTPase previously known for its role in vesicle
+
+transport from the ER to the Golgi. Here we describe a Rab1
+
+function that mediates AA signaling to activate mTORC1.
+
+Downregulation of Rab1 inhibits mTORC1 activation by AA in
+
+yeast and humans, indicating that this Rab1 function is well
+
+conserved. Mechanistically, AA stimulates Rab1A GTP binding
+
+and the GTP-dependent interaction with mTORC1 in the Golgi.
+
+Rab1 does not directly activate mTORC1 kinase activity (data
+
+not shown). Instead, it regulates Rheb interaction with mTORC1
+
+in the Golgi. Together, these observations show that Rab1 uses
+
+the Golgi as an anchor to regulate mTORC1 activation by Rheb
+
+in response to AA sufficiency.
+
+Rab1A and Rag both interact with mTORC1 in response to AA
+
+sufficiency and promote the colocalization of mTORC1 with
+
+Rheb. However, they are anchored on two distinct endomem-
+
+brane systems, with Rag on the lysosomes and Rab1A on the
+
+Golgi. Rab1A knockdown blocks Rheb-mTORC1 interaction on
+
+the Golgi but not the lysosomes (Figure 8F). Rab1A overexpres-
+
+sion rescues the ability of AA to activate mTORC1 in the absence
+
+of RagA/RagB, whereas overexpression of the hyperactive
+
+RagBGTP/RagCGDP complex partially restores AA activation of
+
+mTORC1 when Rab1A is knocked down. In addition, Rab1A
+
+requires Rheb, but not Rag, to stimulate mTORC1 signaling
+
+and oncogenic growth in CRC cells. These observations suggest
+
+that Rab1A and Rag operate as two independent axes of AA
+
+signaling to mTORC1. Interestingly, constitutively activated
+
+Rag GTPases in humans, but not in yeast, partially rescue
+
+mTORC1 activation by AA in the absence of Rab1A, suggesting
+
+that Rag gains a bigger role in AA signaling during evolution.
+
+Because AAs are essential for cell growth and metabolism, it
+
+makes sense for eukaryotic cells to add redundant signaling
+
+modules, Rab1 and Rag, to transduce AA signals, which ensures
+
+the reliable transmission of this crucial mitogenic signal. In addi-
+
+tion, it is possible that the two signaling branches have distinct
+
+functions to provide finer control of the signaling process (e.g.,
+
+engaging in external versus internal AA signals or a different
+
+type of AA).
+
+Small GTPases such as Ras, Rho, Rac, and Ral are known for
+
+their roles in cancer initiation and development. Rab proteins
+
+constitute one of the largest subfamilies of small GTPases
+
+and are generally regarded as housekeeping proteins involved
+
+in intracellular membrane dynamics. To date, their roles in
+
+carcinogenesis remain obscure. Only until recently were select
+T389), and P-AKT(473) by immunoblot (top panel), and the correlation between
+
+, shown as in Figure 2E).
+
+igh, moderate, and low Rab1A expression, as indicated, and the effect on
+
+oderate (D), or low (E) levels of Rab1A, and the relative growth of these cells
+
+three independent experiments. NC, control shRNA.
+
+oderate (G), or low (H) levels of Rab1A, and their ability to form colonies was
+
+ny number/well in 12-well plates).
+
+f tumors dissected at the end of the study (J) showing the effect of Rab1A
+
+SD.
+
+ing and by IHC as indicated. The mitotic index is expressed by the number of
+
+cer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc. 763
+
+
+
+0.00
+0.10
+0.20
+0.30
+0.40
+0.50
+0.60
+0.70
+0.80
+0.90
+1.00
+
+0 24 48 72
+
+Time (hr)
+
+C
+el
+
+l G
+ro
+
+w
+th
+
+DLD1
+DLD1 shRab1A
+DLD1 WT/Null
+DLD1 Null/MT
+
+0.00
+0.10
+0.20
+0.30
+0.40
+0.50
+0.60
+0.70
+0.80
+0.90
+1.00
+
+0 24 48 72
+
+Time (hr)
+
+C
+el
+
+l G
+ro
+
+w
+th
+
+HCT116
+HCT116 shRab1A
+HCT116 WT/Null
+HCT116 Nnull/MT
+
+A B C
+
+D E
+
+F G H
+
+100
+
+75
+
+50
+
+25
+
+0
+
+C
+ol
+
+o
+ny
+
+ #
+
+W
+T/
+
+MT
+
+W
+T/
+
+Nu
+ll
+
+Nu
+ll/M
+
+T
+
+Ra
+b1
+
+A
+
+    
+sh
+
+RN
+A
+
+100
+
+75
+
+50
+
+25
+
+0
+
+C
+ol
+
+o
+ny
+
+ #
+
+W
+T/
+
+MT
+
+W
+T/
+
+Nu
+ll
+
+Nu
+ll/M
+
+T
+
+Ra
+b1
+
+A
+
+    
+sh
+
+RN
+A
+
+-0.2
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+0.25 0.5 0.75 10
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+0.25 0.5 0.75 1
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+0.25 0.5 0.75 1
+
+C
+el
+
+l G
+ro
+
+w
+t h
+
+ R
+el
+
+at
+iv
+
+e  
+to
+
+ C
+on
+
+t r
+ol
+
+RKO
+
+KM12
+
+COLO205
+
+HCT116
+
+DLD1
+
+CACO2
+
+P-AKT 
+
+P-S6K 
+
+Genotype
+
+S6K
+
+AKT
+
+Rab1A
+
+W
+T/M
+
+T
+
+W
+T/M
+
+T
+
++ 
+sh
+
+Ra
+b1
+
+A 
+
+W
+T/N
+
+ull
+
+Nu
+ll/M
+
+T
+
+W
+T/M
+
+T
+
+W
+T/M
+
+T
+
++ 
+sh
+
+Ra
+b1
+
+A 
+
+W
+T/N
+
+ull
+
+Nu
+ll/M
+
+T
+
+DLD1 HCT116
+
+Glucose Concentration
+
+C
+el
+
+l G
+ro
+
+w
+th
+
+ R
+el
+
+at
+iv
+
+e  
+to
+
+ C
+on
+
+tr
+ol
+
+C
+el
+
+l G
+ro
+
+w
+t h
+
+ R
+el
+
+at
+iv
+
+e  
+t o
+
+ C
+on
+
+t r
+ol
+
+Serum ConcentrationAA Concentration
+
+WT/MT WT/NullshRab1A Null/MT
+
+WT/MT WT/NullshRab1A Null/MT
+
+Figure 6. Rab1A, Rather Than Activated PI3K or MEK, Is Crucial for mTORC1 Signaling and Oncogenic Growth in CRC
+
+(A) DLD1 and HCT116 parental cells, cells with Rab1A knockdown, or cells with deletion of the WT or mutant (MT) PIK3CA allele were analyzed for levels of P-
+
+S6K1, S6K1, P-AKT, and AKT.
+
+(B–E) Parental, Rab1A knockdown, or WT or MT PIK3CA allele-deleted DLD1 (B and C) and HCT116 (D and E) cells were analyzed for cell growth (B and D) and
+
+colony formation (C and E). Data represent means ± SD of three independent experiments.
+
+(F–H) The growth of CRC cell lines with differential Rab1A expression was assayed in culture media containing varied amounts of AA (F), serum (G), or glucose (H)
+
+(13, 0.753, 0.53, or 0.253 normal). Data represent means ± SD of three independent experiments.
+
+See also Figure S5.
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+members of this subfamily (e.g., Rab25) implicated in human
+
+cancer (Cheng et al., 2004). Interestingly, Rab1A has been re-
+
+ported previously to be highly overexpressed in human tongue
+
+squamous cell carcinomas (Shimada et al., 2005). Here we
+
+report that Rab1A is overexpressed in CRC. In addition, Rab1A
+
+is overexpressed in breast and liver tumors (unpublished data).
+
+These results indicate that aberrant Rab1A expression is a gen-
+
+eral phenomenon in human malignancies. Although PI3K acts
+
+upstream of mTORC1, surprisingly, activating PI3K mutations
+
+in CRC do not promote mTORC1 signaling or oncogenic growth.
+
+Moreover, the expression of several other mTORC1 activators
+
+such as Rheb and Rag is not correlated with mTORC1 activity.
+764 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc
+These observations suggest that tumors selectively activate
+
+Rab1A-dependent mTORC1 signaling through Rab1A overex-
+
+pression to gain an oncogenic advantage.
+
+Although Rab1A expression has been reported to be elevated
+
+in tongue cancer, the significance of Rab1 overexpression
+
+remained unclear. Here we show that Rab1A overexpression is
+
+sufficient to transform immortalized fibroblasts and promote
+
+malignant growth of established tumor cells, suggesting that
+
+Rab1A is capable of promoting both oncogenic transforma-
+
+tion and growth. Although Rab1A is universally required for
+
+TORC1 signaling, only CRC cells with high Rab1A expression
+
+are strongly dependent on Rab1A for growth, indicating that
+.
+
+
+
+H-RasV12
+
+A C
+
+G
+
+L M
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+    NC    Rab1A     NC    Rab1A
+
+ 
+
+  C
+ol
+
+on
+y 
+
+fo
+rm
+
+at
+io
+
+n 
+
+H-RasV12
+
+D
+
+H
+
+E
+
+B
+
+GFP-Rab1AGFP
+
+0.25
+
+0.00
+
+0.50
+
+0.75
+
+1.00
+
+0 48 7224
+
+R
+el
+
+at
+iv
+
+e 
+G
+
+ro
+w
+
+th GFP-Rab1A
+GFP
+
+Control
+
+ 
+
+Time (hr)
+
+0.25
+
+0.5
+
+0.75
+
+1.00
+
+0 48 7224
+
+GFP-Rab1A
+GFP
+
+ 
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+4 6 8 10 12 14
+
+F
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+1800
+
+4 7 10 13 16 19
+
+T
+um
+
+or
+ V
+
+ol
+um
+
+e 
+(m
+
+m
+3 )
+
+       
+       
+
+Control H-Ras
+
+P-S6K1
+
+  
+
+R
+ab
+
+1A
+P
+
+-S
+6K
+
+1
+H
+
+&
+E
+
+K
+
+Mitotic index:      0-2 per HPF                   5-8 per HPF
+
+N
+
+R
+ab
+
+1A
+H
+
+&
+E
+
+P
+-S
+
+6K
+1
+
+Mitosis index:    1-3 per HPF                   7-10 per HPF
+
+V12
+H-RasV12
+
+I
+
+G
+F
+
+P
+-
+
+R
+ab
+
+1A
+P
+
+- S
+6K
+
+1
+S
+
+6K
+1
+
+J
+
+Day after injection
+
+Day after injection
+
+0.25
+
+0.5
+
+0.75
+
+1.00
+
+0 48 7224
+
+Control H-RasV12
+
+Time (hr)
+
+GFP-Rab1AGFP
+
+H-RasV12
+
+GFP-Rab1AGFP GFP-Rab1AGFP
+
+ 6/12
+(50%)
+
+ 12/12
+(100%)
+
+ 1 cm
+
+ 1 cm
+
+GFP-Rab1AGFP
+
+GFP-Rab1AGFP
+
+GFP-Rab1AGFP
+
+S6K1
+
+GFP-
+Rab1A
+
+GFP-
+Rab1A
+
+GFP
+
+Time (hr)
+
+R
+el
+
+at
+iv
+
+e 
+G
+
+ro
+w
+
+th GFP-Rab1A
+GFP
+
+0
+
+GFP-Rab1A (n = 12)
+GFP (n = 6)
+
+GFP-Rab1A (n = 8)
+GFP (n = 8)
+
+T
+um
+
+or
+ V
+
+ol
+um
+
+e 
+(m
+
+m
+3 )
+
+GFP-Rab1AGFP
+
+G
+F
+
+P
+-R
+
+ab
+1A
+
+G
+F
+
+P
+
+Co
+ntr
+
+ol
+
+Ra
+b1
+
+A
+
+Co
+ntr
+
+ol
+
+Ra
+b1
+
+A
+Co
+
+ntr
+ol
+
+Ra
+b1
+
+A
+
+Figure 7. Rab1A Overexpression Promotes Oncogenic Transformation and Oncogenic Growth
+
+(A) NIH 3T3 or NIH 3T3/H-RasV12 cells stably expressing GFP or GFP-Rab1A were analyzed for P-S6K1(T389).
+
+(B) The growth of NIH 3T3 or NIH 3T3/H-RasV12 cells overexpressing Rab1A. Data represent means ± SD of three independent experiments. Shown are arbitrary
+
+units.
+
+(C) Representative images (top) and quantification results (bottom) of colony formation of NIH 3T3 or NIH 3T3/H-RasV12 cells overexpressing Rab1A (means ± SD
+
+of three independent experiments). Shown is the number of colonies per well (12-well plate).
+
+(D) Representative images of the focus formation assays of NIH 3T3 or NIH 3T3/H-RasV12 cells with or without overexpression of Rab1A. Scale bar, 100 mm.
+
+(legend continued on next page)
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+
+Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc. 765
+
+
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+Rab1A overexpression is a driver for these CRC cells. Remark-
+
+ably, CRC cells with Rab1A overexpression are highly depen-
+
+dent on AA, suggesting that elevated AA signaling renders can-
+
+cer cells addictive to AA. AA signaling is increasingly recognized
+
+as a key mitogenic event, but its role in cancer remains relative
+
+obscure. A recent study implicated GATOR, the GTPase-acti-
+
+vating protein (GAP) for Rag A/RagB as potential tumor suppres-
+
+sor (Bar-Peled et al., 2013). However, genomic mutation of
+
+GATOR components appears to be relatively rare. In contrast,
+
+Rab1A overexpression is widespread in human malignancies,
+
+suggesting that aberrant AA signaling as a result of Rab1 over-
+
+expression is a common mechanism to promote oncogenic
+
+transformation and growth.
+
+mTOR is a major cancer therapeutic target (Bjornsti and
+
+Houghton, 2004; Tsang et al., 2007), with two rapalogs (temsiro-
+
+limus and everolimus) presently used in the clinic. Although
+
+upstream regulators of mTORC1 such as PI3K and PTEN are
+
+commonly mutated in human tumors, such mutations have not
+
+correlated well with clinical responses (Don and Zheng, 2011).
+
+This is consistent with the observations that PI3K mutant is not
+
+responsible for mTORC1 activation and that it promotes survival
+
+rather than oncogenic growth in CRC (Samuels et al., 2005).
+
+Our data indicate that Rab1A overexpression is a driver for
+
+mTORC1-dependent growth, which is correlated with CRC
+
+sensitivity to rapamycin. Further research in this area could
+
+lead to a predictive biomarker for improving mTORC1-targeted
+
+therapy. In addition to cancer, Rab1A is upregulated in a dilated
+
+cardiomyopathy model, and heart-specific Rab1A transgenes
+
+are sufficient to cause cardiac hypertrophy in a gene dosage-
+
+dependent manner in mice (Wu et al., 2001). It is noteworthy
+
+that rapamycin is effective to regress established cardiac
+
+hypertrophy (McMullen et al., 2004). Our findings here provide
+
+a mechanistic explanation for the pathological role of Rab1A in
+
+cancer and cardiac hypertrophy.
+EXPERIMENTAL PROCEDURES
+
+Plasmids and Site-Directed Mutagenesis
+
+The human Rab1A plasmid was a gift from Dr. Marci A. Scidmore (Rzomp
+
+et al., 2003). The plasmids expressing HA-GST-Rheb1, HA-GST-Rap2A,
+
+HA-GST-RagB(Q99L), (RagBGTP), and RagC(S75L) (RagCGDP) (Sancak
+
+et al., 2008) were acquired from AddGene. To generate Rab1A-GFP and
+
+Rab1A-HA, Rab1A cDNAs were subcloned into the EcoRV and NotI sites of
+
+pEGFP-C1 and the SalI and NotI sites of pRK5, respectively. Raptor and
+
+Rictor cDNAs were subcloned into the AscI and MluI sites of pCMV6-AN-
+
+Myc. Rab1AGTP (Q70L), Rab1AGDP (S22N), and Rab1AC2S (C202, 203S) were
+
+generated by PCR site-directed mutagenesis and confirmed by sequencing.
+(E) Representative images of the anchorage-independent growth of NIH 3T3 or N
+
+(F and G) NIH 3T3 cells stably expressing GFP or GFP-Rab1A were injected subc
+
+every 3 days. Representative images of dissected tumors at the end of the experi
+
+bottom Figure 7F show the number and percentage of xenograft tumors formed
+
+(H) Representative xenograft NIH 3T3/GFP-Rab1A tumor tissue sections with ind
+
+10 random HPFs) (400 3 ) for each tumor. Data represent the mitotic index (p <
+
+(I) RKO cells stably expressing GFP or GFP-Rab1A were analyzed for mTORC1
+
+(J) The growth of RKO cells overexpressing GFP or GFP-Rab1A was determined
+
+(K) RKO cells overexpressing GFP or GFP-Rab1A were determined for colony fo
+
+(L andM) RKO cells stably expressing GFP or GFP-Rab1A were injected subcutan
+
+3 days. Representative images of dissected tumors at the end of the experiment (L
+
+(N) H&E staining of RKO xenograft tumor tissues and IHC staining for Rab1A and
+
+See also Figure S6.
+
+766 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc
+The GM130-GFP plasmid was generated by cloning GM130 cDNA into
+
+pEGFP-C1.
+
+Immunological Reagents, Chemicals, Cell Extracts, Western Blot,
+
+and Immunoprecipitation
+
+Immunological reagents were obtained from the following sources. The Tor1-
+
+specific antibody has been described previously (Li et al., 2006). Horseradish
+
+peroxidase-labeled secondary antibodies were from Santa-Cruz Biotech-
+
+nology. Antibodies for mTOR (catalog no. 2983), Raptor (catalog no. 2280),
+
+Rheb (catalog no. 4935), RagA (catalog no. 4537), RagB (catalog no. 8150),
+
+RagC (catalog no. 5466), RagD (catalog no. 4470), Lamp1 (catalog no.
+
+9091), Rictor, P-S6K1(T398), S6K1, P-AKT(S473), AKT, P-4E-BP1(T37/46),
+
+4E-BP1, ERK, P-ERK(T202/Y204), a-tubulin, and the Myc-epitope were from
+
+Cell Signaling Technology. The antibody for the HA epitope was from Bethyl
+
+Laboratories. The antibodies for Rab1A and P-S6K1(T398) for IHC and the
+
+Lamp2 antibody (catalog no. ab25630) were from Abcam. The antibody for
+
+Rab1A (catalog no. 11671 for western blot and immunoprecipitation IP) and
+
+Rab1B were from Proteintech Group. The Rab1A antibody for immunofluo-
+
+rescence (IF) (catalog no. H00005861-M07A) was from Abnova. Protein G-
+
+Sepharose was from GE Healthcare. EDTA-free complete protease inhibitor
+
+cocktail and PhosSTOP were from Roche. Rapamycin and PD98059 were
+
+from Selleck Chemicals. Cell lysis and western blot (Drenan et al., 2004; San-
+
+cak et al., 2008) and immunoprecipitation (Sancak et al., 2008) were performed
+
+as described previously. For determining whether Ratpor or mTOR mediates
+
+the interaction with Rab1A, anti-Rab1A immunoprecipitates were washed
+
+with cell lysis buffer containing 0.25% or 0.50% TX-100.
+
+Xenograft Tumors and Drug Therapy in Athymic Nude Mice
+
+To generate xenograft tumors, a total of 53 106 to 13 107 cells in 100 ml PBS
+
+were injected subcutaneously into 4-week-old female BALB/c nude mice. The
+
+tumor volume was measured using a Vernier caliper and calculated according
+
+to the formula tumor volume (mm3) = (shorter diameter23 longer diameter) / 2.
+
+The tumor volume was measured every other day and is presented as
+
+means ± SD. At the endpoint, mice were sacrificed, and tumors were removed
+
+and photographed. For drug therapy experiments, DLD-1 and RKO cells
+
+were injected subcutaneously into nude mice to establish a xenograft model.
+
+After tumors were established, rapamycin was administered with 5 mg/kg
+
+rapamycin dissolved in DMSO and sterile saline by daily intraperitoneal injec-
+
+tions for 10–12 days. Drug vehicle-treated mice received a daily injection
+
+of identical solution without rapamycin. At least six mice were included in
+
+each treatment group. Animal experiments were approved by Rutgers and
+
+Shanghai Jiaotong University School of Medicine (SJTUSM) Animal Care
+
+and Use committees.
+
+CRC Tissue Array and Immunohistochemistry
+
+Ninety pairs of deidentified malignant infiltrating CRC tumors with paired
+
+noncancerous samples (cutting edge of surgical excision beyond 5 cm
+
+from the cancer areas) were randomly obtained from July 2006 to August
+
+2007. The CRC tissue array was prepared by Shanghai OUTDO Biotech
+
+(Shanghai, China). The survival time was calculated from the day of operation
+
+to the end of the follow-up or the date of death because of the recurrence and
+
+metastasis. This study was carried out according to the provisions of the Hel-
+
+sinki Declaration of 1975 and was reviewed and approved by the SJTUSM
+IH 3T3/H-RasV12 cells with or without overexpression of Rab1A.
+
+utaneously into the flanks of nude mice, and the tumor volume was measured
+
+ment (F) and quantification of tumor growth (G) are shown. The numbers at the
+
+. Data represent means ± SD.
+
+icated staining. The mitotic index was obtained by morphological evaluation of
+
+0.001 by Student’s t test). Scale bar, 50 mm. Inset scale bar, 10 mm.
+
+signaling.
+
+by SRB assay. Data represent means ± SD.
+
+rmation. Shown are representative images.
+
+eously into the flanks of nudemice, and the tumor volumewasmeasured every
+
+) and quantification of tumor growth (M) are shown. Data represent means ± SD.
+
+P-S6K1 levels. Scale bar, 50 mm.
+
+.
+
+
+
+NS            RapaNS          Rapa
+
+A B
+
+C D
+
+E
+
+1 cm 1 cm
+
+Rab1A
+
+Control
+
+-
+
+Rab1A
+
+P-S6K1
+
+S6K1
+
+NC       Rab1A
+Rapa        - +      - +
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+100
+
+Treatment Time (hr)
+R
+
+el
+at
+
+iv
+e 
+
+G
+ro
+
+w
+th
+
+Rab1A - rapa
+Rab1A + rapa
+NC - rapa
+NC + rapa
+
+Rapa - +
+
+P-S6K
+
+S6K1
+
+Rab1A
+
+Control    Rab1A
+Rapa            - +      - +
+
+Control    Rab1A
+Rapa - +     - +
+
+100
+
+75
+50
+25
+
+0
+
+Rab1A expression
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+D
+LD
+
+1
+
+C
+A
+
+C
+O
+
+2
+
+H
+C
+
+T
+11
+
+6
+
+K
+M
+
+12
+
+S
+W
+
+11
+16
+
+LO
+V
+
+O
+
+S
+W
+
+48
+0
+
+S
+W
+
+48
+
+R
+K
+
+O
+
+C
+O
+
+LO
+20
+
+5
+
+NS                                  Rapa
+
+DLD1
+
+RKO
+
+Ragulator
+
+RagC
+GTPRagB
+
+GDP
+
+Ragulator
+
+GDP
+
+Lysosomes
+
+Rheb
+
+mTORC1
+
+mTORC1mTORC1mTORC1
+
+mTORC1
+Amino Acids
+
+Golgi
+
+Amino Acids
+
+mTORC1
+Rheb
+
+Rab1
+
+Rab1
+GTP
+
+Rheb
+
+RagC
+GDPRagB
+
+GTP
+
+F
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+4 6 8 10 12 14
+
+NS
+Rapa
+n=6
+
+Start of 
+Treatment
+
+DLD1
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+6 8 10 12 14 16 18
+
+NS
+Rapa
+n=6
+
+Start of 
+Treatment
+
+RKO
+
+Day after injection Day after injection
+
+0 12 24 36
+
+G
+ro
+
+w
+th
+
+ In
+hi
+
+bi
+tio
+
+n 
+(%
+
+)
+
+R
+el
+
+at
+iv
+
+e 
+G
+
+ro
+w
+
+th
+
+Tu
+m
+
+or
+ V
+
+ol
+um
+
+e 
+(m
+
+m
+  )3
+
+Tu
+m
+
+or
+ V
+
+ol
+um
+
+e 
+(m
+
+m
+  )3
+
+Figure 8. Rab1A Overexpression Promotes mTORC1-Dependent Oncogenic Growth and Determines Rapamycin Sensitivity
+
+(A) Relative growth inhibition of CRC cells treated with 10 nM rapamycin for 48 hr.
+
+(B) DLD-1 or RKO tumor-bearing animals were treated with rapamycin or a drug vehicle (NS) and measured for tumor growth. Shown are representative tumors
+
+dissected at the end of treatment. Data represent means ± SD.
+
+(legend continued on next page)
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+
+Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc. 767
+
+
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+Ethics Committee. The streptavidin-biotin complex method was used in
+
+immunohistochemistry to detect Rab1A and P-S6K1(T389). Primary anti-
+
+bodies against Rab1A and P-S6K1(T389) were used at a concentration of
+
+1:400 and 1:50, respectively. To score a tumor cell as positive, both cyto-
+
+plasmic and nuclear staining were counted. For the quantitative analysis, a
+
+Histo score (H score) was calculated based on the staining intensity and per-
+
+centage of stained cells using the Aperio ScanScope systems. The intensity
+
+score was defined as follows: 0, no appreciable staining in cells; 1, weak
+
+staining in cells comparable with stromal cells; 2, intermediate staining; 3,
+
+strong staining. The fraction of positive cells was scored as 0%–100%. The
+
+H score was calculated by multiplying the intensity score and the fraction
+
+score, producing a total range of 0–300. A cutoff of 30 was used for P-
+
+S6K1 positivity and 90 for Rab1A positivity. Tissue sections were examined
+
+and scored separately by two independent investigators blinded to the clini-
+
+copathologic data.
+
+Statistical Analysis
+
+Statistical analyses were carried out using SAS 9.13 software. The statistical
+
+analysis of numeration data was done using Pearson’s chi-square test or
+
+Fisher’s exact chi-square test. The comparisons of continuous data be-
+
+tween groups were performed using Student’s t tests or Wilcoxon signed
+
+rank test. A nonparametric Spearman correlation test was performed to
+
+analyze the correlation between Rab1A and P-S6K1 expression levels. For
+
+survival analysis, data collection was locked on August 16, 2011. Kaplan-
+
+Meier plots and log rank tests were applied to determine the significance
+
+of differences in cumulative survival. All statistical tests were conducted at
+
+a two-sided significance level of 0.05. For additional methods, see Supple-
+
+mental Information.
+
+SUPPLEMENTAL INFORMATION
+
+Supplemental Information includes Supplemental Experimental Procedures,
+
+six figures, and one table and can be found with this article online at http://
+
+dx.doi.org/10.1016/j.ccell.2014.09.008.
+
+AUTHOR CONTRIBUTIONS
+
+J.D.T., Y.J.Z., Y.H.W., J.H.C., and L.M. designed and performed the experi-
+
+ments and prepared the manuscript. H.Y.W. advised on experimental design
+
+and provided experimental expertise. X.F.Z. designed the experiments and
+
+prepared the manuscript.
+
+ACKNOWLEDGMENTS
+
+We thank Drs. Cecilia Alvarez, Bert Vogelstein, Marci Scidmore, and Nava
+
+Segev for providing plasmids, cancer cell lines, and yeast strains; Drs. Peter
+
+Yurchenko and Guangye Du for advice on histological characterization of
+
+primary and xenograft tumors; and Brian Kain for assistance with confocal
+
+cell imaging. This work was supported by NIH R01 Grants CA123391 and
+
+CA173519 (to X.F.Z.), by New Jersey Commission on Cancer Research
+
+Postdoctoral Fellowship DFHS14PPC032 (to J.D.T.), and by Natural Science
+
+Foundation of China Grant 81270035 (to Y.J.Z.).
+
+Received: May 21, 2014
+
+Revised: July 16, 2014
+
+Accepted: September 19, 2014
+
+Published: October 23, 2014
+(C) DLD-1 and RKO tumors treated with rapamycin or a drug vehicle were analy
+
+(D) NIH 3T3 cells overexpressing GFP or GFP-Rab1A were treated with 10 nM ra
+
+means ± SD of three independent experiments.
+
+(E) RKO cells stably expressing GFP or GFP-Rab1A were treated with 10 nM rapam
+
+means ± SD of three independent experiments.
+
+(F) Model comparing Rab1- and Rag-mediatedmTORC1 activation by AA. Rab1 a
+
+Golgi and lysosomes, respectively, to activate mTORC1 through Rheb in respon
+
+768 Cancer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc
+REFERENCES
+
+Alvarez, C., Garcia-Mata, R., Brandon, E., and Sztul, E. (2003). COPI recruit-
+
+ment is modulated by a Rab1b-dependent mechanism. Mol. Biol. Cell 14,
+
+2116–2127.
+
+Bar-Peled, L., Chantranupong, L., Cherniack, A.D., Chen, W.W., Ottina, K.A.,
+
+Grabiner, B.C., Spear, E.D., Carter, S.L., Meyerson, M., and Sabatini, D.M.
+
+(2013). A Tumor suppressor complex with GAP activity for the Rag GTPases
+
+that signal amino acid sufficiency to mTORC1. Science 340, 1100–1106.
+
+Bertram, P.G., Zeng, C., Thorson, J., Shaw, A.S., and Zheng, X.F. (1998). The
+
+14-3-3 proteins positively regulate rapamycin-sensitive signaling. Curr. Biol. 8,
+
+1259–1267.
+
+Binda, M., Péli-Gulli, M.-P., Bonfils, G., Panchaud, N., Urban, J., Sturgill, T.W.,
+
+Loewith, R., and De Virgilio, C. (2009). The Vam6 GEF controls TORC1 by acti-
+
+vating the EGO complex. Mol. Cell 35, 563–573.
+
+Bjornsti, M.-A., and Houghton, P.J. (2004). The TOR pathway: a target for can-
+
+cer therapy. Nat. Rev. Cancer 4, 335–348.
+
+Bonfils, G., Jaquenoud,M., Bontron, S., Ostrowicz, C., Ungermann, C., andDe
+
+Virgilio, C. (2012). Leucyl-tRNA synthetase controls TORC1 via the EGO
+
+complex. Mol. Cell 46, 105–110.
+
+Buerger, C., DeVries, B., and Stambolic, V. (2006). Localization of Rheb to the
+
+endomembrane is critical for its signaling function. Biochem. Biophys. Res.
+
+Commun. 344, 869–880.
+
+Calero, M., Chen, C.Z., Zhu, W., Winand, N., Havas, K.A., Gilbert, P.M., Burd,
+
+C.G., and Collins, R.N. (2003). Dual prenylation is required for Rab protein
+
+localization and function. Mol. Biol. Cell 14, 1852–1867.
+
+Chan, T.-F., Carvalho, J., Riles, L., and Zheng, X.F.S. (2000). A chemical geno-
+
+mics approach toward understanding the global functions of the target of
+
+rapamycin protein (TOR). Proc. Natl. Acad. Sci. USA 97, 13227–13232.
+
+Cheng, K.W., Lahad, J.P., Kuo, W.L., Lapuk, A., Yamada, K., Auersperg, N.,
+
+Liu, J., Smith-McCune, K., Lu, K.H., Fishman, D., et al. (2004). The RAB25
+
+small GTPase determines aggressiveness of ovarian and breast cancers.
+
+Nat. Med. 10, 1251–1256.
+
+Dechant, R., and Peter, M. (2008). Nutrient signals driving cell growth. Curr.
+
+Opin. Cell Biol. 20, 678–687.
+
+Don, A.S., and Zheng, X.F. (2011). Recent clinical trials of mTOR-targeted
+
+cancer therapies. Rev. Recent Clin. Trials 6, 24–35.
+
+Drenan, R.M., Liu, X., Bertram, P.G., and Zheng, X.F. (2004). FKBP12-rapamy-
+
+cin-associated protein or mammalian target of rapamycin (FRAP/mTOR)
+
+localization in the endoplasmic reticulum and the Golgi apparatus. J. Biol.
+
+Chem. 279, 772–778.
+
+Gomes, A.Q., Ali, B.R., Ramalho, J.S., Godfrey, R.F., Barral, D.C., Hume, A.N.,
+
+and Seabra, M.C. (2003). Membrane targeting of Rab GTPases is influenced
+
+by the prenylation motif. Mol. Biol. Cell 14, 1882–1899.
+
+Greig, R.G., Koestler, T.P., Trainer, D.L., Corwin, S.P., Miles, L., Kline, T.,
+
+Sweet, R., Yokoyama, S., and Poste, G. (1985). Tumorigenic and metastatic
+
+properties of ‘‘normal’’ and ras-transfected NIH/3T3 cells. Proc. Natl. Acad.
+
+Sci. USA 82, 3698–3701.
+
+Han, J.M., Jeong, S.J., Park, M.C., Kim, G., Kwon, N.H., Kim, H.K., Ha, S.H.,
+
+Ryu, S.H., and Kim, S. (2012). Leucyl-tRNA synthetase is an intracellular
+
+leucine sensor for the mTORC1-signaling pathway. Cell 149, 410–424.
+
+Hanker, A.B., Mitin, N., Wilder, R.S., Henske, E.P., Tamanoi, F., Cox, A.D., and
+
+Der, C.J. (2010). Differential requirement of CAAX-mediated posttranslational
+
+processing for Rheb localization and signaling. Oncogene 29, 380–391.
+zed for P-S6K1 by IHC. Scale bar, 50 mm.
+
+pamycin and assayed for mTORC1 signaling and cell growth. Data represent
+
+ycin and assayed for mTORC1 signaling and colony formation. Data represent
+
+nd RagGTPases represent two distinct AA signaling branches anchoring on the
+
+se to AA sufficiency.
+
+.
+
+http://dx.doi.org/10.1016/j.ccell.2014.09.008
+http://dx.doi.org/10.1016/j.ccell.2014.09.008
+
+
+Cancer Cell
+
+Rab1 Mediates AA Signaling and Drives Oncogenesis
+Hughes, T.R., Marton, M.J., Jones, A.R., Roberts, C.J., Stoughton, R., Armour,
+
+C.D., Bennett, H.A., Coffey, E., Dai, H., He, Y.D., et al. (2000). Functional dis-
+
+covery via a compendium of expression profiles. Cell 102, 109–126.
+
+Hutagalung, A.H., and Novick, P.J. (2011). Role of Rab GTPases in membrane
+
+traffic and cell physiology. Physiol. Rev. 91, 119–149.
+
+Inoki, K., Li, Y., Xu, T., andGuan, K.-L. (2003). RhebGTPase is a direct target of
+
+TSC2 GAP activity and regulates mTOR signaling. Genes Dev. 17, 1829–1834.
+
+Jorgensen, P., and Tyers, M. (2004). How cells coordinate growth and division.
+
+Curr. Biol. 14, R1014–R1027.
+
+Kim, E., Goraksha-Hicks, P., Li, L., Neufeld, T.P., and Guan, K.-L. (2008).
+
+Regulation of TORC1 by Rag GTPases in nutrient response. Nat. Cell Biol.
+
+10, 935–945.
+
+Li, H., Tsang, C.K., Watkins, M., Bertram, P.G., and Zheng, X.F. (2006).
+
+Nutrient regulates Tor1 nuclear localization and association with rDNA pro-
+
+moter. Nature 442, 1058–1061.
+
+Li, L., Kim, E., Yuan, H., Inoki, K., Goraksha-Hicks, P., Schiesher, R.L.,
+
+Neufeld, T.P., and Guan, K.-L. (2010). Regulation of mTORC1 by the Rab
+
+and Arf GTPases. J. Biol. Chem. 285, 19705–19709.
+
+Liu, X., and Zheng, X.F.S. (2007). Endoplasmic reticulum and Golgi localization
+
+sequences for mammalian target of rapamycin. Mol. Biol. Cell 18, 1073–1082.
+
+Loewith, R., and Hall, M.N. (2011). Target of rapamycin (TOR) in nutrient
+
+signaling and growth control. Genetics 189, 1177–1201.
+
+Loewith, R., Jacinto, E., Wullschleger, S., Lorberg, A., Crespo, J.L., Bonenfant,
+
+D., Oppliger, W., Jenoe, P., and Hall, M.N. (2002). Two TOR complexes, only
+
+one of which is rapamycin sensitive, have distinct roles in cell growth control.
+
+Mol. Cell 10, 457–468.
+
+McMullen, J.R., Sherwood, M.C., Tarnavski, O., Zhang, L., Dorfman, A.L.,
+
+Shioi, T., and Izumo, S. (2004). Inhibition of mTOR signaling with rapamycin
+
+regresses established cardiac hypertrophy induced by pressure overload.
+
+Circulation 109, 3050–3055.
+
+Pind, S.N., Nuoffer, C., McCaffery, J.M., Plutner, H., Davidson, H.W.,
+
+Farquhar, M.G., and Balch, W.E. (1994). Rab1 and Ca2+ are required for the
+
+fusion of carrier vesicles mediating endoplasmic reticulum to Golgi transport.
+
+J. Cell Biol. 125, 239–252.
+
+Rong, S., Segal, S., Anver, M., Resau, J.H., and Vande Woude, G.F. (1994).
+
+Invasiveness and metastasis of NIH 3T3 cells induced by Met-hepatocyte
+
+growth factor/scatter factor autocrine stimulation. Proc. Natl. Acad. Sci.
+
+USA 91, 4731–4735.
+
+Rzomp, K.A., Scholtes, L.D., Briggs, B.J., Whittaker, G.R., and Scidmore, M.A.
+
+(2003). Rab GTPases are recruited to chlamydial inclusions in both a species-
+
+dependent and species-independent manner. Infect. Immun. 71, 5855–5870.
+
+Samuels, Y., Diaz, L.A., Jr., Schmidt-Kittler, O., Cummins, J.M., Delong, L.,
+
+Cheong, I., Rago, C., Huso, D.L., Lengauer, C., Kinzler, K.W., et al. (2005).
+
+Mutant PIK3CA promotes cell growth and invasion of human cancer cells.
+
+Cancer Cell 7, 561–573.
+
+Sancak, Y., Peterson, T.R., Shaul, Y.D., Lindquist, R.A., Thoreen, C.C., Bar-
+
+Peled, L., and Sabatini, D.M. (2008). The Rag GTPases bind raptor and
+
+mediate amino acid signaling to mTORC1. Science 320, 1496–1501.
+
+Sancak, Y., Bar-Peled, L., Zoncu, R., Markhard, A.L., Nada, S., and Sabatini,
+
+D.M. (2010). Ragulator-Rag complex targets mTORC1 to the lysosomal sur-
+
+face and is necessary for its activation by amino acids. Cell 141, 290–303.
+
+Sarbassov, D.D., Ali, S.M., Kim, D.H., Guertin, D.A., Latek, R.R., Erdjument-
+
+Bromage, H., Tempst, P., and Sabatini, D.M. (2004). Rictor, a novel binding
+
+partner of mTOR, defines a rapamycin-insensitive and raptor-independent
+
+pathway that regulates the cytoskeleton. Curr. Biol. 14, 1296–1302.
+Can
+Schieke, S.M., Phillips, D., McCoy, J.P., Jr., Aponte, A.M., Shen, R.-F.,
+
+Balaban, R.S., and Finkel, T. (2006). The mammalian target of rapamycin
+
+(mTOR) pathway regulates mitochondrial oxygen consumption and oxidative
+
+capacity. J. Biol. Chem. 281, 27643–27652.
+
+Sekiguchi, T., Hirose, E., Nakashima, N., Ii, M., and Nishimoto, T. (2001). Novel
+
+G proteins, Rag C and Rag D, interact with GTP-binding proteins, Rag A and
+
+Rag B. J. Biol. Chem. 276, 7246–7257.
+
+Sengupta, S., Peterson, T.R., and Sabatini, D.M. (2010). Regulation of the
+
+mTOR complex 1 pathway by nutrients, growth factors, and stress. Mol. Cell
+
+40, 310–322.
+
+Shawver, L.K., Slamon, D., and Ullrich, A. (2002). Smart drugs: tyrosine kinase
+
+inhibitors in cancer therapy. Cancer Cell 1, 117–123.
+
+Shimada, K., Uzawa, K., Kato, M., Endo, Y., Shiiba, M., Bukawa, H., Yokoe, H.,
+
+Seki, N., and Tanzawa, H. (2005). Aberrant expression of RAB1A in human
+
+tongue cancer. Br. J. Cancer 92, 1915–1921.
+
+Söderberg, O., Gullberg, M., Jarvius, M., Ridderstråle, K., Leuchowius, K.-J.,
+
+Jarvius, J., Wester, K., Hydbring, P., Bahram, F., Larsson, L.-G., and
+
+Landegren, U. (2006). Direct observation of individual endogenous protein
+
+complexes in situ by proximity ligation. Nat. Methods 3, 995–1000.
+
+Stenmark, H. (2009). Rab GTPases as coordinators of vesicle traffic. Nat. Rev.
+
+Mol. Cell Biol. 10, 513–525.
+
+Stocker, H., Radimerski, T., Schindelholz, B., Wittwer, F., Belawat, P., Daram,
+
+P., Breuer, S., Thomas, G., and Hafen, E. (2003). Rheb is an essential regulator
+
+of S6K in controlling cell growth in Drosophila. Nat. Cell Biol. 5, 559–565.
+
+Tee, A.R., Manning, B.D., Roux, P.P., Cantley, L.C., and Blenis, J. (2003). ).
+
+Tuberous Sclerosis Complex Gene Products, Tuberin and Hamartin, Control
+
+mTOR Signaling by Acting as a GTPase-Activating Protein Complex toward
+
+Rheb. Current biology: CB 13, 1259–1268.
+
+Tsang, C.K., Qi, H., Liu, L.F., and Zheng, X.F. (2007). Targeting mammalian
+
+target of rapamycin (mTOR) for health and diseases. Drug Discov. Today 12,
+
+112–124.
+
+Wei, Y., and Zheng, X.F. (2009). Sch9 partially mediates TORC1 signaling to
+
+control ribosomal RNA synthesis. Cell Cycle 8, 4085–4090.
+
+Wei, Y., and Zheng, X.S. (2010). Maf1 regulation: a model of signal transduc-
+
+tion inside the nucleus. Nucleus 1, 162–165.
+
+Wu, G., Yussman, M.G., Barrett, T.J., Hahn, H.S., Osinska, H., Hilliard, G.M.,
+
+Wang, X., Toyokawa, T., Yatani, A., Lynch, R.A., et al. (2001). Increased
+
+myocardial Rab GTPase expression: a consequence and cause of cardiomy-
+
+opathy. Circ. Res. 89, 1130–1137.
+
+Yadav, R.B., Burgos, P., Parker, A.W., Iadevaia, V., Proud, C.G., Allen, R.A.,
+
+O’Connell, J.P., Jeshtadi, A., Stubbs, C.D., and Botchway, S.W. (2013).
+
+mTOR direct interactions with Rheb-GTPase and raptor: sub-cellular localiza-
+
+tion using fluorescence lifetime imaging. BMC Cell Biol. 14, 3.
+
+Yan, G., Lai, Y., and Jiang, Y. (2012). The TOR complex 1 is a direct target of
+
+Rho1 GTPase. Mol. Cell 45, 743–753.
+
+Zaman, S., Lippman, S.I., Zhao, X., and Broach, J.R. (2008). How
+
+Saccharomyces responds to nutrients. Annu. Rev. Genet. 42, 27–81.
+
+Zhang, Y., Gao, X., Saucedo, L.J., Ru, B., Edgar, B.A., and Pan, D. (2003).
+
+Rheb is a direct target of the tuberous sclerosis tumour suppressor proteins.
+
+Nat. Cell Biol. 5, 578–581.
+
+Zhang, Y.J., Duan, Y., and Zheng, X.F. (2011). Targeting the mTOR kinase
+
+domain: the second generation of mTOR inhibitors. Drug Discov. Today 16,
+
+325–331.
+cer Cell 26, 754–769, November 10, 2014 ª2014 Elsevier Inc. 769
+
+
+	Rab1A Is an mTORC1 Activator and a Colorectal Oncogene
+	Introduction
+	Results
+	Ypt1 Is Essential for AA to Activate TORC1 in Yeast
+	AA Stimulates Rab1A Interaction with mTORC1 in a GTP- and Golgi-Dependent Manner in HEK293E cells
+	Rab1A Regulates the Formation of the Rheb-mTORC1 Complex in the Golgi
+	Rab1A Is Overexpressed in Human Colorectal Cancer, Which Is Correlated with Hyperactive mTORC1 Signaling, Tumor Invasion, a ...
+	Rab1A Is Essential for the Oncogenic Growth of Rab1A-Overexpressing CRC Cells
+	Rab1A Overexpression Rather Than Activated PI3K or MEK Is Essential for Hyperactive mTORC1 Signaling and Oncogenic Growth o ...
+	CRC Cells with Rab1A Overexpression Are Addictive to AA for Growth
+	Rab1A Overexpression Promotes Oncogenic Transformation and Malignant Growth
+	Rab1A Overexpression Promotes mTORC1-Dependent Oncogenic Growth and Determines Rapamycin Sensitivity in CRC
+
+	Discussion
+	Experimental Procedures
+	Plasmids and Site-Directed Mutagenesis
+	Immunological Reagents, Chemicals, Cell Extracts, Western Blot, and Immunoprecipitation
+	Xenograft Tumors and Drug Therapy in Athymic Nude Mice
+	CRC Tissue Array and Immunohistochemistry
+	Statistical Analysis
+
+	Supplemental Information
+	Acknowledgments
+	References

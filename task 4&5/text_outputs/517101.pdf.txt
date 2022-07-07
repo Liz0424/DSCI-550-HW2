@@ -1,0 +1,1892 @@
+The Expression and Regulation of Na<sup>+</sup>-K<sup>+</sup>-ATPase in Nasal Epithelial Cells of Chronic Rhinosinusitis with Nasal Polyps
+
+
+Research Article
+
+ORL 2022;84:139–146
+
+The Expression and Regulation of  
+Na+-K+-ATPase in Nasal Epithelial Cells of 
+Chronic Rhinosinusitis with Nasal Polyps
+
+Guangyi Ba a, b, c    Ru Tang a, b, c    Song Mao a, b, c    Zhipeng Li a, b, c    Haibo Ye a, b, c    
+
+Hai Lin a, b, c    Weitian Zhang a, b, c
+
+aDepartment of Otolaryngology-Head and Neck Surgery, Shanghai Jiao Tong University Affiliated Sixth People’s 
+Hospital, Shanghai, PR China; bOtolaryngological Institute, Shanghai Jiao Tong University, Shanghai, PR China; 
+cShanghai Key Laboratory of Sleep Disordered Breathing, Shanghai, PR China
+
+Received: February 17, 2021
+Accepted: May 4, 2021
+Published online: September 22, 2021
+
+Correspondence to: 
+Hai Lin, linh96 @ 163.com
+Weitian Zhang, drzhangwt @ 163.com
+
+© 2021 S. Karger AG, Baselkarger@karger.com
+www.karger.com/orl
+
+DOI: 10.1159/000517101
+
+Keywords
+Chronic rhinosinusitis · Nasal polyp · Human nasal epithelial 
+cell · Na+-K+-ATPase · Aquaporin-5 · Edema
+
+Abstract
+Objective: Na+-K+-ATPase (NKA) is essential in maintaining 
+cell permeability, reserving potential energy, and prevent-
+ing cellular edema. Nevertheless, how NKA expression is 
+altered and regulated in chronic rhinosinusitis with nasal 
+polyps (CRSwNPs) remain uncertain. Therefore, the pres-
+ent study aimed to explore the expression and regulation 
+of NKA in CRSwNP. Methods: NKA immunolabeling was as-
+sessed by the immunohistochemistry method, NKA protein 
+levels were detected with the Western blotting method, 
+and mRNA levels of NKA and aquaporin-5 (AQP5) were as-
+sayed by real-time PCR in nasal tissues from CRSwNP and 
+control subjects. The co-localization of NKA with inflam-
+matory cells was evaluated by immunofluorescence stain-
+ing. In addition, human nasal epithelial cells (HNECs) were 
+cultured and stimulated using various stimulators to eval-
+uate the regulation of NKA. Results: We found significant-
+ly decreased NKA positive cells, NKA protein levels, and 
+mRNA levels of NKA and AQP5 in nasal tissues from 
+CRSwNP patients compared to control subjects, especially 
+
+in eosinophilic CRSwNP. Furthermore, NKA mRNA levels in 
+HNECs were downregulated by staphylococcal enterotox-
+in B (SEB), lipopolysaccharides (LPSs), inflammatory cyto-
+kine (IFN)-γ, IL-4, IL-13, and IL-1β. Conclusion: NKA and 
+AQP5 expressions were decreased in CRSwNP. NKA in 
+HNECs could be suppressed by SEB, LPS, IFN-γ, IL-4, IL-13, 
+and IL-1β. Impairment of NKA may contribute to the gen-
+esis and development of CRSwNP via inducing AQP5 
+downregulation and edema. © 2021 S. Karger AG, Basel
+
+Introduction
+
+Chronic rhinosinusitis with nasal polyps (CRSwNPs) 
+is a multifactorial and heterogeneous disease with persis-
+tent and exaggerated inflammation in sinonasal mucosa, 
+which negatively affects patient’s quality of life and ag-
+gravates their financial burdens [1–3]. Considerable data 
+indicate that CRSwNP is caused by the complicated inter-
+actions among various inflammatory cells and mediators 
+[4–6], whereas, the precise pathogenetic mechanism of 
+CRSwNP remains uncertain.
+
+G. Ba and R. Tang contributed equally to this work.
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+
+
+Ba/Tang/Mao/Li/Ye/Lin/ZhangORL 2022;84:139–146140
+DOI: 10.1159/000517101
+
+Na+-K+-ATPase ([NKA] also named as Na+ pump or 
+Na+-K+ pump) is an electrogenic transmembrane ATPase 
+for exporting 3 Na+ out of cells and importing 2 K+ into 
+cells against their electrochemical gradients simultane-
+ously by consuming 1 ATP molecule to sustain the ho-
+meostasis of Na+-K+ [7]. NKA plays a crucial role in 
+maintaining cell permeability, reserving potential energy, 
+and preventing cellular edema [8]. Impairment of NKA 
+could induce Na+-K+ homeostatic imbalance, leading to 
+depolarization of the resting membrane potential, osmot-
+ic imbalance, and cellular edema [9, 10]. Previous reports 
+indicate that impairment of NKA contributes to pulmo-
+nary edema and inflammation in acute respiratory dis-
+tress syndrome [11, 12]. Aquaporin-5 (AQP5), one type 
+of AQPs, has been showed to be essential in the liquid 
+homeostasis of human nasal epithelial cells (HNECs). 
+One previous report indicates that NKA and AQP5 levels 
+were downregulated concurrently and then exacerbated 
+the formation of edema by failed water clearance in the 
+porcine reproductive and respiratory syndrome virus-in-
+fected pig lungs [14].
+
+This study sought to explore the expression and regu-
+lation of NKA in CRSwNP. First, we assessed NKA im-
+munolabeling and protein levels, mRNA levels of NKA 
+and AQP5, and co-localization of NKA with inflamma-
+tory cells in nasal tissue samples from CRSwNP patients 
+and control subjects. Second, in vitro studies, HNECs 
+were cultured and stimulated using various stimulators to 
+evaluate the regulation of NKA.
+
+Materials and Methods
+
+Subjects and Tissue Samples
+A total of 88 subjects, consisting of 30 patients with eosino-
+
+philic CRSwNP (ECRSwNP), 32 patients with non-ECRSwNP 
+(nECRSwNP), and 26 control subjects were enrolled in the pres-
+ent study. The diagnostic criteria of CRSwNP, ECRSwNP, and 
+nECRSwNP were established according to previous published 
+articles [15–17]. During endoscopic surgery, we collected NP, un-
+cinate process (UP), and HNECs from CRSwNP patients and 
+control subjects. Subjects without CRS undergoing skull base sur-
+gery, lacrimal duct surgery, or septoplasty for deviated septum 
+were defined as control subjects whose UPs were collected as con-
+trol tissues. Detailed characteristics of all the subjects are listed 
+in online suppl. Table 1; for all online suppl. material, see www.
+karger.com/doi/10.1159/000517101. This study was approved by 
+the Ethical Committee of Shanghai Jiao Tong University Affili-
+ated Sixth People’s Hospital and we received written informed 
+consents from all the study participants.
+
+Immunohistochemistry (IHC) and Western blotting were em-
+ployed to assess NKA immunolabeling and protein levels, respec-
+tively. In addition, real-time PCR was used to detect NKA and 
+AQP5 mRNA levels in nasal tissue samples. The co-localization of 
+
+NKA with inflammatory cells was evaluated by immunofluores-
+cence staining. In vitro studies, HNECs were cultured and incu-
+bated with different stimulators, and then, real-time PCR and the 
+NKA activity assay kit were performed to assess the effects and 
+mechanism of stimulators on the cells. More detailed information 
+is provided in the online suppl. material.
+
+Histological, Immunohistochemical, and Immunofluorescent 
+Staining
+Histological, immunohistochemical, and immunofluorescent 
+
+staining were performed as previously described [18]. Eosinophils 
+were stained using hematoxylin-eosin staining and counted. IHC 
+was employed to assess NKA expression in patients with CRSwNP 
+and control subjects. Immunofluorescent staining was performed 
+to evaluate the presence of NKA in CD3, CD20, CD138, CD68, 
+CD163, major basic protein, myeloperoxidase, or tryptase positive 
+cells.
+
+Western Blotting
+The expression of NKA protein in nasal tissues from patients 
+
+with CRSwNP and control subjects was assayed with Western blot-
+ting methods.
+
+Quantitative Real-Time Reverse Transcription PCR
+Quantitative real-time PCR was employed to assess NKA and 
+
+AQP5 mRNA expression in nasal tissues from patients with 
+CRSwNP and control subjects. Total RNA in the collected tissues 
+was extracted utilizing the RNeasy commercial kit (Qiagen, 
+Chatsworth, CA, USA) as previously described [19, 20].
+
+HNECs Culture and Stimulation
+HNECs were scraped from 8 control subjects, 8 nECRSwNP 
+
+patients, and 8 nECRSwNP patients, and cultured under air-
+liquid interface conditions as previously described [21]. Briefly, 
+HNECs were incubated with different stimulators involving 
+staphylococcal enterotoxin B (SEB), lipopolysaccharides (LPSs), 
+poly I:C (dsRNA), cytokines including inflammatory cytokine 
+(IFN)-γ, IL-4, IL-13, IL-17A, TNF-α, and IL-1β at a certain con-
+centration (10 ng/mL, except SEB was 0.5 μg/mL, LPS was 1 μg/
+mL, and poly I:C was 25 μg/mL) for 24 h. Following stimulation, 
+HNECs were collected for NKA mRNA and NKA activity mea-
+surement.
+
+Quantitative Real-Time Reverse Transcription PCR
+NKA mRNA levels of the incubated cells were assayed by the 
+
+real-time PCR method.
+
+NKA Activity Measurement
+NKA activity of HNECs was assayed using the NKA activity 
+
+assay kit according to the manufacturer’s protocol.
+
+Statistical Analysis
+A p value <0.05 was deemed as statistically significant. Mann-
+
+Whitney U tests or Kruskal-Wallis H tests were applied to com-
+pare between-group or intergroup data of nasal tissue samples. 
+The Spearman test was used to evaluate correlations. The paired 
+t test was used to analyze cell culture data. Tissue sample data 
+were expressed as dot plots with medians and interquartile rang-
+es. Cell culture data were presented as mean ± standard error of 
+the mean.
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+
+
+Na+-K+-ATPase in Nasal Epithelial Cells 
+of CRSwNP
+
+141ORL 2022;84:139–146
+DOI: 10.1159/000517101
+
+20
+
+15
+
+10
+
+5
+
+0N
+KA
+
+ im
+m
+
+un
+e 
+
+re
+ac
+
+tiv
+ity
+
+ le
+ve
+
+l (
+IO
+
+dx
+ 1
+
+00
+0)
+
+Control
+(n = 17)
+
+nECRSwNP
+(n = 21)
+
+ECRSwNP
+(n = 19)c
+
+*
+
+*
+*
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+Re
+la
+
+tiv
+e 
+
+N
+KA
+
+ p
+ro
+
+te
+in
+
+ e
+xp
+
+re
+ss
+
+io
+n
+
+(N
+KA
+
+/G
+A
+
+PD
+H
+
+)
+
+Control
+(n = 10)
+
+nECRSwNP
+(n = 11)
+
+ECRSwNP
+(n = 10)ed
+
+*
+
+*
+*
+
+N
+KA
+
+Control nECRSwNP ECRSwNP
+
+a
+
+Is
+ot
+
+yp
+e
+
+Negative control
+
+b
+
+GAPDH
+
+NKA
+
+37 kD
+
+113 kD
+
+Control nECRSwNP ECRSwNP
+
+Fig. 1. IHC results of NKA positive cells in control tissues, 
+nECRSwNP, and ECRSwNP (a). Negative control slide for IHC 
+testing (b). The NKA immune reactivity level comparison among 
+control tissues, nECRSwNP, and ECRSwNP (c). Western blotting 
+results in control tissues, nECRSwNP, and ECRSwNP (d). Analysis 
+
+of the relative NKA protein expression level in control tissues, 
+nECRSwNP, and ECRSwNP (e). *p < 0.05. NKA, Na+-K+-ATPase; 
+ECRSwNP, eosinophilic chronic rhinosinusitis with nasal polyp; 
+nECRSwNP, noneosinophilic chronic rhinosinusitis with nasal 
+polyp; IHC, immunohistochemistry.
+
+Co
+lo
+
+r v
+er
+
+si
+on
+
+ a
+va
+
+ila
+bl
+
+e 
+on
+
+lin
+e
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+
+
+Ba/Tang/Mao/Li/Ye/Lin/ZhangORL 2022;84:139–146142
+DOI: 10.1159/000517101
+
+Results
+
+Decreased NKA Immunolabeling in CRSwNP
+NKAs were mainly distributed in the plasma membrane 
+
+of nasal mucosal epithelial cells, glandular epithelial cells, 
+and vascular endothelial cells (Fig.  1a). Decreased NKA 
+positive cells were distributed in NP tissues from patients 
+with CRSwNP including ECRSwNP and nECRSwNP com-
+pared to control UP samples (Fig. 1a–c). Furthermore, NKA 
+immune reactivity levels were markedly downregulated in 
+NP tissues from patients with ECRSwNP in contrast to that 
+from patients with nECRSwNP (Fig. 1a–c).
+
+Detection of NKA Protein Levels in Nasal Tissues
+Of note, significantly weaker bands of NKA protein 
+
+were detected in nasal tissue samples from CRSwNP pa-
+tients compared to control UP samples, particularly in 
+ECRSwNP (Fig. 1d, e).
+
+Detection of NKA and AQP5 mRNA Levels in Nasal 
+Tissues
+Of interest, we also found lower mRNA levels of NKA and 
+
+AQP5 in nasal tissues from patients with CRSwNP including 
+ECRSwNP and nECRSwNP compared to UP samples from 
+control subjects, particularly in ECRSwNP (Fig. 2a, b). In ad-
+dition, NKA mNRA levels were positively correlated with 
+AQP5 mRNA levels in samples from CRSwNP and control 
+subjects (Spearman’s test, r = 0.726, p < 0.001; Fig. 2c).
+
+Co-Localization of NKA in Inflammatory Cells
+Dual immunofluorescent staining was used to evaluate 
+
+co-localization of NKA with inflammatory cells including 
+CD3 (T cell), CD20 (B cell), CD138 (plasma cell), CD68 (pan 
+macrophage), CD163 (M2 macrophage), major basic protein 
+(eosinophil), myeloperoxidase (neutrophil), and tryptase 
+(mast cell). Notably, NKA was expressed weakly in a minor-
+ity of mast cells and plasma cells (Fig. 3a, b), and NKA was 
+not detected in pan macrophages, M2 macrophages, eosino-
+phils, neutrophils, T cells, and B cells (Fig. 3c–h).
+
+Effects of Various Stimulators on NKA mRNA Levels 
+and NKA Activities in HNECs
+In vitro studies, HNECs were cultured and stimulated 
+
+using various stimulators to study the regulation of NKA in 
+HNECs. Interestingly, we found significant downregula-
+tion of NKA mRNA levels and NKA activities in the HNECs 
+following SEB, LPS, IFN-γ, IL-4, IL-13, and IL-1β treat-
+ment, respectively (Fig. 4a, b). In addition, no significant 
+changes in NKA mRNA levels and NKA activities were ob-
+served after poly I:C, IL-17A, and TNF-α (Fig. 4a, b).
+
+15
+
+10
+
+5
+
+0
+
+N
+KA
+
+ m
+RN
+
+A
+ re
+
+la
+tiv
+
+e 
+ex
+
+pr
+es
+
+si
+on
+
+ le
+ve
+
+l
+
+Control
+(n = 15)
+
+nECRSwNP
+(n = 16)
+
+ECRSwNP
+(n = 16)a
+
+*
+
+*
+*
+
+8
+
+6
+
+4
+
+2
+
+0
+
+A
+Q
+
+P5
+ m
+
+RN
+A
+
+ re
+la
+
+tiv
+e 
+
+ex
+pr
+
+es
+si
+
+on
+ le
+
+ve
+l
+
+Control
+(n = 15)
+
+nECRSwNP
+(n = 16)
+
+ECRSwNP
+(n = 16)b
+
+*
+
+*
+*
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+A
+Q
+
+P5
+ m
+
+RN
+A
+
+ re
+la
+
+tiv
+e 
+
+ex
+pr
+
+es
+si
+
+on
+ le
+
+ve
+l
+
+c
+0 5
+
+NKA mRNA relative expression level
+10 15
+
+r = –0.726, p < 0.001
+
+Fig. 2. Detection and analysis of NKA mRNA (a) and AQP5 mRNA 
+(b) expression using real-time PCR in NPs and control tissues. 
+Spearman analysis on the correlation of NKA and AQP5 mRNA 
+levels (c). *p < 0.05. NKA, Na+-K+-ATPase; AQP5, aquaporin-5.
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+
+
+Na+-K+-ATPase in Nasal Epithelial Cells 
+of CRSwNP
+
+143ORL 2022;84:139–146
+DOI: 10.1159/000517101
+
+Discussion
+
+Previous studies have indicated that numerous glands 
+and few edema in sinonasal mucosa are histopathologi-
+cal characteristics of normal nasal tissues, while few 
+glands, obvious edema, and exacerbated inflammation in 
+sinonasal mucosa are main histopathological character-
+istics of CRSwNP [22], whereas, the etiology and mecha-
+nism of the characteristics of CRSwNP remain unclear. 
+There is ample evidence that homeostasis of Na+ and K+ 
+is essential in cell life activities, and NKA serves to regu-
+late this homeostasis by exporting Na+ and importing K+ 
+in a variety of cells [9]. NKA dysfunction can lead to  
+Na+-K+ homeostatic imbalance, osmotic imbalance, and 
+cellular edema [23]. However, whether NKA expression 
+is altered and regulated in CRSwNP remains unknown. 
+
+Therefore, this study aimed to explore the expression 
+and regulation of NKA in CRSwNP.
+
+As indicated in IHC findings, NKA was mainly distrib-
+uted in the plasma membrane of nasal mucosal epithelial 
+cells, glandular epithelial cells, and vascular endothelial 
+cells, and decreased NKA levels were found in CRSwNP 
+compared to control UP samples, particularly in ECRSwNP, 
+indicating that NKA function is impaired in nasal mucosal 
+epithelial cells, glandular epithelial cells, and vascular endo-
+thelial cells in CRSwNP, particularly in ECRSwNP. Using 
+IHC, Western blotting, and real-time PCR methods, we 
+demonstrated that NKA positive cells and protein levels, 
+and mRNA levels of NKA and AQP5 were decreased in na-
+sal tissues from CRSwNP patients, especially ECRSwNP pa-
+tients, indicating that NKA and AQP5 levels are downregu-
+lated in CRSwNP. As a corollary, impairment of NKA may 
+
+a b c
+
+d e f
+
+g h
+
+Fig. 3. Immunofluorescent staining showed co-localization of NKA with tryptase (mast cell, a), CD138 (plasma 
+cell, b), CD68 (pan macrophage, c), CD163 (M2 macrophage, d), and MBP (eosinophil, e) in NP tissues. Immu-
+nofluorescent staining showed no co-localization of NKA with CD3 (T cell, f), CD20 (B cell, g) and MPO (neu-
+trophil, h) in NP tissues. Scale bar, 50 μm. Arrow indicates co-localization of NKA with cell marker. NKA, Na+-
+K+-ATPase; MBP, major basic protein; MPO, myeloperoxidase.
+
+Co
+lo
+
+r v
+er
+
+si
+on
+
+ a
+va
+
+ila
+bl
+
+e 
+on
+
+lin
+e
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+
+
+Ba/Tang/Mao/Li/Ye/Lin/ZhangORL 2022;84:139–146144
+DOI: 10.1159/000517101
+
+CRSwNP, the more severe the inflammation in CRSwNP, 
+indicating that NKA may be used as an important indicator 
+to predict the degree of inflammation in CRSwNP, which 
+would provide guidances for clinical diagnosis of CRSwNP 
+and distinguishing between ECRSwNP and nECRSwNP. In 
+our opinion, both reasons including fewer total cells and the 
+level of NKA expression are reduced in each cell in ECRSwNP 
+compared to nECRSwNP or control UPs may be related to 
+NKA downregulation in ECRSwNP, in other words, exacer-
+
+lead to AQP5 downregulation, resulting in the impairment 
+of maintaining cell permeability, reserving potential energy, 
+and preventing cellular edema, which may be related with 
+edema formation in CRSwNP, particularly in ECRSwNP 
+which has more exacerbated and persistent inflammation 
+compared to nECRSwNP. Previous studies have shown that 
+inverse relationship between NKA activity and inflamma-
+tion degree was involved in a variety of inflammatory dis-
+eases [24, 25]. As a corollary, the lower NKA levels in 
+
+1.5
+
+1.0
+
+0.5
+
+0
+
+N
+KA
+
+ m
+RN
+
+A
+ re
+
+la
+tiv
+
+e 
+ex
+
+pr
+es
+
+si
+on
+
+ le
+ve
+
+l
+
+Control SEB LPS Poly I:C IFN-γ IL-4 IL-13 IL-17A TNF-α IL-1βa
+
+*
+
+*
+*
+
+* *
+*
+
+#
+
+# #
+
+# #
+
+#
+§
+
+§§
+
+§§
+§
+
+■ Con-HNECs
+■ NE-HNECs
+■ E-HNECs
+
+4
+
+3
+
+2
+
+1
+
+0
+
+N
+KA
+
+ a
+ct
+
+iv
+iti
+
+es
+, µ
+
+m
+ol
+
+ P
+i/
+
+m
+gp
+
+ro
+t/
+
+h
+
+Control SEB LPS Poly I:C IFN-γ IL-4 IL-13 IL-17A TNF-α IL-1βb
+
+*
+* *
+
+*
+* *
+
+#
+
+# # #
+
+# # §
+§§
+
+§
+§
+
+§
+
+Fig. 4. Effects of various stimulators on NKA mRNA levels (a) and 
+NKA activities (b) in Con-HNECs, NE-HENCs, and E-HNECs. 
+Con-HNECs indicate HNECs from control subjects, NE-HENCs 
+indicate HNECs from nECRSwNP patients, and E-HNECs indi-
+cate HNECs from ECRSwNP patients. *p < 0.05 versus Con-
+
+HNECs, #p < 0.05 versus NE-HENCs and §p  < 0.05 versus NE-
+HENCs in the control groups without any treatment. NKA, Na+-
+K+-ATPase; HNECs, human nasal epithelial cells; ECRSwNP, 
+eosinophilic chronic rhinosinusitis with nasal polyp; nECRSwNP, 
+noneosinophilic chronic rhinosinusitis with nasal polyp.
+
+Co
+lo
+
+r v
+er
+
+si
+on
+
+ a
+va
+
+ila
+bl
+
+e 
+on
+
+lin
+e
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+
+
+Na+-K+-ATPase in Nasal Epithelial Cells 
+of CRSwNP
+
+145ORL 2022;84:139–146
+DOI: 10.1159/000517101
+
+bated inflammation in ECRSwNP could cause fewer NKA-
+expressing cells and lower NKA levels in each cell.
+
+Among inflammatory cells, NKA was expressed weakly 
+in a minority of mast cells and plasma cells and not detected 
+in pan macrophages, M2 macrophages, eosinophils, neutro-
+phils, T cells, and B cells. These results indicate that NKA 
+function may be impaired in mast cells and plasma cells, pan 
+macrophages, M2 macrophages, eosinophils, neutrophils, T 
+cells, and B cells. Less NKA localization to these inflamma-
+tory cells may suggest that NKA may not exert its function 
+on these inflammatory cells just like abovementioned epi-
+thelial cells, and a novel treatment targeting NKA should be 
+performed on epithelial cells instead of these inflammatory 
+cells, which would provide guidances for clinical targeted 
+NKA therapy on CRSwNP in the future.
+
+In HNECs culture and stimulation experiment, NKA 
+mRNA levels and NKA activities were significantly sup-
+pressed by SEB, LPS, IFN-γ, IL-4, IL-13, and IL-1β. These 
+findings were partially in line with previous reports indicat-
+ing that NKA expression or activity could be suppressed by 
+SEB, LPS, IFN-γ, IL-1β, or TNF-α intervention on a variety 
+of tissues and cells including rat intestinal mucosa [26], rat 
+astrocytes [27], human intestinal xenografts [28], rat car-
+diac myocytes [29], and HepG2 cells (a human liver cancer 
+cell line) [30], et al. Previous studies have indicated the SEB 
+and LPS could exacerbate inflammatory responses of 
+HNECs in CRSwNP [31–33], thus, collectively, it can be 
+surmised that NKA function in HNECs is impaired follow-
+ing SEB and LPS treatment, indicating that bacterial infec-
+tion could trigger aggravation of inflammation via impair-
+ing NKA function in HNECs. In addition, type 1 IFN-γ, 
+type 2 IFNs (IL-4 and IL-13), and IL-1β could also exert 
+important roles in the inflammatory responses in CRSwNP 
+[4, 34, 35]; therefore, it is reasonable to speculate that NKA 
+function in HNECs is also impaired following type 1 IFN-γ, 
+type 2 IFNs (IL-4 and IL-13), and IL-1β stimulation, indi-
+cating that these IFNs could also induce trigger inflamma-
+tory responses via impairing NKA function in HNECs.
+
+In addition, no significant changes in NKA mRNA 
+levels and NKA activities were observed after poly I:C, IL-
+17A, and TNF-α stimulation. To some extent, this dis-
+crepancy may be due to the differences between HNECs 
+and other tissues and cells.
+
+Some limitations of our study should be noted. First, 
+due to the difficulty of isolating glandular epithelial cells 
+and vascular endothelial cells from nasal tissues, we only 
+used nasal epithelial cells to perform in vitro studies, glan-
+dular epithelial cells and vascular endothelial cells need to 
+be isolated to further precisely assess the effects and 
+mechanism of NKA in CRSwNP in the future. Second, we 
+
+only study NKA expression and regulation in CRSwNP, 
+downstream signaling pathway of NKA in CRSwNP 
+needs to be further explored and clarified in the future to 
+make a more detailed and precise evaluation on the role 
+and mechanism of NKA in CRSwNP.
+
+Conclusion
+
+NKA and AQP5 expression were decreased in CRSwNP. 
+NKA in HNECs could be suppressed by SEB, LPS, IFN-γ, 
+IL-4, IL-13, and IL-1β. Impairment of NKA may contrib-
+ute to the genesis and development of CRSwNP via induc-
+ing AQP5 downregulation and edema.
+
+Statement of Ethics
+
+This study was approved by the Ethical Committee of Shanghai 
+Jiao Tong University Affiliated Sixth People’s Hospital (no.: 
+2019-KY-039[K]), and we received written informed consents 
+from all the study participants.
+
+Conflict of Interest Statement
+
+The authors declare that they have no conflicts of interest.
+
+Funding Sources
+
+This study was supported by grants from the National Natural Sci-
+ence Foundation of China (no.: 81870700, no.: 82071014, and no.: 
+82000951), Shanghai Natural Science Foundation of China (no.: 
+16ZR1426100), Science and Technology Innovation Action Plan of 
+Science and Technology Commission of Shanghai Municipality (no.: 
+19411950700), and the Key Laboratory Funding of Science and Tech-
+nology Commission of Shanghai Municipality (no.: 18DZ2260200).
+
+Author Contributions
+
+Hai Lin and Weitian Zhang conceived and designed the ex-
+periments. Guangyi Ba and Ru Tang performed the experi-
+ments. Hai Lin, Guangyi Ba, Ru Tang, Zhipeng Li, Song Mao, 
+and Haibo Ye collected specimens and analyzed the data.  
+Guangyi Ba, Hai Lin, and Weitian Zhang wrote and revised the 
+article.
+
+Data Availability Statement
+
+All data generated or analyzed during this study are included 
+in this article and its supplementary material files. Further enqui-
+ries can be directed to the corresponding author.
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+
+
+Ba/Tang/Mao/Li/Ye/Lin/ZhangORL 2022;84:139–146146
+DOI: 10.1159/000517101
+
+References
+
+ 1 Phillips KM, Barbarite E, Hoehle LP, Caradonna 
+DS, Gray ST, Sedaghat AR. Clinical traits 
+characterizing an exacerbation-prone phe-
+notype in chronic rhinosinusitis. Otolaryn-
+gol Head Neck Surg. 2019 Nov; 161(5): 890–
+6.
+
+ 2 Huang JC, Chen XH, Wang ZY, Li X, Chang 
+LH, Zhang GH. Interleukin-17A expression 
+correlated with the prognosis of chronic rhi-
+nosinusitis with nasal polyps and the anti-in-
+terleukin-17A effect in a murine nasal polyps 
+model. ORL J Otorhinolaryngol Relat Spec. 
+2020; 82(5): 257–67.
+
+ 3 Damask CC, Ryan MW, Casale TB, Castro M, 
+Franzese CB, Lee SE, et al. Targeted molecular 
+therapies in allergy and rhinology. Otolaryn-
+gol Head Neck Surg. 2021 Jan; 164(Suppl 1): 
+S1–S21.
+
+ 4 Schleimer RP. Immunopathogenesis of chronic 
+rhinosinusitis and nasal polyposis. Annu Rev 
+Pathol. 2017 Jan 24; 12: 331–57.
+
+ 5 Lin H, Ba G, Tang R, Li M, Li Z, Li D, et al. 
+Increased expression of TXNIP facilitates ox-
+idative stress in nasal epithelial cells of pa-
+tients with chronic rhinosinusitis with nasal 
+polyps. Am J Rhinol Allergy. 2020 Dec 29: 
+1945892420982411. Epub ahead of print.
+
+ 6 Luo X, Li C, Wang Y, Yang G, Xu Y, Li G, et 
+al. Interleukin-33 promotes Th2/Th17 re-
+sponse in eosinophilic and non-eosinophilic 
+nasal polyps. ORL J Otorhinolaryngol Relat 
+Spec. 2020; 82(1): 34–9.
+
+ 7 Gupta SP. Quantitative structure-activity re-
+lationship studies on Na+,K(+)-ATPase in-
+hibitors. Chem Rev. 2012 Jun 13; 112(6): 
+3171–92.
+
+ 8 Santander VS, Campetelli AN, Monesterolo 
+NE, Rivelli JF, Nigra AD, Arce CA, et al. Tu-
+bulin-Na(+), K (+) -ATPase interaction:  in-
+volvement in enzymatic regulation and cellu-
+lar function. J Cell Physiol. 2019 Jun; 234(6): 
+7752–63.
+
+ 9 Clausen MV, Hilbers F, Poulsen H. The struc-
+ture and function of the Na,K-ATPase iso-
+forms in health and disease. Front Physiol. 
+2017; 8: 371.
+
+10 Kryvenko V, Wessendorf M, Morty RE, 
+Herold S, Seeger W, Vagin O, et al. Hyper-
+capnia impairs Na,K-ATPase function by 
+inducing endoplasmic reticulum retention 
+of the β-subunit of the enzyme in alveolar 
+epithelial cells. Int J Mol Sci. 2020 Feb 21; 
+21(4): 21.
+
+11 Goncalves-de-Albuquerque CF, Burth P, Sil-
+va AR, de Moraes IM, de Jesus Oliveira FM, 
+Santelli RE, et al. Oleic acid inhibits lung Na/
+K-ATPase in mice and induces injury with 
+lipid body formation in leukocytes and eico-
+sanoid production. J Inflamm. 2013 Oct 31; 
+10(1): 34.
+
+12 Matthay MA. Resolution of pulmonary ede-
+ma. Thirty years of progress. Am J Respir Crit 
+Care Med. 2014 Jun 1; 189(11): 1301–8.
+
+13 Chang YL, Jian KR, Lin CS, Wang HW, Liu SC. 
+Dexamethasone attenuates methacholine-
+mediated aquaporin 5 downregulation in hu-
+man nasal epithelial cells via suppression of 
+NF-κB activation. Int Forum Allergy Rhinol. 
+2018 Jan; 8(1): 64–71.
+
+14 Zhang J, Yan M, Gu W, Chen A, Liu J, Li L, et 
+al. Downregulation of Aquaporins (AQP1 
+and AQP5) and Na,K-ATPase in porcine re-
+productive and respiratory syndrome virus-
+infected pig lungs. Inflammation. 2018 Jun; 
+41(3): 1104–14.
+
+15 Meltzer EO, Hamilos DL, Hadley JA, Lanza 
+DC, Marple BF, Nicklas RA, et al. Rhinosinus-
+itis:  establishing definitions for clinical re-
+search and patient care. Otolaryngol Head 
+Neck Surg. 2004 Dec; 131(6 Suppl l): S1–62.
+
+16 Cao PP, Li HB, Wang BF, Wang SB, You XJ, 
+Cui YH, et al. Distinct immunopathologic 
+characteristics of various types of chronic rh-
+inosinusitis in adult Chinese. J Allergy Clin 
+Immunol. 2009 Sep; 124(3): 478–2.
+
+17 Fokkens WJ, Lund VJ, Mullol J, Bachert C, 
+Alobid I, Baroody F, et al. EPOS 2012:  Euro-
+pean position paper on rhinosinusitis and na-
+sal polyps 2012. A summary for otorhinolar-
+yngologists. Rhinology. 2012 Mar; 50(1): 1–12.
+
+18 Tang R, Ba G, Li M, Li Z, Ye H, Lin H, et al. 
+Evidence for role of acid-sensing ion channel 
+1a in chronic rhinosinusitis with nasal polyps. 
+Eur Arch Otorhinolaryngol. 2021 Jul; 278(7): 
+2379–86.
+
+19 Tang R, Li ZP, Li MX, Li DW, Ye HB, Su KM, 
+et al. Pro-inflammatory role of transient re-
+ceptor potential canonical channel 6 in the 
+pathogenesis of chronic rhinosinusitis with 
+nasal polyps. Int Forum Allergy Rhinol. 2018 
+Nov; 8(11): 1334–41.
+
+20 Wang H, Li ZY, Jiang WX, Liao B, Zhai GT, 
+Wang N, et al. The activation and function of 
+IL-36γ in neutrophilic inflammation in 
+chronic rhinosinusitis. J Allergy Clin Immu-
+nol. 2018 May; 141(5): 1646–58.
+
+21 Seshadri S, Lu X, Purkey MR, Homma T, Choi 
+AW, Carter R, et al. Increased expression of 
+the epithelial anion transporter pendrin/SL-
+C26A4 in nasal polyps of patients with chron-
+ic rhinosinusitis. J Allergy Clin Immunol. 
+2015 Dec; 136(6): 1548–58.e7.
+
+22 Kuhar HN, Tajudeen BA, Mahdavinia M, 
+Gattuso P, Ghai R, Batra PS. Inflammatory in-
+filtrate and mucosal remodeling in chronic 
+rhinosinusitis with and without polyps:  struc-
+tured histopathologic analysis. Int Forum Al-
+lergy Rhinol. 2017 Jul; 7(7): 679–89.
+
+23 Hamacher J, Hadizamani Y, Borgmann M, 
+Mohaupt M, Männel DN, Moehrlen U, et al. 
+Cytokine-ion channel interactions in pulmo-
+nary inflammation. Front Immunol. 2017; 8: 
+1644.
+
+24 Leite JA, Isaksen TJ, Heuck A, Scavone C, 
+Lykke-Hartmann K. The alpha2 Na(+)/ 
+K(+)-ATPase isoform mediates LPS-induced 
+
+neuroinflammation. Sci Rep. 2020 Aug 25; 
+10(1): 14180.
+
+25 Wyse AT, Siebert C, Bobermin LD, Dos San-
+tos TM, Quincozes-Santos A. Changes in in-
+flammatory response, redox status and Na(+), 
+K(+)-ATPase activity in primary astrocyte 
+cultures from female wistar rats subject to 
+ovariectomy. Neurotox Res. 2020 Feb; 37(2): 
+445–54.
+
+26 Perez-Bosque A, Amat C, Polo J, Campbell 
+JM, Crenshaw J, Russell L, et al. Spray-dried 
+animal plasma prevents the effects of Staphy-
+lococcus aureus enterotoxin B on intestinal 
+barrier function in weaned rats. J Nutr. 2006 
+Nov; 136(11): 2838–43.
+
+27 Lundborg C, Westerlund A, Björklund U, 
+Biber B, Hansson E. Ifenprodil restores GDNF-
+evoked Ca(2+) signalling and Na(+)/K(+) - 
+ATPase expression in inflammation-pretreated  
+astrocytes. J Neurochem. 2011 Nov; 119(4): 
+686–96.
+
+28 Bertelsen LS, Eckmann L, Barrett KE. Pro-
+longed interferon-gamma exposure decreases 
+ion transport, NKCC1, and Na+-K+-ATPase 
+expression in human intestinal xenografts in 
+vivo. Am J Physiol Gastrointest Liver Physiol. 
+2004 Jan; 286(1): G157–65.
+
+29 Kreydiyyeh SI, Abou-Chahine C, Hilal-Dan-
+dan R. Interleukin-1 beta inhibits Na+-K+ 
+ATPase activity and protein expression in 
+cardiac myocytes. Cytokine. 2004 Apr 7; 
+26(1): 1–8.
+
+30 Kreydiyyeh SI, Riman S, Serhan M, Kassard-
+jian A. TNF-alpha modulates hepatic Na+-
+K+ ATPase activity via PGE2 and EP2 recep-
+tors. Prostaglandins Other Lipid Mediat. 2007 
+Jun; 83(4): 295–303.
+
+31 Bachert C, Holtappels G, Merabishvili M, 
+Meyer T, Murr A, Zhang N, et al. Staphylo-
+coccus aureus controls interleukin-5 release 
+in upper airway inflammation. J Proteomics. 
+2018 May 30; 180: 53–60.
+
+32 Wang SB, Chen SM, Zhu KS, Zhou B, Chen L, 
+Zou XY. Increased lipopolysaccharide con-
+tent is positively correlated with glucocorti-
+coid receptor-beta expression in chronic rhi-
+nosinusitis with nasal polyps. Immun In-
+flamm Dis. 2020 Dec; 8(4): 605–14.
+
+33 Wee JH, Ko YK, Khalmuratova R, Shin HW, 
+Kim DW, Rhee CS. Effect of lipopolysaccha-
+ride and polyinosinic: polycytidylic acid in a 
+murine model of nasal polyp. Sci Rep. 2021 
+Jan 13; 11(1): 1021.
+
+34 Ismi O, Ozcan C, Polat G, Kul S, Gorur K, Pu-
+turgeli T. TNF-alpha and IL-1 beta cytokine 
+gene polymorphism in patients with nasal 
+polyposis. Turk Arch Otorhinolaryngol. 2017 
+Jun; 55(2): 51–6.
+
+35 Han X, Wu D, Sun Z, Sun H, Lv Q, Zhang 
+L, et al. Type 1/type 2 inflammatory cyto-
+kines correlate with olfactory function in 
+patients with chronic rhinosinusitis. Am J 
+Otolaryngol. 2020 Sep– Oct; 41(5): 102587.
+
+D
+o
+w
+
+n
+lo
+
+a
+d
+e
+d
+ b
+
+y:
+ 
+
+U
+S
+
+C
+ L
+
+ib
+ra
+
+ri
+e
+s 
+
+T
+e
+ch
+
+n
+ic
+
+a
+l S
+
+e
+rv
+
+ic
+e
+s
+
+1
+5
+4
+.5
+
+9
+.1
+
+2
+4
+.7
+
+4
+ -
+
+ 6
+/2
+
+0
+/2
+
+0
+2
+2
+ 8
+
+:3
+2
+:2
+
+2
+ A
+
+M
+
+https://www.karger.com/Article/FullText/517101?ref=1#ref1
+https://www.karger.com/Article/FullText/517101?ref=1#ref1
+https://www.karger.com/Article/FullText/517101?ref=2#ref2
+https://www.karger.com/Article/FullText/517101?ref=3#ref3
+https://www.karger.com/Article/FullText/517101?ref=3#ref3
+https://www.karger.com/Article/FullText/517101?ref=4#ref4
+https://www.karger.com/Article/FullText/517101?ref=4#ref4
+https://www.karger.com/Article/FullText/517101?ref=5#ref5
+https://www.karger.com/Article/FullText/517101?ref=6#ref6
+https://www.karger.com/Article/FullText/517101?ref=6#ref6
+https://www.karger.com/Article/FullText/517101?ref=7#ref7
+https://www.karger.com/Article/FullText/517101?ref=8#ref8
+https://www.karger.com/Article/FullText/517101?ref=9#ref9
+https://www.karger.com/Article/FullText/517101?ref=10#ref10
+https://www.karger.com/Article/FullText/517101?ref=11#ref11
+https://www.karger.com/Article/FullText/517101?ref=12#ref12
+https://www.karger.com/Article/FullText/517101?ref=12#ref12
+https://www.karger.com/Article/FullText/517101?ref=13#ref13
+https://www.karger.com/Article/FullText/517101?ref=14#ref14
+https://www.karger.com/Article/FullText/517101?ref=15#ref15
+https://www.karger.com/Article/FullText/517101?ref=15#ref15
+https://www.karger.com/Article/FullText/517101?ref=16#ref16
+https://www.karger.com/Article/FullText/517101?ref=16#ref16
+https://www.karger.com/Article/FullText/517101?ref=17#ref17
+https://www.karger.com/Article/FullText/517101?ref=18#ref18
+https://www.karger.com/Article/FullText/517101?ref=19#ref19
+https://www.karger.com/Article/FullText/517101?ref=20#ref20
+https://www.karger.com/Article/FullText/517101?ref=20#ref20
+https://www.karger.com/Article/FullText/517101?ref=21#ref21
+https://www.karger.com/Article/FullText/517101?ref=22#ref22
+https://www.karger.com/Article/FullText/517101?ref=22#ref22
+https://www.karger.com/Article/FullText/517101?ref=23#ref23
+https://www.karger.com/Article/FullText/517101?ref=24#ref24
+https://www.karger.com/Article/FullText/517101?ref=25#ref25
+https://www.karger.com/Article/FullText/517101?ref=26#ref26
+https://www.karger.com/Article/FullText/517101?ref=27#ref27
+https://www.karger.com/Article/FullText/517101?ref=28#ref28
+https://www.karger.com/Article/FullText/517101?ref=29#ref29
+https://www.karger.com/Article/FullText/517101?ref=30#ref30
+https://www.karger.com/Article/FullText/517101?ref=31#ref31
+https://www.karger.com/Article/FullText/517101?ref=32#ref32
+https://www.karger.com/Article/FullText/517101?ref=32#ref32
+https://www.karger.com/Article/FullText/517101?ref=33#ref33
+https://www.karger.com/Article/FullText/517101?ref=34#ref34
+https://www.karger.com/Article/FullText/517101?ref=35#ref35
+https://www.karger.com/Article/FullText/517101?ref=35#ref35

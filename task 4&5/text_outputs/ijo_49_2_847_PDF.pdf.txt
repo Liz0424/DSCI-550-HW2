@@ -1,0 +1,45 @@
+international journal of oncology  49:  847,  2016
+
+CORRIGENDUM 
+
+Doi: 10.3892/ijo.2016.3564
+
+Leptin stimulates ovarian cancer cell growth and inhibits 
+apoptosis by increasing cyclin D1 and Mcl-1 expression via 
+the activation of the MEK/ERK1/2 and PI3K/Akt signaling 
+pathways
+
+chiachen chen, yuan-ching chang, Michael S. lan 
+and Mary BreSlin 
+
+int j oncol 42: 1113-1119, 2013; Doi: 10.3892/ijo.2013.1789
+
+following the publication of this article, an interested reader 
+drew to our attention an anomaly associated with the presentation 
+of figs. 5 and 8; essentially, the β-actin control bands in fig. 8 
+appeared to be a mirror image of the same control bands shown 
+in fig. 5a.  
+
+after having re-examined the data, fig. 5 was correctly 
+presented as shown in the paper, although the β-actin blot in 
+fig. 8 had been inadvertently misplaced as a mirror image of the 
+control data from fig. 5. two similar experiments were 
+performed at that time, yielding similar results, and the error 
+with the control data did not affect the second of the experiments. 
+therefore, we present a corrected version of fig. 8 containing 
+the alternative data. The findings and conclusions of this paper 
+are still supported by our experimental data, and were not 
+affected by this error. We sincerely apologize for this mistake, 
+and thank the reader of our article who drew this matter to our 
+attention. furthermore, we regret any inconvenience this mistake 
+has caused. 
+
+figure 8. leptin triggers jaK2-MeK/erK1/2 and Pi3K/akt signaling path-
+ways. after 24 h serum deprivation and subsequent 30 min pre-treatment 
+with the vehicle (-), 20 µM PD98059 (PD), 10 µM u0126 (u0), 250 nM wort-
+mannin (Wort) or 50 mM ly294002 (ly), oVcar-3 cells were treated with 
+vehicle (-) or 200 ng/ml leptin (+) in serum-free medium for 5 min, respec-
+tively. Subsequently, the level of the phosphorylated forms of akt (pakt) or 
+erK1/2 (perK1/2) was detected with western blot analysis. the same blots 
+were stripped and reprobed with antibodies specific for total protein of Akt or 
+erK1/2. Data represent three independent experiments.

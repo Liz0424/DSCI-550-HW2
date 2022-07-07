@@ -1,0 +1,751 @@
+doi:10.1016/j.cyto.2007.04.003
+
+
+www.elsevier.com/locate/issn/10434666
+
+Cytokine 37 (2007) 227–235
+Upregulation of tumor necrosis factor-a expression
+by trans10-cis12 conjugated linoleic acid enhances phagocytosis
+of RAW macrophages via a peroxisome proliferator-activated
+
+receptor c-dependent pathway
+
+Deok-Ho Song a, Ji-Houn Kang a, Geun-Shik Lee b, Eui-Bae Jeung b, Mhan-Pyo Yang a,*
+
+a
+Laboratory of Veterinary Internal Medicine, Department of Veterinary Medicine, College of Veterinary Medicine and Research Institute
+
+of Veterinary Medicine, Chungbuk National University, Cheongju, Chungbuk 361-763, Republic of Korea
+b
+
+Laboratory of Veterinary Biochemistry and Molecular Biology, Department of Veterinary Medicine, College of Veterinary Medicine and Research
+
+Institute of Veterinary Medicine, Chungbuk National University, Cheongju, Chungbuk 361-763, Republic of Korea
+
+Received 2 February 2006; received in revised form 28 March 2007; accepted 11 April 2007
+Abstract
+
+The aim of this study was to examine whether tumor necrosis factor (TNF)-a expression in the phagocytic activity of RAW macro-
+phages by trans10–cis12 (10t–12c) conjugated linoleic acid (CLA) is associated with peroxisome proliferator-activated receptor c
+(PPARc) activation. 10t–12c CLA induced the TNF-a expression in RAW macrophages. Phagocytic activity of naive RAW macro-
+phages was increased either by recombinant mouse (rm) TNF-a or by culture supernatant from 10t–12c CLA-treated RAW macro-
+phages. This phagocytic activity was inhibited by addition of anti-rmTNF-a polyclonal antibody (pAb). 10t–12c CLA also increased
+the level of PPARc protein and mRNA in RAW macrophages. When naive RAW macrophages were incubated with the culture super-
+natant from RAW macrophages treated with 10t–12c CLA plus GW 9662, a PPARc antagonist, their phagocytic activity was signifi-
+cantly inhibited. In addition, GW 9662 antagonized the effect of 10t–12c CLA in stimulating TNF-a expression. These results suggest
+that 10t–12c CLA modulates the phagocytic activity of RAW macrophages by upregulating TNF-a expression via a PPARc-dependent
+pathway.
+� 2007 Elsevier Ltd. All rights reserved.
+
+Keywords: Trans10–cis12 conjugated linoleic acid; Tumor necrosis factor-a; Peroxisome proliferator-activated receptor c; Phagocytosis; RAW macro-
+phages
+1. Introduction
+
+The peroxisome proliferator-activated receptors (PPARs)
+are ligand-dependent transcription factors that belong to
+the nuclear hormone receptor superfamily and form hetero-
+dimers with the retinoid X receptors (RXR) [1,2]. To date,
+three isotypes of PPARs, a, b, and c, have been identified
+in a number of species. PPARc was initially characterized
+1043-4666/$ - see front matter � 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.cyto.2007.04.003
+
+* Corresponding author. Fax: +82 43 261 3224.
+E-mail address: mpyang@chungbuk.ac.kr (M.-P. Yang).
+as a regulator of adipocyte differentiation and lipid
+metabolism and is found in various cell types [3,4].
+PPARc is activated by polyunsaturated fatty acids
+(PUFAs), the thiazolidinedione (TZD) class of antidiabetic
+drugs, a variety of nonsteroidal anti-inflammatory drugs,
+and endogenous ligands such as 15-deoxy-D12,14-PGJ2
+(15d-PGJ2) [5,6]. 15d-PGJ2 and troglitazone, PPARc
+agonists, inhibit phorbol myristyl acetate (PMA)-induced
+production of interleukin (IL)-1b, IL-6, and tumor necro-
+sis factor (TNF)-a in peripheral blood monocytes [7].
+However, pioglitazone and rosiglitazone, also PPARc
+agonists, did not inhibit phorbol ester-induced TNF-a
+
+mailto:mpyang@chungbuk.ac.kr
+
+
+228 D.-H. Song et al. / Cytokine 37 (2007) 227–235
+release from human monocytic THP-1 cells [8]. This PPARc
+may regulate inflammatory and immune responses by
+modulating the activity of monocytes or macrophages.
+
+Dietary fatty acids such as linoleic acid and arachidonic
+acid may act as PPARc ligands to modulate lipid metabo-
+lism and suppress carcinogenesis, cytokine production,
+acute inflammation, and lymphocyte proliferation [9–11].
+Conjugated linoleic acid (CLA) is a class of positional
+and geometric isomers of linoleic acid with conjugated
+double bonds ranging from 6,8 to 12,14 [12,13]. CLA
+has shown a wide range of biologically beneficial effects
+such as anti-adipogenic activity, including reduction of
+body fat and lowering cholesterol level, and anti-diabeto-
+genic, anti-carcinogenic, and anti-atherosclerotic activity
+[14–16]. CLA can stimulate or inhibit immune cell func-
+tions. CLA increased TNF-a and IL-6 secretion and
+decreased IL-4 secretion by splenocytes [17] and reduced
+IL-1, IL-6, and TNF-a production by macrophages [18].
+CLA modulates expression of genes regulated by PPARc
+in muscle and activates PPARc in vitro [19]. In addition,
+expression of PPARc is enhanced in CLA-fed pigs [20].
+In contrast, CLA down-regulates expression of PPARc,
+as well as its target genes, fatty acid binding protein and
+liver X receptor a in adipocytes [13]. Murine alveolar mac-
+rophages, which express high levels of PPARc, suppress
+oxidative burst activity in response to PMA, expression
+of inducible nitric oxide synthase (iNOS) in response to
+lipopolysaccharide (LPS) and IFN-c, and production of
+IL-12 mRNA and protein in response to LPS [21]. These
+reports indicate that the effects of CLA in modulating
+immune responses are similar to effects induced by ligands
+of PPARc.
+
+Two CLA isomers, the cis9–trans11 (9c–11t) CLA and
+trans10–cis12 (10t–12c) CLA are known to stimulate the
+immune system [22]. The previous studies [23,24] revealed
+that 10t–12c CLA has directly no effects on phagocytosis
+of peripheral blood phagocytes and on chemotaxis of poly-
+morphonuclear cells (PMN). However, 10t–12c CLA was
+shown to stimulate peripheral blood mononuclear cells
+(PBMC) to secrete soluble factor(s) that increased the che-
+motactic and phagocytic activity of PMN, which may be an
+important mechanism to enhance the innate immune
+response. The phagocytic activity of PMN was demon-
+strated to mediate through TNF-a produced by PBMC
+stimulated with egg white derivatives, one of immunostim-
+ulants [25].
+
+We examined whether TNF-a expression in the phago-
+cytic activity of RAW macrophages by 10t–12c CLA is
+associated with PPARc activation.
+
+2. Materials and methods
+
+2.1. RAW macrophages
+
+The BALB/c mouse macrophage cell line RAW 264.7
+was purchased from the Korean Cell Line Bank (Seoul,
+Korea) and maintained in Dulbecco’s modified Eagle’s
+medium (Gibco Co., Grand Island, NY, USA) with
+4.5 mg/ml L-glutamine supplemented with 10% heat-inacti-
+vated fetal calf serum (Gibco Co.) and 100 lg/ml strepto-
+mycin in a humidified 5% CO2 atmosphere.
+
+2.2. Reagents
+
+10t–12c CLA (98% purity; Matreya Inc., Pleasant Gap,
+PA, USA) was purchased commercially. 10t–12c CLA
+stock solution was prepared by dissolving 10t–12c CLA
+in dimethyl sulfoxide (DMSO) to final 50 mM and passed
+through a 0.45 lm-membrane filter (Milipore Co., Bed-
+ford, MA, USA) before use. Recombinant mouse (rm)
+TNF-a, goat anti-rmTNF-a polyclonal antibody (pAb),
+rabbit anti-goat IgG alkaline phosphatase (AP) conjugate,
+GW 9662 (Sigma–Aldrich Co., St. Louis, MO, USA), rmP-
+PARc, rabbit anti-PPARc pAb, goat anti-rabbit IgG
+horseradish peroxidase (HRP) conjugate (Santacruz Bio-
+technology Inc., Santa Cruz, CA, USA), and goat anti-
+recombinant human (rh) IL-2 pAb (R&D Systems Inc.,
+Minneapolis, MN, USA) were also purchased
+commercially.
+
+2.3. Culture supernatant
+
+10t–12c CLA and/or GW 9662, a PPARc antagonist,
+were added to RAW 264.7 cells culture media with a min-
+imal volume (<0.1%) of DMSO as the solvent and the same
+amount as vehicle DMSO was added to control cells with-
+out 10t–12c CLA treatment. The RAW 264.7 cells at a den-
+sity of 5 · 105 cells/ml in 24-well tissue culture plates (Nunc
+Co., Naperville, IL, USA) were incubated with 10 lM 10t–
+12c CLA, in the presence or absence of 0.01–1 lM GW
+9662 at 37 �C in a 5% CO2-humidified atmosphere. After
+a 24 h-incubation, all culture supernatants were collected
+after centrifugation at 5000g for 30 min, filtered through
+a 0.45 lm-pore size membrane filter and stored at �70 �C
+until used. The viability of RAW 264.7 cells was consis-
+tently more than 90% at the time of culture supernatant
+collection, as determined by trypan blue dye exclusion.
+
+2.4. Protein extraction and Western blot
+
+The cultured RAW 264.7 cells were lysed in ice-cold
+PRO-PREP� (iNtRon Biotechnology, Seoul, Korea)
+protein extraction solution, according to the manufac-
+turer’s protocol. Protein concentrations of RAW 264.7
+cells lysate and culture supernatant were determined using
+the Bradford assay [26]. Electrophoresis of protein lysates
+was performed using a 12% polyacrylamide separating
+gel (5% stacking gel) in a Tris–glycine buffer system under
+denaturing conditions. All samples were mixed with an
+equal volume of sample buffer, boiled, and loaded onto
+the gel. Proteins were transferred (Trans-Blot� Cell;
+Bio-Rad Lab., Hercules, CA, USA) onto 0.2 lm-nitrocel-
+lulose membranes (Sartorius AG., Gottingen, Germany)
+at 300 mA for 3 h. Non-specific binding sites were blocked
+
+
+
+D.-H. Song et al. / Cytokine 37 (2007) 227–235 229
+for 3 h with 5% bovine serum albumin (BSA) in Tris-buf-
+fered saline (TBS) containing 0.1% Tween 20 (TBST),
+and washed briefly three times with TBST. Membranes
+were subsequently incubated for 2 h at room temperature
+in 0.5% BSA–TBST containing either a rabbit antipeptide
+pAb raised against a synthetic PPARc peptide synthesized
+using the mouse PPARc sequence, or goat anti-rmTNF-a
+pAb. After washing three times with TBST, the membranes
+were incubated with either anti-rabbit IgG conjugated with
+HRP or anti-goat IgG conjugated with AP in 0.5% BSA/
+TBST for 2 h. The membranes were washed twice with
+TBST and once with TBS. The membranes with HRP con-
+jugated antibody were incubated in chemiluminescent sub-
+strate and exposed to Kodak X-AR film (Eastman Kodak,
+Rochester, NY, USA). The membranes with AP conju-
+gated antibody were incubated with nitro blue tetrazolium
+chloride and 5-bromo-4-chloro-3-indolyl phosphate (NBT/
+BCIP) (Boehringer Mannheim GmbH, Mannheim, Ger-
+many) in alkaline phosphatase buffer containing 0.1 M
+Tris–HCl (pH 9.5), 0.1 M NaCl, and 5 mM MgCl2. The
+reaction was stopped by rinsing membranes with 20 mM
+EDTA in TBS.
+
+2.5. Phagocytic activity analyses
+
+One hundred microliter of RAW 264.7 cells, adjusted
+to 5 · 106 cells/ml, was added to each well of a 24-well
+plate. The RAW 264.7 cells were incubated with
+rmTNF-a and culture supernatant from RAW 264.7 cells
+(5 · 105 cells/ml) treated with either 10 lM 10t–12c CLA
+alone or in combination with 0.01–1 lM GW 9662 for
+12 h at 37 �C under a 5% CO2-humidified atmosphere.
+For neutralization test, various concentrations of anti-
+rmTNF-a pAb were mixed with 10t–12c CLA-stimulated
+RAW 264.7 cell culture supernatant. Goat anti-rhIL-2
+pAb was used as a control isotype IgG. The samples were
+mixed and incubated 30 min at room temperature. Ten
+microliter of fluorescein isothiocyanate (FITC)-latex
+beads (1 · 109 beads/ml, latex bead size, 2.0 lm; Poly-
+sciences Inc., Warrington, PA, USA) were added to each
+well for the final 2 h. RAW 264.7 cells incubated without
+FITC-latex beads were used as a negative control. The
+cultured cells were harvested gently by slow pipetting,
+centrifuged at 400g for 3 min and washed three times with
+PBS containing 3 mM ethylenediamine tetraacetic acid
+(EDTA). The supernatant was discarded and replaced
+with 1 ml PBS containing 1% paraformaldehyde to stabi-
+lize the cells. Phagocytic activity was measured by flow
+cytometry (BRYTE HS, Bio-Rad, Microscience Ltd.,
+England) and surface-adherent FITC fluorescence on
+RAW 264.7 cells was quenched by addition of 20 ll of
+a 0.4% trypan blue solution to each tube before flow
+cytometry analysis. FITC fluorescence was measured
+between 520 and 560 nm on 5000 RAW 264.7 cells per
+sample. The cells were gated by forward and side light
+scatter characteristics. The results were expressed as per-
+centages of absolute phagocytic activities.
+2.6. RNA isolation
+
+Total RNA was prepared from RAW 264.7 cells using
+the TRIzol reagent (Invitrogen Co., Carlsbad, CA, USA).
+RAW 264.7 cells were mixed with 1 ml TRIzol reagent.
+Chloroform (200 ll per 1 ml TRIzol reagent) was added
+and the mixture was vigorously vortexed for 15 s. The
+lysate was centrifuged for phase separation at 13,000g for
+10 min. After separation, the aqueous phase was trans-
+ferred to a fresh tube, 500 ll of isopropyl alcohol was
+added and the tube gently inverted to mix. The samples
+were centrifuged for 10 min. The supernatant was removed
+and the visible pellet was washed with 1 ml of 75% ethanol.
+The RNA pellet was dissolved in diethylpyrocarbonate
+(DEPC)-treated water, and the concentration of RNA
+was determined by absorbance at 260 nm.
+2.7. Reverse transcription-polymerase chain reaction (RT-
+
+PCR) analysis
+
+Total RNA (2 lg) was reverse transcribed into first
+strand complementary DNA (cDNA) using the Moloney-
+murine leukemia virus (M-MLV) reverse transcriptase
+(Ambion Inc., Austin, TX, USA) and a random primer
+(9 mer). To determine the conditions under which PCR
+amplification of PPARc, TNF-a, and cytochrome c
+oxidase subunit I(1A) mRNA are in the logarithmic phase,
+1 ll samples were amplified using different numbers of
+cycles. The 1A gene was PCR amplified to control for
+RNA degradation and variation in mRNA concentrations
+in the reverse transcription (RT) reaction. PCR products
+and amplification cycles were linearly related in PPARc,
+TNF-a, and 1A mRNAs. Thirty cycles of PCR for PPARc
+and TNF-a and 25 cycles for 1A were used for quantifica-
+tion. The cDNA was amplified in a 20 ll PCR reaction
+containing 1 unit Taq polymerase in PCR buffer (Promega
+Co., Madison, WI, USA), 1.5 mM MgCl2, 2 mM dNTP,
+and 50 pmol of specific primers. PCR reactions were dena-
+tured at 95 �C for 1 min, annealed at 50 �C for 1 min, and
+extended at 72 �C for 1.5 min. The cDNA sequences for the
+detection of transcripts of PPARc, TNF-a and 1A were
+obtained by RT using the following primers (Macrogen
+Inc., Seoul, Korea). The PPARc primers were based on
+the deposited cDNA sequence (GenBank Accession No.
+NM011146): 5 0-GAA AAG ACC CAG CTC TAC AAC-
+3 0 (forward) and 5 0-GTT CAG CTG GTC GAT ATC
+AC-3 0 (reverse). The TNF-a primers were based on the
+deposited cDNA sequence (GenBank Accession No.
+NM013693): 5 0-CCT CCC TCT CAT CAG TTC TAT-3 0
+
+(forward) and 5 0-GAG GTT GAC TTT CTC CTC CTG
+GT-3 0 (reverse). The 1A gene primers (GenBank Accession
+No. J01420) were: 5 0-CAC CGT AGG AGG TCT AAC G-
+3 0 (forward) and 5 0-GTA TCG TCG AGG TAT TCC G-3 0
+
+(reverse). PCR products (10 ll) were electrophoresed on a
+2% agarose gel and stained with ethidium bromide.
+Photographs of the gels were scanned and analyzed using
+
+
+
+230 D.-H. Song et al. / Cytokine 37 (2007) 227–235
+a digital analysis program (Gel Doc 1000, version 1.5,
+Bio-Rad Lab.).
+
+2.8. Data analyses
+
+The one-way analysis of variance followed by Dunnett’s
+test for each pair for multiple comparisons was used in
+order to determine statistical significance. Comparisons
+of two groups at each GW 9662 concentration were made
+by Student‘s t-test. All data expressed as mean ± standard
+error of the mean (SEM).
+
+3. Results
+
+3.1. TNF-a expression of RAW macrophages by 10t–12c
+CLA
+
+To examine whether 10t–12c CLA induces the produc-
+tion of TNF-a in RAW 264.7 cells, Western blot analysis
+of the culture supernatant from RAW 264.7 cells treated
+Fig. 1. TNF-a expression of RAW 264.7 cells by 10t–12c CLA. (A) Culture su
+12c CLA for 24 h or from vehicle-treated cells was loaded onto SDS-PAGE und
+using anti-rmTNF-a pAb. (B) RT-PCR analysis was performed on TNF-a mR
+times (a). Normalization of the TNF-a mRNA expression with 1A (b). Signals
+the maximum values (c). The expected product sizes of TNF-a and 1A mRNA
+with 10t–12c CLA (10 lM) for 24 h was performed using
+anti-rmTNF-a pAb. A single protein band with a molecu-
+lar weight of 16–18 kDa was present in culture supernatant
+from RAW 264.7 cells treated with 10t–12c CLA and
+rmTNF-a samples, but not medium alone or culture super-
+natant from RAW 264.7 cells incubated with vehicle
+(DMSO) instead of 10t–12c CLA (Fig. 1A). 10t–12c CLA
+(10 lM) stimulation of TNF-a mRNA expression in
+RAW 264.7 cells was also examined. As shown in
+Fig. 1B, TNF-a mRNA expression of RAW 264.7 cells
+was detected by RT-PCR and peaked after 1 h of incuba-
+tion with 10t–12c CLA.
+3.2. Phagocytic activity of RAW macrophages
+
+RAW 264.7 cells (5 · 105 cells/ml) were incubated for
+12 h with culture supernatant (3.13–50%) from RAW
+264.7 cells (5 · 105 cells/ml) treated with 10 lM 10t–12c
+CLA for 24 h. The phagocytic activity of RAW 264.7 cells
+incubated with culture supernatant from RAW 264.7 cells
+pernatant from RAW 264.7 cells (5 · 105 cells/ml) treated with 10 lM 10t–
+er denaturing conditions (50 lg per lane) and analyzed by Western blotting
+NA in RAW 264.7 cells treated with 10 lM 10t–12c CLA for the indicated
+were quantified by a digital analysis program and expressed as a percent of
+
+are 313 and 314 bp, respectively.
+
+
+
+Fig. 2. Phagocytic activity of RAW 264.7 cells. (A) Effect of culture supernatant from 10t–12c CLA-treated RAW 264.7 cells on phagocytic activity of
+naive RAW 264.7 cells. RAW 264.7 cells (5 · 105 cells/ml) were incubated for 12 h with the culture supernatant from RAW 264.7 cells (5 · 105 cells/ml)
+that had been treated with 10 lM 10t–12c CLA for 24 h. (B) Effect of rmTNF-a on phagocytic activity of RAW 264.7 cells. RAW 264.7 cells (5 · 105 cells/
+ml) were incubated for 12 h with rmTNF-a at the indicated concentrations. Culture supernatant (12.5%) from RAW 264.7 cells treated with 10 lM 10t–
+12c CLA for 24 h was used as the positive control. (C) Neutralization effect of anti-rmTNF-a pAb on phagocytic activity of RAW 264.7 cells stimulated by
+10t–12c CLA-treated RAW 264.7 cell culture supernatant. Anti-rmTNF-a pAb at the indicated concentrations and goat anti-rhIL-2 pAb as a control
+isotype IgG were added to the culture supernatant (12.5%) from RAW 264.7 cells (5 · 105 cells/ml) treated with 10 lM 10t–12c CLA for 24 h. RAW 264.7
+cell cultures were incubated with these samples for 30 min. All cultures were supplemented with 10 ll of FITC-latex beads (1 · 109 beads/ml) for the final
+2 h. The phagocytic activity of RAW 264.7 cells was measured using flow cytometry. The data are presented as mean ± SEM, n = 3, **P < 0.01, compared
+to control (in panel A), vehicle-treated RAW 264.7 cell culture supernatant (in panel B) and 10t–12c CLA-treated RAW264.7 cell culture supernatant
+(12.5%) (in panel C).
+
+D.-H. Song et al. / Cytokine 37 (2007) 227–235 231
+
+
+
+232 D.-H. Song et al. / Cytokine 37 (2007) 227–235
+that had been treated with 10t–12c CLA for 24 h was sig-
+nificantly enhanced (P < 0.01) in a dose-dependent manner
+compared to controls and showed the highest level of stim-
+ulation at 12.5% culture supernatant (Fig. 2A). The phag-
+ocytic activity of RAW 264.7 cells was also significantly
+increased (P < 0.01) in a dose-dependent manner by addi-
+tion of 0.01–10 ng/ml rmTNF-a compared to the response
+to culture supernatant (12.5%) of RAW 264.7 cells treated
+with vehicle (DMSO) instead of 10t–12c CLA for 24 h and
+was highest at 1 ng/ml rmTNF-a (Fig. 2B). The effect of
+anti-rmTNF-a pAb on the phagocytic activity of RAW
+264.7 cells in response to the culture supernatant from
+RAW 264.7 cells treated with 10t–12c CLA was examined.
+The enhanced phagocytic activity of RAW 264.7 cells to
+culture supernatant (12.5%) from RAW 264.7 cells
+(5 · 105 cells/ml) treated with 10 lM 10t–12c CLA for
+24 h was inhibited (P < 0.01) in a dose-dependent manner
+by addition of 0.001–1 lg/ml anti-rmTNF-a pAb, when
+compared to the activity induced by the 10t–12c CLA-trea-
+ted culture supernatant alone (Fig. 2C). In contrast, the
+enhanced phagocytic activity of RAW 264.7 cells in
+response to culture supernatant treated with 10t–12c
+CLA was not inhibited by addition of anti-rhIL-2 pAb
+(1 lg/ml: control IgG) instead of anti-rmTNF-a pAb.
+Fig. 3. Effect of 10t–12c CLA on the levels of PPARc protein and mRNA ex
+treated with 10 lM 10t–12c CLA or vehicle (DMSO; control) for 24 h. Cell lysa
+conditions and analyzed by Western blotting with rabbit anti-PPARc pAb.
+(5 · 105 cells/ml) treated with 10 lM 10t–12c CLA for the indicated times (a).
+quantified by a digital analysis program and expressed as a percent of the maxi
+348 and 314 bp, respectively.
+3.3. Effect of 10t–12c CLA on PPARc expression of RAW
+macrophages
+
+RAW 264.7 cells were incubated with 10t–12c CLA and
+harvested for total protein and RNA isolation. Western
+blot analysis showed that a 24 h-incubation of RAW
+264.7 cells (5 · 105 cells/ml) with 10 lM 10t–12c CLA
+induced PPARc protein expression (Fig. 3A). A detectable
+PPARc protein was also found in untreated RAW 264.7
+when larger amounts of cell lysate (40 lg) were analyzed.
+RT-PCR analysis revealed that PPARc mRNA expression
+in RAW 264.7 cells was induced by 10t–12c CLA treatment
+and peaked at 1 h-incubation, although minor expression
+of PPARc was detected in untreated RAW 264.7 cells
+(Fig. 3B).
+
+3.4. Effect of a PPARc antagonist, GW 9662, on the
+phagocytic activity and TNF-a expression of RAW
+macrophages
+
+To examine the effect of a PPARc antagonist, GW
+9662 (2-chloro-5-nitrobenzanilide), on the CLA-stimulated
+RAW 264.7 cells, culture supernatant (12.5%) from RAW
+264.7 cells treated with 10 lM 10t–12c CLA plus 0.01–
+pression in RAW 264.7 cells. (A) RAW 264.7 cells (5 · 105 cells/ml) were
+te samples (40 lg per lane) were loaded onto SDS–PAGE under denaturing
+(B) RT-PCR analysis of PPARc mRNA expression in RAW 264.7 cells
+Normalization of the PPARc mRNA expression with 1A (b). Signals were
+mum values (c). The expected product sizes of PPARc and 1A mRNA are
+
+
+
+Fig. 4. Effect of GW 9662 on the phagocytic activity and TNF-a expression of 10t–12c CLA-stimulated RAW 264.7 cells. (A) Phagocytic activity of RAW
+264.7 cells stimulated by culture supernatant (12.5%) from RAW 264.7 cells (5 · 105 cells/ml) treated with 10 lM 10t–12c CLA plus 0.01–1 lM GW 9662
+for 24 h. The data are presented as mean ± SEM, n = 3, **P < 0.01, compared to 10t–12c CLA-treated RAW 264.7 cell culture supernatant (12.5%). (B)
+Effect of GW 9662 on TNF-a protein level of 10t–12c CLA-stimulated RAW 264.7 cells. Culture supernatant (25 lg total protein per lane) from RAW
+264.7 cells treated with 10 lM 10t–12c CLA plus 0.01–1 lM GW 9662 for 24 h was loaded onto SDS–PAGE under denaturing conditions and analyzed by
+Western blotting using anti-rmTNF-a pAb. (C) Effect of GW 9662 on TNF-a mRNA expression of 10t–12c CLA-stimulated RAW 264.7 cells. RAW
+264.7 cells were treated with 10 lM 10t–12c CLA plus 0.01–1 lM GW 9662 for 1 h. RT-PCR analysis of TNF-a mRNA expression in RAW 264.7 cells
+treated with 10t–12c CLA plus GW 9662 (a). Normalization of the TNF-a mRNA expression with 1A (b). Signals were quantified by a digital analysis
+program and expressed as a percent of the maximum values (c). The expected product sizes of TNF-a and 1A mRNA are 313 and 314 bp, respectively.
+
+D.-H. Song et al. / Cytokine 37 (2007) 227–235 233
+
+
+
+234 D.-H. Song et al. / Cytokine 37 (2007) 227–235
+1 lM GW 9662 for 24 h was prepared. As shown in
+Fig. 4A, the phagocytic activity of RAW 264.7 cells
+induced by 10t–12c CLA-treated RAW 264.7 cell culture
+supernatant was inhibited (P < 0.01) in a dose-dependent
+manner by culture supernatant from RAW 264.7 cells
+treated with 10t–12c CLA plus GW 9662, compared to
+10t–12c CLA-treated culture supernatant alone. In
+addition, Western blot and RT-PCR analysis showed
+that 0.01–1 lM GW 9662 antagonized the expression of
+TNF-a protein (Fig. 4B) and mRNA (Fig. 4C) of RAW
+264.7 cells induced by 10t–12c CLA, in a dose-dependent
+manner.
+
+4. Discussion
+
+Expression of TNF-a is elevated in undifferentiated
+human monocytes or incompletely differentiated macro-
+phage RAW 264.7 cells in comparison to differentiated
+human macrophages [27]. High concentrations of the
+PPARc ligands troglitazone (30 lM) and 15d-PGJ2
+(10 lM) inhibited the expression of TNF-a as well as
+decreased the cell viability in vitro [28]. In contrast,
+10 lM 10t–12c CLA, used in this study, up-regulated
+TNF-a expression and maintained a high RAW 264.7 cell
+viability of greater than 90%. The phagocytic activity of
+RAW 264.7 cells was enhanced by either culture superna-
+tant from RAW 264.7 cells treated with 10t–12c CLA or
+rmTNF-a. In addition, anti-rmTNF-a pAb neutralized
+the enhanced phagocytic activity of RAW 264.7 cells stim-
+ulated by culture supernatant from 10t–12c CLA treated
+RAW 264.7 cells. These findings indicate that 10t–12c
+CLA stimulates RAW 264.7 cells to produce TNF-a, which
+enhances the phagocytic activity of RAW 264.7 cells.
+
+TNF-a is a natural stimulant which promotes the phag-
+ocytic activity of phagocytes [29]. It has beeen reported that
+the enhanced phagocytic activity of PMN by culture super-
+natant from PBMC treated with immunostimulating egg
+white derivatives, was due to TNF-a, but not IL-1 [25].
+Rats fed a diet containing 10t–12c CLA have the enhanced
+phagocytic activity of phagocytes, correlated with an
+increase in plasma TNF-a [30]. The CLA stimulated tumor
+cell killing ability of macrophages has been associated with
+induction of TNF-a expression [31]. It has been also
+reported that CLA decreases the synthesis of prostaglandin
+E2 (PGE2) [32], and PGE2 has been shown to have
+profound down-regulatory effects on various inflammatory
+cells [33]. PGE2 has been reported to regulate macrophage
+TNF-a production through negative feedback [34]. There-
+fore, one possible explanation for increased TNF-a
+expression in porcine PBMC treated with t10c12-CLA
+may be related to decreased PGE2 regulation of TNF-a.
+
+The results demonstrated that 10t-12c CLA increased
+the level of PPARc protein and mRNA in RAW 264.7
+cells. This finding is consistent with reports that the expres-
+sion of PPARc was increased in CLA-fed pigs [20] and
+that the supplementation of CLA in the diet enhanced
+the colonic expression of PPARc [35]. Since CLA under-
+goes elongation and desaturation processes similar to those
+of polyunsaturated fatty acids (PUFAs) such as linoleic
+acid, D6 desaturase metabolites of CLA can also activate
+PPARc expression [12]. Thus, the induction of PPARc
+expression may occur through direct binding of CLA as
+well as active metabolites of CLA [36]. These results
+suggest that CLA acts as a ligand of PPARc and activates
+PPARc.
+
+The present study indicates that 10t–12c CLA stimulates
+both PPARc and TNF-a expression in RAW 264.7 cells.
+We used a specific and high affinity PPARc antagonist
+(nanomolar IC50, [37]), GW 9662, to elucidate the role of
+PPARc on TNF-a expression in RAW 264.7 cells induced
+by 10t–12c CLA. GW 9662 antagonized the effect of
+10t–12c CLA on TNF-a expression of RAW 264.7 cells
+as well as their phagocytic activity induced by TNF-a.
+These results suggest that the effects of 10t–12c-CLA on
+TNF-a production in RAW 264.7 cells may be dependent
+on the PPARc pathway. High affinity PPARc ligands such
+as the thiazolidinedione (TZD) antidiabetic agent AD-5075
+and the non-TZD insulin-sensitizing agent L-796,499 did
+not inhibit production of TNF-a and IL-6 in RAW 264.7
+cells [38].
+
+In conclusion, the overall results of this study show that
+the effect of 10t–12c CLA on the phagocytic activity of
+RAW 264.7 macrophages might be mediated by TNF-a
+expression via a PPARc-dependent pathway.
+
+Acknowledgments
+
+This work was supported by the National Livestock Re-
+search Institute and the ministry of Education and Human
+Resources Development (MOE), the Ministry of Com-
+merce, Industry and Energy (MOCIE) and the Ministry
+of Labor (MOLAB) through the fostering project of the
+lab of Excellency. In addition, the authors appreciate for
+a graduate fellowship provided by the Ministry of Educa-
+tion through BK21 program.
+
+References
+
+[1] Escher P, Wahli W. Peroxisome proliferator-activated receptors:
+insight into multiple cellular functions. Mutat Res 2000;448:121–38.
+
+[2] Jozkowicz A, Dulak J, Piatkowska E, Placha W, Dembinska-Kiec A.
+Ligands of peroxisome proliferator-activated receptor-gamma
+increase the generation of vascular endothelial growth factor in
+vascular smooth muscle cells and in macrophages. Acta Biochim Pol
+2000;47:1147–57.
+
+[3] Clark RB, Bishop-Bailey D, Estrada-Hernandez T, Hla T, Pudding-
+ton L, Padula SJ. The nuclear receptor PPARc and immunoregula-
+tion: PPARc mediates inhibition of helper T cell responses. J
+Immunol 2000;164:1364–71.
+
+[4] Zhang X, Young HA. PPAR and immune system-what do we know?.
+Int Immunopharmacol 2002;2:1029–44.
+
+[5] Ricote M, Li AC, Willson TM, Kelly CJ, Glass CK. The peroxisome
+proliferator-activated receptor-c is a negative regulator of macroph-
+gage activation. Nature 1998;391:79–82.
+
+[6] Desmet C, Warzee B, Gosset P, Melotte D, Rongvaux A, Gillet L,
+et al. Pro-inflammatory properties for thiazolidinediones. Biochem
+Pharmacol 2005;69:255–65.
+
+
+
+D.-H. Song et al. / Cytokine 37 (2007) 227–235 235
+[7] Jiang C, Ting AT, Seed B. PPARc agonists inhibit production of
+monocyte inflammatory cytokines. Nature 1998;391:82–6.
+
+[8] Cunard R, Ricote M, DiCampli D, Archer DC, Kahn DA, Glass CK,
+et al. Regulation of cytokine expression by ligands of peroxisome
+proliferator activated receptors. J Immunol 2002;168:2795–802.
+
+[9] Liew C, Schut HA, Chin SF, Pariza MW, Dashwood RH. Protection
+of conjugated linoleic acids against 2-amino-3- methylimidazo[4,5-
+f]quinoline-induced colon carcinogenesis in the F344 rat: a study of
+inhibitory mechanisms. Carcinogenesis 1995;6:3037–43.
+
+[10] Kumaratilake LM, Ferrante A, Robinson BS, Jaeger T, Poulos A.
+Enhancement of neutrophil-mediated killing of Plasmodium falcipa-
+rum asexual blood forms by fatty acids: importance of fatty acid
+structure. Infect Immun 1997;65:4152–7.
+
+[11] Daynes RA, Jones DC. Emerging roles of PPARs in inflammation
+and immunity. Nat Rev Immunol 2002;2:748–59.
+
+[12] Banni S. Conjugated linoleic acid metabolism. Curr Opin Lipidol
+2002;13:261–6.
+
+[13] Granlund L, Juvet LK, Pedersen JI, Nebb HI. Trans10, cis12-
+conjugated linoleic acid prevents triacylglycerol accumulation in
+adipocytes by acting as a PPARc modulator. J Lipid Res
+2003;44:1441–52.
+
+[14] Wilson TA, Nicolsi RJ, Chrysam M, Kritchevsky D. Conjugated
+linoleic acid reduces early aortic atherosclerosis greater than linoleic
+acid in hypercholesterolemic hamsters. Nutr Res 2000;20:1795–805.
+
+[15] Smedman A, Vessby B. Conjugated linoleic acid supplementation in
+humans-metabolic effects. Lipids 2001;36:773–81.
+
+[16] Palombo JD, Ganguly A, Bistrian BR, Menard MP. The antiprolif-
+erative effects of biologically active isomers of conjugated linoleic acid
+on human colorectal and prostatic cancer cells. Cancer Lett
+2002;177:163–72.
+
+[17] Kelley DS, Warren JM, Simon VA, Bartolini G, Mackey BE,
+Erickson KL. Similar effects of c9,t11-CLA and t10,c12-CLA on
+immune cell functions in mice. Lipid 2002;37:725–8.
+
+[18] Turek JJ, Li Y, Schoenlein IA, Allen KGD, Watkins BA. Modula-
+tion of macrophage cytokine production by conjugated linoleic acids
+is influenced by the dietary n-6:n-3 fatty acid ratio. J Nutr Biochem
+1998;9:258–66.
+
+[19] Bassaganya-Riera J, Hontecillas R, Beitz DC. Colonic anti-inflam-
+matory mechanisms of conjugated linoleic acid. Clin Nutr
+2002;21:451–9.
+
+[20] Meadus WJ, MacInnis R, Dugan ME. Prolonged dietary treatment
+with conjugated linoleic acid stimulates porcine muscle peroxisome
+proliferator activated receptor-gamma and glutamine-fructose ami-
+notransferase gene expression in vivo. J Mol Endocrinol
+2002;28:79–86.
+
+[21] Reddy RC, Keshamouni VG, Jaigirdar SH, Zeng X, Leff T,
+Thannickal VJ, et al. Deactivation of murine alveolar macrophages
+by peroxisome proliferator-activated receptor-gamma ligands. Am J
+Physiol Lung Cell Mol Physiol 2004;286:613–9.
+
+[22] Cook ME, Miller CC, Park Y, Pariza M. Immune modulation by
+altered nutrient metabolim: nutritional control of immune-induced
+growth depression. Poult Sci 1993;72:1301–5.
+
+[23] Kim JH, Chung CS, Lee CY, Yang MP. Immunoenhancing effects of
+conjugated linoleic acid on chemotactic activity of porcine blood
+polymorphonuclear cells. J Vet clin 2003;20:1–6.
+[24] Kang JH, Kim JH, Chung CS, Lee CY, Yang MP. Immunoenhanc-
+ing effect of conjugated linoleic acid on phagocytic activity of porcine
+peripheral blood phagocytes. J Vet Clin 2004;21:336–42.
+
+[25] Yang MP, Ko IK, Kang JH, Song DH, Lee GS, Jeung EB. Egg white
+derivatives induce tumor necrosis factor-a expression in porcine
+peripheral blood mononuclear cells. Vet Immunol Immunopathol
+2005;106:129–38.
+
+[26] Daniel MB, Michael DR, Stuart JE. Protein methods. New
+York: Wiley-Liss; 1996.
+
+[27] Smythe CD, Skinner VO, Bruckdorfer KR, Haskard DO, Landis RC.
+The state of macrophage differentiation determines the TNF-a
+response to nitrated lipoprotein uptake. Atherosclerosis
+2003;170:213–21.
+
+[28] Naitoh T, Kitahara M, Tsuruzoe N. The effect of activation of
+peroxisome proliferator-activated receptor gamma (PPARc) on
+human monocyte function: PPARc ligands do not inhibit tumor
+necrosis factor-a release in human monocytic cell line THP-1. Cell
+Biol Toxicol 2000;16:131–5.
+
+[29] Pechkovsky DV, Potapnev MP, Zalutskaya OM. Different patterns
+of cytokine regulation of phagocytosis and bacterial killing by human
+neutrophils. Int J Antimicrob Agents 1996;7:33–40.
+
+[30] Han SC, Kang JH, Yang MP. Dietary conjugated linoleic acids
+increase phagocytosis of peripheral blood polymorphonuclear cells in
+rats. Lab Anim Res 2005;21:19–25.
+
+[31] Wang XL, Chen BQ, Yang YM, Zheng YM, Liu JR. The effects of
+conjugated linoleic acid on the ability of murine macrophage in
+killing tumor cells. Zhonghua Yu Fang Yi Xue Za Zhi
+2004;38:107–10.
+
+[32] Li Y, Watkins BA. Conjugated linoleic acids alter bone fatty acid
+composition and reduce ex vivo prostaglandin E2 biosynthesis in rats
+fed n-6 or n-3 fatty acids. Lipids 1998;33:417–25.
+
+[33] Harris SH, Padilla J, Koumas L, Ray D, Phipps RP. Prostaglandins
+as modulators of immunity. Trends Immunol 2002;23:144–50.
+
+[34] Shinomiya S, Naraba H, Ueno A, Utsunomiya I, Maruyama T,
+Ohuchida S, et al. Regulation of TNFa and interleukin-10 produc-
+tion by prostaglandin I(2) and E(2): studies with prostaglandin
+receptor-deficient mice and prostaglandin E-receptor subtype-selec-
+tive synthetic agonists. Biochem Pharmacol 2001;61:1153–60.
+
+[35] Hontecillas R, Wannemeulher MJ, Zimmerman DR, Hutto DL,
+Wilson JH, Ahn DU, et al. Nutritional regulation of porcine
+bacterial-induced colitis by conjugated linoleic acid. J Nutr
+2002;132:2019–27.
+
+[36] Belury MA, Moya-Camarena SY, Lu M, Shi L, Leesnitzer LM,
+Blanchard SG. Conjugated linoleic acid is an activator and ligand for
+peroxisome proliferator-activated receptor-gamma. Nutr Res
+2002;22:817–24.
+
+[37] Dugo L, Collin M, Cuzzocrea S, Thiemermann C. 15d-prostaglandin
+J2 reduces multiple organ failure caused by wall-fragment of Gram-
+positive and Gram-negative bacteria. Eur J Pharmacol
+2004;498:295–301.
+
+[38] Thieringer R, Fenyk-Melody JE, Le Grand CB, Shelton BA, Detmers
+PA, Somers EP, et al. Activation of peroxisome proliferator-
+activated receptor gamma does not inhibit IL-6 or TNF-a response
+of macrophage to lipopolysaccharide in vitro or in vivo. J Immunol
+2000;164:1046–54.
+
+
+	Upregulation of tumor necrosis factor- alpha  expression by trans10-cis12 conjugated linoleic acid enhances phagocytosis of RAW macrophages via a peroxisome proliferator-activated receptor  gamma -dependent
+	Introduction
+	Materials and methods
+	RAW macrophages
+	Reagents
+	Culture supernatant
+	Protein extraction and Western blot
+	Phagocytic activity analyses
+	RNA isolation
+	Reverse transcription-polymerase chain reaction (RT-PCR) analysis
+	Data analyses
+
+	Results
+	TNF- alpha  expression of RAW macrophages by 10t-12c CLA
+	Phagocytic activity of RAW macrophages
+	Effect of 10t-12c CLA on PPAR gamma  expression of RAW macrophages
+	Effect of a PPAR gamma  antagonist, GW 9662, on the phagocytic activity and TNF- alpha  expression of RAW macrophages
+
+	Discussion
+	Acknowledgments
+	References

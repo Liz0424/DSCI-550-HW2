@@ -1,0 +1,866 @@
+Inhibition of sphingosine‐1‐phosphate receptor 2 attenuated ligature‐induced periodontitis in mice
+
+
+Oral Diseases. 2021;27:1283–1291.     |  1283wileyonlinelibrary.com/journal/odi
+
+1  | INTRODUC TION
+
+Periodontitis is a prevalent chronic inflammatory bone loss dis-
+ease affecting 47% of adults in the United States (Eke et al., 2012). 
+It is initiated by formation of dysbiotic bacterial colonies on sub-
+gingival mucosa (Darveau, 2010; Hajishengallis & Lambris, 2012), 
+resulting in release of inflammatory cytokines, such as IL-1β, IL-6, 
+
+TNF-α, and RANKL. Enhanced levels of inflammatory cytokines 
+subsequently recruit monocytes and macrophages to gingival 
+tissues. These mononuclear cells can further differentiate and 
+fuse to form multinucleated osteoclasts, resulting in destruction 
+of alveolar bone tissues and subsequent tooth loss. Periodontitis 
+can also influence systemic health, as severe periodontitis is as-
+sociated with increased risk of other systemic diseases, such 
+
+ 
+
+Received: 30 June 2020  |  Revised: 25 August 2020  |  Accepted: 7 September 2020
+DOI: 10.1111/odi.13645  
+
+O R I G I N A L  A R T I C L E
+
+Inhibition of sphingosine-1-phosphate receptor 2 attenuated 
+ligature-induced periodontitis in mice
+
+Marquise Snipes1 |   Chao Sun2 |   Hong Yu1
+
+© 2020 The Authors. Oral Diseases published by John Wiley & Sons Ltd. 
+
+1Department of Oral Health Sciences, 
+Medical University of South Carolina, 
+Charleston, SC, USA
+2Department of Comparative Medicine, 
+Medical University of South Carolina, 
+Charleston, SC, USA
+
+Correspondence
+Hong Yu, Department of Oral Health 
+Sciences, BSB-230A, Medical University of 
+South Carolina, 173 Ashley Ave. Charleston, 
+SC 29425, USA.
+Email: yuho@musc.edu
+
+Funding information
+National Center for Advancing Translational 
+Sciences, Grant/Award Number: 
+UL1TR001450; National Institute of Dental 
+and Craniofacial Research, Grant/Award 
+Number: R15DE027324
+
+Abstract
+Objectives: Periodontitis is an inflammatory bone loss disease initiated by oral bacte-
+rial inflammation. Herein, we determined whether inhibition of sphingosine-1-phos-
+phate receptor 2 (S1PR2, a G protein-coupled receptor) by its specific antagonist, 
+JTE013, could alleviate ligature-induced periodontitis in mice.
+Materials and Methods: C57BL/6 mice were placed with silk ligatures at the left 
+maxillary second molar to induce experimental periodontitis. Mice were treated with 
+JTE013 or control vehicle (dimethyl sulfoxide, DMSO) oral topically on the ligatures 
+once daily. After 15 days of treatment, RNA was extracted from the lingual mucosal 
+tissues to quantify IL-1β, IL-6, and TNF mRNA levels in the tissues. Alveolar bone loss 
+was determined by micro-computed tomography. Sagittal periodontal tissue sec-
+tions were cut and stained by hematoxylin and eosin (H&E) for general histology, or 
+stained by tartrate-resistant acid phosphatase (TRAP) for osteoclasts.
+Results: Treatment with JTE013 attenuated ligature-induced alveolar bone loss com-
+pared with DMSO treatment. Treatment with JTE013 reduced IL-1β, IL-6, and TNF 
+mRNA levels in murine gingival mucosal tissues, inhibited leukocyte infiltration in the 
+periodontal tissues, and decreased the number of osteoclasts in the periodontal tis-
+sues compared with controls.
+Conclusion: Oral topical administration of JTE013 alleviated periodontal inflamma-
+tory bone loss induced by ligature placement in mice.
+
+K E Y W O R D S
+
+bacteria, cytokine, osteoclast, periodontitis, sphingosine-1-phosphate receptor 2
+
+This is an open access article under the terms of the Creative Commons Attribution NonCommercial License, which permits use, distribution and reproduction 
+in any medium, provided the original work is properly cited and is not used for commercial purposes.
+
+www.wileyonlinelibrary.com/journal/odi
+mailto:﻿
+https://orcid.org/0000-0002-0930-6810
+mailto:yuho@musc.edu
+http://creativecommons.org/licenses/by-nc/4.0/
+http://crossmark.crossref.org/dialog/?doi=10.1111%2Fodi.13645&domain=pdf&date_stamp=2020-10-08
+
+
+1284  |     SNIPES Et al.
+
+as atherosclerosis, diabetes, stroke, and compilations of preg-
+nancy (Genco & Van Dyke, 2010; Jeffcoat et al., 2014; Pihlstrom 
+et al., 2005).
+
+Sphingosine-1-phosphate receptor 2 (S1PR2) is a G pro-
+tein-coupled receptor, which is expressed in most tissues (Aarthi 
+et al., 2011; Kluk & Hla, 2002). It is expressed on the plasma mem-
+brane and in the cytoplasm of mammalian cells (Aarthi et al., 2011; 
+Kluk & Hla, 2002). S1PR2 couples with the Gi, Gq, and G12/13 fam-
+ily of proteins, which regulate multiple signaling pathways, includ-
+ing Rho, Rac, phospholipase C, phosphoinositide 3-kinase (PI3K), 
+NF-κB, and mitogen-activated protein kinases (MAPKs) (Aarthi 
+et al., 2011; Kluk & Hla, 2002; Siehler et al., 2002; Takuwa, 2002; 
+Yu, 2016).
+
+Our previous studies showed that S1PR2 not only regulates 
+S1P signaling, but also controls the inflammatory response stim-
+ulated by an oral bacterial pathogen, Aggregatibacter actinomyce-
+temcomitans (Aa) (Hsu et al., 2019; Yu, 2016). Treatment with a 
+specific S1PR2 shRNA or the S1PR2-specific inhibitor (JTE013) 
+reduced IL-1β, IL-6, and TNF-α cytokine levels stimulated by Aa 
+in murine bone marrow-derived monocytes and macrophages 
+(BMMs) compared with controls (Hsu et al., 2019; Yu, 2016). 
+Additionally, treatment with the S1PR2 shRNA or JTE013 inhibited 
+cell chemotaxis stimulated by filter-sterilized cell culture media 
+derived from BMMs infected with Aa (Hsu et al., 2019; Yu, 2016). 
+Mechanistically, we determined that S1PR2 modulates PI3K, NF-
+κB, and MAPK protein kinases induced by Aa, subsequently affect-
+ing IL-1β, IL-6, TNF-α release, and cell chemotaxis response (Hsu 
+et al., 2019; Yu, 2016).
+
+S1PR2 not only controls inflammatory cytokine response initi-
+ated by bacterial pathogens, it also regulates bacterial phagocytosis. 
+For instance, a previous study demonstrated that S1PR2 suppresses 
+bacterial phagocytosis (Hou et al., 2015). They discovered that 
+S1PR2 inhibits Rac1 activation induced by Escherichia coli (E. coli), 
+subsequently leading to reduced filamentous actin (F-actin) polym-
+erization and decreased bacterial phagocytosis (Hou et al., 2015). In 
+addition, they showed that intratracheal instillation of the S1PR2-
+specific antagonist, JTE013 (4 mg/kg), improved survival rate in mice 
+challenged by a lethal dose of E. coli. Treatment with JTE013 reduced 
+the bacterial load in the blood and in bronchoalveolar lavage fluid 
+compared with vehicle treatment. This study demonstrated that 
+treatment with JTE013 alleviated bacterial infection by enhancing 
+bacterial phagocytosis.
+
+Furthermore, S1PR2 plays a key role in osteoclastogenesis and 
+bone resorption stimulated by RANKL. Oral bacterial pathogens 
+induce the generation of RANKL. RANKL, the critical cytokine for 
+osteoclastogenesis, promotes mononuclear monocytes to fuse and 
+form multinucleated osteoclasts, resulting in bone destruction and 
+alveolar bone loss associated with periodontitis (Vaananen & Laitala-
+Leinonen, 2008). In the process of osteoclastogenesis, RANKL 
+activates podosome components, which are cell adhesive units, 
+consisting of F-actin, integrins, integrin-associated proteins, and 
+protein kinases (PI3K, Src, and Pyk2) (Linder & Aepfelbacher, 2003). 
+Increased levels of podosome components stimulated by RANKL 
+
+lead to adhesion and fusion of mononuclear cells to form osteo-
+clasts. Our previous study (Hsu et al., 2019) demonstrated that 
+S1PR2 modulates podosome components induced by RANKL, 
+subsequently influencing osteoclastogenesis and bone resorption. 
+Murine bone marrow cells treated with either the S1PR2 shRNA or 
+the S1PR2-specific inhibitor, JTE013, reduced these podosome com-
+ponents induced by RANKL. As a result, treatment with the S1PR2 
+shRNA or JTE013 inhibited osteoclastogenesis and suppressed bone 
+resorption stimulated by RANKL (Hsu et al., 2019; Yu, 2016).
+
+Herein, we used a ligature-induced experimental periodontitis 
+model to determine whether treatment with the S1PR2-specific in-
+hibitor, JTE013, in mice can reduce inflammatory cytokine release 
+in gingival tissues, decrease leukocyte infiltration in the periodontal 
+tissues, inhibit osteoclastogenesis, and alleviate alveolar bone loss 
+induced by ligature placement compared with vehicle DMSO treat-
+ment in mice. This ligature model is widely used to initiate experi-
+mental periodontitis in different animals, including mice, rats, dogs, 
+and non-human primates (Abe & Hajishengallis, 2013; Glowacki 
+et al., 2013; Kajikawa et al., 2017; Weiner et al., 1979).
+
+2  | MATERIAL S AND METHODS
+
+2.1 | Animals and reagents
+
+The S1PR2-specific antagonist (JTE013) was obtained from Cayman 
+Chemical and dissolved in DMSO (20 mg/ml). Eight-week-old male 
+C57BL/6 mice were purchased from Jackson Laboratory. Mice were 
+housed under a 12-hr light/12-hr dark cycle in specific pathogen-
+free conditions and had free access to food and water. All animal-
+related work was conducted in accordance with the guidelines laid 
+down by the National Institute of Health (NIH) in the United States 
+regarding the use of animals for experimental procedures, and ap-
+proved by the Institutional Animal Care and Use Committee at the 
+Medical University of South Carolina.
+
+2.2 | Animal treatment
+
+To induce inflammatory bone loss, a 5.0 silk suture (Roboz Surgical 
+Instrument Co.) was tied around the cervical region of left maxillary 
+second molars of all the mice under isoflurane anesthesia. The right 
+maxillary teeth were untreated to serve as a baseline control for 
+bone volume measurements. Animals were divided into two groups 
+(10 mice/group). Previous studies (Hou et al., 2015; Ishii et al., 2010) 
+used 3–4 mg/kg of JTE013 in mice. Considering that JTE013 would 
+be diluted in the oral cavity as a result of mice drinking water, we 
+chose a 5 mg/kg dose. In the experimental group, mice were admin-
+istered the S1PR2-specific antagonist (JTE013, 5 mg/kg, 20 mg/ml, 
+13–16 µl) topically on the ligature under isoflurane anesthesia once 
+daily. In the control group, mice were treated in the same way with 
+an equal volume of vehicle (DMSO). The ligatures were checked daily 
+and remained in place in all mice during the experimental period. 
+
+
+
+     |  1285SNIPES Et al.
+
+To promote persistent inflammation and osteoclastogenesis, we re-
+placed all the ligatures on day 7 and day 11 to induce minor tissue 
+injury and persistent inflammatory bone loss response.
+
+After treatment with JTE013 or DMSO for 15 days, mice were 
+euthanized. Both left and right lingual oral mucosal tissues (5 mice/
+group) were harvested and stored in TRIzol reagent (Thermo Fisher 
+Scientific). Both sides of maxillary tissues (10 mice/group) were fixed 
+in 10% buffered formalin solution for 48 hr. After fixation, the tis-
+sues were stored in 70% ethanol.
+
+2.3 | Micro-computed tomography (µ-CT) 
+scanning and alveolar bone loss assessment
+
+Both sides of animal maxillae were scanned by a cone-beam µ-CT40 
+system (Scanco Medical AG, Switzerland). Three-dimensional µ-CT 
+images were analyzed by the GE Healthcare MicroView software. 
+The alveolar bone volume around the second molar was calculated 
+within a region of interest (ROI). The width of the ROI was equal 
+to the length between the cementoenamel junction (CEJ) of the 1st 
+molar and the 3rd molar. The height of ROI was equal to the distance 
+from molar cusp tips to root apices of the 2nd molar. The depth of 
+ROI was equal to the buccal–lingual width of the 2nd molar plus 0.3 
+mm3. To determine the bone volume in the ROI, bone volume frac-
+tion (BVF) was calculated as follows: BVF = bone volume ÷ total vol-
+ume of ROI.
+
+2.4 | Tissue processing, staining, and 
+pathological assessment
+
+Maxillary bone tissues were decalcified in a 20% EDTA solution for 
+four weeks followed by paraffin embedding. Five-micrometer sagit-
+tal paraffin tissue sections were cut, stained with hematoxylin and 
+eosin (H&E) for general histology, or stained by tartrate-resistant 
+acid phosphatase (TRAP) for osteoclasts as previously described 
+(Yu et al., 2016). Inflammation in the periodontal tissues was scored 
+by an experienced pathologist who was blinded to the treatment 
+groups. Inflammatory criteria were defined as follows: 0, there was 
+an absence of inflammatory cells in the periodontal tissues, and no 
+indication of fibroblast proliferation or alveolar bone destruction; 1, 
+inflammatory cells were focally infiltrated in the periodontal tissues 
+and the total number of inflammatory cells was less than 100 per 
+section, mild fibroblast proliferation and bone destruction were pre-
+sent; 2, inflammatory cells were diffusely infiltrated in the periodon-
+tal tissues, with a total number of 100–200 inflammatory cells per 
+section, and moderate fibroblast proliferation and bone destruction 
+were present; and 3, inflammatory cells were diffusely infiltrated 
+in the periodontal tissues, with the total number of inflammatory 
+cells above 200 per section, with profound fibroblast proliferation 
+and bone destruction present. The number of multinucleated TRAP-
+stained osteoclasts surrounding alveolar bone was also evaluated by 
+the pathologist.
+
+2.5 | RNA extraction and real-time PCR
+
+Oral tissues were homogenized in TRIzol by a bullet blender tis-
+sue homogenizer (Next Advance, Inc.) with RNase-free stainless 
+steel beads. Total RNA was extracted, and complementary DNA 
+was synthesized by a TaqMan Reverse Transcription Reagent 
+(Applied Biosystems). The real-time PCR was conducted using a 
+StepOnePlus Real-Time PCR System (Applied Biosystems) as pre-
+viously described (Yu et al., 2011). The following primers were 
+purchased from Applied Biosystems: IL-1β (Mm00434228_m1), 
+IL-6 (Mm00446190_m1), TNF (Mm00443258_m1), and GAPDH 
+(Mm99999915_g1). Sample mRNA levels were normalized to con-
+trol GAPDH expression and were expressed as fold changes as 
+compared with control groups.
+
+2.6 | Statistical analysis
+
+Mucosal inflammatory cytokine levels, micro-CT alveolar bone vol-
+ume fraction, and the number of osteoclasts in periodontal tissue 
+sections were analyzed by the paired t test to compare ligature side 
+with control side in the same group of animals. We also analyzed 
+these parameters using the unpaired t test to compare the JTE013-
+treated group with the DMSO-treated group in different animals. 
+Inflammation scores were analyzed using Wilcoxon matched-pairs 
+signed rank test to compare ligature side and control side in the 
+same group of animals. The Mann–Whitney test was used to com-
+pare the inflammation score between the JTE013-treated group and 
+the DMSO-treated group in different animals. Data were expressed 
+as means ± standard deviation (SD). p-values less than 0.05 were 
+considered significant.
+
+3  | RESULTS
+
+3.1 | Treatment with JTE013 attenuated alveolar 
+bone loss induced by ligature placement in mice
+
+To evaluate the potential for JTE013 treatment to protect against 
+inflammatory bone loss in mice, the volume of alveolar bone was 
+quantified from the µCT scans. In the absence of ligature place-
+ment, there was no significant bone loss observed in animals 
+treated with either DMSO or JTE013 (Figure 1a). By contrast, se-
+vere alveolar bone loss was observed when ligatures were placed 
+in mice and treated with DMSO, focused mainly around the 2nd 
+molar and some in the 1st and 3rd molar regions. Since the alveolar 
+bone loss affected the alveolar bone from the 1st molar to the 3rd 
+molar, we created a standard box (Figure 1b) to evaluate alveolar 
+bone loss in the standard box using bone volume fraction (BVF). 
+In animals treated with DMSO with ligature placement, there 
+was an average reduction of BVF of 0.1. In contrast, in animals 
+treated with JTE013 with ligature placement, there was an aver-
+age reduction of BVF of 0.06, a 40% of decrease of alveolar bone 
+
+
+
+1286  |     SNIPES Et al.
+
+loss induced by ligature placement compared with vehicle treat-
+ment. Oral topical administration of JTE013 once daily for 15 days 
+significantly attenuated alveolar bone loss compared with DMSO 
+treatment (n = 10, ***p < .001).
+
+3.2 | JTE013 decreased IL-1β, IL-6, and TNF mRNA 
+levels in periodontal mucosal tissues induced by 
+ligature placement in mice
+
+Since oral bacterial pathogens stimulate the release of inflamma-
+tory cytokine (such as IL-1β, IL-6, and TNF), resulting in periodon-
+tal inflammation and subsequent alveolar bone loss, we determined 
+whether inhibition of S1PR2 by JTE013 could reduce these inflam-
+matory effects. Placement of ligature at the left maxillary 2nd molar 
+significantly increased the mRNA levels of IL-1β, IL-6, and TNF com-
+pared with the right side without ligature placement (Figure 2a–c). 
+The fold increases were 3.0 for IL-1β, 4.8 for IL-6, and 3.5 for TNF, 
+respectively. Treatment with JTE013 significantly reduced these 
+mRNA levels compared with DMSO treatment in mice both with 
+
+and without the ligature placement. In the left lingual mucosal tis-
+sues with ligature placement, JTE013-treated animals reduced IL-1β 
+by 69.4%, IL-6 by 84.6%, and TNF by 79.1%, respectively, compared 
+with DMSO-treated animals (Figure 2d). In the right lingual mucosal 
+tissues without ligature placement, JTE013-treated animals de-
+creased IL-1β by 76.1%, IL-6 by 58.6%, and TNF by 85.4%, respec-
+tively, compared with DMSO-treated animals.
+
+3.3 | Treatment with JTE013 reduced periodontal 
+inflammation in periodontal tissues induced by 
+ligature placement in mice
+
+Since inflammatory cytokines chemoattract leukocytes in the peri-
+odontal tissues, we also determined whether JTE013 treatment af-
+fected periodontal leukocyte infiltration after ligature placement. 
+Pathological evaluation of hematoxylin and eosin (H&E) staining of 
+maxillary periodontal tissues revealed that the alveolar bone surface 
+was smooth, with no indication of inflammation in periodontal tis-
+sues of mice treated with either DMSO or JTE013 without ligature 
+
+F I G U R E  1   Treatment with JTE013 
+significantly suppressed alveolar bone loss 
+induced by ligature placement compared 
+with DMSO treatment in mice. C57BL/6 
+mice were placed with ligatures at the left 
+maxillary 2nd molar for 15 days. JTE013 
+(5 mg/kg) or DMSO was administered oral 
+topically at the ligature site once a day for 
+15 days. (a) Images of micro-computed 
+tomography (µ-CT) scanning of maxillary 
+alveolar bone tissues were displayed. (b) A 
+standard box was created in the micro-CT 
+image to calculate bone volume fraction 
+in the total volume of standard box. (c) 
+Maxillary alveolar bone volume loss 
+was calculated by bone volume fraction 
+(BVF = bone volume ÷ total volume of 
+standard box, n = 10, ***p < .001) [Colour 
+figure can be viewed at wileyonlinelibrary.
+com]
+
+www.wileyonlinelibrary.com
+www.wileyonlinelibrary.com
+
+
+     |  1287SNIPES Et al.
+
+placement (Figure 3). By contrast, in mice with ligature placement 
+and treated with DMSO, infiltration of polymorphonuclear leuko-
+cytes and mononuclear leukocyte was observed in the periodontal 
+tissues. In addition, many proliferative fibroblasts were observed in 
+stromal tissues, and the alveolar bone appeared as irregular pieces. 
+The average inflammation score in tissues with ligature placement 
+and treated with DMSO was 2.47. In contrast, in mice with ligature 
+placement and treated with JTE013, there was a significant reduc-
+tion in leukocyte infiltration of the periodontal tissues. The average 
+inflammation score in these tissues was 1.70, a significant reduction 
+compared with DMSO control (n = 10, *p < .05).
+
+3.4 | Treatment with JTE013 decreased the 
+number of osteoclasts in periodontal tissue induced 
+by ligature placement in mice
+
+To evaluate whether JTE013 treatment could impact osteoclas-
+togenesis in periodontal tissues derived from the experimental 
+mice, we stained tartrate-resistant acid phosphatase (TRAP) for 
+osteoclasts in maxillary tissues. In mice without ligature placement, 
+no TRAP-stained osteoclasts were observed in periodontal tissues 
+treated with JTE013 (Figure 4) and few osteoclasts (1–3 per sec-
+tion) were observed in periodontal tissues treated with DMSO. In 
+
+mice treated with DMSO and with ligature placement, many TRAP-
+stained osteoclasts were observed (average 78 osteoclasts per sec-
+tion) surrounding the alveolar bone tissues. In contrast, for mice 
+treated with JTE013 with ligature placement, a significant reduction 
+of the number of osteoclasts (average 41 osteoclasts per section, 
+a 52.6% reduction) surrounding the alveolar bone tissues was ob-
+served (n = 10, *p < .05).
+
+4  | DISCUSSION
+
+Herein, we demonstrate the efficacy of a S1PR2-specific inhibitor, 
+JTE013, for alleviating inflammatory bone loss in vivo. Oral topi-
+cal administration of JTE013 (5 mg/kg) once daily for 15 days sig-
+nificantly reduced alveolar bone loss induced by ligature placement 
+compared with control vehicle (DMSO) treatment. Treatment with 
+JTE013 decreased IL-1β, IL-6, and TNF mRNA levels in the oral mu-
+cosa tissues; alleviated the degree of periodontal inflammation; and 
+decreased the number of osteoclasts in periodontal tissues com-
+pared with DMSO treatment. These results are in accordance with 
+our previous in vitro studies, which showed that JTE013 inhibited 
+IL-1β, IL-6, and TNF protein levels stimulated by the oral pathogen 
+Aa, as well as suppressed osteoclastogenesis and bone resorption 
+induced by RANKL in murine bone marrow cells (Hsu et al., 2019; 
+
+F I G U R E  2   Treatment with JTE013 significantly decreased IL-1β, IL-6, and TNF mRNA levels in oral mucosal tissues induced by ligature 
+placement compared with DMSO treatment in mice. C57BL/6 mice were placed with ligatures at the left maxillary 2nd molar for 15 days. 
+JTE013 (5 mg/kg) or DMSO was administered oral topically at the ligature site once a day for 15 days. (a) IL-1β mRNA, (b) IL-6 mRNA, and 
+(c) TNF mRNA levels were measured by real-time PCR and normalized by GAPDH expression (n = 5, **p < .01, ***p < .001). (d) Relative 
+average cytokine mRNA levels and percentage of cytokine reduction between JTE013-treated group and control DMSO-treated group were 
+calculated
+
+
+
+1288  |     SNIPES Et al.
+
+Yu, 2016). These findings are also similar to a previous study, 
+which demonstrated that mice pretreated with JTE013 (1.2 mg/
+kg) reduced serum IL-1β and IL-18 levels induced by LPS (Skoura 
+et al., 2011). Furthermore, since the previous study (Hou et al., 2015) 
+revealed that JTE013 promotes bacterial phagocytosis and reduces 
+bacterial burden of E. coli, JTE013 might reduce the amount of bac-
+terial colonization around the ligatures, and attenuate IL-1β, IL-6, and 
+TNF in the oral mucosa. Our study results are also in consistent with 
+another previous study (Ishii et al., 2010), which demonstrated that 
+JTE013 (3 mg/kg) treatment alleviated osteoporosis in mice induced 
+by RANKL.
+
+Our previous in vitro study (Hsu et al., 2019) showed that 
+JTE013 (8 µM, about 3.2 µg/ml) reduced IL-1β by 90.2%, IL-6 by 
+80.8%, and TNF-α by 49.5% induced by the oral pathogen Aa com-
+pared with the vehicle-treated controls. JTE013 (8 µM) reduced 
+the number of osteoclasts by 95.3% in bone marrow cells stim-
+ulated with RANKL and by 83.7% in cells co-cultured with both 
+RANKL and Aa-stimulated cell culture media compared with the 
+control vehicle group. In the current in vivo study, we adminis-
+tered JTE013 (20 mg/ml, 13–16 µl, about 260 to 320 µg) on the 
+ligatures once daily, which reduced IL-1β by 69.4%, IL-6 by 84.6%, 
+and TNF by 79.1%, respectively, induced by the ligature placement 
+on the left side gingival mucosa compared with vehicle treatment. 
+
+Treatment with JTE013 decreased the average number of osteo-
+clasts by 52.6% and reduced the alveolar bone loss by 40% com-
+pared with vehicle treatment. Although we used a higher dose of 
+JTE013 compared with the dose in our previous in vitro studies, 
+JTE013 did not completely suppress alveolar bone loss induced 
+by ligature placement. This might be caused by the following rea-
+sons: (a) JTE013 concentration in the oral cavity can be diluted 
+by drinking water or eating food in mice, and (b) JTE013 was only 
+administered once daily. Although ligatures might play a role in 
+retention of JTE013 in the oral cavity, JTE013 concentration in the 
+oral cavity could be diluted to below 8 µM in the oral cavity after 
+a long period of time (such as several hours). There was a limita-
+tion in this study to determine the JTE013 concentration in the 
+oral mucosa tissues of mice by chemical analysis. Future study is 
+needed to determine the JTE013 concentration in the oral mucosa 
+tissues, and if multiple oral topical administration of JTE013 could 
+further decrease inflammatory cytokine production, inhibit osteo-
+clastogenesis, and reduce alveolar bone loss induced by ligature 
+placement in animals.
+
+In the current study, low levels of IL-1β, IL-6, and TNF mRNA 
+were detected in the right side of lingual mucosa tissues even 
+without ligature placement. This could be because of the smaller 
+spaces between teeth in mice compared to those in larger animals, 
+
+F I G U R E  3   Treatment with JTE013 
+reduced leukocyte infiltration induced 
+by ligature placement in the periodontal 
+tissues compared with DMSO treatment 
+in mice. C57BL/6 mice were placed with 
+ligatures at the left maxillary 2nd molar for 
+15 days. JTE013 (5 mg/kg) or DMSO was 
+administered oral topically at the ligature 
+site once a day for 15 days. (a) Images of 
+hematoxylin and eosin (H&E) staining of 
+periodontal tissue sections (magnification, 
+200x) were displayed. The letter T stands 
+for tooth. (b) Inflammation score in the 
+periodontal tissues was evaluated (n = 10, 
+*p < .05, ***p < .001) [Colour figure can be 
+viewed at wileyonlinelibrary.com]
+
+www.wileyonlinelibrary.com
+
+
+     |  1289SNIPES Et al.
+
+such as rats. Therefore, ligature placement in mice causes mu-
+cosa damage, bacterial colonization, and severe inflammation, 
+which can impact the cytokine levels in the contralateral lingual 
+mucosa tissues. Inhibition of sphingosine-1-phosphate receptor 
+2 by JTE013 significantly suppressed the inflammatory cytokine 
+production on both sides (Figure 2). A previous study (Marchesan 
+et al., 2018) showed that long-term (12 to 18 days) ligature place-
+ment significantly enhanced alveolar bone loss compared with 
+short-term (3 to 6 days) ligature placement. However, the number 
+of osteoclasts and inflammatory cells in the periodontal tissues 
+was significantly reduced in the long-term ligature placement 
+groups compared with short-term ligature placement (Marchesan 
+et al., 2018). In the current study, we replaced all the ligatures at 
+day 7 and day 11, which resulted in mild mucosal injury, bacterial 
+colonization, and persistent chronic inflammatory response in the 
+periodontal tissues. Therefore, infiltration of leukocytes and os-
+teoclasts can be observed in the periodontal tissues 15 days after 
+ligature placement.
+
+Current treatments for patients with periodontitis include scal-
+ing and root planing to remove the bacterial plaque and calculus; 
+antibiotic treatment to reduce or eliminate microbial pathogens; and 
+in severe cases, surgical procedures to reduce or eliminate periodon-
+tal pockets. Despite the current treatment modalities, periodontitis 
+
+is still the major causes of alveolar bone loss and tooth loss in adults 
+(Batista et al., 2012; Eke et al., 2012). Additionally, long-term antibi-
+otic treatment not only kills oral pathogens, but also eradicates good 
+bacteria, which sometimes leads to severe effects, such as pseudo-
+membranous colitis.
+
+Oral topical administration has several advantages for pa-
+tients. First, it is easier to administer drugs by oral topical admin-
+istration than any parenteral administration (including digestive 
+tract administration, intravenous injection, intramuscular injec-
+tion, and subcutaneous injection). Second, drugs administered by 
+the oral topical route primarily elicit local effects at the site of 
+application, avoiding systemic side effects that might harm the 
+liver or kidneys. Since JTE013 acts on multiple mechanisms, in-
+cluding promoting bacterial phagocytosis, reducing inflammatory 
+cytokine release, and inhibiting osteoclastogenesis, it has the ad-
+vantage over administration of any inhibitor which acts on only 
+one mechanism (such as only reducing inflammatory cytokine re-
+lease) (Rogers et al., 2007) or an antibiotic (Tonetti et al., 2012) 
+because antibiotics can cause antibiotic resistance and side ef-
+fects associated with using the antibiotics (Bonnetblanc, 2002). 
+Interestingly, another study demonstrated that treatment with 
+JTE013 in the food in type 2 diabetes obese ob/ob mice increased 
+insulin sensitivity and reduced blood glucose compared with 
+
+F I G U R E  4   Treatment with JTE013 
+decreased the number of osteoclasts 
+induced by ligature placement in the 
+periodontal tissues compared DMSO 
+treatment in mice. C57BL/6 mice were 
+placed with ligatures at the left maxillary 
+2nd molar for 15 days. JTE013 (5 mg/
+kg) or DMSO was administered oral 
+topically at the ligature site once a day for 
+15 days. (a) Images of tartrate-resistant 
+acid phosphatase (TRAP) staining of 
+periodontal tissue sections (magnification 
+200x) were displayed. (b) The number of 
+TRAP-stained osteoclasts surrounding 
+alveolar bone per tissue section was 
+calculated (n = 10, *p < .05, ***p < .001). 
+The arrow points to a TRAP-stained 
+osteoclast in the periodontal tissue 
+without ligature placement in DMSO-
+treated group [Colour figure can be 
+viewed at wileyonlinelibrary.com]
+
+www.wileyonlinelibrary.com
+
+
+1290  |     SNIPES Et al.
+
+vehicle treatment (Kitada et al., 2016). Since type 2 diabetic pa-
+tients increased prevalence, extent, and severity of periodontal 
+disease (Preshaw & Bissett, 2013; Taylor & Borgnakke, 2008), 
+JTE013 might be beneficial to treat type 2 diabetes-associated 
+periodontitis. Currently, JTE013 has only been used in animal 
+studies. In the current study, both groups of mice maintained 
+similar body weight after ligature placement. There was no signif-
+icant difference in animal body weight between JTE013-treated 
+group and vehicle-treated group (data not shown). Future studies 
+are needed to determine cytotoxicity, stability, and dissolution 
+of JTE013 to be used in future clinical trial, and if JTE013 could 
+be administered oral topically at the gingivitis stage in patient 
+to prevent disease progression to periodontitis and subsequent 
+tooth loss.
+
+It is important to note that this study was limited to the preven-
+tion of periodontal disease progression. It is unknown how S1PR2 
+and JTE013 may influence bone regeneration after inflammatory 
+bone loss. Future studies are needed to determine whether treat-
+ment with JTE013 can enhance bone regeneration after periodontal 
+bone loss.
+
+In summary, we demonstrate that oral topical administration 
+of a S1PR2-specific antagonist, JTE013, attenuated inflammatory 
+bone loss in mice with periodontitis induced by ligature placement. 
+Treatment with JTE013 inhibited gingival inflammatory cytokines 
+release, suppressed periodontal inflammation, reduced osteoclasto-
+genesis, and alleviated alveolar bone loss.
+
+ACKNOWLEDG EMENTS
+This work was supported by the research grant (R15DE027324) 
+from the National Institute Of Dental & Craniofacial Research of 
+the National Institutes of Health, the research grant (UL1TR001450) 
+from National Center for Advancing Translational Sciences, and 
+an institutional pilot grant from the College of Dental Medicine at 
+the Medical University of South Carolina. The bullet blender tis-
+sue homogenizer was kindly provided by Dr. Andrew Jakymiw. We 
+thank Dr. Christopher Davies, Dr. Sakamuri Reddy, and Dr. Michael 
+Madson for assistance in manuscript preparation.
+
+CONFLIC T OF INTERE S T
+All authors declare that there are no conflicts of interest.
+
+AUTHOR CONTRIBUTIONS
+Marquies Snipes: Data curation; Investigation; Writing-original 
+draft. Chao Sun: Data curation; Formal analysis; Writing-review & 
+editing. Hong Yu: Conceptualization; Data curation; Funding acquisi-
+tion; Investigation; Supervision; Writing-review & editing.
+
+PEER RE VIE W
+The peer review history for this article is available at https://publo 
+ns.com/publo n/10.1111/odi.13645.
+
+ORCID
+Hong Yu  https://orcid.org/0000-0002-0930-6810 
+
+R E FE R E N C E S
+Aarthi, J. J., Darendeliler, M. A., & Pushparaj, P. N. (2011). Dissecting 
+
+the role of the S1P/S1PR axis in health and disease. Journal of Dental 
+Research, 90(7), 841–854. https://doi.org/10.1177/00220 34510 
+389178
+
+Abe, T., & Hajishengallis, G. (2013). Optimization of the ligature-induced 
+periodontitis model in mice. Journal of Immunological Methods, 394(1–
+2), 49–54. https://doi.org/10.1016/j.jim.2013.05.002
+
+Batista, M. J., Rihs, L. B., & Sousa Mda, L. (2012). Risk indicators for tooth 
+loss in adult workers. Brazilian Oral Research, 26(5), 390–396. https://
+doi.org/10.1590/S1806 -83242 01200 0500003
+
+Bonnetblanc, J. M. (2002). Doxycycline. Annales De Dermatologie Et De 
+Venereologie, 129(6–7), 874–882.
+
+Darveau, R. P. (2010). Periodontitis: A polymicrobial disruption of host 
+homeostasis. Nature Reviews Microbiology, 8(7), 481–490. https://doi.
+org/10.1038/nrmic ro2337
+
+Eke, P. I., Dye, B. A., Wei, L., Thornton-Evans, G. O., & Genco, R. J. (2012). 
+Prevalence of periodontitis in adults in the United States: 2009 
+and 2010. Journal of Dental Research, 91(10), 914–920. https://doi.
+org/10.1177/00220 34512 457373
+
+Genco, R. J., & Van Dyke, T. E. (2010). Prevention: Reducing the risk of 
+CVD in patients with periodontitis. Nature Reviews Cardiology, 7(9), 
+479–480. https://doi.org/10.1038/nrcar dio.2010.120
+
+Glowacki, A. J., Yoshizawa, S., Jhunjhunwala, S., Vieira, A. E., Garlet, G. 
+P., Sfeir, C., & Little, S. R. (2013). Prevention of inflammation-medi-
+ated bone loss in murine and canine periodontal disease via recruit-
+ment of regulatory lymphocytes. Proceedings of the National Academy 
+of Sciences, 110(46), 18525–18530. https://doi.org/10.1073/
+pnas.13028 29110
+
+Hajishengallis, G., & Lambris, J. D. (2012). Complement and dysbiosis in 
+periodontal disease. Immunobiology, 217(11), 1111–1116. https://doi.
+org/10.1016/j.imbio.2012.07.007
+
+Hou, J., Chen, Q., Zhang, K., Cheng, B., Xie, G., Wu, X., & Fang, X. 
+(2015). Sphingosine 1-phosphate Receptor 2 Signaling Suppresses 
+Macrophage Phagocytosis and Impairs Host Defense against 
+Sepsis. Anesthesiology, 123(2), 409–422. https://doi.org/10.1097/
+ALN.00000 00000 000725
+
+Hsu, L. C., Reddy, S. V., Yilmaz, O., & Yu, H. (2019). Sphingosine-1-
+Phosphate Receptor 2 Controls Podosome Components Induced by 
+RANKL Affecting Osteoclastogenesis and Bone Resorption. Cells, 
+8(1), 17. https://doi.org/10.3390/cells 8010017
+
+Ishii, M., Kikuta, J., Shimazu, Y., Meier-Schellersheim, M., & Germain, R. 
+N. (2010). Chemorepulsion by blood S1P regulates osteoclast precur-
+sor mobilization and bone remodeling in vivo. Journal of Experimental 
+Medicine, 207(13), 2793–2798. https://doi.org/10.1084/
+jem.20101474
+
+Jeffcoat, M. K., Jeffcoat, R. L., Gladowski, P. A., Bramson, J. B., & Blum, J. 
+J. (2014). Impact of periodontal therapy on general health: Evidence 
+from insurance data for five systemic conditions. American Journal 
+of Preventive Medicine, 47(2), 166–174. https://doi.org/10.1016/j.
+amepre.2014.04.001
+
+Kajikawa, T., Meshikhes, F., Maekawa, T., Hajishengallis, E., Hosur, K. B., 
+Abe, T., & Hajishengallis, G. (2017). Milk fat globule epidermal growth 
+factor 8 inhibits periodontitis in non-human primates and its gingi-
+val crevicular fluid levels can differentiate periodontal health from 
+disease in humans. Journal of Clinical Periodontology, 44(5), 472–483. 
+https://doi.org/10.1111/jcpe.12707
+
+Kitada, Y., Kajita, K., Taguchi, K., Mori, I., Yamauchi, M., Ikeda, T., 
+& Morita, H. (2016). Blockade of Sphingosine 1-Phosphate 
+Receptor 2 Signaling Attenuates High-Fat Diet-Induced 
+Adipocyte Hypertrophy and Systemic Glucose Intolerance in 
+Mice. Endocrinology, 157(5), 1839–1851. https://doi.org/10.1210/
+en.2015-1768
+
+Kluk, M. J., & Hla, T. (2002). Signaling of sphingosine-1-phosphate via 
+the S1P/EDG-family of G-protein-coupled receptors. Biochimica Et 
+
+https://publons.com/publon/10.1111/odi.13645
+https://publons.com/publon/10.1111/odi.13645
+https://orcid.org/0000-0002-0930-6810
+https://orcid.org/0000-0002-0930-6810
+https://doi.org/10.1177/0022034510389178
+https://doi.org/10.1177/0022034510389178
+https://doi.org/10.1016/j.jim.2013.05.002
+https://doi.org/10.1590/S1806-83242012000500003
+https://doi.org/10.1590/S1806-83242012000500003
+https://doi.org/10.1038/nrmicro2337
+https://doi.org/10.1038/nrmicro2337
+https://doi.org/10.1177/0022034512457373
+https://doi.org/10.1177/0022034512457373
+https://doi.org/10.1038/nrcardio.2010.120
+https://doi.org/10.1073/pnas.1302829110
+https://doi.org/10.1073/pnas.1302829110
+https://doi.org/10.1016/j.imbio.2012.07.007
+https://doi.org/10.1016/j.imbio.2012.07.007
+https://doi.org/10.1097/ALN.0000000000000725
+https://doi.org/10.1097/ALN.0000000000000725
+https://doi.org/10.3390/cells8010017
+https://doi.org/10.1084/jem.20101474
+https://doi.org/10.1084/jem.20101474
+https://doi.org/10.1016/j.amepre.2014.04.001
+https://doi.org/10.1016/j.amepre.2014.04.001
+https://doi.org/10.1111/jcpe.12707
+https://doi.org/10.1210/en.2015-1768
+https://doi.org/10.1210/en.2015-1768
+
+
+     |  1291SNIPES Et al.
+
+Biophysica Acta, 1582(1–3), 72–80. https://doi.org/10.1016/S1388 
+-1981(02)00139 -7
+
+Linder, S., & Aepfelbacher, M. (2003). Podosomes: Adhesion hot-spots 
+of invasive cells. Trends in Cell Biology, 13(7), 376–385. https://doi.
+org/10.1016/S0962 -8924(03)00128 -4
+
+Marchesan, J., Girnary, M. S., Jing, L., Miao, M. Z., Zhang, S., Sun, L., & 
+Jiao, Y. (2018). An experimental murine model to study periodontitis. 
+Nature Protocols, 13(10), 2247–2267. https://doi.org/10.1038/s4159 
+6-018-0035-4
+
+Pihlstrom, B. L., Michalowicz, B. S., & Johnson, N. W. (2005). Periodontal 
+diseases. Lancet, 366(9499), 1809–1820.
+
+Preshaw, P. M., & Bissett, S. M. (2013). Periodontitis: Oral complication 
+of diabetes. Endocrinology and Metabolism Clinics of North America, 
+42(4), 849–867. https://doi.org/10.1016/j.ecl.2013.05.012
+
+Rogers, J. E., Li, F., Coatney, D. D., Otremba, J., Kriegl, J. M., Protter, T. 
+A., & Kirkwood, K. L. (2007). A p38 mitogen-activated protein ki-
+nase inhibitor arrests active alveolar bone loss in a rat periodonti-
+tis model. Journal of Periodontology, 78(10), 1992–1998. https://doi.
+org/10.1902/jop.2007.070101
+
+Siehler, S., Manning, D. R., Kluk, M. J., Hla, T., & Takuwa, Y. (2002). 
+Pathways of transduction engaged by sphingosine 1-phosphate 
+through G protein-coupled receptors. Biochimica Et Biophysica Acta, 
+1582(1–3), 94–99. https://doi.org/10.1016/S1388 -1981(02)00142 -7
+
+Skoura, A., Michaud, J., Im, D. S., Thangada, S., Xiong, Y., Smith, J. D., 
+& Hla, T. (2011). Sphingosine-1-phosphate receptor-2 function in 
+myeloid cells regulates vascular inflammation and atherosclero-
+sis. Arteriosclerosis, Thrombosis, and Vascular Biology, 31(1), 81–85. 
+https://doi.org/10.1161/ATVBA HA.110.213496
+
+Takuwa, Y. (2002). Subtype-specific differential regulation of Rho family 
+G proteins and cell migration by the Edg family sphingosine-1-phos-
+phate receptors. Biochimica Et Biophysica Acta, 1582(1–3), 112–120. 
+https://doi.org/10.1016/S1388 -1981(02)00145 -2
+
+Taylor, G. W., & Borgnakke, W. S. (2008). Periodontal disease: Associations 
+with diabetes, glycemic control and complications. Oral Diseases, 
+14(3), 191–203. https://doi.org/10.1111/j.1601-0825.2008.01442.x
+
+Tonetti, M. S., Lang, N. P., Cortellini, P., Suvan, J. E., Eickholz, P., 
+Fourmousis, I., & Wallkamm, B. (2012). Effects of a single topical 
+doxycycline administration adjunctive to mechanical debride-
+ment in patients with persistent/recurrent periodontitis but ac-
+ceptable oral hygiene during supportive periodontal therapy. 
+Journal of Clinical Periodontology, 39(5), 475–482. https://doi.
+org/10.1111/j.1600-051X.2012.01864.x
+
+Vaananen, H. K., & Laitala-Leinonen, T. (2008). Osteoclast lineage and 
+function. Archives of Biochemistry and Biophysics, 473(2), 132–138. 
+https://doi.org/10.1016/j.abb.2008.03.037
+
+Weiner, G. S., DeMarco, T. J., & Bissada, N. F. (1979). Long term effect 
+of systemic tetracycline administration on the severity of induced 
+periodontitis in the rat. Journal of Periodontology, 50(12), 619–623. 
+https://doi.org/10.1902/jop.1979.50.12.619
+
+Yu, H. (2016). Sphingosine-1-Phosphate Receptor 2 Regulates 
+Proinflammatory Cytokine Production and Osteoclastogenesis. 
+PLoS One, 11(5), e0156303. https://doi.org/10.1371/journ 
+al.pone.0156303
+
+Yu, H., Sun, C., & Argraves, K. M. (2016). Periodontal inflammation and 
+alveolar bone loss induced by Aggregatibacter actinomycetemcom-
+itans is attenuated in sphingosine kinase 1-deficient mice. Journal of 
+Periodontal Research, 51(1), 38–49.
+
+Yu, H., Sun, Y., Haycraft, C., Palanisamy, V., & Kirkwood, K. L. (2011). 
+MKP-1 regulates cytokine mRNA stability through selectively mod-
+ulation subcellular translocation of AUF1. Cytokine, 56(2), 245–255. 
+https://doi.org/10.1016/j.cyto.2011.06.006
+
+How to cite this article: Snipes M, Sun C, Yu H. Inhibition of 
+sphingosine-1-phosphate receptor 2 attenuated ligature-
+induced periodontitis in mice. Oral Dis2021;27:1283–1291. 
+https://doi.org/10.1111/odi.13645
+
+https://doi.org/10.1016/S1388-1981(02)00139-7
+https://doi.org/10.1016/S1388-1981(02)00139-7
+https://doi.org/10.1016/S0962-8924(03)00128-4
+https://doi.org/10.1016/S0962-8924(03)00128-4
+https://doi.org/10.1038/s41596-018-0035-4
+https://doi.org/10.1038/s41596-018-0035-4
+https://doi.org/10.1016/j.ecl.2013.05.012
+https://doi.org/10.1902/jop.2007.070101
+https://doi.org/10.1902/jop.2007.070101
+https://doi.org/10.1016/S1388-1981(02)00142-7
+https://doi.org/10.1161/ATVBAHA.110.213496
+https://doi.org/10.1016/S1388-1981(02)00145-2
+https://doi.org/10.1111/j.1601-0825.2008.01442.x
+https://doi.org/10.1111/j.1600-051X.2012.01864.x
+https://doi.org/10.1111/j.1600-051X.2012.01864.x
+https://doi.org/10.1016/j.abb.2008.03.037
+https://doi.org/10.1902/jop.1979.50.12.619
+https://doi.org/10.1371/journal.pone.0156303
+https://doi.org/10.1371/journal.pone.0156303
+https://doi.org/10.1016/j.cyto.2011.06.006
+https://doi.org/10.1111/odi.13645

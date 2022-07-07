@@ -1,0 +1,838 @@
+Adiponectin stimulates release of CCL2, -3, -4 and -5 while the surface abundance of CCR2 and -5 is simultaneously reduced in primary human monocytes
+
+
+Cytokine 56 (2011) 573–580
+Contents lists available at SciVerse ScienceDirect
+
+Cytokine
+
+journal homepage: www.elsevier .com/locate / issn/10434666
+Adiponectin stimulates release of CCL2, -3, -4 and -5 while the surface abundance
+of CCR2 and -5 is simultaneously reduced in primary human monocytes
+
+Markus Neumeier 1, Sabrina Bauer 1, Hilke Brühl, Kristina Eisinger, Andrea Kopp, Sabine Abke,
+Roland Walter, Andreas Schäffler, Christa Buechler ⇑
+Department of Internal Medicine I, Regensburg University Hospital, D-93042 Regensburg, Germany
+
+a r t i c l e i n f o a b s t r a c t
+Article history:
+Received 7 March 2011
+Received in revised form 2 August 2011
+Accepted 5 August 2011
+Available online 3 September 2011
+
+Keywords:
+CC-chemokines
+CC-chemokine receptors
+Obesity
+1043-4666/$ - see front matter � 2011 Elsevier Ltd. A
+doi:10.1016/j.cyto.2011.08.017
+
+⇑ Corresponding author. Tel.: +49 941 944 7147; fa
+E-mail address: christa.buechler@klinik.uni-regens
+
+1 These authors contributed equally.
+The adipokine adiponectin is well known to affect the function of immune cells and upregulation of CCL2
+by adiponectin in monocytes/macrophages has already been reported. In the current study the effect of
+adiponectin on CCL2, -3, -4, and -5 and their corresponding receptors CCR1, CCR2, and CCR5 has been
+analyzed. Adiponectin elevates mRNA and protein of the CC chemokines in primary human monocytes.
+Simultaneously the surface abundance of CCR2 and CCR5 is reduced while CCR1 is not affected. Down-
+regulation of CCR2 by adiponectin is blocked by a CCR2 antagonist although expression of the CCL2 reg-
+ulated genes CCR2 and TGF-beta 1 is not altered in the adiponectin-incubated monocytes. CCL2, -3, and -5
+concentrations measured in supernatants of monocytes of normal-weight (NW), overweight (OW), and
+type 2 diabetic (T2D) patients positively correlate with BMI and are increased in obesity and T2D. In con-
+trast CCL4 is similarly abundant in the supernatants of all of these monocytes. The degree of adiponectin-
+mediated induction of the chemokines CCL3, -4, and -5 negatively correlates with their basal levels and
+upregulation of CCL3 and CCL5 is significantly impaired in OW and T2D cells. Serum concentrations of
+these chemokines are almost equal in the three groups and do not correlate with the levels in monocyte
+supernatants. In conclusion these data demonstrate that adiponectin stimulates release of CCL2 to CCL5
+in primary human monocytes, and induction in cells of overweight probands is partly impaired. Adipo-
+nectin also lowers surface abundance of CCR2 and CCR5 and downregulation of CCR2 seems to depend on
+autocrine/paracrine effects of CCL2.
+
+� 2011 Elsevier Ltd. All rights reserved.
+1. Introduction
+
+Chemokines of the CC family attract mononuclear cells to sites
+of inflammation [1]. CCL2 (Chemokine CC Motif Ligand 2, also
+known as Monocyte Chemoattractant Protein-1, MCP-1) is the
+most extensively studied chemokine so far [1]. CCL2 deficiency is
+associated with a higher susceptibility to infections and impaired
+immune response [2,3]. However, concentrations of this chemo-
+kine are also increased in metabolic diseases and contribute to sys-
+temic and tissue inflammation [4]. In atherosclerotic lesions higher
+CCL2 production promotes infiltration of monocytes thereby accel-
+erating foam cell formation [5]. In obesity CCL2 attracts monocytes
+to fat tissues increasing local and systemic inflammation [6]. CCL2
+mRNA expression is also found induced in peripheral monocytes of
+type 2 diabetic patients [7]. CCL2 is the ligand of the G-protein cou-
+pled receptor CCR2 whose expression is increased in monocytes of
+hypercholesterolemic and type 2 diabetes patients [8,9]. Blockage
+ll rights reserved.
+
+x: +49 941 944 7019.
+burg.de (C. Buechler).
+of CCR2 or CCR2 deficiency protects from obesity, inflammation,
+and insulin resistance in rodent models of obesity [6,10].
+
+The role of other CC chemokines including Macrophage Inflam-
+matory Protein (MIP)-1a (CCL3), MIP-1b (CCL4), and CCL5 (Regu-
+lated on Activation Normal T-cell Expressed And Secreted,
+RANTES), and their corresponding receptors CCR1 (CCL3, CCL5)
+and CCR5 (CCL3, CCL4 and CCL5) has been less well characterized
+in metabolic diseases [1]. These chemokines are all released by
+monocytes and their synthesis is enhanced by lipopolysaccharide
+stimulation [11]. Systemic CCL5 is increased in serum of type 2 dia-
+betes patients [12]. Similar to CCL2 this chemokine enhances the
+recruitment of blood monocytes to adipose tissue. Furthermore,
+CCL5 protects adipose tissue resident macrophages from apoptosis
+thereby further elevating fat inflammation [13]. In contrast CCL3
+deficiency is not associated with altered accumulation of macro-
+phages in adipose tissue [14]. CCL4 has been mainly analyzed for
+its role in autoimmune diseases and it protects from insulitis [15].
+
+Adiponectin is an adipocyte-derived adipokine with immuno-
+regulatory, antidiabetic, and antiatherosclerotic properties
+[16,17]. Adiponectin exerts anti-inflammatory effects in activated
+monocytes and suppression of LPS-mediated IL-6 and CXCL8
+
+http://dx.doi.org/10.1016/j.cyto.2011.08.017
+mailto:christa.buechler@klinik.uni-regensburg.de
+http://dx.doi.org/10.1016/j.cyto.2011.08.017
+http://www.sciencedirect.com/science/journal/10434666
+http://www.elsevier.com/locate/issn/10434666
+
+
+574 M. Neumeier et al. / Cytokine 56 (2011) 573–580
+synthesis has been shown [18,19]. In non-stimulated cells these
+proteins are even induced by adiponectin suggesting an immuno-
+regulatory function of this adipokine [20,21]. Upregulation of
+CCL2 by adiponectin has been demonstrated in cultured human
+microvascular endothelial cells, colonic epithelial cells, and mono-
+cytes/macrophages [20–22]. Adiponectin mediated induction of
+this chemokine is even essential for the appropriate expression
+of CCL2 in response to Listeria monocytogenes infection and im-
+mune defense [23].
+
+So far it has not been analysed whether chemokine receptors
+are altered upon adiponectin incubation. Monocytes express
+CCR1, CCR2, and CCR5, and mRNA expression is reduced upon
+LPS treatment [24]. LPS further induces internalisation and subse-
+quent degradation of CCR2 [25]. Short-term incubation of mono-
+cytes with CCL2 causes rapid CCR2 internalization but prolonged
+incubation with this chemokine induces CCR2 expression [26,27].
+Therefore, it may be speculated that at least abundance of CCR2
+is altered in adiponectin-treated monocytes because of paracrine/
+autocrine effects due to increased CCL2 concentrations.
+
+In the current study it was analysed whether adiponectin regu-
+lates CCL2, CCL3, CCL4 and CCL5 and their corresponding receptors
+CCR1, -2, and -5 in primary human monocytes.
+
+2. Materials and methods
+
+2.1. Subjects
+
+The study protocol was approved by the local ethics committee
+and the investigation conforms with the principles outlined in the
+Declaration of Helsinki (1997). Each proband gave written in-
+formed consent to participate in the study.
+
+Monocytes were isolated from the blood of 11 male T2D pa-
+tients, 12 male controls with a BMI > 25 kg/m2 (overweight control
+group, OW) and 10 male controls with a BMI 6 25 kg/m2 (normal-
+weight controls, NW). T2D patients were treated with drugs like
+metformin. Further two patients were treated with ACE inhibitors,
+one patient with lipid lowering drugs, and two patients with b-
+blockers. In the OW group one patient was treated with lipid low-
+ering drugs. In the NW group one patient got ACE inhibitors and
+one patient was treated with lipid lowering drugs. The characteris-
+tics of the study group are summarized in Table 1. This cohort in-
+cludes patient samples of recently described study groups [28,29].
+
+2.2. Material
+
+Recombinant human adiponectin expressed in a mammalian
+cell line, CCL2-, CCL3-, CCL4-, and CCL5 ELISAs were from R&D Sys-
+tems (Wiesbaden-Nordenstadt, Germany). Antibodies to detect
+CCR1, CCR2, and CCR5 by flow cytometry were from R&D Systems
+Table 1
+Anthropometrical and biochemical characteristics of the study groups used for the isolatio
+
+T2D OW
+
+Probands (n) n = 11 n = 12
+Age 62 (42–76) 56 (4
+BMI (kg/m2) 32.7 (27.3–45.9) 30.4 (
+WHR 1.07 (0.91–1.10) 1.00 (
+Glucose (mg/dl) 143 (100–171) 105 (
+
+Chemokine and adiponectin serum concentrations
+
+CCL2 (pg/ml) 30.5 (13.0–70.1) 25.0 (
+CCL3 (pg/ml) 325.6 (0.5–788.5) 326.1
+CCL4 (pg/ml) 19.8 (14.5–39.7) 30.5 (
+CCL5 (ng/ml) 55.0 (7.5–120.0) 64.7 (
+Adiponectin (lg/ml) 1.6 (0.6–3.8) 2.5 (1
+
+Body mass index (BMI), normal-weight controls (NW), overweight controls (OW), type
+Significance of T2D versus OW = 1, of OW versus NW = 2, of T2D versus NW = 3.
+(Wiesbaden-Nordenstadt, Germany). Immunoblot analysis was
+done using antibodies for CCR1, -2 and -5 from Biozol (Eching, Ger-
+many). Anti-mouse PE-conjugated IgG antibody was from DAKO
+(Glostrup, Denmark). CCR2 antagonist RS-102895 was from Sigma
+Bioscience (Deisenhofen, Germany) and 20 lM were used.
+
+2.3. Real-time polymerase chain reaction (PCR)
+
+Real-time PCR was performed using LightCycler FastStart DNA
+Master SYBR Green I from Roche (Mannheim, Germany) as described
+elsewhere [21,30]. The primer sequences are listed in Table 2. Data
+were normalized to b-actin mRNA levels. The specificity of the PCRs
+was confirmed by sequencing of the PCR fragments (Geneart,
+Regensburg, Germany).
+
+2.4. Isolation and culture of primary blood monocytes
+
+Peripheral blood leukocytes were isolated from 40 ml of whole
+blood using Vacutainer CPT systems (Becton Dickinson, Franklin
+Lakes, NJ) as described [31]. Primary human monocytes were puri-
+fied by magnetic separation with CD14 beads (Miltenyi Biotec,
+Bergisch Gladbach, Germany). Serum was coagulated with Throm-
+borel S (Roche, Mannheim, Germany) and CaCl2 (Calbiochem-
+Merck, Darmstadt, Germany) and was dialyzed two times against
+phosphate buffered saline (PBS) for 2 h each. Flow cytometry anal-
+ysis revealed that about 95% of the isolated cells were monocytes
+[31]. 3 � 106 monocytes were cultivated in 3 ml RPMI supple-
+mented with 10% autologous serum for 24 h. Subsequently, the
+medium was replaced with 1 ml fresh medium. For adiponectin
+stimulation monocytes were incubated for 24 h with 10 lg/ml
+adiponectin until indicated otherwise. Cells and supernatants were
+collected 24 h later and used for ELISA and western blot analysis.
+
+2.5. Elisa
+
+ELISAs were performed as recommended by the distributor.
+Supernatants were diluted 10-fold to measure CCL2, 4-fold to mea-
+sure CCL3, 2-fold to measure CCL4, and 5-fold to measure CCL5.
+CCL5 serum levels are in the ng/ml range and concentrations added
+to the monocyte culture medium were subtracted before perform-
+ing calculations. Serum was used undiluted for CCL2 and CCL4
+determinations, 2-fold diluted for CCL3 and 100-fold diluted for
+CCL5 determinations.
+
+2.6. Immunoblot
+
+Cells were solubilized in radioimmunoprecipitation assay lysis
+buffer. Proteins (10–20 lg) were separated by SDS–PAGE and were
+transferred to polyvinylidene difluoride membranes (Bio-Rad, Mu-
+n of blood monocytes (all males).
+
+NW p-value
+
+n = 10
+0–63) 55 (49–67)
+26.8–36.5) 22.8 (20.1–24.4) <0.0012,3
+
+0.89–1.13) 0.92 (0.83–0.99) 0.0012,3
+
+74–101) 97 (84–98) <0.0011,3
+
+18.7–71.2) 26.0 (12.5–67.1)
+(0.3–536.9) 317.7 (0.4–660.9)
+10.8–36.3) 26.7 (12.7–74.0)
+7.9–139.0) 65.5 (9.0–144.0)
+.0–5.4) 2.4 (1.1–4.4)
+
+2 diabetes (T2D), waist to hip ratio (WHR).
+
+
+
+Table 2
+Sequences of the primers used for real-time PCR.
+
+Gene Universe primer 50 ? 30 Reverse primer 50 ? 30
+
+CCL2 TTCTGTGCCTGCTGCTCAT CACCAATAGGAAGATCTCAGTGC
+CCL3 GCAACCAGTTCTCTGCATCA GCTTCGCTTGGTTAGGAAGA
+CCL4 CCCAGCCAGCTGTGGTAT AGGAACTGCGGAGAGGAGTC
+CCL5 CCTCATTGCTACTGCCCTCT ACACACTTGGCGGTTCTTTC
+CCR1 TCTGAGTCCCAGAGCCAATC CCAACCCCCTATCAGCTACA
+CCR2 GGAGAGTTTGGGAACTGCAA CCACCCCCTTCTCATAATCA
+CCR5 GACAGAGCTGGTTGGCAAGA TCCCTCCTTCCCATCCTTAC
+TGFbeta ACTGCAAGTGGACATCAACG GGGTTATGCTGGTTGTAC
+b-Actin CTACGTCGCCCTGGACTTCGAGC GATGGAGCCGCCGATCCACACGG
+
+M. Neumeier et al. / Cytokine 56 (2011) 573–580 575
+nich, Germany). Incubations with antibodies (dilution 1:1000)
+were performed in 1.5% BSA in PBS and 0.1% Tween overnight.
+Detection of the immune complexes was carried out with the en-
+hanced chemiluminescence Western blot detection system (Amer-
+sham Pharmacia, Deisenhofen, Germany). Quantification was done
+using Optiquant software.
+2.7. Flow cytometry
+
+Monocytes of four (CCR1 measurement) to six (CCR2 and CCR5
+analysis) different donors were isolated and 5 � 106 cells were cul-
+tivated on petriPERM dishes (Sarstedt, Nürnbrecht, Germany) for
+24 h as described above. Medium was replaced and cells were
+incubated with or without recombinant adiponectin (10 lg/ml)
+for 24 h. For cell removal, petriPERM dishes were placed on a cold
+metal block for 10 min and cells were collected in cold PBS. After
+centrifugation, cells were incubated on ice for 1 h with 25 lg/ml
+CCR1, CCR2 or CCR5 antibody or the respective isotypes, IgG1 (iso-
+type for CCR2 and CCR5 antibodies) and IgG2b (isotype for CCR1
+antibodies). Following, cells were washed with cold PBS, resus-
+pended in 100 ll ice-cold PBS and incubated with anti-mouse
+R0439 PE-conjugated antibody (1:50-fold diluted) for 45 min on
+ice in the dark. Subsequently cells were washed with ice-cold
+Fig. 1. Dose-dependent upregulation of CCL2 to -5 by adiponectin in human monocytes (A
+with PBS as control or different concentrations of adiponectin (APN) for 24 h. Data of tw
+PBS and resuspended in 200 ll ice-cold PBS. Fourcolor flow cyto-
+metric analysis was performed using a FACSCalibur flow cytometer
+(BD, Heidelberg, Germany). Data were acquired with CELL-Quest
+software (BD, Heidelberg, Germany).
+
+2.8. Statistics
+
+Data are presented as the median values and the range of the
+values (PASW Statistics 17.0). Data in Fig. 1 are shown as
+mean ± standard error of the mean because data of only two differ-
+ent experiments using monocytes of two donors are shown. Statis-
+tical differences were analyzed by two-tailed Mann–Whitney U
+Test or Studentś t-test for paired samples and a value of p < 0.05
+was regarded as significant. The Spearman-Rho correlation was
+calculated using the PASW Statistics 17.0 software.
+3. Results
+
+3.1. Adiponectin upregulates chemokine mRNA and protein in human
+monocytes
+
+Monocytes were isolated from the blood of two normal-weight
+donors and were incubated with different concentrations of adipo-
+nectin for 24 h. Release of CCL2, -3, -4 and -5 was dose-depen-
+dently increased when 2.5, 5.0, 7.5 and 10 lg/ml adiponectin
+were used (Fig. 1A–D). Higher concentrations of 12.5 and 15 lg/
+ml did not further elevate CCL3 and CCL4 whereas CCL2 and
+CCL5 even tended to be decreased (Fig. 1A–D). Therefore, 10 lg/
+ml adiponectin was used for further studies.
+
+Chemokines were measured in the supernatants of monocytes
+isolated from the blood of eight normal-weight donors and subse-
+quently cultivated with or without 10 lg/ml adiponectin for 24 h.
+CCL3, -4, and -5 were all significantly increased in the supernatants
+of adiponectin-treated cells (Fig. 2B–D), as well as CCL2 which has
+already been described to be induced by adiponectin [17]
+) CCL2, (B) CCL3, (C) CCL4, and (D) CCL5 in the supernatants of monocytes incubated
+o independent experiments are shown as mean ± standard error of the mean.
+
+
+
+Fig. 2. Adiponectin induces CCL2 to -5 in human monocyte (A) CCL2, (B) CCL3, (C) CCL4, and (D) CCL5 in the supernatants of monocytes of eight donors incubated with PBS as
+control or adiponectin (APN) for 24 h. Number in the figures indicate the p-values. (E) Fold induction of chemokines in the supernatant of adiponectin incubated cells
+compared to PBS incubated monocytes of the identical donor. The dotted line indicates ‘‘no induction’’. (F) Fold induction of chemokine mRNA in adiponectin incubated cells
+compared to PBS incubated monocytes of the identical donor. The dotted line indicates ‘‘no induction’’.
+
+576 M. Neumeier et al. / Cytokine 56 (2011) 573–580
+(Fig. 2A). CCL3 was significantly more induced than CCL2 and CCL5
+and tended to be more efficiently upregulated compared to CCL4
+whereas the effect of adiponectin on CCL2, CCL4, and CCL5 was sim-
+ilar (Fig. 2E). The mRNA expression of these chemokines was ana-
+lysed by real-time RT-PCR in monocytes isolated from the blood
+of five different donors and was found significantly enhanced in
+the adiponectin-incubated cells (p = 0.034 for CCL2, p = 0.017 for
+CCL3, p = 0.026 for CCL4 and p = 0.030 for CCL5). The effect on
+CCL3 mRNA levels was higher compared to CCL5 induction (Fig. 2F).
+
+3.2. Adiponectin lowers abundance of chemokine receptors on the cell
+surface
+
+Surface abundance of CCR1, CCR2, and CCR5 was analysed by
+flow cytometry and representative results are shown in Fig. 3A.
+In monocytes of four different donors incubated with adiponectin
+for 24 h surface levels of CCR1 were not altered (Fig. 3B). CCR2
+and CCR5 were significantly reduced when monocytes of six differ-
+ent donors were analysed and CCR2 was significantly more sup-
+pressed than CCR5 (Fig. 3B). When monocytes of three different
+donors were preincubated with the CCR2 receptor antagonist RS-
+102895 for 2 h adiponectin-mediated downregulation of CCR2
+was abrogated (Fig. 3C). Further, this antagonist significantly re-
+duced surface CCR2 abundance (Fig. 3C). Chemokine receptor pro-
+tein was analysed in the cell lysates of monocytes of 10 donors
+(Fig. 3D and data not shown) and were not reduced upon adiponec-
+tin incubation (Fig. 3E). Chemokine receptor mRNA expression was
+determined in monocytes of eight different donors and was not
+significantly changed (Fig. 3F).
+
+3.3. Chemokine levels in cells of normal-weight, overweight, and type
+2 diabetes patients
+
+Chemokine levels were also measured in the supernatants of
+monocytes isolated from the blood of normal-weight controls
+(NW, 10 donors), overweight donors (OW, 12 donors), and T2D pa-
+tients (11 donors) (Table 1). The levels of CCL2, CCL3, and CCL5
+were all increased in cells of OW and T2D probands compared to
+NW (Fig. 4A, B and D). CCL5 was even higher in the supernatants
+of T2D compared to OW cells (Fig. 4D). CCL4, however, was simi-
+larly concentrated in the supernatants of all of these cells
+(Fig. 4C). Because chemokine levels were highly variable the
+log(10) levels were used for further calculations and a positive cor-
+relation of logCCL2 (r = 0.576, p < 0.001), logCCL3 (r = 0.578,
+p = 0.001) and logCCL5 (r = 0.686, p < 0.001) but not logCCL4
+(r = 0.217, p = 0.225) with BMI was identified (Fig. 4E–H). Further-
+more, levels of all chemokine were correlated to each other even
+when adjusted for BMI (Table 3) but not to systemic adiponectin
+concentrations (data not shown).
+
+3.4. Effect of adiponectin on chemokine levels in cells of normal-
+weight, overweight, and type 2 diabetes patients
+
+The effect of adiponectin to induce these chemokines was also
+tested. Here, induction of CCL3 and CCL5 was significantly impaired
+in monocytes of OW compared to NW donors (p = 0.009 for CCL3
+and p = 0.036 for CCL5) and in cells of T2D compared to NW mono-
+cytes (p < 0.001 for CCL3 and p = 0.006 for CCL5). Adiponectin-med-
+iated upregulation of the chemokines was similar in OW and T2D
+monocytes (Fig. 5A and B). The degrees of adiponectin-induced
+upregulation of CCL3 and CCL5 showed a strong negative correlation
+to BMI (r = �0.599, p < 0.001 for CCL3 and r = �0.399, p = 0.021 for
+CCL5) and were positively correlated to each other (r = 0.668,
+p < 0.001) suggesting that similar regulatory pathways are involved
+(Fig. 5C and data not shown). The latter association was even highly
+significant after adjusting for BMI (r = 0.638, p < 0.001). The degree
+of adiponectin-induced upregulation of CCL4 was negatively associ-
+ated with basal logCCL4 levels (r = �0.720, p < 0.001, Fig. 5D).
+Upregulation of CCL2 by adiponectin was neither associated with
+its basal levels nor BMI of the blood donors.
+
+
+
+Fig. 3. Surface levels of CCR2 and -5 are reduced in adiponectin incubated cells (A) Flow cytometric analysis of CCR1, CCR2 and CCR5 in monocytes incubated with PBS as
+control or adiponectin for 24 h. (B) Surface abundance of CCR1, CCR2 and CCR5 in monocytes incubated with PBS as control or adiponectin for 24 h. Number in the figures
+indicate the p-value. (C) Surface abundance of CCR2 in control-incubated monocytes, in cells incubated with adiponectin (APN), with the CCR2 receptor antagonist RS-102895
+(RS) or both. (D) CCR1, CCR2 and CCR5 protein in monocytes incubated with PBS as control or adiponectin (APN) for 24 h. (E) Quantification of the data of 10 independent
+experiments partly shown in C. (F) CCR1, CCR2 and CCR5 mRNA normalized to b-actin mRNA in monocytes of eight different donors incubated with PBS as control or
+adiponectin (APN) for 24 h.
+
+M. Neumeier et al. / Cytokine 56 (2011) 573–580 577
+3.5. Chemokine levels in serum of normal-weight, overweight, and
+type 2 diabetes patients
+
+Chemokines measured in the serum of these probands (Table 1)
+did not correlate with concentrations in the supernatants of the
+respective monocytes (data not shown). Systemic levels of CCL2,
+CCL3, CCL4, and CCL5 did not correlate with age, BMI, waist to
+hip ratio, serum adiponectin or fasting glucose of the patients.
+There was a modest positive correlation of systemic CCL3 and
+CCL5 (r = 0.386, p = 0.026).
+
+4. Discussion
+
+In the current study we confirmed previous data showing that
+adiponectin upregulates CCL2 in primary human monocytes
+[20,32]. Further, induction of CCL2 mRNA is demonstrated suggest-
+ing that transcriptional mechanisms are involved. Besides CCL2,
+the mRNA and protein levels of the chemokines CCL3, -4, and -5
+are also significantly induced by adiponectin. CCL2 is the ligand
+of CCR2, CCL3 and CCL5 are ligands of CCR1 whereas CCL3, CCL4,
+and CCL5 bind to CCR5 [1]. Neither mRNA nor total protein levels
+of these receptors are altered by adiponectin incubation. However,
+surface abundance of CCR2 is about 4-fold reduced and CCR5 is
+about 2-fold lower in adiponectin incubated cells. CCR1 surface
+levels are not reduced by adiponectin. Lower surface levels of at
+least CCR2 seem to be secondary effects of ligand binding because
+its downregulation by adiponectin is completely blocked by a CCR2
+antagonist. Reduced numbers of cell-surface localized chemokine
+receptors may desensitize those cells for further chemokine-asso-
+ciated signaling events. Interestingly this antagonist significantly
+lowers CCR2 surface levels in control- and adiponectin-incubated
+cells.
+
+Recently it has been shown that CCL2 upregulates CCR2 and
+TGF-beta 1 mRNA in monocytes [27] but neither CCR2 nor TGF-
+beta 1 (own unpublished data) expression are increased in the
+adiponectin incubated cells. Cells studied herein were incubated
+for 24 h with adiponectin whereas Sakai et al. mainly analysed
+monocytes which were cultivated with CCL2 for 48 h, and shorter
+incubation time used herein may partly explain these different
+findings.
+
+Although adiponectin levels have been found reduced in obesity
+and metabolic syndrome [33,34] systemic concentration are similar
+in the cohort analysed herein. Recent work has demonstrated high-
+er adiponectin in patients with impaired renal function and adipo-
+nectin has been identified to even predict an increased risk for
+coronary heart disease [35,36]. Therefore, adiponectin levels are af-
+fected by renal dysfunction and coronary heart disease and some of
+the probands studied herein may have suffered from these compli-
+cations. Further, the cohorts studied may have been too small to
+demonstrate lower adiponectin in obesity and type 2 diabetes.
+
+Adiponectin concentrations used in the in vitro studies herein
+are four- to five-fold higher compared to median systemic levels
+of the study cohort analysed. Dose–response curves demonstrate
+a maximal effect when 10 lg/ml recombinant adiponectin is used.
+When analysing primary cells varying basal chemokine levels and
+distinct responses to adiponectin are expected. This led us to use
+
+
+
+Fig. 4. CCL2 to -5 in the supernatants of monocytes isolated from the blood of type 2 diabetic patients (T2D), overweight (OW) and normal weight controls (NW). (A) CCL2 (B)
+CCL3 (C) CCL4, and (D) CCL5 in the supernatants of monocytes of T2D, OW and NW. Correlation of BMI with the log(10) of monocyte CCL2 (E), CCL3 (F), CCL4 (G) and CCL5 (H)
+in the whole study group.
+
+Table 3
+Correlation of log(10) chemokine levels in the supernatants of monocytes isolated
+from the blood of male normal-weight controls, overweight controls and type 2
+diabetics. Correlation coefficients after adjusting for BMI are listed, p-values are given
+in brackets.
+
+logCCL2 logCCL3 logCCl4 logCCL5
+
+logCCL2 1 0.664 (<0.001) 0.510 (0.002) 0.718 (<0.001)
+logCCL3 0.664 (<0.001) 1 0.602 (<0.001) 0.634 (<0.001)
+logCCL4 0.510 (0.002) 0.602 (<0.001) 1 0.613 (<0.001)
+logCCL5 0.718 (<0.001) 0.634 (<0.001) 0.613 (<0.001) 1
+
+578 M. Neumeier et al. / Cytokine 56 (2011) 573–580
+the most effective concentration of adiponectin to assure that the
+cells of all donors respond to this adipokine. Several studies have
+shown that effects of adiponectin are impaired in obesity and type
+2 diabetes [30,37–40] and higher adipokine concentrations may be
+necessary to stimulate the cells.
+
+Impaired adiponectin-mediated upregulation of CCL3 and CCL5
+is also detected in T2D and OW cells compared to NW monocytes.
+The induction of CCL3 and CCL5 by adiponectin shows a strong po-
+sitive correlation to each other and is even negatively associated
+with BMI of the respective blood donors. These findings suggest
+that monocyte CCL3 and CCL5 synthesis are similarly regulated
+by adiponectin and this pathway is partly blocked by factors af-
+fected in cells of overweight and obese blood donors. In addition,
+a positive correlation of CCL3 and CCL5 levels is also found in the
+monocyte supernatants and in serum of the blood donors.
+
+CCL2 and CCL4 are similarly induced by adiponectin in the
+monocytes of NW, OW and T2D patients. Whereas the induction
+of CCL2 by adiponectin is not related to its basal levels or BMI of
+the donors, a strong negative correlation of basal CCL4 and adipo-
+nectin mediated upregulation of CCL4 independent of BMI has
+been identified. This might indicate that monocytes with a higher
+basal release of CCL4 are more resistant to adiponectin-mediated
+upregulation of CCL4. However, neither the exact pathways in-
+volved in adiponectin-induced chemokine induction nor the rea-
+son for higher basal monocyte CCL4 synthesis have been
+analysed so far and future studies are needed to evaluate the
+underlying mechanisms.
+
+The data discussed above indicate that different signal trans-
+duction pathways are involved in the upregulation of the chemo-
+kines studied herein. Furthermore, these data demonstrate that
+there is no general resistance to adiponectin effects in state of
+obesity or type 2 diabetes. In fact only specific signal transduction
+pathways seem to be affected. Similar results have recently been
+obtained in fat-loaded hepatocytes where only certain actions of
+adiponectin are blocked [41].
+
+Adiponectin binds to different receptors, AdipoR1 and AdipoR2,
+which are both expressed in monocytes [30,42] and signaling of
+
+
+
+Fig. 5. Impaired upregulation of CCL3 and CCL5 in monocytes of type 2 diabetic patients (T2D) and overweight controls (OW) compared to normal-weight controls (NW). (A)
+Adiponectin-mediated CCL3 upregulation in T2D, OW and NW monocytes. (B) Adiponectin-mediated CCL5 upregulation in T2D, OW and NW monocytes. (C) Correlation of
+the degrees of adiponectin-mediated upregulation of CCL3 and CCL5. (D) Correlation of log(10) CCL4 levels with the degrees of adiponectin-mediated CCL4 induction.
+
+M. Neumeier et al. / Cytokine 56 (2011) 573–580 579
+just one pathway may be disturbed in obesity. Various adiponectin
+receptor downstream effectors including p38 MAPK, ERK1/2, AMP-
+activated protein kinase and NFjB have been identified [42–44]
+and activity of specific molecules may be differentially affected
+in obesity.
+
+Recently we described that LPS-induced release of these chemo-
+kines is similar in monocytes of controls and T2D patients [11] sug-
+gesting that anthropometrical and disease-related factors affect
+only some pathways as described for adiponectin herein.
+
+Basal levels of CCL2, CCL3, and CCL5 are all increased in the
+supernatants of OW and T2D monocytes indicating that higher
+synthesis is related to BMI and not to type 2 diabetes. Interestingly,
+levels of these chemokines in the supernatants of the monocytes
+correlates positively with BMI of the blood donors. CCL4, however,
+is similarly abundant in all of the supernatants and not associated
+with BMI.
+
+None other than CCL5 is modestly higher in T2D cells compared
+to monocytes of BMI-matched controls. CCL5 at least in serum has
+been suggested to be involved in the development of T2D indepen-
+dent of classical risk factors like BMI and dyslipidemia [12]. Low-
+dose insulin infusion in T2D significantly reduces mononuclear cell
+CCL5 but not CCL2 expression suggesting that impaired insulin
+activity may contribute to increased monocyte CCL5 in T2D pa-
+tients [45]. CCL5 and CCL2 serum levels are reduced upon insulin
+infusion indicating that at least systemic CCL2 is not influenced
+by its synthesis in mononuclear cells [45].
+
+Levels of CCL2 and CCL5 have been found increased in serum of
+type 2 diabetes patients when analyzing rather large cohorts
+[9,12], and the low number of patient samples studied herein
+may explain why this increase has not been confirmed. Further,
+chemokines in serum do not correlate with the respective chemo-
+kines in the monocyte supernatants. The chemokines analysed
+herein are synthesized by various cells and tissues [46–48], and
+therefore, it is unlikely that monocyte released protein consider-
+ably affect systemic levels.
+
+In summary this study shows that adiponectin stimulates syn-
+thesis of CCL2 to CCL5 in primary human monocytes, and release
+of CCL3 and -5 is impaired in obesity. Surface abundance of CCR2
+and -5 is reduced in adiponectin-incubated monocytes suggesting
+that this adipokine regulates CC-chemokine activity at the ligand
+and receptor level.
+Duality of interest statement
+
+The authors declare that there is no duality of interest associ-
+ated with this manuscript.
+Author contributions
+
+Study concept and design: CB, HB, AS. Aquisition of data: MN,
+SB, AK, KE, RW, SA. Drafting of the manuscript: CB Critical revision
+of the manuscript HB, AS, MN, SB.
+Acknowledgements
+
+The technical assistance of Yvonne Hader and Kerstin Neumeier
+is greatly appreciated. This work was partly supported by the
+Regensburger Forschungsförderung in der Medizin (ReForM C)
+and the Deutsche Forschungsgemeinschaft (BU 1141/3-3).
+
+
+
+580 M. Neumeier et al. / Cytokine 56 (2011) 573–580
+References
+
+[1] Charo IF, Ransohoff RM. The many roles of chemokines and chemokine
+receptors in inflammation. N Engl J Med 2006;354:610–21.
+
+[2] Goodyear A, Jones A, Troyer R, Bielefeldt-Ohmann H, Dow S. Critical protective
+role for MCP-1 in pneumonic Burkholderia mallei infection. J Immunol
+2010;184:1445–54.
+
+[3] Winter C, Herbold W, Maus R, Langer F, Briles DE, Paton JC, et al. Important role
+for CC chemokine ligand 2-dependent lung mononuclear phagocyte
+recruitment to inhibit sepsis in mice infected with Streptococcus pneumoniae.
+J Immunol 2009;182:4931–7.
+
+[4] Piemonti L, Calori G, Lattuada G, Mercalli A, Ragogna F, Garancini MP, et al.
+Association between plasma monocyte chemoattractant protein-1
+concentration and cardiovascular disease mortality in middle-aged diabetic
+and nondiabetic individuals. Diabetes Care 2009;32:2105–10.
+
+[5] Gu L, Okada Y, Clinton SK, Gerard C, Sukhova GK, Libby P, et al. Absence of
+monocyte chemoattractant protein-1 reduces atherosclerosis in low density
+lipoprotein receptor-deficient mice. Mol Cell 1998;2:275–81.
+
+[6] Weisberg SP, Hunter D, Huber R, Lemieux J, Slaymaker S, Vaddi K, et al. CCR2
+modulates inflammatory and metabolic effects of high-fat feeding. J Clin Invest
+2006;116:115–24.
+
+[7] Cipolletta C, Ryan KE, Hanna EV, Trimble ER. Activation of peripheral blood
+CD14+ monocytes occurs in diabetes. Diabetes 2005;54:2779–86.
+
+[8] Han KH, Han KO, Green SR, Quehenberger O. Expression of the monocyte
+chemoattractant protein-1 receptor CCR2 is increased in
+hypercholesterolemia. Differential effects of plasma lipoproteins on
+monocyte function. J Lipid Res 1999;40:1053–63.
+
+[9] Mine S, Okada Y, Tanikawa T, Kawahara C, Tabata T, Tanaka Y. Increased
+expression levels of monocyte CCR2 and monocyte chemoattractant protein-1
+in patients with diabetes mellitus. Biochem Biophys Res Commun
+2006;344:780–5.
+
+[10] Tamura Y, Sugimoto M, Murayama T, Ueda Y, Kanamori H, Ono K, et al.
+Inhibition of CCR2 ameliorates insulin resistance and hepatic steatosis in db/
+db mice. Arterioscler Thromb Vasc Biol 2008;28:2195–201.
+
+[11] Bala M, Kopp A, Wurm S, Buchler C, Scholmerich J, Schaffler A. Type 2 diabetes
+and lipoprotein metabolism affect lps-induced cytokine and chemokine
+release in primary human monocytes. Exp Clin Endocrinol Diabetes
+2011;119:370–6.
+
+[12] Herder C, Haastert B, Muller-Scholze S, Koenig W, Thorand B, Holle R, et al.
+Association of systemic chemokine concentrations with impaired glucose
+tolerance and type 2 diabetes: results from the cooperative health research in
+the region of augsburg survey S4 (KORA S4). Diabetes 2005;54(Suppl.
+2):S11–7.
+
+[13] Keophiphath M, Rouault C, Divoux A, Clement K, Lacasa D. CCL5 promotes
+macrophage recruitment and survival in human adipose tissue. Arterioscler
+Thromb Vasc Biol 2010;30:39–45.
+
+[14] Surmi BK, Webb CD, Ristau AC, Hasty AH. Absence of macrophage
+inflammatory protein-1{alpha} does not impact macrophage accumulation
+in adipose tissue of diet-induced obese mice. Am J Physiol Endocrinol Metab
+2010;299:E437–45.
+
+[15] Meagher C, Beilke J, Arreaza G, Mi QS, Chen W, Salojin K, et al. Neutralization of
+interleukin-16 protects nonobese diabetic mice from autoimmune type 1
+diabetes by a CCL4-dependent mechanism. Diabetes 2010;59:2862–71.
+
+[16] Lara-Castro C, Fu Y, Chung BH, Garvey WT. Adiponectin and the metabolic
+syndrome: mechanisms mediating risk for metabolic and cardiovascular
+disease. Curr Opin Lipidol 2007;18:263–70.
+
+[17] Gil-Campos M, Canete RR, Gil A. Adiponectin, the missing link in insulin
+resistance and obesity. Clin Nutr 2004;23:963–74.
+
+[18] Folco EJ, Rocha VZ, Lopez-Ilasaca M, Libby P. Adiponectin inhibits pro-
+inflammatory signaling in human macrophages independent of interleukin-10.
+J Biol Chem 2009;284:25569–75.
+
+[19] Saijo S, Nagata K, Nakano Y, Tobe T, Kobayashi Y. Inhibition by adiponectin of
+IL-8 production by human macrophages upon coculturing with late apoptotic
+cells. Biochem Biophys Res Commun 2005;334:1180–3.
+
+[20] Abke S, Neumeier M, Weigert J, Wehrwein G, Eggenhofer E, Schaffler A, et al.
+Adiponectin-induced secretion of interleukin-6 (IL-6), monocyte chemotactic
+protein-1 (MCP-1, CCL2) and interleukin-8 (IL-8, CXCL8) is impaired in
+monocytes from patients with type I diabetes. Cardiovasc Diabetol 2006;5:17.
+
+[21] Neumeier M, Weigert J, Schaffler A, Wehrwein G, Muller-Ladner U,
+Scholmerich J, et al. Different effects of adiponectin isoforms in human
+monocytic cells. J Leukoc Biol 2006;79:803–8.
+
+[22] Ogunwobi OO, Beales IL. Adiponectin stimulates proliferation and cytokine
+secretion in colonic epithelial cells. Regul Pept 2006;134:105–13.
+
+[23] Sashinami H, Nakane A. Adiponectin is required for enhancement of CCL2
+expression in adipose tissue during Listeria monocytogenes infection.
+Cytokine 2010;50:170–4.
+
+[24] Sica A, Saccani A, Borsatti A, Power CA, Wells TN, Luini W, et al. Bacterial
+lipopolysaccharide rapidly inhibits expression of C-C chemokine receptors in
+human monocytes. J Exp Med 1997;185:969–74.
+[25] Xu L, Khandaker MH, Barlic J, Ran L, Borja ML, Madrenas J, et al. Identification
+of a novel mechanism for endotoxin-mediated down-modulation of CC
+chemokine receptor expression. Eur J Immunol 2000;30:227–35.
+
+[26] Garcia Lopez MA, Aguado Martinez A, Lamaze C, Martinez AC, Fischer T.
+Inhibition of dynamin prevents CCL2-mediated endocytosis of CCR2 and
+activation of ERK1/2. Cell Signal 2009;21:1748–57.
+
+[27] Sakai N, Wada T, Furuichi K, Shimizu K, Kokubo S, Hara A, et al. MCP-1/CCR2-
+dependent loop for fibrogenesis in human peripheral CD14-positive
+monocytes. J Leukoc Biol 2006;79:555–63.
+
+[28] Schober F, Neumeier M, Weigert J, Wurm S, Wanninger J, Schaffler A, et al. Low
+molecular weight adiponectin negatively correlates with the waist
+circumference and monocytic IL-6 release. Biochem Biophys Res Commun
+2007;361:968–73.
+
+[29] Sporrer D, Weber M, Wanninger J, Weigert J, Neumeier M, Stogbauer F, et al.
+Adiponectin downregulates CD163 whose cellular and soluble forms are
+elevated in obesity. Eur J Clin Invest 2009;39:671–9.
+
+[30] Weigert J, Neumeier M, Wanninger J, Wurm S, Kopp A, Schober F, et al.
+Reduced response to adiponectin and lower abundance of adiponectin
+receptor proteins in type 2 diabetic monocytes. FEBS Lett 2008;582:1777–82.
+
+[31] Stogbauer F, Neumeier M, Weigert J, Wanninger J, Grandl M, Lehle K, et al.
+Highly efficient and low-cost method to isolate human blood monocytes with
+high purity. J Immunol Methods 2008;337:78–80.
+
+[32] Song WL, Paschos G, Fries S, Reilly MP, Yu Y, Rokach J, et al. Novel
+eicosapentaenoic acid-derived F3-isoprostanes as biomarkers of lipid
+peroxidation. J Biol Chem 2009;284:23636–43.
+
+[33] Arita Y, Kihara S, Ouchi N, Takahashi M, Maeda K, Miyagawa J, et al.
+Paradoxical decrease of an adipose-specific protein, adiponectin, in obesity.
+Biochem Biophys Res Commun 1999;257:79–83.
+
+[34] Schaffler A, Scholmerich J, Buchler C. Mechanisms of disease: adipocytokines
+and visceral adipose tissue–emerging role in nonalcoholic fatty liver disease.
+Nat Clin Pract Gastroenterol Hepatol 2005;2:273–80.
+
+[35] Zhang MH, Spies C, Ali S, Kanaya AM, Schiller NB, Whooley MA. Adiponectin
+and inducible ischemia in patients with stable coronary heart disease: data
+from the Heart and Soul study. Atherosclerosis 2009;205:233–8.
+
+[36] Zoccali C, Mallamaci F, Tripepi G, Benedetto FA, Cutrupi S, Parlongo S, et al.
+Adiponectin, metabolic risk factors, and cardiovascular events among patients
+with end-stage renal disease. J Am Soc Nephrol 2002;13:134–41.
+
+[37] Bauer S, Wanninger J, Neumeier M, Wurm S, Weigert J, Kopp A, et al. Elevated
+free fatty acids and impaired adiponectin bioactivity contribute to reduced
+SOD2 protein in monocytes of type 2 diabetes patients. Exp Mol Pathol
+2011;90:101–6.
+
+[38] Lin HV, Kim JY, Pocai A, Rossetti L, Shapiro L, Scherer PE, et al. Adiponectin
+resistance exacerbates insulin resistance in insulin receptor transgenic/
+knockout mice. Diabetes 2007;56:1969–76.
+
+[39] Mullen KL, Pritchard J, Ritchie I, Snook LA, Chabowski A, Bonen A, et al.
+Adiponectin resistance precedes the accumulation of skeletal muscle lipids
+and insulin resistance in high-fat-fed rats. Am J Physiol Regul Integral Comput
+Physiol 2009;296:R243–51.
+
+[40] Weber M, Sporrer D, Weigert J, Wanninger J, Neumeier M, Wurm S, et al.
+Adiponectin downregulates galectin-3 whose cellular form is elevated
+whereas its soluble form is reduced in type 2 diabetic monocytes. FEBS Lett
+2009;583:3718–24.
+
+[41] Wanninger J, Neumeier M, Hellerbrand C, Schacherer D, Bauer S, Weiss TS,
+et al. Lipid accumulation impairs adiponectin-mediated induction of activin A
+by increasing TGFbeta in primary human hepatocytes. Biochim Biophys Acta
+2011;1811:626–33.
+
+[42] Yamauchi T, Kamon J, Ito Y, Tsuchida A, Yokomizo T, Kita S, et al. Cloning of
+adiponectin receptors that mediate antidiabetic metabolic effects. Nature
+2003;423:762–9.
+
+[43] Weigert J, Neumeier M, Wanninger J, Schober F, Sporrer D, Weber M, et al.
+Adiponectin upregulates monocytic activin A but systemic levels are not
+altered in obesity or type 2 diabetes. Cytokine 2009;45:86–91.
+
+[44] Wulster-Radcliffe MC, Ajuwon KM, Wang J, Christian JA, Spurlock ME.
+Adiponectin differentially regulates cytokines in porcine macrophages.
+Biochem Biophys Res Commun 2004;316:924–9.
+
+[45] Ghanim H, Korzeniewski K, Sia CL, Abuaysheh S, Lohano T, Chaudhuri A, et al.
+Suppressive effect of insulin infusion on chemokines and chemokine receptors.
+Diabetes Care 2010;33:1103–8.
+
+[46] Deshmane SL, Kremlev S, Amini S, Sawaya BE. Monocyte chemoattractant
+protein-1 (MCP-1): an overview. J Interferon Cytokine Res 2009;29:313–26.
+
+[47] Kirovski G, Gabele E, Dorn C, Moleda L, Niessen C, Weiss TS, et al. Hepatic
+steatosis causes induction of the chemokine RANTES in the absence of
+significant hepatic inflammation. Int J Clin Exp Pathol 2010;3:675–80.
+
+[48] Leifeld L, Dumoulin FL, Purr I, Janberg K, Trautwein C, Wolff M, et al. Early up-
+regulation of chemokine expression in fulminant hepatic failure. J Pathol
+2003;199:335–44.
+
+
+	Adiponectin stimulates release of CCL2, -3, -4 and -5 while the surface abundance  of CCR2 and -5 is simultaneously reduced in primary human monocytes
+	1 Introduction
+	2 Materials and methods
+	2.1 Subjects
+	2.2 Material
+	2.3 Real-time polymerase chain reaction (PCR)
+	2.4 Isolation and culture of primary blood monocytes
+	2.5 Elisa
+	2.6 Immunoblot
+	2.7 Flow cytometry
+	2.8 Statistics
+
+	3 Results
+	3.1 Adiponectin upregulates chemokine mRNA and protein in human monocytes
+	3.2 Adiponectin lowers abundance of chemokine receptors on the cell surface
+	3.3 Chemokine levels in cells of normal-weight, overweight, and type 2 diabetes patients
+	3.4 Effect of adiponectin on chemokine levels in cells of normal-weight, overweight, and type 2 diabetes patients
+	3.5 Chemokine levels in serum of normal-weight, overweight, and type 2 diabetes patients
+
+	4 Discussion
+	Duality of interest statement
+	Author contributions
+	Acknowledgements
+	References

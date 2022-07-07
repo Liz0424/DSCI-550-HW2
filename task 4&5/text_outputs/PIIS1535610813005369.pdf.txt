@@ -1,0 +1,2130 @@
+CARM1 Methylates Chromatin Remodeling Factor BAF155 to Enhance Tumor Progression and Metastasis
+
+
+i An update to this article is included at the end
+Cancer Cell
+
+Article
+CARM1 Methylates Chromatin Remodeling
+Factor BAF155 to Enhance Tumor
+Progression and Metastasis
+Lu Wang,1 Zibo Zhao,1 Mark B. Meyer,2 Sandeep Saha,3 Menggang Yu,3 Ailan Guo,4 Kari B. Wisinski,5 Wei Huang,6
+
+Weibo Cai,7 J. Wesley Pike,2 Ming Yuan,8,9 Paul Ahlquist,1,8,10 and Wei Xu1,*
+1McArdle Laboratory for Cancer Research, University of Wisconsin-Madison, Madison, WI 53706, USA
+2Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA
+3Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI 53706, USA
+4Cell Signaling Technology, Danvers, MA 01923, USA
+5Department of Medicine, University of Wisconsin-Madison, Madison, WI 53706, USA
+6Department of Pathology, University of Wisconsin-Madison, Madison, WI 53706, USA
+7Department of Radiology, University of Wisconsin-Madison, Madison, WI 53706, USA
+8Morgridge Institute for Research, University of Wisconsin-Madison, Madison, WI 53706, USA
+9Department of Statistics, University of Wisconsin-Madison, Madison, WI 53706, USA
+10Howard Hughes Medical Institute, University of Wisconsin-Madison, Madison, WI 53706, USA
+*Correspondence: wxu@oncology.wisc.edu
+
+http://dx.doi.org/10.1016/j.ccr.2013.12.007
+SUMMARY
+Coactivator-associated arginine methyltransferase 1 (CARM1), a coactivator for various cancer-relevant
+transcription factors, is overexpressed in breast cancer. To elucidate the functions of CARM1 in tumorigen-
+esis, we knocked out CARM1 from several breast cancer cell lines using Zinc-Finger Nuclease technology,
+which resulted in drastic phenotypic and biochemical changes. The CARM1 KO cell lines enabled identifica-
+tion of CARM1 substrates, notably the SWI/SNF core subunit BAF155. Methylation of BAF155 at R1064 was
+found to be an independent prognostic biomarker for cancer recurrence and to regulate breast cancer cell
+migration and metastasis. Furthermore, CARM1-mediated BAF155 methylation affects gene expression by
+directing methylated BAF155 to unique chromatin regions (e.g., c-Myc pathway genes). Collectively, our
+studies uncover a mechanism by which BAF155 acquires tumorigenic functions via arginine methylation.
+INTRODUCTION
+
+Coactivator-associated arginine methyltransferase 1 (CARM1),
+
+also known as PRMT4, is a type I protein argininemethyltransfer-
+
+ase (PRMT) that asymmetrically dimethylates protein substrates
+
+on arginine residues. CARM1 was originally identified as a coac-
+
+tivator for steroid hormone receptors (Chen et al., 1999). CARM1
+
+knockout (KO) mice die at birth (Yadav et al., 2003), showing
+
+that CARM1 is specifically required for postnatal survival. Inter-
+
+estingly, methyltranserase-inactivated CARM1 knockin mice
+
+phenocopy CARM1 null mice, indicating that CARM1 requires
+Significance
+
+Although mutations or epigenetic changes inactivating and al
+SNF are frequently linked to cancer, the mechanisms underlyin
+and pathways that induce SWI/SNF’s oncogenic effects would
+driving changes while retaining SWI/SNF’s normal functions. H
+strate for arginine methyltransferase CARM1. Methylation of B
+drive regulation of genes in the c-Myc and certainmetastatic pa
+remodeling factor is activated by arginine methylation to regu
+its enzymatic activity for the majority, if not all, of its in vivo func-
+
+tions (Kim et al., 2010).
+
+Emerging evidence implies oncogenic functions of CARM1 in
+
+human cancer. CARM1 transactivates many cancer-associated
+
+transcription factors including NF-kB, p53, E2F1, and steroid
+
+receptors such as estrogen receptor alpha (ERa; Bedford and
+
+Clarke, 2009), and promotes cancer cell proliferation (El Mes-
+
+saoudi et al., 2006; Frietze et al., 2008). Recent tissue microarray
+
+studies revealed that CARM1 expression is higher in metastatic
+
+breast tumors than in normal breast tissues (Mann et al., 2013),
+
+particularly in triple negative tumors lacking expression of ERa,
+tering the functions of chromatin remodeling complex SWI/
+g these connections remain unclear. Delineating the factors
+enable preventive and therapeutic targeting of these cancer-
+ere, we identify BAF155, a SWI/SNF core subunit, as a sub-
+AF155 is required for its association with genomic sites that
+thways. This represents amechanismbywhich a chromatin-
+late genes that enhance tumor progression and metastasis.
+
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 21
+
+mailto:wxu@oncology.wisc.edu
+http://dx.doi.org/10.1016/j.ccr.2013.12.007
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.ccr.2013.12.007&domain=pdf
+
+
+Figure 1. Generation of CARM1 KO Breast Cancer Cell Lines
+
+(A) Western blot analysis of CARM1 and methyl-PABP1 using whole cell lysates from CARM1+/+ MEF, CARM1�/� MEF, MCF7, and MCF7-shCARM1 cells.
+b-Actin was used as a loading control.
+
+(B) Targeting exon 8 of human CARM1 by ZFN.
+
+(C) Western blot of CARM1, PABP1, methyl-PABP1, PRMT5 in parental and CARM1 KO MCF7, MDA-MB-231, and HEK293T cells.
+
+(D) Genomic DNA sequence of ZFN targeting site in MCF7 CARM1 KO and MDA-MB-231 CARM1 KO cell clones.
+
+(E) ZFN-mediated KO frequency of CARM1 in each indicated cell line.
+
+(legend continued on next page)
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+
+22 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+PR, and HER2 (Davis et al., 2013). These results imply that
+
+altered CARM1expression may underlie pathological conditions
+
+and that, in breast cancer, CARM1 has roles beyond serving as a
+
+coactivator for ERa. It remains to be determined whether the
+
+oncogenic functions of CARM1 depend on its ability to regulate
+
+cancer-driving transcription factors or to directly methylate can-
+
+cer-relevant substrates, or both.
+
+The significance of identifying cancer-relevant CARM1 sub-
+
+strates is underscored by studies of the roles of histone H3
+
+methylation in transcriptional activation of ER target genes (Wu
+
+and Xu, 2012). Nonhistone substrates include p300/CBP,
+
+AIB1/SRC-3, and RNA binding proteins such as PABP1, HuR,
+
+HuD, and HnRNPs (Bedford and Clarke, 2009). Multiple lines of
+
+evidence indicate that normal CARM1 expression is well above
+
+that required for its essential roles. For instance, normal develop-
+
+mental functions were maintained in genetically engineered
+
+CARM1 hypomorphic mice with only 25% of the wild-type
+
+(WT) CARM1 level (Kim et al., 2010). We recently showed that
+
+knocking down 90% of endogenous CARM1 in MCF7 cells
+
+only slightly reduces methylation of PABP1 (Zeng et al., 2013).
+
+These results imply that even greatly depleted CARM1 catalytic
+
+activity and substrate methylation are sufficient to maintain
+
+major biological functions. Previously, CARM1 null mouse em-
+
+bryonic fibroblast cell lysates were used as a hypomethylated
+
+substrate source that led to identifying PABP1 as a CARM1 sub-
+
+strate (Lee and Bedford, 2002). The CARM1 null cancer cell lines
+
+would greatly facilitate identifying cancer-relevant substrates
+
+and understanding of CARM1 oncogenic functions in breast
+
+cancer cells. Herein, we generated CARM1 KO cancer cell lines
+
+and used them to explore the roles of BAF155 methylation by
+
+CARM1 in breast cancer models.
+
+RESULTS
+
+Generation of CARM1 KO Breast Cancer Cell Lines
+Using ZFN Technology
+We recently developed a sensitive methylated PABP1 (me-
+
+PABP1) western blot method to monitor endogenous CARM1
+
+levels and activity (Zeng et al., 2013). In contrast to the complete
+
+loss of me-PABP1 in CARM1 null mouse embryonic fibroblasts
+
+(CARM1�/� MEFs; Figure 1A, lanes 1 and 2), we found that
+even though small hairpin RNA (shRNA)-mediated knockdown
+
+decreased CARM1 levels by 90%, the cellular me-PABP1 level
+
+decreased by less than 20% (Figure 1A, lanes 3 and 4). Thus,
+
+low levels of CARM1 are capable of substantial PABP1 methyl-
+
+ation. Because CARM1 substrates therefore should remain
+
+significantly methylated in CARM1 knockdown cells but be hy-
+
+pomethylated in CARM1 null cells, we generated CARM1 null
+
+cancer cell lines to identify cancer-relevant CARM1 substrates.
+
+We utilized Zinc Finger Nuclease (ZFN) technology to create a
+
+highly specific genomic scissors targeting exon 8 of CARM1
+
+(Figure 1B), and through this generated a complete KO in cancer
+
+cell lines. After transient transfection of ZFN plasmids into cells,
+
+we performed limiting dilution to select single clones and
+(F) Western blot of CARM1, PABP1, and me-PABP1 in MCF7, two MCF7 CA
+
+retroviral infection.
+
+(G) Representative cell morphology images of MCF7 cells, MCF7-shCARM1 cell
+
+See also Figure S1.
+confirmed CARM1 KO by loss of me-PABP1 (Figure 1C) and
+
+genomic DNA sequencing (Figure 1D). Representative KO
+
+clones with complete depletion of me-PABP1 are shown in Fig-
+
+ure 1C for MCF7, MDA-MB-231, and human embryonic kidney
+
+293T (HEK293T) cell lines. The human CARM1 gene locus
+
+resides at chromosome19 p13.2, a region triplicated in MCF7
+
+and duplicated in MDA-MB-231 cells. The genomic DNA
+
+sequencing analysis of two representative CARM1 KO clones
+
+of MCF7 and MDA-MB-231 (Figure 1D) revealed misrepaired
+
+DNA, resulting in mRNA degradation and gene deletion.
+
+Although the efficiency of ZFN KO varied among cell lines
+
+at 1.3%, 0.5%, and 3.6% for MCF7, MDA-MB-231, and
+
+HEK293T, respectively, the average KO efficiency across all
+
+clones analyzed was 1.2% (Figure 1E). When CARM1was re-ex-
+
+pressed in two individual MCF7 CARM1 KO clones, me-PABP1
+
+was restored (Figure 1F). Interestingly, we found that KO of
+
+CARM1 in MCF7 cells inducedmorphology changes (Figure 1G),
+
+whereas nomorphology changewas observed inMCF7 cells ex-
+
+pressing CARM1 shRNA to knock down CARM1 to 10% of WT
+
+levels (Figure 1G). The morphology change in the two KO clones
+
+was rescued by re-expressingWTCARM1 (Figure 1G) but not an
+
+enzyme-defective mutant (data not shown). We compared the
+
+in vitro cell growth and in vivo tumor growth of MDA-MB-231
+
+CARM1 KO and MCF7 CARM1 KO with their parental cells. KO
+
+of CARM1 impeded cell growth and colony formation (Figures
+
+S1A and S1B available online) and tumor growth in vivo (Fig-
+
+ure S1C). These data strongly suggest that the cell morphology
+
+change and growth defect in KO cells could be due to loss of
+
+methylation of CARM1 substrates.
+
+Identification of BAF155 as a Substrate for CARM1
+The lack of understanding of the biological functions of CARM1
+
+in cancers is at least partially attributed to the limited number of
+
+known CARM1 substrates. A few CARM1 substrates were previ-
+
+ously identified or validated by comparing CARM1+/+ and
+
+CARM1�/� MEF cell lysates for in vitro and in vivo methylation
+(Cheng et al., 2007; Kim et al., 2004). In contrast to CARM1-
+
+expressing cells, where potential CARM1 substrates would be
+
+blocked for further methylation, CARM1�/� MEF lysates served
+as a hypomethylated substrate resource for CARM1 substrate
+
+identification. Indeed, we found that MCF7 CARM1 KO cell
+
+lysates were more strongly methylated in vitro by recombinant
+
+CARM1 protein than CARM1�/� MEF cell lysates, as assayed
+by 3H-CH3 labeling in an autoradiograph (Figure S2A) and west-
+
+ern blotting using a newly developed asymmetrically dimethy-
+
+lated arginine (a-ADMA) antibody (Dhar et al., 2013; Figure S2B).
+
+This result implies that MCF7 CARM1 KO cells serve as a good
+
+resource for substrate discovery.
+
+When cell lysates derived from parental MCF7 cells and
+
+CARM1 KO cells were probed with monomethylated arginine
+
+(a-MMA) and a-ADMA antibodies in western blots, asymmetri-
+
+cally dimethylated proteins, in particular those in the high mo-
+
+lecular weight range, were significantly affected by CARM1
+
+KO (Figure 2A). This is in contrast to the lack of a significant
+RM1 KO clones, and MCF7 CARM1 KO clones re-expressing CARM1 by
+
+s, and the MCF7-derived CARM1 KO cell lines listed in (F). Scale bar = 40 mm.
+
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 23
+
+
+
+Figure 2. Identification of BAF155 as a Substrate for CARM1
+
+(A) Western blot analysis of total proteins in MCF7 and MCF7 CARM1 KO cells using antibodies against MMA and ADMA moieties.
+
+(B) Coomassie brilliant blue staining of proteins immunoprecipitated with anti-ADMA antibody from total cell lysates of MCF7 and MCF7 CARM1 KO cells.
+
+Discrete bands in the high molecular weight range were excised and subjected to mass spectrometry analysis, from which ten candidate proteins were identified
+
+(right panel).
+
+(C) Western blot analysis of input and anti-ADMA immunoprecipitated proteins using antibodies to detect endogenous BRG1, BAF170, BAF155, and BAF250, or
+
+against the FLAG epitope to detect transfected, FLAG-tagged TRAP150, Caprin1, TRAP230, and BCLAF1 in HEK293T and HEK293T CARM1 KO cells.
+
+(D) Coomassie brilliant blue staining (left panel) and autoradiograph (right panel) of in vitro methylated BAF155 by CARM1 in the presence of 3H-SAM.
+
+(E) Western blot analysis of anti-BAF155 immunoprecipitated proteins using anti-ADMA, BAF155, and CARM1 antibodies in HEK293T CARM1 KO cells before
+
+and after restoration with WT CARM1 or a methylation-defective CARM1 mutant (MUT).
+
+See also Figure S2.
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+effect on monomethylated proteins. In order to identify CARM1
+
+substrates in breast cancer cells, we used the a-ADMA anti-
+
+body to immunoprecipitate proteins from cell lysates derived
+24 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+from parental MCF7 cells expressing WT CARM1 and MCF7
+
+CARM1 KO cells, respectively. The discrete bands in WT cells
+
+stained with Coomassie blue were excised and subjected to
+
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+mass spectrometry, from which ten candidate proteins were
+
+identified (Figure 2B). To discern whether these proteins are
+
+CARM1 substrates, we immunoprecipitated endogenous pro-
+
+teins (BRG1, BAF170, BAF155, and BAF250) or FLAG-tagged
+
+proteins (TRAP150, Caprin 1, TRAP230, and BCLAF1) tran-
+
+siently transfected to MCF7 WT or KO cells, and followed
+
+their fate in western blots using a-ADMA or a-FLAG antibody,
+
+respectively.
+
+Western blot results using a-ADMA antibody (Figure 2C)
+
+classified the candidate proteins into three categories. The first
+
+category includes BAF155 and TRAP230 proteins, which are
+
+dimethylated in WT but not in KO MCF7 cells, indicating that
+
+arginine dimethylation of these proteins is CARM1 dependent.
+
+The second category includes Caprin1 and BCLAF1 proteins,
+
+which are dimethylated in WT and KO cells at similar levels,
+
+indicating that CARM1 is not their sole methyltransferase.
+
+Finally, the third category includes BAF170, BRG1, BAF250,
+
+and TRAP150 proteins, which are not recognized by a-ADMA
+
+antibody, suggesting that they were immunoprecipitated by
+
+the a-ADMA antibody via indirect association with bone fide
+
+CARM1 substrates (e.g., BRG1, BAF250, and BAF170 are in
+
+complex with methylated BAF155). Although the a-ADMA anti-
+
+body recently developed by Cell Signaling appeared sensitive
+
+in detecting CARM1 substrates, this antibody has not been
+
+extensively characterized (Dhar et al., 2013).
+
+Since a previous study had reported that a histone H3 argi-
+
+nine17 dimethylation (H3R17me2) antibody, while recognizing
+
+the H3R17me2 mark, also recognized other CARM1 substrates
+
+in MEF cells (Cheng et al., 2007), we employed this anti-
+
+H3R17me2 antibody for western blotting (Figure S2C, left panel)
+
+and immunoprecipitation, followed by Coomassie blue staining
+
+(Figure S2C, right panel), using total cell lysates from MCF7
+
+WT and KO cells. Similar to the pattern detected by a-ADMA
+
+antibody, the recognized proteins specific to CARM1 WT but
+
+not CARM1 KO cells reside in the high molecular weight range,
+
+among which BAF155 was identified using mass spectrometry
+
+(Figure S2C). Correspondingly, one strong band (Figure S2D,
+
+arrow head) migrating between 130 and 250 kDa was detected
+
+by a-ADMA antibody in the a-H3R17me2 immunoprecipitates
+
+from WT but not KO MCF7 cell lysates. This band was subse-
+
+quently proved to be BAF155 by reciprocal immunoprecipitation
+
+using H3R17me2 and BAF155 antibodies (Figures S2E and S2F).
+
+Collectively, BAF155 appeared to be amain substrate of CARM1
+
+in MCF7 cells detected by both a-ADMA and H3R17me2
+
+antibodies.
+
+To address whether BAF155 ismethylated by CARM1 directly,
+
+we performed in vitro methylation assays using recombinant
+
+CARM1 and hypomethylated BAF155 purified from HEK293T
+
+CARM1 KO cells in the presence of adenosyl-L-methionine,
+
+S-[methyl-3H] (3H-SAM). As expected, BAF155 was methylated
+
+by CARM1 in vitro (Figure 2D). Finally, we demonstrated that
+
+BAF155 methylation could be restored in HEK293T CARM1
+
+KO cells by expressing WT CARM1 but not a methylation-
+
+defective mutant (Figure 2E). These results collectively
+
+demonstrate that CARM1 is both necessary and sufficient to
+
+methylate BAF155. In keeping with this finding, CARM1 was
+
+found to be the only PRMT among PRMT family members
+
+(PRMT1–PRMT8) that is capable of methylating BAF155
+
+in vitro (Figure S2G).
+CARM1 Methylates BAF155 at a Single Site, R1064
+Although multiple CARM1 substrates were discovered using the
+
+a-ADMA antibody and CARM1 KO cell line (Figure 2B), we chose
+
+to focus on BAF155 because BAF155, a core subunit of switch/
+
+sucrose nonfermentable (SWI/SNF) chromatin remodeling com-
+
+plex, has been reported upregulated in colon, cervical, and pros-
+
+tate cancer (Lapointe et al., 2004; Tomlins et al., 2007; Varambally
+
+et al., 2005). Using PMeS (Shi et al., 2012), an online tool for pre-
+
+dicting protein methylation sites based on an enhanced feature-
+
+encoding scheme, five putative arginine methylation sites were
+
+predicted on human BAF155 (Table S1). Based on the putative
+
+methylation sites, a full-length and four C-terminally truncated
+
+BAF155 derivatives with C-terminal myc tags were constructed
+
+(Figure 3A). These plasmids were transiently transfected into
+
+HEK293T cells, and the resulting proteins were immunopreci-
+
+pated using a-myc antibody and western blotted with a-ADMA
+
+antibody (Figure 3B). Notably, full-length BAF155 but none
+
+of the truncated BAF155 proteins was detected by a-ADMA
+
+antibody, suggesting that the BAF155 methylation site follows
+
+residue 956. We then individually mutated C-proximal R1032
+
+and R1064 to lysine in FLAG-tagged expression plasmids.
+
+After transient expression and anti-FLAG immunoprecipitation,
+
+FLAG-BAF155R1032K but not FLAG-BAF155R1064K protein was
+
+detected by a-ADMA antibody in vivo (Figure 3C). Similarly, the
+
+recombinant BAF155R1064K mutant protein was not methylated
+
+by recombinant CARM1 in vitro (Figure 3D). Thus, R1064 is the
+
+only BAF155 site methylated by CARM1.
+
+Antibodies against endogenous CARM1 or BAF155 each
+
+immunoprecipitated both proteins from MCF7 cell lysates
+
+(Figure 3E), suggesting that CARM1 and BAF155 may directly
+
+interact. To map the BAF155 region mediating association with
+
+CARM1, we linked each of a series of BAF155 truncation deriv-
+
+atives (Chen and Archer, 2005) with a T7 promoter and FLAG
+
+tag (Figure 3F) for in vitro transcription/translation assays. As
+
+shown in Figure 3F, full-length BAF155 and its C-terminally trun-
+
+cated (D1, D2, D3 and D4) but not N-terminally truncated (D5, D6
+
+and D7) derivatives bound strongly to bacterially expressed
+
+glutathione S-transferase CARM1 (GST-CARM1). Thus, the
+
+acidic domain at the BAF155 N terminus mediates interaction
+
+with CARM1, although R1064, the site of methylation, localizes
+
+to the BAF155 C terminus. R1064 of human BAF155, located
+
+in the evolutionarily conserved proline- and glutamine-rich (P/
+
+Q-rich) domain, is conserved among higher eukaryotes (Fig-
+
+ure 3G). BAF170, while sharing 61.7% protein sequence identity
+
+with BAF155, lacks an arginine residue at a position equivalent
+
+to R1064 in its corresponding P/Q-rich domain (Figure 3H).
+
+This explains why BAF170, a close homolog of BAF155, is not
+
+a substrate for CARM1 (Figure 2C).
+
+The Majority of Endogenous BAF155 in MCF7 Cells Is
+Dimethylated
+To investigate the prevalence of endogenous BAF155 dimethy-
+
+lation in breast cancer cells, we generated a rabbit polyclonal
+
+antibody specific for dimethylated BAF155 (Figure S3A). This
+
+me-BAF155 antibody detects methylation of endogenous
+
+BAF155 in WT MCF7 cells but not in two MCF7 CARM1 KO
+
+clones (Figure S3B). Similar to PABP1 (Figure 1A), me-BAF155
+
+was still detectable in MCF7-shCARM1 cells (Figure S3C). To
+
+determine the percentage of endogenous BAF155 methylated
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 25
+
+
+
+(legend on next page)
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+
+26 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+by CARM1 in breast cancer cells, we immunoprecipitated
+
+BAF155 using theme-BAF155 antibody and performed quantita-
+
+tive western blotting of equal portions of the input and flow-
+
+through fractions using the total BAF155 antibody (Figure S3D).
+
+Quantitation of the band intensities across three independent ex-
+
+periments revealed that �74% of endogenous BAF155 was
+methylated by CARM1 in MCF7 cells. Moreover, BAF155 and
+
+me-BAF155 immunofluorescence were confined to the nucleus
+
+(Figure S3E). Since the majority of endogenous BAF155 is dime-
+
+thylated, we went on to study the role of BAF155 methylation in
+
+human breast cancer cells.
+
+BAF155 Methylation at R1064 Creates Unique
+Chromatin Association Patterns
+BAF155, a core component of the SWI/SNF chromatin remodel-
+
+ing complex, was shown to associate with chromatin depen-
+
+dently or independently of other SWI/SNF subunits using
+
+chromatin immunoprecipitation sequencing (ChIP-seq) in HeLa
+
+cells (Euskirchen et al., 2011). Accordingly, we decided to deter-
+
+mine the effect of BAF155 methylation on its chromatin associa-
+
+tion. First, to substitute endogenous BAF155 with BAF155R1064K
+
+mutant, we infected MCF7 cells with retrovirus vectors express-
+
+ing either WT BAF155 (BAF155WT), mutant BAF155R1064K, or
+
+GFP as a negative control (Figure 4A). After confirming that
+
+the resulting total BAF155 level was twice the endogenous
+
+BAF155 level, we stably knocked down endogenous BAF155 us-
+
+ing a lentiviral-expressing shRNA, which selectively targets the
+
+30UTR of the endogenous, but not the lentiviral-expressed,
+BAF155 mRNA. Figure 4A shows that BAF155 was silenced
+
+in MCF7-GFP cells, and that MCF7-BAF155WT and MCF7-
+
+BAF155R1064K cells express reconstituted BAF155WT and
+
+BAF155R1064K proteins to levels similar to that of endogenous
+
+BAF155 protein in the parental MCF7 cells. Interestingly,
+
+substituting endogenous BAF155 with BAF155R1064K, like
+
+BAF155 knockdown, significantly reduced colony size (Fig-
+
+ure 4B, lower panels) and yield (Figure 4C), while cell morphology
+
+was not changed (Figure 4B, upper panels). To investigate
+
+whether BAF155 methylation by CARM1 is required for
+
+CARM1-induced colony formation in MCF7 cells, we first stably
+
+overexpressed BAF155WT and BAF155R1064 in MCF7 CARM1
+
+KO cells, respectively, followed by knocking down the endo-
+
+genous BAF155 in these cells using lentivirus-expressing
+
+shBAF155. Subsequently CARM1 was restored in MCF7
+Figure 3. CARM1 Methylates BAF155 at a Single Site, R1064
+
+(A) Schematic diagram of BAF155 full-length cDNA and C-terminally truncated der
+
+cassette fused to its C terminus. Red arrows point to putative arginine methylati
+
+(B) Plasmids expressing the BAF155 cDNA derivatives shown in (A) were transient
+
+antibody (upper panel). Total cell lysates were immunoprecipitated with anti-Myc
+
+(C) FLAG-tagged recombinant BAF155WT, BAF155R1032K, and BAF155R1064K pro
+
+and detected by western blotting using anti-FLAG (left panel) or anti-ADMA (righ
+
+(D) In vitro assay using recombinant CARM1 and 3H-SAM to test for methylatio
+
+KO cells.
+
+(E) Reciprocal coimmunoprecipitation of CARM1 with BAF155, and BAF155 with
+
+(F) Mapping of CARM1-interacting domain to the N-terminal acidic domain of BAF
+
+tagged BAF155 truncation derivatives that were incubated with GST-CARM1 pr
+
+tates were tested for the presence of GST-CARM1 by western blotting using ant
+
+(G) CLUSTALW alignment of vertebral BAF155 sequences flanking human BAF1
+
+(H) CLUSTALW alignment of P/Q-rich domain sequences of BAF155 (with R1064
+
+See also Figure S3 and Table S1.
+CARM1 KO cells expressing either BAF155WT or BAF155R1064,
+
+and colony formation assays were performed. The expected
+
+levels of total BAF155, me-BAF155, and CARM1 proteins were
+
+confirmed by western blotting (Figure 4D). Restoring CARM1 in
+
+BAF155WT-expressing but not BAF155R1064K-expressing cells
+
+rescued colony formation in terms of both colony size and yield
+
+(Figures 4E and 4F). These results further support that BAF155
+
+methylation affects the cellular functions of BAF155.
+
+To ensure that BAF155 methylation does not affect its assem-
+
+bly into the SWI/SNF complex, we expressed BAF155WT and
+
+BAF155R1064K in SKOV3, an ovarian cancer cell line that ex-
+
+presses all SWI/SNF components except BAF155 (DelBove
+
+et al., 2011). As shown in Figure S4, immunoprecipitating
+
+either BAF155WT or BAF155R1064K effectively pulled down other
+
+SWI/SNF components such as BRG1, BAF60a, and BAF47
+
+in SKOV3 cells. Only BAF155WT, but not BAF155R1064K, was
+
+methylated by endogenous CARM1, as revealed by a-ADMA
+
+immunoblot (Figure S4A). Thus, both CARM1-methylated
+
+and -unmethylated BAF155 assemble into SWI/SNF complexes.
+
+Next we determinedwhethermethylation of BAF155 affects its
+
+chromatin association, using a genomic ChIP-seq approachwith
+
+MCF7-BAF155WT and MCF7-BAF155R1064K cells. A ChIP-grade
+
+BAF155 antibody (Euskirchen et al., 2011) was used for ChIP fol-
+
+lowed by Illumina high-throughput sequencing. Representative
+
+BAF155WT, BAF155R1064K, and BRG1 binding sites in HeLa
+
+and MCF7 cells in a 7.5 Mb region of chromosome 8 are shown
+
+in Figure 4G. As expected, while some BAF155WT peaks identi-
+
+fied in MCF7 cells overlap with the binding sites of BAF155 and
+
+BRG1 in HeLa cells (Figure 4G, box a; Euskirchen et al., 2011),
+
+BAF155WT also has unique binding sites in MCF7 and HeLa cells
+
+(Figure 4G, box d). We subsequently analyzed the genome-wide
+
+distribution of BAF155 binding peaks in MCF7 expressing WT or
+
+mutant BAF155. Totals of 2,667 and 1,566 peaks were identified
+
+for BAF155WT or BAF155R1064K, respectively. Among these, 983
+
+peaks overlapped (Table S2). The numbers of annotated genes
+
+in the genomic regions associated with these BAF155WT and
+
+BAF155R1064K binding sites are shown in Figure 4H. As in HeLa
+
+cells, approximately 60% of BAF155 binding sites in MCF7 cells
+
+reside in gene bodies (exons and introns; Figure 4I). Moreover,
+
+BAF155 peaks in MCF7 cells are enriched within +50 kb from
+
+the transcription starting sites (TSSs), which are likely to contain
+
+enhancer regions (Figure 4J). This pattern is consistent with
+
+those of BAF155 and BRG1, SNF5/BAF47 in HeLa cells, but it
+ivatives, each with a nuclear localization sequence/Myc (NLS-Myc) epitope tag
+
+on sites predicted by the PMeS program.
+
+ly transfected into HEK293 cells and detected bywestern blotting with anti-Myc
+
+antibody and western blotted with anti-ADMA antibody (lower panel).
+
+teins were immunoprecipitated from HEK293T cells with anti-FLAG antibody
+
+t panel) antibodies.
+
+n of BAF155WT and BAF155R1064K proteins prepared from HEK293T CARM1
+
+CARM1, from MCF7 cell lysates.
+
+155 by GST-pull-down assay. Left panel shows schematic diagrams of FLAG-
+
+oteins and immunoprecipitated with anti-FLAG antibody. The immunoprecipi-
+
+i-GST antibody (right panel).
+
+55 methylation site R1064, which is highlighted in red.
+
+highlighted in red) and its homolog BAF170 protein.
+
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 27
+
+
+
+Figure 4. BAF155 Methylation Promotes MCF7 Cell Colony Formation and Directs Unique Genomic Association Patterns
+
+(A) Western blotting of BAF155 and me-BAF155 in MCF7 cells and MCF7-shBAF155 cells restored with GFP, BAF155WT, or BAF155R1064K.
+
+(B) Representative images of cell morphology (upper panel; scale bars = 40 mm) and colonies (lower panel; scale bars = 100 mm) for parental MCF7 and
+
+MCF7-shBAF155-GFP cells, and BAF155WT- and BAF155R1064K-restored MCF7 cells.
+
+(legend continued on next page)
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+
+28 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+differs from those of RNA pol II, which peaks near TSSs, and
+
+BAF170, which peaks around �50 kb from TSSs (Figure 4J).
+The Genomic Regions Enrichment of Annotations Tool (GREAT)
+
+identified meiosis and c-Myc pathways as the two leading path-
+
+ways uniquely associated with BAF155WT but not BAF155R1064K
+
+(Figure 4K), implying that BAF155 methylation might direct its
+
+association with genes involved in potentially cancer-relevant
+
+c-Myc pathways.
+
+BAF155 Methylation Controls Expression of Genes in
+the c-Myc Pathway
+In contrast to the promoter regions of CDH1 and TFF1 genes
+
+where both BAF155WT and BAF155R1064K bind similarly (Fig-
+
+ure S5A), many c-Myc pathway genes were selectively enriched
+
+for BAF155WT but not BAF155R1064K, as shown in Figure S5B for
+
+CDCA7, COL1A2, GADD45A, DDX18, and NDRG1 in HeLa and
+
+MCF7 cells. Next we performed conventional ChIP using distinct
+
+sets of biological samples to validate whether BAF155 is associ-
+
+ated with the binding sites determined in the ChIP-seq experi-
+
+ment. As shown in Figure 5A, BAF155WT but not BAF155R1064K
+
+was found associated with the ChIP-seq-implicated regions
+
+of CDCA7, COL1A2, GADD45A, DDX18, and NDRG1, whereas
+
+both BAF155 forms were detected at the promoter region of
+
+CDH1. ChIP using the me-BAF155 antibody confirmed the
+
+association of me-BAF155 to COL1A2 and GADD45A genes
+
+in MCF7-BAF155WT but not in MCF7-BAF155R1064K cells (Fig-
+
+ure 5B). Importantly, BAF155 association strongly correlated
+
+with gene expression. COL1A2 and GADD45A mRNA levels,
+
+for example, were higher in MCF7-BAF155WT than in MCF7-
+
+BAF155R1064 or MCF7-GFP with endogenous BAF155 silenced
+
+(Figure 5C). To examine whether the association of BAF155
+
+withCOL1A2 andGADD45A genes depends on CARM1 expres-
+
+sion, we performed ChIP assays in parental MCF7 and CARM1
+
+KO cells. As shown in Figures 5D and 5F, CARM1 KO resulted
+
+in significant decreases of BAF155 association with the impli-
+
+cated regions of COL1A2 and GADD45A. Thus, CARM1 is an
+
+important determinant for BAF155 genomic association, and
+
+CARM1-mediated BAF155 methylation could induce BAF155
+
+association with unique genomic sites to control gene regulation.
+
+Interestingly, we could not detect binding above background
+
+of CARM1, BAF53, or SWI/SNF adenosine triphosphatase
+
+(ATPase) subunits BRG1 and BRM at the same regions of the
+
+COL1A2 and GADD45A genes where BAF155 binds (Figures
+
+5E and 5G), although BRG1 could be detected at positive control
+(C) Colony yields for the cell lines in (B).
+
+(D) Western blotting analysis of CARM1, BAF155, and me-BAF155 proteins in MC
+
+BAF155R1064K cells engineered to express either GFP or CARM1. b-Actin was us
+
+(E) Representative images of colonies formed by each cell line shown in (D). Sca
+
+(F) Colony yields for the cell lines in (D).
+
+(G) ChIP-seq identifies BRG1, BAF155WT, and BAF155R1064K association in an �
+regions were identified inMCF7 andHeLa cells as detailed in Table S2. An ‘‘a’’ den
+
+denotes BAF155 binding peak only found in HeLa cells; ‘‘c’’ denotes shared BAF1
+
+BAF155WT and BAF155R1064K peaks only found in MCF7 cells; and ‘‘e’’ denotes
+
+(H) Venn diagram showing the overlapping and discrete BAF155 cistromes in MC
+
+genes were defined as the regions between 5.0 kb upstream and 1.0 kb downst
+
+(I) Distribution of the genome-wide association of BAF155 binding sites in MCF7
+
+(J) Distribution of genomic association sites of RNA pol II and SWI/SNF subunits
+
+(K) BAF155 genomic association sites map to different signaling pathways in MC
+
+Quantitative data are presented as averages ± SD. Student’s t test was used for
+regions (e.g., the CDH1 and TFF1 promoters; Figures S5C and
+
+S5D). The positive binding of other SWI/SNF subunits SNF5,
+
+BAF53, and BRM to CDH1 and TFF1 genes similarly validated
+
+the corresponding antibodies for ChIP (Figure S5C). Despite
+
+the lack of detectable binding of BRG1 to COL1A2, GADD45A,
+
+and NDRG1 regions (Figure S5D), SNF5 but not BAF53 was
+
+found at the BAF155-binding sites (Figures 5E, 5G, and S5D)
+
+of the corresponding genes. Accordingly, methylated BAF155
+
+might be in a subcomplex with other BAFs such as SNF5 at
+
+unique chromatin sites.
+
+BAF155 Methylation Correlates with Human Breast
+Cancer Progression and Malignancy
+To determine whether me-BAF155 could serve as a prognostic
+
+biomarker for human breast cancer, we first optimized the
+
+me-BAF155 peptide antibody for immunohistochemistry (IHC).
+
+IHC staining of me-BAF155 could be completely blocked by
+
+me-BAF155 peptide but not by nonmethylated BAF155 peptide
+
+(Figure S6A), showing that the me-BAF155 antibody is specific.
+
+We next performed IHC using total BAF155 antibody as well
+
+as me-BAF155 antibody with four pairs of matched breast
+
+normal and tumor samples. As shown in Figure S6B, me-
+
+BAF155 staining was almost undetectable in normal samples,
+
+while both total BAF155 protein level and me-BAF155 intensity
+
+were elevated in breast tumors. Notably, CARM1 protein levels
+
+also were elevated in tumors relative to matched normal tissues
+
+(Figure S6C).
+
+These results suggest that the increased level of me-
+
+BAF155 in tumors reflects overall elevated levels of BAF155
+
+and CARM1. Thus, the me-BAF155 level might be a sensitive
+
+breast cancer progression biomarker. To test this hypothesis,
+
+we employed commercial tissuemicroarrays (TMAs), which con-
+
+tained�80 samples from normal tissues, tumor-adjacent normal
+(TAN), benign tumors, malignant tumors, and metastatic tumors
+
+excised prior to treatment. Modest me-BAF155 staining was
+
+seen with normal (Figure 6A), TAN, and benign tissues (Fig-
+
+ure 6B). In contrast, significantly greater me-BAF155 IHC
+
+staining was observed with malignant and metastatic tumors.
+
+One hundred percent of metastatic tumors (6/6) showed strong
+
+positive staining for me-BAF155 (Figures 6C and 6D). To investi-
+
+gate if BAF155 methylation status is associated with clinical
+
+outcomes, we employed TMAs containing 372 breast tumor
+
+specimens with 150 months of clinical follow-up. TMAs
+
+were immunostained with me-BAF155-specific antibody, and
+F7 CARM1 KO clone 1, MCF7-CARM1KO-BAF155WT, and MCF7-CARM1KO-
+
+ed as loading control.
+
+le bar = 100 mm.
+
+750 kb region of chromosome 8. The coordinates shown are in hg19 and all
+
+otes a peak that is detected by BRG1 and BAF155 in both HeLa andMCF7; ‘‘b’’
+
+55 and BRG1 binding peaks in HeLa but not in MCF7 cells; ‘‘d’’ denotes shared
+
+BAF155WT binding only found in MCF7 cells.
+
+F7 cells expressing BAF155WT and BAF155R1064K. Genomic-region-associated
+
+ream of annotated genes, using GREAT.
+
+cells is comparable to that in HeLa cells.
+
+relative to TSSs in HeLa (top two panels) and MCF7 cells (bottom panel).
+
+F7-BAF155WT and MCF7-BAF155R1064K cells.
+
+statistical analysis. **p < 0.01. See also Figure S4 and Table S2.
+
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 29
+
+
+
+(legend on next page)
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+
+30 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+specimens were rank ordered by immunostaining intensity
+
+and divided into me-BAF155-negative (bottom 25% intensity)
+
+and -positive (top 75% intensity) groups. The Kaplan-Meier
+
+plot shows that the me-BAF155-negative patients have a higher
+
+recurrence-free survival rate than do me-BAF155-positive
+
+patients (Figure 6E). A log-rank test performed to formally test
+
+this difference in recurrence-free survival rates yielded a statisti-
+
+cally significant p value of 0.0497. Notably, the results of the
+
+multivariate analyses performed using the Cox proportional
+
+hazards model indicate a recurrence hazard 1.789 times higher
+
+for patients with me-BAF155-positive tumors when compared
+
+with me-BAF155-negative tumors (p = 0.034; Figures 6F and
+
+6G). This hazard ratio of 1.789 for me-BAF155-positive tumors
+
+is similar to that of triple-negative breast cancer (hazard ratio =
+
+1.845), a category well known for its poor prognosis. This differ-
+
+ence in recurrence hazard rates is shown in the cumulative
+
+hazard plot (Figure 6F). These data underscored the potential
+
+use of me-BAF155 as a biomarker of malignant breast cancer
+
+and also in prognostic stratification of breast cancer patients.
+
+Methylation of BAF155 Promotes Migration and
+Metastasis of Breast Cancer Cells In Vitro and In Vivo
+To investigate of the role of BAF155 methylation in tumor migra-
+
+tion and metastasis, we employed MDA-MB-231, an aggressive
+
+breast cancer cell line model, for in vitro transwell migration and
+
+in vivo metastasis studies. Using a strategy similar to that for
+
+MCF7 cells (Figure 4A), we engineered stable cell line MDA-
+
+MB-231-GFP with endogenous BAF155 knockdown, and its
+
+reconstituted derivatives MDA-MB-231-BAF155WT and MDA-
+
+MB-231-BAF155R1064K (Figure 7A). Knockdown of endogenous
+
+BAF155 in MDA-MB-231 cells significantly decreased cell
+
+growth (Figure 7B, compare - with ,), which was rescued by
+
+restoring BAF155WT but not BAF155R1064K (Figure 7B, compare
+
+: with 6). Furthermore, knockdown of endogenous BAF155
+
+in MDA-MB-231 cells significantly decreased cell migration in
+
+transwell assay, an effect that was partially rescued by restoring
+
+BAF155WT but not BAF155R1064K (Figure 7C). To explore the
+
+possibility that methylation of BAF155 is required for establishing
+
+metastatic lung colonization in vivo, we injected MDA-MB-
+
+231-BAF155WT and MDA-MB-231-BAF155R1064K cells stably
+
+expressing firefly luciferase intravenously to nude mice and
+
+monitored tumor cell colonization and outgrowth in lung using
+
+bioluminescence imaging. On the day of injection (day 0), both
+
+WT and mutant BAF155-expressing MDA-MB-231 cells accu-
+Figure 5. BAF155 Methylation Controls Expression of Genes in the c-M
+
+(A) Differential binding of BAF155 to CDCA7, COL1A2, GADD45A, DDX18, and
+
+BAF155WT and MCF7-BAF155R1064K cells. BAF155WT and BAF155R1064K display
+
+globulin G (IgG) was used as antibody control.
+
+(B) ChIP-qPCR analysis of me-BAF155 binding to COL1A2 and GADD45A genes
+
+(C) Relative mRNA levels of COL1A2 andGADD45A in MCF7-shBAF155, MCF7-B
+
+b-Actin was used as an internal control.
+
+(D) The me-BAF155 binding region on the COL1A2 gene and ChIP-qPCR analys
+
+MCF7-shBAF155-GFP, MCF7-BAF155WT, and MCF7-BAF155R1064K cells.
+
+(E) ChIP-qPCR analysis of me-BAF155, CARM1, BRG1, BRM, BAF53, and
+
+BAF155R1064K cells. Normal rabbit IgG was used as control.
+
+(F) ChIP-qPCR analysis of me-BAF155 association with the GADD45A gene in th
+
+(G) ChIP-qPCR analysis of the association of me-BAF155, CARM1, BRG1, BRM
+
+BAF155R1064K cells.
+
+Quantitative data are presented as averages ± SD. Student’s t test was used for
+mulated in the lung as expected (Minn et al., 2005). Time-
+
+course analysis of the two cohorts revealed significant
+
+differences in lung colonization. BAF155WT-expressing but not
+
+BAF155R1064K-expressing cells showed colonization and tumor
+
+outgrowth in lung (Figure 7D). Thus, BAF155 methylation is posi-
+
+tively linked to lung metastasis.
+
+To gain further insight into the mechanism by which
+
+BAF155 methylation regulates MDA-MB-231 metastasis,
+
+we employed the tumor metastasis RT2 profiler PCR array
+
+(SABiosciences), containing 84 genes involved in metastasis, to
+
+compare the mRNA expression profiles between MDA-MB-
+
+231-BAF155R1064K and MDA-MB-231-BAF155WT (Figure 7E). If
+
+more than 2-fold expression difference was seen between
+
+the two cell lines, the corresponding genes are marked green
+
+or red (Figure 7E) and are listed in Figure 7F. Two metastasis
+
+repressor genes, CDH11 and KISS1R, were upregulated,
+
+and six metastasis-promoting genes, CCL7, CDH6, COL4A2,
+
+CXCL12, MMP13, and MYCL1, were downregulated in MDA-
+
+MB-231-BAF155R1064K cells compared with BAF155WT cells.
+
+Four genes were selected for validation using real-time PCR.
+
+Indeed, KISS1R and CDH11 were expressed at higher levels in
+
+MDA-MB-231-BAF155R1064K cells, whereas CCL7 and COL4A2
+
+were expressed at higher levels in MDA-MB-231-BAF155WT
+
+cells (Figure 7G). We further systematically compared the
+
+differential gene expression of MDA-MB-231-BAF155WT
+
+and -BAF155R1064K using Affymetrix microarrays. Over 700
+
+genes were differentially expressed in two cell lines (p < 0.05);
+
+322 and 411 genes were upregulated and downregulated,
+
+respectively (Figure S7A). Among other differential expressed
+
+genes identified (Table S3), the metastasis genes COL4A2
+
+and TIMP3 (Figure 7F) and c-MYC pathway gene CDCA7 (Fig-
+
+ure 5C) were expressed at higher levels in BAF155WT cells than
+
+inBAF155R1064K cells. Geneontology pathway analyses revealed
+
+that themajor differentially expressed genes fall in the categories
+
+of cellular movement, cellular organization, cell proliferation,
+
+and migration (Figure S7B). Moreover, despite the different cell
+
+lines used to study gene expression andDNAbinding differences
+
+between WT BAF155 and BAF155R1064K, one-fourth of the
+
+differentially expressed genes identified by microarrays in
+
+MDA-MB-231 cells overlap with differentially bound genomic
+
+regions identified by ChIP-seq in MCF7 cells (Figure S7C). These
+
+results suggest that BAF155 methylation regulates important
+
+pathways involved in cancer progression, including cell move-
+
+ment and migration.
+yc Pathway
+
+NDRG1 genes was analyzed using ChIP-quantitative PCR (qPCR) in MCF7-
+
+ed similar binding to the positive control CDH1 gene. Normal rabbit immuno-
+
+.
+
+AF155WT, and MCF7-BAF155R1064K cells were determined by real-time qPCR.
+
+is of BAF155 association with the COL1A2 gene in MCF7, MCF7 CARM1 KO,
+
+SNF5 association with the COL1A2 gene in MCF7-BAF155WT and MCF7-
+
+e indicated cells.
+
+, BAF53, and SNF5 with the GADD45A gene in MCF7-BAF155WT and MCF7-
+
+statistical analysis. **p < 0.01. See also Figure S5.
+
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 31
+
+
+
+(legend on next page)
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+
+32 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+DISCUSSION
+
+One important finding above is that knocking down endogenous
+
+CARM1 by 90% is insufficient to mimic the biological effects of
+
+complete CARM1 KO. This echoes the in vivo mouse model
+
+where reducing CARM1 to 25% of endogenous level still sus-
+
+tains normal development (Kim et al., 2010). Consistent with
+
+this, CARM1 KO decreased cell and tumor growth in vitro and
+
+in vivo, in contrast to little in vivo growth effect of CARM1
+
+shRNA-mediated knockdown in MCF7 (Al-Dhaheri et al., 2011).
+
+While CARM1 knockdown may selectively affect methylation of
+
+some substrates but not others, our findings underscore the
+
+importance of using complete KOs when studying the biological
+
+functions of enzymes.
+
+Although engineered ZFNs have been used for genome editing
+
+in diverse model organisms, allele engineering in somatic cell
+
+genetics has not been widely applied for determining enzyme
+
+functions. KO efficiency by ZFNs varies among cancer cell lines
+
+and depends on transfection efficiency and the multiplicity of the
+
+targeted chromosome. For example, the CARM1 disruption fre-
+
+quency reached 10% of alleles in diploid breast cancer cell line
+
+CAL51 (data not shown), compared with 1.3% in MCF7 cells
+
+where CARM1-bearing chromosome 19 is triplicated. In fact,
+
+one-time transient transfection of a plasmid encoding the
+
+CARM1 ZFN in MCF7 cells only disrupted CARM1 biallelically,
+
+as confirmed by sequencing of genomic DNA. In agreement
+
+with a report that sequential ZFN transfection of biallelically dis-
+
+rupted clones resulted in triple locus KO at frequency of 1% (Liu
+
+et al., 2010), limiting dilution and genotyping without antibiotic
+
+selection yielded two MCF7 clones (out of 159) in which
+
+CARM1 was disrupted triallelically (Figure 1E). Despite low KO
+
+frequency in some cases, ZFN-mediated KO of genes like
+
+CARM1 in cancer cell lines provides unprecedented opportu-
+
+nities for cancer-relevant substrate discovery since, for example,
+
+MEFs lack or express many CARM1 substrates at lower level
+
+than CARM1 null cancer cell lines. Identifying cancer-relevant
+
+substrates for CARM1 is essential for elucidating its functions
+
+in cancer, as exemplified by BAF155.
+
+SWI/SNF is a multisubunit chromatin-remodeling complex
+
+that has been strongly implicated in cancer development due
+
+to aberrant expression and mutation of its subunits in many
+
+tumor types (Weissman and Knudsen, 2009). Accompanying
+
+the SWI/SNF ATPase subunits (e.g., BRG1) are 9–12 BAF
+
+proteins, including core and accessory subunits. The core
+
+subunits, BAF155, BAF170, and SNF5 (also referred to as
+
+SMARCB1, BAF47, or SNF5/INI1), were defined on the basis
+
+of their ability to restore efficient nucleosome remodeling
+
+in vitro (Phelan et al., 1999). Recent whole genome sequencing
+
+of human tumors revealed that SWI/SNF subunits are mutated
+
+in >20% of human malignancies (Kadoch et al., 2013). For
+Figure 6. BAF155 Methylation Correlates with Human Breast Cancer P
+
+(A–C) Immunohistochemical staining of me-BAF155 in representative normal bre
+
+node metastasis specimens (C) on the US Biomax BR723 TMA. Brown staining
+
+(D) The percentage of me-BAF155-positive staining in normal, TAN, benign, mal
+
+(E) Kaplan-Meier curves depicting the probability of recurrence-free survival in br
+
+(F) Kaplan-Meier curves for cumulative hazard (Cum Hazard).
+
+(G) The recurrence hazard for breast cancer patients stratified by me-BAF155 st
+
+See also Figure S6.
+example, SNF5 behaves as a bona fide tumor suppressor
+
+gene (Roberts et al., 2002). Conflicting evidence suggests
+
+that BAF155 may serve as tumor suppressor or oncogene
+
+in a tumor-type-specific manner. BAF155 was initially impli-
+
+cated as a tumor suppressor because of its residency in chro-
+
+mosome 3p21.31, a region frequently deleted in lung and
+
+other adenocarcinomas (Zabarovsky et al., 2002). Coincidently,
+
+BAF155 expression is deficient in two ovarian cancer cell
+
+lines, SKOV3 and SNUC2B (DelBove et al., 2011). However,
+
+mounting evidence supports that, for at least some tumor
+
+types, BAF155 might enhance tumor development. BAF155
+
+expression is markedly induced in prostate cancer (Lapointe
+
+et al., 2004), cervical intraepithelial neoplasia (Shadeo et al.,
+
+2008), and colon cancer (Andersen et al., 2009). Elevated
+
+BAF155 expression was correlated with poor prognosis and
+
+recurrence in colon cancer (Andersen et al., 2009). The varied
+
+BAF155 expression in distinct tumor types suggests that aber-
+
+rant BAF155 levels may contribute to tumor initiation and pro-
+
+gression in a context-dependent manner.
+
+We report here that BAF155 is elevated in human breast
+
+tumors and that increased methylation of BAF155 is associated
+
+with poor survival, implicating BAF155 as an independent prog-
+
+nosis biomarker. Individual ChIP experiments showed that some
+
+genomic sites seem to bind BAF155 independently of BRG1.
+
+Further ChIP-seq to improve signal/noise ratios and mapping
+
+of genomic sites using anti-me-BAF155 and BRG1 antibodies
+
+will more fully test BRG1-independent binding of BAF155 to
+
+chromatin sites. Nonetheless, our results support that methyl-
+
+ated BAF155 might have functions independent from the full
+
+SWI/SNF complex, which agrees with earlier reports that individ-
+
+ual SWI/SNF subunits confer oncogenic functions independently
+
+of the entire complex (Park et al., 2002). For example, BAF53
+
+formed a distinct complex with c-Myc cofactors, including
+
+histone acetyltransferases to enhance c-Myc’s oncogenic trans-
+
+formation activity (Park et al., 2002). It remains unknown whether
+
+me-BAF155 and SNF5 form complexes distinct fromSWI/SNF at
+
+genomic loci specific for me-BAF155, including c-Myc pathway
+
+gene loci.
+
+The c-Myc pathway deregulation is a common feature of
+
+human tumorigenesis. The Myc oncoprotein provides selective
+
+advantages to cancer cells by promoting proliferation, cell sur-
+
+vival, genetic instability, and differentiation blockage, which
+
+all contribute to metastasis. This study reveals that methylated
+
+BAF155 is specifically recruited to c-Myc pathway genes,
+
+some of which are direct c-Myc targets (e.g., GADD45A) and
+
+some of which are not (e.g., COL1A2). COL1A2 produces a
+
+component of type I collagen, the pro-a2 (I) chain, involved in in-
+
+flammatory response pathways. COL1A2 was among a ‘‘meta-
+
+signature’’ associated with breast cancer prognosis (Urquidi
+
+and Goodison, 2007). GADD45A (DNA damage-inducible
+rogression, Malignancy, and Recurrence-Free Survival
+
+ast (A), benign breast tumors (B), and malignant breast tumors including lymph
+
+denotes me-BAF155 immunoreactivity. Scale bar = 200 mm.
+
+ignant, and metastatic samples on the BR723 TMA.
+
+east cancer patients stratified by me-BAF155 IHC positivity in primary tumors.
+
+aining positivity using a Cox proportional hazards model.
+
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 33
+
+
+
+(legend on next page)
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+
+34 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+transcript 1 protein) functions as a stress sensor that modulates
+
+cellular responses to various stress conditions, including geno-
+
+toxic and oncogenic stresses. Depending on the oncogenic
+
+stress, GADD45A could function as promoter or suppressor for
+
+breast cancer (Tront et al., 2010). GADD45A promotes tumor
+
+vascularization and growth of Myc-driven breast cancer via
+
+negative regulation of MMP10 (Tront et al., 2010).
+
+Recently, ‘‘poor prognosis’’ gene expression signatures in
+
+cancer, particularly in breast cancer, were found to reflect the
+
+activity of the c-Myc oncoprotein, which in turn regulates tumor
+
+metastasis through regulation of metastasis-relevant target
+
+genes and/or globally altering the epigenomic landscape of
+
+cancer cells (Wolfer et al., 2010). BAF155 methylation affects
+
+expression of a number of genes involved in metastasis. Inter-
+
+estingly, another study using the MDA-MB-231 cell line model
+
+showed that c-Myc knockdown had modest effects on primary
+
+tumor growth, whereas metastatic behavior and distant lung
+
+metastasis were greatly inhibited (Wolfer et al., 2010). This
+
+study suggests that c-Myc is essential for maintaining an inva-
+
+sive and migratory state of the highly metastatic MDA-MB-231
+
+cells. Future studies will determine whether BAF155-methyl-
+
+ation-sensitive metastatic genes are directly regulated by
+
+c-Myc. Given that 10%–15% of genomic loci in mammals are
+
+bound by c-Myc (Zeller et al., 2006), it is plausible that c-Myc
+
+affects metastasis-relevant gene expression via direct tran-
+
+scriptional regulation mechanism or via global alteration of
+
+chromatin structure of cancer cells, thus promoting the meta-
+
+static phenotype.
+
+EXPERIMENTAL PROCEDURES
+
+Generation of CARM1 KO Cells
+
+Cells were transiently transfected with plasmids encoding the indicated ZFN
+
+pairs using lipofectamine 2000 (Invitrogen) for 72 hr. Single-cell clones were
+
+isolated by limiting dilution of the ZFN-treated pool. The whole cell lysate of
+
+each clone was collected and CARM1 levels were detected by western blot.
+
+To analyze genomic DNA sequences of each positive clone, the target
+
+locus was first amplified by PCR using primers CARM1-ZFN-sense: 50-
+ACAGCCTGCCTTCTCAGG-30, anti-sense: 50-TGCACAGCAATGGCAAGT-30.
+Then the PCR product was cloned into pCR4-TOPO vector. For each cell
+
+line, plasmid DNAs from 50 bacterial colonies were sequenced.
+
+Animal Models
+
+All animal work was performed in accordance with protocols approved by
+
+Research Animal Resource Center of University of Wisconsin-Madison. Athy-
+
+mic nude mice at 5–6 weeks old were used for xenograft experiments (Harlan).
+
+Information for the animal experiments is presented in the Supplemental
+
+Experimental Procedures.
+Figure 7. BAF155 Methylation Promotes Breast Cancer Cell Migration
+
+(A) Generation of anMDA-MB-231 cell derivative with endogenous BAF155 silenc
+
+in this MDA-MB-231-shBAF155 cell background. Total BAF155 and me-BAF155
+
+(B) The (3-[4,5-dimethylthiazol-2-yl]-2,5 diphenyl tetrazolium bromide assays
+
+BAF155WT, or BAF155R1064K.
+
+(C) Transwell assays measuring the migration ability of cell lines in (B).
+
+(D) Bioluminescence images of colonized and metastatic MDA-MB-231-shBAF1
+
+nude mice at the indicated times following tumor introduction through tail vein in
+
+(E) Scatter plot of mRNA levels for 84 metastasis-implicated genes analyzed by
+
+circles mark genes that are differentially expressed R2-fold between MDA-MB-
+
+(F) List of >2-fold differentially expressed genes in (E). Positive fold change repre
+
+(G) Real-time qPCR analyses of KISS1R,CDH11,CCL7, andCOL4A2mRNA level
+
+b-Actin was used as an internal control.
+
+See also Figure S7 and Table S3.
+Human Primary Tumor Samples
+
+Breast cancer TMAs constructed by UW Carbone Cancer Center include tu-
+
+mors from372 individual subjectswith Stage I to Stage III breast cancer treated
+
+at the UWCarboneCancer Center from 1999 to 2007. TheUWHealth Sciences
+
+Institutional Review Board approved the TMA creation and waived institutional
+
+review board approval for future use of the TMA and coded data set.
+
+In Vitro Methylation Assay
+
+In vitro methylation assay was performed as previously described (Wang et al.,
+
+2013).
+
+ChIP-seq Analysis
+
+For experimental details, please refer to the Supplemental Experimental
+
+Procedures.
+
+TMAs of Human Breast Tumors
+
+TMAs constructed by UW Carbone Cancer Center include tumors from 372
+
+individual subjects with Stage I to Stage III breast cancer treated from 1999
+
+to 2007. The experimental details and statistical analyses are described in
+
+Supplemental Experimental Procedures.
+
+ACCESSION NUMBERS
+
+The ChIP-seq data are available at the Gene Expression Omnibus under the
+
+accession number GSE52964.
+
+SUPPLEMENTAL INFORMATION
+
+Supplemental Information includes Supplemental Experimental Procedures,
+
+seven figures, and three tables and can be found with this article online at
+
+http://dx.doi.org/10.1016/j.ccr.2013.12.007.
+
+ACKNOWLEDGMENTS
+
+We thank Dr. Charles Roberts for kindly providing the SNF5 antibody, Dr. Tre-
+
+vor K. Archer for BAF155 constructs, and Dr. Yin Zhang and Mark Horswill for
+
+valuable technical assistance with tail vein injection and DNA microarray ex-
+
+periments, respectively. This project was supported by a DOD ERA of HOPE
+
+Award (W81XWYH-11-1-0237 to W.X.) and National Institutes of Health grant
+
+CA22443 (to P.A.). P.A. is an investigator of the Howard Hughes Medical Insti-
+
+tute and the Morgridge Institute for Research.
+
+Received: July 19, 2013
+
+Revised: October 29, 2013
+
+Accepted: December 13, 2013
+
+Published: January 13, 2014
+
+REFERENCES
+
+Al-Dhaheri, M., Wu, J.C., Skliris, G.P., Li, J., Higashimato, K., Wang, Y.D.,
+
+White, K.P., Lambert, P., Zhu, Y.R., Murphy, L., and Xu, W. (2011).
+
+CARM1 is an important determinant of ERa-dependent breast cancer
+and Metastasis In Vitro and In Vivo
+
+ed and further derivatives with BAF155WT or BAF155R1064K expression restored
+
+were detected with corresponding antibodies by western blotting.
+
+of MDA-MB-231 cells and MDA-MB-231-shBAF155 cells expressing GFP,
+
+55 cells stably expressing firefly luciferase and BAF155WT or BAF155R1064K in
+
+jection (n = 5). Representative images are shown from each cohort.
+
+the tumor metastasis RT2 profiler PCR array (SABiosciences); red and green
+
+231-shBAF155 cells restored with BAF155WT or BAF155R1064K.
+
+sents overexpression in BAF155R1064K cells.
+
+s in MDA-MB-231-shBAF155 cells restored with BAF155WT and BAF155R1064K.
+
+Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc. 35
+
+http://dx.doi.org/10.1016/j.ccr.2013.12.007
+
+
+Cancer Cell
+
+CARM1 Methylates BAF155 to Promote Tumorigenesis
+cell differentiation and proliferation in breast cancer cells. Cancer Res. 71,
+
+2118–2128.
+
+Andersen, C.L., Christensen, L.L., Thorsen, K., Schepeler, T., Sørensen, F.B.,
+
+Verspaget, H.W., Simon, R., Kruhøffer, M., Aaltonen, L.A., Laurberg, S., and
+
+Ørntoft, T.F. (2009). Dysregulation of the transcription factors SOX4, CBFB
+
+and SMARCC1 correlates with outcome of colorectal cancer. Br. J. Cancer
+
+100, 511–523.
+
+Bedford, M.T., and Clarke, S.G. (2009). Protein arginine methylation in
+
+mammals: who, what, and why. Mol. Cell 33, 1–13.
+
+Chen, J., and Archer, T.K. (2005). Regulating SWI/SNF subunit levels via pro-
+
+tein-protein interactions and proteasomal degradation: BAF155 and BAF170
+
+limit expression of BAF57. Mol. Cell. Biol. 25, 9016–9027.
+
+Chen, D., Ma, H., Hong, H., Koh, S.S., Huang, S.M., Schurter, B.T., Aswad,
+
+D.W., and Stallcup, M.R. (1999). Regulation of transcription by a protein
+
+methyltransferase. Science 284, 2174–2177.
+
+Cheng, D., Côté, J., Shaaban, S., and Bedford, M.T. (2007). The arginine
+
+methyltransferase CARM1 regulates the coupling of transcription and mRNA
+
+processing. Mol. Cell 25, 71–83.
+
+Davis, M.B., Liu, X., Wang, S., Reeves, J., Khramtsov, A., Huo, D., and
+
+Olopade, O.I. (2013). Expression and sub-cellular localization of an epigenetic
+
+regulator, co-activator arginine methyltransferase 1 (CARM1), is associated
+
+with specific breast cancer subtypes and ethnicity. Mol. Cancer 12, 40.
+
+DelBove, J., Rosson, G., Strobeck, M., Chen, J.G., Archer, T.K., Wang, W.D.,
+
+Knudsen, E.S., and Weissman, B.E. (2011). Identification of a core member of
+
+the SWI/SNF complex, BAF155/SMARCC1, as a human tumor suppressor
+
+gene. Epigenetics 6, 1444–1453.
+
+Dhar, S., Vemulapalli, V., Patananan, A.N., Huang, G.L., Di Lorenzo, A.,
+
+Richard, S., Comb, M.J., Guo, A., Clarke, S.G., and Bedford, M.T. (2013).
+
+Loss of the major Type I arginine methyltransferase PRMT1 causes substrate
+
+scavenging by other PRMTs. Sci. Rep. 3, 1311.
+
+El Messaoudi, S., Fabbrizio, E., Rodriguez, C., Chuchana, P., Fauquier, L.,
+
+Cheng, D.H., Theillet, C., Vandel, L., Bedford, M.T., and Sardet, C. (2006).
+
+Coactivator-associated arginine methyltransferase 1 (CARM1) is a positive
+
+regulator of the Cyclin E1 gene. Proc. Natl. Acad. Sci. USA 103, 13351–13356.
+
+Euskirchen, G.M., Auerbach, R.K., Davidov, E., Gianoulis, T.A., Zhong, G.,
+
+Rozowsky, J., Bhardwaj, N., Gerstein, M.B., and Snyder, M. (2011). Diverse
+
+roles and interactions of the SWI/SNF chromatin remodeling complex revealed
+
+using global approaches. PLoS Genet. 7, e1002008.
+
+Frietze, S., Lupien, M., Silver, P.A., and Brown, M. (2008). CARM1 regulates
+
+estrogen-stimulated breast cancer growth through up-regulation of E2F1.
+
+Cancer Res. 68, 301–306.
+
+Kadoch, C., Hargreaves, D.C., Hodges, C., Elias, L., Ho, L., Ranish, J., and
+
+Crabtree, G.R. (2013). Proteomic and bioinformatic analysis of mammalian
+
+SWI/SNF complexes identifies extensive roles in human malignancy. Nat.
+
+Genet. 45, 592–601.
+
+Kim, J., Lee, J., Yadav, N., Wu, Q., Carter, C., Richard, S., Richie, E., and
+
+Bedford, M.T. (2004). Loss of CARM1 results in hypomethylation of thymocyte
+
+cyclic AMP-regulated phosphoprotein and deregulated early T cell develop-
+
+ment. J. Biol. Chem. 279, 25339–25344.
+
+Kim, D., Lee, J., Cheng, D., Li, J., Carter, C., Richie, E., and Bedford, M.T.
+
+(2010). Enzymatic activity is required for the in vivo functions of CARM1.
+
+J. Biol. Chem. 285, 1147–1152.
+
+Lapointe, J., Li, C., Higgins, J.P., van de Rijn, M., Bair, E., Montgomery, K.,
+
+Ferrari, M., Egevad, L., Rayford, W., Bergerheim, U., et al. (2004). Gene
+
+expression profiling identifies clinically relevant subtypes of prostate cancer.
+
+Proc. Natl. Acad. Sci. USA 101, 811–816.
+
+Lee, J., and Bedford, M.T. (2002). PABP1 identified as an argininemethyltrans-
+
+ferase substrate using high-density protein arrays. EMBO Rep. 3, 268–273.
+
+Liu, P.Q., Chan, E.M., Cost, G.J., Zhang, L., Wang, J., Miller, J.C., Guschin,
+
+D.Y., Reik, A., Holmes, M.C., Mott, J.E., et al. (2010). Generation of a triple-
+
+gene knockout mammalian cell line using engineered zinc-finger nucleases.
+
+Biotechnol. Bioeng. 106, 97–105.
+36 Cancer Cell 25, 21–36, January 13, 2014 ª2014 Elsevier Inc.
+Mann, M., Cortez, V., and Vadlamudi, R. (2013). PELP1 oncogenic functions
+
+involve CARM1 regulation. Carcinogenesis 34, 1468–1475.
+
+Minn, A.J., Gupta, G.P., Siegel, P.M., Bos, P.D., Shu, W., Giri, D.D., Viale, A.,
+
+Olshen, A.B., Gerald, W.L., and Massagué, J. (2005). Genes that mediate
+
+breast cancer metastasis to lung. Nature 436, 518–524.
+
+Park, J., Wood, M.A., and Cole, M.D. (2002). BAF53 forms distinct nuclear
+
+complexes and functions as a critical c-Myc-interacting nuclear cofactor for
+
+oncogenic transformation. Mol. Cell. Biol. 22, 1307–1316.
+
+Phelan,M.L., Sif, S., Narlikar, G.J., and Kingston, R.E. (1999). Reconstitution of
+
+a core chromatin remodeling complex from SWI/SNF subunits. Mol. Cell 3,
+
+247–253.
+
+Roberts, C.W.M., Leroux, M.M., Fleming, M.D., and Orkin, S.H. (2002). Highly
+
+penetrant, rapid tumorigenesis through conditional inversion of the tumor
+
+suppressor gene Snf5. Cancer Cell 2, 415–425.
+
+Shadeo, A., Chari, R., Lonergan, K.M., Pusic, A., Miller, D., Ehlen, T., Van
+
+Niekerk, D., Matisic, J., Richards-Kortum, R., Follen, M., et al. (2008). Up
+
+regulation in gene expression of chromatin remodelling factors in cervical
+
+intraepithelial neoplasia. BMC Genomics 9, 64.
+
+Shi, S.P., Qiu, J.D., Sun, X.Y., Suo, S.B., Huang, S.Y., and Liang, R.P. (2012).
+
+PMeS: prediction of methylation sites based on enhanced feature encoding
+
+scheme. PLoS ONE 7, e38772.
+
+Tomlins, S.A., Mehra, R., Rhodes, D.R., Cao, X., Wang, L., Dhanasekaran,
+
+S.M., Kalyana-Sundaram, S., Wei, J.T., Rubin, M.A., Pienta, K.J., et al.
+
+(2007). Integrative molecular concept modeling of prostate cancer progres-
+
+sion. Nat. Genet. 39, 41–51.
+
+Tront, J.S., Huang, Y., Fornace, A.J., Jr., Hoffman, B., and Liebermann, D.A.
+
+(2010). Gadd45a functions as a promoter or suppressor of breast cancer
+
+dependent on the oncogenic stress. Cancer Res. 70, 9671–9681.
+
+Urquidi, V., and Goodison, S. (2007). Genomic signatures of breast cancer
+
+metastasis. Cytogenet. Genome Res. 118, 116–129.
+
+Varambally, S., Yu, J., Laxman, B., Rhodes, D.R., Mehra, R., Tomlins, S.A.,
+
+Shah, R.B., Chandran, U., Monzon, F.A., Becich, M.J., et al. (2005).
+
+Integrative genomic and proteomic analysis of prostate cancer reveals signa-
+
+tures of metastatic progression. Cancer Cell 8, 393–406.
+
+Wang, L., Charoensuksai, P., Watson, N.J., Wang, X., Zhao, Z., Coriano, C.G.,
+
+Kerr, L.R., and Xu, W. (2013). CARM1 automethylation is controlled at the
+
+level of alternative splicing. Nucleic Acids Res. 41, 6870–6880.
+
+Weissman, B., and Knudsen, K.E. (2009). Hijacking the chromatin remodeling
+
+machinery: impact of SWI/SNF perturbations in cancer. Cancer Res. 69, 8223–
+
+8230.
+
+Wolfer, A., Wittner, B.S., Irimia, D., Flavin, R.J., Lupien, M., Gunawardane,
+
+R.N., Meyer, C.A., Lightcap, E.S., Tamayo, P., Mesirov, J.P., et al. (2010).
+
+MYC regulation of a ‘‘poor-prognosis’’ metastatic cancer cell state. Proc.
+
+Natl. Acad. Sci. USA 107, 3698–3703.
+
+Wu, J., and Xu, W. (2012). Histone H3R17me2a mark recruits human RNA
+
+polymerase-associated factor 1 complex to activate transcription. Proc.
+
+Natl. Acad. Sci. USA 109, 5675–5680.
+
+Yadav, N., Lee, J., Kim, J., Shen, J., Hu, M.C., Aldaz, C.M., and Bedford, M.T.
+
+(2003). Specific protein methylation defects and gene expression perturba-
+
+tions in coactivator-associated arginine methyltransferase 1-deficient mice.
+
+Proc. Natl. Acad. Sci. USA 100, 6464–6468.
+
+Zabarovsky, E.R., Lerman, M.I., and Minna, J.D. (2002). Tumor suppressor
+
+genes on chromosome 3p involved in the pathogenesis of lung and other
+
+cancers. Oncogene 21, 6915–6935.
+
+Zeller, K.I., Zhao, X., Lee, C.W., Chiu, K.P., Yao, F., Yustein, J.T., Ooi, H.S.,
+
+Orlov, Y.L., Shahab, A., Yong, H.C., et al. (2006). Global mapping of c-Myc
+
+binding sites and target gene networks in human B cells. Proc. Natl. Acad.
+
+Sci. USA 103, 17834–17839.
+
+Zeng, H., Wu, J., Bedford, M.T., Sbardella, G., Hoffmann, F.M., Bi, K., and Xu,
+
+W. (2013). A TR-FRET-based functional assay for screening activators of
+
+CARM1. ChemBioChem 14, 827–835.
+
+
+
+Update
+
+Cancer Cell
+Volume 30, Issue 1, 11 July 2016, Page 179–180
+
+ https://doi.org/10.1016/j.ccell.2016.06.013DOI:
+
+ https://doi.org/10.1016/j.ccell.2016.06.013
+
+
+Cancer Cell
+
+Corrections
+CARM1 Methylates Chromatin Remodeling
+Factor BAF155 to Enhance Tumor
+Progression and Metastasis
+Lu Wang, Zibo Zhao, Mark B. Meyer, Sandeep Saha, Menggang Yu, Ailan Guo, Kari B. Wisinski, Wei Huang, Weibo Cai,
+J. Wesley Pike, Ming Yuan, Paul Ahlquist, and Wei Xu*
+*Correspondence: wxu@oncology.wisc.edu
+
+http://dx.doi.org/10.1016/j.ccell.2016.06.013
+
+(Cancer Cell 25, 21–36, January 13, 2014)
+
+During figure preparation for the original article, the authors inadvertently duplicated the image of MCF7 CARM1 KO Clone2
+
+pLNCX-CARM1 (bottom right) with the image of parental MCF7 in Figure 1G. The correct image for MCF7 CARM1 KO Clone 2
+
+pLNCX-CARM1 in Figure 1G is shown here. The authors regret this error and apologize for any confusion that it may have caused
+
+to the readers.
+Cancer Cell 30, 176–183, July 11, 2016 Published by Elsevier Inc. 179
+
+mailto:wxu@oncology.wisc.edu
+http://dx.doi.org/10.1016/j.ccell.2016.06.013
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.ccell.2016.06.013&domain=pdf
+
+
+Figure 1. Generation of CARM1 KO Breast Cancer Cell Lines
+
+Cancer Cell
+
+Corrections
+180 Cancer Cell 30, 176–183, July 11, 2016
+
+
+	CARM1 Methylates Chromatin Remodeling Factor BAF155 to Enhance Tumor Progression and Metastasis
+	Introduction
+	Results
+	Generation of CARM1 KO Breast Cancer Cell Lines Using ZFN Technology
+	Identification of BAF155 as a Substrate for CARM1
+	CARM1 Methylates BAF155 at a Single Site, R1064
+	The Majority of Endogenous BAF155 in MCF7 Cells Is Dimethylated
+	BAF155 Methylation at R1064 Creates Unique Chromatin Association Patterns
+	BAF155 Methylation Controls Expression of Genes in the c-Myc Pathway
+	BAF155 Methylation Correlates with Human Breast Cancer Progression and Malignancy
+	Methylation of BAF155 Promotes Migration and Metastasis of Breast Cancer Cells In Vitro and In Vivo
+
+	Discussion
+	Experimental Procedures
+	Generation of CARM1 KO Cells
+	Animal Models
+	Human Primary Tumor Samples
+	In Vitro Methylation Assay
+	ChIP-seq Analysis
+	TMAs of Human Breast Tumors
+
+	Accession Numbers
+	Supplemental Information
+	Acknowledgments
+	References
+
+	Update
+	CARM1 Methylates Chromatin Remodeling Factor BAF155 to Enhance Tumor Progression and Metastasis

@@ -1,0 +1,1069 @@
+Haemophilus parasuis infection in 3D4/21 cells induces autophagy through the AMPK pathway
+
+
+Received: 16 July 2018 Revised: 27 March 2019 Accepted: 8 April 2019
+
+DOI: 10.1111/cmi.13031
+R E S E A R CH AR T I C L E
+Haemophilus parasuis infection in 3D4/21 cells induces
+autophagy through the AMPK pathway
+Yijuan Shen | Nini Zhou | Jiahui An | Jiansong Zhang | Meifen Wang | Yufeng Li |
+
+Ping Jiang
+Key Laboratory of Bacteriology, Ministry of
+
+Agriculture, College of Veterinary Medicine,
+
+Nanjing Agricultural University, Nanjing, China
+
+Correspondence
+
+Yufeng Li, Key Laboratory of Bacteriology,
+
+Ministry of Agriculture, College of Veterinary
+
+Medicine, Nanjing Agricultural University,
+
+Nanjing 210095, China.
+
+Email: yufengli@njau.edu.cn
+
+Funding information
+
+Priority Academic Program for Development at
+
+Jiangsu Higher Education Institutions (PAPD);
+
+National Natural Science Foundation, Grant/
+
+Award Number: 31672565; National Key
+
+Research and Development Program of China,
+
+Grant/Award Number: 2017YFD0500102
+Yijuan Shen, Nini Zhou, and Jiahui An are equal contributin
+
+Cellular Microbiology. 2019;21:e13031.
+
+https://doi.org/10.1111/cmi.13031
+Abstract
+
+Haemophilus parasuis (H. parasuis) is a common commensal in the upper respiratory
+
+tract of pigs, but causes Glässer's disease in stress conditions. To date, many studies
+
+focused on the immune evasion and virulence of H. parasuis; very few have focused
+
+on the role autophagy played in H. parasuis infection, particularly in porcine alveolar
+
+macrophages (PAMs). In this study, a PAM cell line, 3D4/21 cells were used to study
+
+the role of autophagy in H. parasuis infection. 3D4/21 cells tandemly expressing GFP,
+
+mCherry, and LC3 were infected with H. parasuis serovar 5 (Hps5). Western blot anal-
+
+ysis and confocal and transmission electron microscopy showed that H. parasuis
+
+infection effectively induces autophagy. Using Hps strains of varying virulence
+
+(Hps4, Hps5, and Hps7) and UV‐inactivated Hps5, we demonstrated that autophagy
+
+is associated with the internalisation of living virulent strains into cells. In 3D4/21
+
+cells pretreated with rapamycin and 3‐MA then infected by Hps4, Hps5, and Hps7,
+
+we demonstrated that autophagy affects invasion of H. parasuis in cells. AMPK signal
+
+results showed that Hps5 infection can upregulate the phosphorylation level of
+
+AMPK, which is consistent with the autophagy development. 3D4/21 cells pretreated
+
+with AICAR or Compound C then infected by Hps5 revealed that the autophagy
+
+induced by Hps5 infection is associated with the AMPK pathway. Our study contrib-
+
+utes to the theoretical basis for the study of H. parasuis pathogenesis and develop-
+
+ment of novel drugs target for prevention Glässer's disease.
+
+KEYWORDS
+
+3D4/21 cells, autophagy, AMPK pathway, Haemophilus parasuis
+1 | INTRODUCTION
+
+Haemophilus parasuis (H. parasuis), a member of the family
+
+Pasteurellaceae, is a Gram‐negative pleomorphic bacillus and the etio-
+
+logical agent of Glässer's disease, presenting in pigs as polyserositis,
+
+polyarthritis, and meningitis (Moller, Andersen, Christensen, & Kilian,
+
+1993). Fifteen standard H. parasuis serovars are recognized in addition
+g authors.
+
+wileyonlinelibrary.com
+to non‐typeable isolates. Among the standard serovars, 1, 5, 10, 12,
+
+13, and 14 are considered highly virulent, 2, 4, 15, and 8 are mildly vir-
+
+ulent, and serovars 3, 6, 7, 9, and 11 are considered avirulent (Rafiee &
+
+Blackall, 2000, Del Rio, Gutierrez, & Rodriguez Ferri, 2003). In China,
+
+serovars 4 and 5 are the most prevalent, followed by serovars 12,
+
+13, and 14 (Cai et al., 2005; Zhang et al., 2011).
+
+Previous studies have shown that H. parasuis infects PUVEC, pig
+
+kidney epithelial cells (PK‐15), and porcine brain microvascular endo-
+
+thelial cells (Vanier et al., 2006; Zhang et al., 2013). In PK‐15 cells,
+© 2019 John Wiley & Sons Ltd/journal/cmi 1 of 9
+
+https://orcid.org/0000-0003-2181-6319
+https://doi.org/10.1111/cmi.13031
+https://doi.org/10.1111/cmi.13031
+http://wileyonlinelibrary.com/journal/cmi
+http://crossmark.crossref.org/dialog/?doi=10.1111%2Fcmi.13031&domain=pdf&date_stamp=2019-04-26
+
+
+2 of 9 SHEN ET AL.
+H. parasuis activates NF‐κB and MAP kinase signalling pathways medi-
+
+ated by toll‐like receptors and the NOD1/2‐RIP2 signalling pathway
+
+(Chen et al., 2015; Ma et al., 2018). Porcine alveolar macrophages
+
+are an important line of defense against H. parasuis. During the pro-
+
+cess of H. parasuis infection, PAMs can differentially up‐regulate genes
+
+related to cytokine production, phagocytosis, phagolysosome forma-
+
+tion, signal transduction, and nitric oxide production (Wang et al.,
+
+2012). In the lung, the main target of H. parasuis infection in pigs, bac-
+
+teria are in close contact with alveolar macrophages, and their interac-
+
+tion will end in disease development or not. Alexandre et al. have
+
+shown that different H. parasuis strains isolated from different clinical
+
+backgrounds had clear differences in susceptibility to phagocytosis
+
+(Olvera, Ballester, Nofrarias, Sibila, & Aragon, 2009). Zeng et al.
+
+reported that the rfaD and rfaF genes of H. parasuis induce pro‐
+
+inflammatory cytokines in PAMs by regulating the NF‐κB and MAPKs
+
+signalling pathways (Zeng et al., 2018). As is well known, bacterial
+
+pathogenicity is the result of the interaction of bacteria and host.
+
+Yaning et al. reported that H. parasuis infection of PK‐15 cells induces
+
+TGF‐β expression and autophagy, which are associated with the inva-
+
+sion of bacteria (Li, Zhang, Xia, Shen, & Zhang, 2016, Zhang, Li, Yuan,
+
+Xia, & Shen, 2016).
+
+Autophagy serves a housekeeping role by removing nonfunction-
+
+ing proteins and damaged organelles, as well as intracellular patho-
+
+gens, which has an adaptive role in protecting organisms against
+
+diverse pathogens (Cuervo, 2004, Levine & Kroemer, 2008). Autoph-
+
+agy can be induced by hypoxia (Fang, Tan, & Zhang, 2015), nutrient
+
+(Steele, Brunton, & Kawula, 2015) or growth factor deprivation (Ni
+
+et al., 2014), DNA damage (Houten, Hunter, & Meyer, 2016), or path-
+
+ogen infection (Steele et al., 2015; Winchell, Steele, Kawula, & Voth,
+
+2015). Previous studies have shown that autophagy plays an impor-
+
+tant role in the innate immune responses against infection, such as
+
+Mycobacterium tuberculosis (Mtb) and Listeria monocytogenes (Bento,
+
+Empadinhas, & Mendes, 2015; Gupta et al., 2015). Conversely, patho-
+
+gens have evolved strategies to take advantage of autophagy for
+
+infection, replication, and survival (Dorn, Dunn, & Progulske‐Fox,
+
+2002, Campoy & Colombo, 2009, Castrejon‐Jimenez, Leyva‐Paredes,
+
+Hernandez‐Gonzalez, Luna‐Herrera, & Garcia‐Perez, 2015). 3‐MA, a
+
+PtdIns3K inhibitor that effectively blocks an early stage of autophagy
+
+by inhibiting the class III PtdIns3K, but not a specific autophagy inhib-
+
+itor. Rapamycin binds to FKBP1A/FKBP12 and inhibits MTORC1,
+
+which can bind to the FRB domain of MTOR and limits its interaction
+
+with RPTOR and induce autophagy, but only providing partial
+
+MTORC1 inhibition (Klionsky et al., 2016). 3‐MA and rapamycin were
+
+often used as negative and positive controls in autophagy study.
+
+Autophagy is associated with the AMPK, Erk, MAPK, and p53 signal
+
+pathways. AMP‐activated protein kinase (AMPK) is an energy sensor
+
+activated by an increase in the ratio of AMP/ATP or glucose starva-
+
+tion, which leads to TSC2 phosphorylation and suppresses mTOR
+
+and activates autophagy (Hardie, 2011; Li, Huang, Lu, & Luo, 2015).
+
+AMPK is a heterotrimeric complex consisting of an α‐catalytic subunit,
+
+a β‐regulatory subunit, and a γ‐regulatory subunit. AMPK activity is
+
+increased when its Thr172 residue (α subunit) is phosphorylated by
+
+upstream kinases (Zhang et al., 2016). Although existing studies
+suggest that AMPK is closely involved in the induction of autophagy,
+
+it is not clear whether autophagy induced by H. parasuis is associated
+
+with the AMPK pathway. In this study, we observed that H. parasuis
+
+induces autophagy in 3D4/21 cells and that autophagy is associated
+
+with Hps virulence, and invasion, and the AMPK pathway.
+2 | MATERIAL AND METHODS
+
+2.1 | Regents
+
+Rabbit polyclonal antibody against LC3B was obtained from Sigma‐
+
+Aldrich. Rabbit polyclonal antibody against AMPKɑ1 and phospho‐
+
+AMPKα (Thr172) (40H9) was obtained from Cell SignalingTechnology,
+
+and β‐actin antibody was obtained from Santa Cruz Biotechnology.
+
+Recombinant adenovirus tandem expressing mCherry‐GFP‐LC3 was
+
+purchased from HANBIO. RIPA lysis buffer, HRP‐labelled goat anti‐
+
+rabbit IgG (H + L), HRP‐labelled goat anti‐mouse IgG (H + L), and rabbit
+
+polyclonal antibody against GFP were purchased from Beyotime Bio-
+
+sciences. ECL substrate was purchased from Thermo Fisher Scientific.
+
+3‐Methyladenine and rapamycin were purchased from Sigma. AICAR
+
+(5‐aminoimidazole‐4‐carboxamide ribonucleotide) and Compound C
+
+were purchased from R&D.
+
+2.2 | Bacterial strains and culture conditions
+
+Hps5 (highly virulent), Hps4 (moderately virulent), and Hps7 (avirulent)
+
+were used in this study. Bacteria were cultured at 37°C on Trypticase
+
+Soy Agar and in Trypticase Soy Broth (TSA and TSB, respectively;
+
+OXOID) supplemented with 0.01% nicotinamide adenine dinucleotide
+
+(NAD) and 5% (v/v) inactivated bovine serum. Bacteria were grown
+
+overnight in TSB at 37°C and 200 rpm; before use, bacteria were
+
+diluted 1:100 in fresh medium and incubated as above until OD600
+
+reached 0.6.
+
+2.3 | 3D4/21 cell culture
+
+3D4/21 cells were grown in RPMI 1640 (Invitrogen) supplemented
+
+with 10% heat‐inactivated fetal bovine serum (FBS, Invitrogen),
+
+100 U/ml of penicillin G (Invitrogen), 100 mg/ml of streptomycin
+
+(Invitrogen), and MEM non‐essential amino acids (Invitrogen). Cells
+
+were cultured in a humidified atmosphere at 37°C with 5% CO2. Cells
+
+were subcultured upon reaching 90% confluence.
+
+2.4 | Bacterial infection
+
+3D4/21 cells (3 × 105 cells/well) were seeded into 24 well plates. At
+
+50% confluence, cells were inoculated with 10 moi of adenovirus
+
+tandemly expressing GFP, mCherry, and LC3. After 36 hr, cells were
+
+washed with sterile PBS and then inoculated with different serovars
+
+of H. parasuis at different mois. The plates were centrifuged at 800 g
+
+for 10 min and incubated at 37°C in 5% CO2. After 1 hr, cells were
+
+harvested by scraping, transferred to sterile centrifuge tubes, and
+
+
+
+SHEN ET AL. 3 of 9
+centrifuged for 1 min at 12,000 g. Supernatants were discarded, and
+
+pellets were resuspended in an equal volume of PBS. The resuspended
+
+cells were smeared onto Trypticase Soy Agar plates and incubated at
+
+37°C for 48 hr.
+2.5 | Adherence and invasion assays
+
+Cells (3 × 105 cells/well) were seeded into 24‐well tissue culture
+
+plates. Prior to infection, cells were washed with sterile PBS to remove
+
+antibiotics and then inoculated with Hps4, Hps5, and Hps7 at a moi of
+
+10. Plates were centrifuged at 800 g for 10 min and incubated at 37°C
+
+in 5% CO2. The cells were incubated 1 and 2 hr for adherence and
+
+invasion, respectively, and then vigorously washed five times with
+
+PBS to remove nonspecifically attached bacteria. For invasion assay,
+
+complete growth medium (including 100 U/ml of penicillin G and
+
+0.25 mg/ml of gentamicin) was added to each well, and plates were
+
+incubated for additional 1 hr to kill extracellular H. parasuis and
+
+washed five times with PBS and incubate for additional 0, 1, 3, and
+
+5 hr, respectively. The above cells were incubated 10 min at 37°C with
+
+100 μl of 0.025% trypsin. Following trypsin treatment, cells were col-
+
+lected by centrifugation as described above. At the same time, cells
+
+were prior treated with Rapa and 3‐MA and infected with Hps4,
+
+Hps5, and Hps7, and adherence and invasion were performed as above
+
+mentioned.
+2.6 | Western blot
+
+Cells grown in 24‐well plates were incubated with 5 μM of rapamycin
+
+for 12 hr and 2 mM of 3‐MA for 4 hr and infected with Hps5, Hps4,
+
+and Hps7 at 10 moi, or mock infected with an equal amount of PBS
+
+and incubated at 37°C in 5% CO2. The treated cells were lysed in RIPA
+
+lysis and centrifuged at 13 000 rpm for 25 min at 4°C, and superna-
+
+tants were boiled with 5× loading buffer and separated by 10%
+
+SDS‐PAGE and transferred to NC membranes. Membranes were
+
+blocked with 10% skim milk at room temperature for 2 hr and then
+
+incubated with specific antibodies (1μg/ml) at 4°C overnight. Mem-
+
+branes were rinsed five times with PBST and then incubated with
+
+HRP‐labelled goat anti‐rabbit IgG (H + L) and HRP‐labelled goat anti‐
+
+mouse IgG (H + L; 1:10,000 dilution) at 4°C for 1 hr. The membranes
+
+were incubated with ECL reagent, and the signal was analysed by a
+
+Quantity System Image Analyser.
+FIGURE 1 Western blot of LC3‐II expression in 3D4/21 cells. (a)
+mCherry‐GFP‐LC3 expression in untreated, rapamycin‐treated, 3‐
+MA‐treated cells and infected by Hps5 at moi 10 and incubated for
+6 hr. (b) The ratio of LC3‐II/β‐actin (one‐way ANOVA; Dunnett's
+multiple comparison test, ***P < .001, **P < .01)
+2.7 | Confocal microscopy
+
+Cells grown on coverslips in 24‐well plates were incubated with 5 μM
+
+of rapamycin for 12 hr and 2 mM of 3‐MA for 4 hr, or left untreated
+
+and then infected with Hps5, Hps4, and Hps7 at 10 moi, or mock
+
+infected with an equal amount of PBS and incubated 37°C in 5%
+
+CO2. After 6 hr incubation, coverslips were washed with sterile PBS
+
+to remove nonspecifically attached bacteria, and cells were fixed with
+
+acetone and methanol (1:1) for 30 min. Coverslips were mounted on
+microscope slides, and cells were viewed using a Zeiss LSM 700 con-
+
+focal microscope.
+2.8 | Transmission electron microscopy (TEM)
+
+Cells prepared for TEM were treated with drugs and infected with
+
+Hps5 or mock infected as described above. Cells were washed with
+
+sterile PBS to remove nonspecifically attached bacteria, harvested
+
+using a cell scraper, and centrifuging 300 g for 10 min at 4°C.
+
+Supernatants were discarded, and the cells were fixed with 2.5%
+
+glutaraldehyde at 4°C for 12 hr and observed with a transmission
+
+electron microscope.
+2.9 | Statistics
+
+Three biological replicates were carried out for every experiment, and
+
+results were recorded as mean value ± SD. GraphPad Prism 5 was
+
+used to analyse differences between groups (one‐way ANOVA;
+
+Tukey's post hoc test, ***P < .001, **P < .01, *P < .05). ImageJ software
+
+was used to quantify the western blot bands. Results are normalised
+
+to the β‐actin in each sample.
+3 | RESULTS
+
+3.1 | H. parasuis infection induces autophagy
+
+To determine whether infection by H. parasuis can induce autophagy,
+
+3D4/21 cells were infected with adenovirus tandemly expressing
+
+mCherry‐GFP‐LC3. After confirming the expression of mCherry‐
+
+GFP‐LC3, the cells were treated with rapamycin, 3‐MA, or infected
+
+with various moi of Hps5 for 2, 4, and 6 hr. As seen in Figure S1,
+
+mCherry‐GFP‐LC3‐II levels in Hps5‐infected cells were decreased at
+
+
+
+4 of 9 SHEN ET AL.
+2 and 4 hr post infection compared with mock‐infected controls. By
+
+6 h post infection, the level of mCherry‐GFP‐LC3‐II had significantly
+
+increased over mock‐infected controls (P < .001). As seen in Figure
+
+S2, the levels of LC3‐II were nearly equal in cells infected with 100
+
+or 10 moi for 6 hr, which has significant difference than that of 1
+
+and 0.1 moi. After optimization, the conditions of Hps5 infection using
+
+10 moi and incubation for 6 hr were used in all experiments, which can
+
+induce significant autophagy (Figure 1).
+
+Confocal microscopy of these cells (Figure 2) revealed more puncta
+
+associated with autophagy were observed in rapamycin‐treated (posi-
+
+tive control) and Hps5‐infected cells, than in Hps4‐, Hps7‐, and 3‐MA
+
+treated cells (negative control) at 6 hr. These results are consistent with
+
+the expression of LC3‐II seen in the western blots. Importantly, there
+
+were more significantly red and yellow puncta in Hps5‐infected cells
+
+than in Hps4, Hps7, and control cells, which further confirmed the
+
+induction of autolysosome formation (Figure 2b). Taken together,
+
+above findings further confirmed that the infection by highly virulent
+
+Hps5 can specifically induce autophagy in 3D4/21 cells. Especially, we
+
+found autophagy formation is related with the virulence of H. parasuis.
+
+Transmission electron microscopy revealed that autophagosomes,
+
+double‐membrane structures containing heterogeneous material, were
+
+readily apparent in cells infected by Hps5 or treated with rapamycin
+
+(Figure 3c,d, respectively). None were observed in the negative con-
+
+trols and 3‐MA‐treated cells (Figure 3a,b, respectively). These results
+
+demonstrate that Hps5 infection effectively induces autophagy in
+
+3D4/21 cells.
+FIGURE 2 H. parasuis infection induced autophagy. (a) Confocal micros
+infected with 10 moi Hps4, Hps5, and Hps7 for 6 hr; Rapa: cells treated w
+MA for 4 hr. (b) Puncta numbers in each cell were analysed. The data are re
+multiple comparison test, ***P < .001, **P < .01)
+3.2 | Autophagy is associated with internalisation of
+virulent strains into cells
+
+3D4/21 cells were infected at moi 10 with Hps5, Hps4, and Hps7 for
+
+6 hr. The adherence and invasion assay showed that Hps7 has the
+
+highest adherence capacity at 1 hr, which followed by Hps4 and
+
+Hps5 in turn. At 3 hr, Hps7 and Hps4 enter into cells higher than that
+
+of Hps5, but they decreased more rapidly than Hps5 from 4 to 8 hr. At
+
+6 hr, we found more Hps5 in the cells (Figure 4). The greatest level of
+
+autophagy was induced by Hps5 infection, and the less virulent strains
+
+induced correspondingly lower levels of autophagy (Figure 5a). As
+
+seen in Figure 5b, the autophagy induced by living Hps5 is significantly
+
+higher than that of induced by UV‐inactivated Hps5. We conclude that
+
+the autophagy induced by H. parasuis is positively related with the
+
+internalisation of living virulent H. parasuis strains into cells, which is
+
+not simply associated with bacteria load into cells.
+3.3 | Autophagy affects invasion of H. parasuis into
+3D4/21 cells
+
+The bacterial adherence and invasion assay were performed as
+
+described with 3D4/21 that had been treated with 5 μM of rapamycin
+
+and 2 mM of 3‐MA, or mock treated, and then infected with Hps4,
+
+Hps5, and Hps7 at moi 10 for 1 and 3 hr. As is shown in Figure 6,
+
+the CFUs of H. parasuis in rapamycin‐treated cells is significantly lower
+copy. PBS: cells were treated with PBS; Hps4, Hps5, and Hps7: cells
+ith 5 μM of rapamycin for 12 hr; 3‐MA: cells treated with 2 mM 3‐
+presentative of 10 cells for each channel (one‐way ANOVA; Dunnett's
+
+
+
+FIGURE 3 Transmission electron
+microscope. (‐): Untreated/uninfected cells;
+Hps5: cells treated with 10 moi of Hps5 for
+6 hr; 3‐MA: cells treated with 2 mM of 3‐MA
+for 4 hr; Rapa: cells treated with 5 μM of
+rapamycin for 12 hr
+
+FIGURE 4 Adherence and invasion assays of different virulent
+H. parasuis strains. 3D4/21 cells were infected with avirulent Hps7,
+medium virulent Hps4, and highly virulent Hps5 at 10 moi. The
+samples were collected at 1, 3, 4, 6, and 8 hr and smeared onto TSA
+plates and CFU were counted
+
+SHEN ET AL. 5 of 9
+than that of the untreated control cells, demonstrating that autophagy
+
+induced by rapamycin affects invasion of H. parasuis in 3D4/21 cells.
+3.4 | H. parasuis infection activates AMPK pathway
+
+3D4/21 cells were infected with Hps5 at a moi of 10 and collected at
+
+2, 4, and 6 hr, respectively. Western blot results (Figure 7) showed
+that the ratio of p‐AMPK/AMPK increased from 2 hr and steadily
+
+increased from 4 to 6 hr and peaked at 6 hr, which indicated that
+
+Hps5 infection can effectively activate AMPK signal pathway.
+3.5 | AMPK signal is associated with H. parasuis
+invasion
+
+AICAR, AMP‐mimetic 5‐aminoimidazole‐4‐carboxamide‐1‐β‐D‐
+
+ribofuranoside, which can permeate cell membrane and activate
+
+AMPK signal pathway. Compound C is an effective and antiselective
+
+AMPK inhibitors. 3D4/21 cells were, respectively, treated with
+
+0.5 mM of AICAR and 0.5 μM of Compound C for 24 hr, or left
+
+untreated, and then infected with Hps5 at moi 10 for 3 hr. The west-
+
+ern blots showed that the ratio of p‐AMPK/AMPK was increased in
+
+AICAR‐treated cells compared with untreated and decreased in Com-
+
+pound C‐treated cells compared with untreated (Figures 8a and 9a). At
+
+the same time, we found AICAR and Compound C treatment can
+
+induce and inhibit autophagy, respectively (Figures 8b and 9b). The
+
+invasion assay results showed that the number of H. parasuis
+
+internalised in AICAR‐treated cells is significantly lower than the
+
+H. parasuis internalised in untreated cells (Figure 8c). The number of
+
+H. parasuis in Compound C‐treated cells is significantly higher than
+
+that in untreated cells (Figure 9c). These results further support that
+
+autophagy induced by H. parasuis infection is associated with the
+
+AMPK pathway.
+
+
+
+FIGURE 5 Western blots of GFP‐RFP‐LC3
+expression in 3D4/21 cells. (a) Cells infected
+with Hps4, Hps5, and Hps7 or mock infected.
+(b) Cells infected with Hps5, UV‐inactivated
+Hps5, or mock infected. The ratio of LC3‐II/β‐
+actin for each treatment is depicted in the bar
+graph below the corresponding western blot
+(one‐way ANOVA; Dunnett's multiple
+comparison test, ***P < .001).
+
+FIGURE 6 Number of internalized CFU in Hps4‐, Hps5‐, and Hps7‐infected cells that were pretreated with rapamycin, 3‐MA, or untreated (one‐
+way ANOVA; Dunnett's multiple comparison test, *P < .05)
+
+FIGURE 7 Western blot of the time course of p‐AMPK expression in
+3D4/21 cells infected with Hps5. The ratio of p‐AMPK/AMPK for
+each experiment is depicted in the graph below the corresponding
+western blot
+
+6 of 9 SHEN ET AL.
+4 | DISCUSSION
+
+Glässer's disease is caused by H. parasuis, a bacterium widely distrib-
+
+uted in swine herds, and causes large economic costs to swine indus-
+
+tries throughout the world. Most studies of H. parasuis pathogenesis
+
+have focused on the bacterial virulence factors, such as cytolethal
+
+distending toxin, capsule, virulence‐associated trimeric auto‐
+
+transporters, and the outer membrane proteins (Costa‐Hurtado & Ara-
+
+gon, 2013).
+
+As is well known to all that autophagy plays important roles in the
+
+interaction between host and bacteria, we want to know the roles that
+
+autophagy played in the interaction between 3D4/21 cells and
+
+H. parasuis. Confocal microscopy, western blot, and transmission elec-
+
+tron microscopy showed that H. parasuis infection effectively induces
+
+autophagy in 3D4/21 cells. Results from infections with UV‐
+
+inactivated Hps5 and stains of varying virulence showed that autoph-
+
+agy is positively associated with the internalisation of virulent
+
+H. parasuis into cells. These observations showed that only cellular vir-
+
+ulent bacteria can effectively induce autophagy in 3D4/21 cells and
+
+double membrane autophagosome were observed in electronical
+
+microscopic view. More significant red puncta associated with autoph-
+
+agy were found in the cells infected by Hps5 than that by Hps4 and
+
+Hps7, which further confirmed that autophagy is positively related
+
+with the virulence of H. parasuis, but not to the blockage of autophagic
+
+flux. Treatment of 3D4/21 cells with rapamycin prior to infection by
+
+
+
+FIGURE 8 Western blot of 3D4/21 cells treated with AICAR or untreated and infected by Hps5. The difference grey of p‐AMPK and LC3 II was
+standardized with the AMPK and β‐actin, respectively. CFU of internalised bacteria is illustrated in the bar graph below the corresponding western
+blot (t test; paired t test, **P < .01). (a) p‐AMPK expression after treated with AICAR; (b) LC3 II expression after treated with AICAR; (c) The
+internalised CFUs after treated with AICAR
+
+FIGURE 9 Western blot of 3D4/21 cells treated with Compound C or untreated and infected by Hps5. The difference grey of p‐AMPK and LC3
+II were standardised with AMPK and β‐actin. CFU of internalised bacteria are illustrated in the bar graph below the corresponding western blot (t
+test; paired t test, **P < .01). (a) p‐AMPK expression after treated with Compound C; (b) LC3 II expression after treated with Compound C; (c) The
+internalised CFUs after treated with Compound C
+
+SHEN ET AL. 7 of 9
+H. parasuis demonstrated that autophagy can inhibit the invasion of
+
+bacteria into cells; this is consistent with previous reports (Zhang, Li,
+
+et al., 2016). We found that H. parasuis infection inhibits autophagy
+
+early in infection (2–4 hr), but this effect diminishes at later times in
+
+infection (6 hr). This suggests an arms race maybe existed between
+
+H. parasuis and host. This phenomenon was also found in human cyto-
+
+megalovirus (HCMV) infection (Chaumorcel, Souquere, Pierron,
+
+Codogno, & Esclatine, 2008).
+A growing body of evidence has shown that the AMPK pathway
+
+plays an important role in autophagy. Yang et al. have shown that
+
+AMPK activation by AICAR enhances autophagy and the antimicrobial
+
+response against intracellular mycobacterial infection (Yang et al.,
+
+2014). Based on the known role of the AMPK pathway in autophagy,
+
+we investigated the AMPK‐mediated activation of autophagy in PAM
+
+cells infected with H. parasuis. We found that Hps5 infection increased
+
+the level of p‐AMPK at 2, 4, and 6 hr, and there is a little different
+
+
+
+8 of 9 SHEN ET AL.
+from autophagy development at 2 and 4 hr, but which is consistent
+
+with autophagy development at 6 hr. This may be explained by the
+
+lag behind of autophagy development after the activation of AMPK
+
+signal pathway. So we can conclude that Hps5 infection can activate
+
+AMPK signal pathway.
+
+In order to further confirm the relationship between Hps5 infection
+
+and AMPK signal pathway, the AMPK activator AICAR and inhibitor
+
+Compound C were used to activate and inhibit the AMPK pathway
+
+in cells that were then infected by H. parasuis. The CFU results
+
+showed that the phosphorylation of AMPK and autophagy are nega-
+
+tively associated with the invasion of bacteria in 3D4/21 cells, which
+
+further confirms that autophagy plays an important role in clearing
+
+bacteria from cells.
+5 | CONCLUSION
+
+3D4/21 cells, a porcine alveolar macrophage cell line, were used to
+
+study autophagy induced by H. parasuis infection. We found
+
+H. parasuis infection effectively induces autophagy in these cells and
+
+is positively associated with the internalisation of virulent H. parasuis
+
+via the AMPK pathway.
+
+ACKNOWLEDGEMENTS
+
+This study was supported by the National Key Research and Develop-
+
+ment Program of China (2017YFD0500102), National Natural Science
+
+Foundation (31672565), and the Priority Academic Program for
+
+Development at Jiangsu Higher Education Institutions (PAPD).
+
+CONFLICTS OF INTEREST
+
+None of the authors has any financial or personal relationships that
+
+could inappropriately influence or bias the content of the paper.
+
+ORCID
+
+Yufeng Li https://orcid.org/0000-0003-2181-6319
+
+REFERENCES
+
+Bento, C. F., Empadinhas, N., & Mendes, V. (2015). Autophagy in the fight
+
+against tuberculosis. DNA and Cell Biology, 34, 228–242. https://doi.
+org/10.1089/dna.2014.2745
+
+Cai, X., Chen, H., Blackall, P. J., Yin, Z., Wang, L., Liu, Z., & Jin, M. (2005).
+
+Serological characterization of Haemophilus parasuis isolates from
+
+China. Veterinary Microbiology, 111, 231–236. https://doi.org/
+10.1016/j.vetmic.2005.07.007
+
+Campoy, E., & Colombo, M. I. (2009). Autophagy in intracellular bacterial
+
+infection. Biochimica et Biophysica Acta, 1793, 1465–1477. https://
+doi.org/10.1016/j.bbamcr.2009.03.003
+
+Castrejon‐Jimenez, N. S., Leyva‐Paredes, K., Hernandez‐Gonzalez, J. C.,
+Luna‐Herrera, J., & Garcia‐Perez, B. E. (2015). The role of autophagy
+in bacterial infections. Bioscience Trends, 9, 149–159. https://doi.org/
+10.5582/bst.2015.01035
+
+Chaumorcel, M., Souquere, S., Pierron, G., Codogno, P., & Esclatine, A.
+
+(2008). Human cytomegalovirus controls a new autophagy‐dependent
+cellular antiviral defense mechanism. Autophagy, 4, 46–53. https://
+doi.org/10.4161/auto.5184
+Chen, Y., Liu, T., Langford, P., Hua, K., Zhou, S., Zhai, Y., … Zhou, R. (2015).
+Haemophilus parasuis induces activation of NF‐kappaB and MAP kinase
+signaling pathways mediated by toll‐like receptors. Molecular Immunol-
+ogy, 65, 360–366. https://doi.org/10.1016/j.molimm.2015.02.016
+
+Costa‐Hurtado, M., & Aragon, V. (2013). Advances in the quest for viru-
+lence factors of Haemophilus parasuis. Veterinary Journal, 198,
+
+571–576. https://doi.org/10.1016/j.tvjl.2013.08.027
+
+Cuervo, A. M. (2004). Autophagy: In sickness and in health. Trends in Cell
+
+Biology, 14, 70–77. https://doi.org/10.1016/j.tcb.2003.12.002
+
+Del Rio, M. L., Gutierrez, C. B., & Rodriguez Ferri, E. F. (2003). Value of
+
+indirect hemagglutination and coagglutination tests for serotyping
+
+Haemophilus parasuis. Journal of Clinical Microbiology, 41, 880–882.
+
+Dorn, B. R., Dunn, W. A. Jr., & Progulske‐Fox, A. (2002). Bacterial interac-
+tions with the autophagic pathway. Cellular Microbiology, 4, 1–10.
+https://doi.org/10.1046/j.1462‐5822.2002.00164.x
+
+Fang, Y., Tan, J., & Zhang, Q. (2015). Signaling pathways and mechanisms
+
+of hypoxia‐induced autophagy in the animal cells. Cell Biology Interna-
+tional, 39, 891–898. https://doi.org/10.1002/cbin.10463
+
+Gupta, M., Shin, D. M., Ramakrishna, L., Goussetis, D. J., Platanias, L. C.,
+
+Xiong, H., … Ozato, K. (2015). IRF8 directs stress‐induced autophagy in
+macrophages and promotes clearance of Listeria monocytogenes. Nature
+
+Communications, 6, 6379. https://doi.org/10.1038/ncomms7379
+
+Hardie, D. G. (2011). AMPK and autophagy get connected. The EMBO
+
+Journal, 30, 634–635. https://doi.org/10.1038/emboj.2011.12
+
+Houten, B. V., Hunter, S. E., & Meyer, J. N. (2016). Mitochondrial DNA
+
+damage induced autophagy, cell death, and disease. Frontiers in Biosci-
+
+ence, 21, 42–54. https://doi.org/10.2741/4375
+
+Klionsky, D. J., Abdelmohsen, K., Abe, A., Abedin, M. J., Abeliovich, H.,
+
+Acevedo Arozena, A., … Zughaier, S. M. (2016). Guidelines for the use
+and interpretation of assays for monitoring autophagy (3rd edition).
+
+Autophagy, 12, 1–222. https://doi.org/10.1080/15548627.2015.
+1100356
+
+Levine, B., & Kroemer, G. (2008). Autophagy in the pathogenesis of
+
+disease. Cell, 132, 27–42. https://doi.org/10.1016/j.cell.2007.12.018
+
+Li, N., Huang, D., Lu, N., & Luo, L. (2015). Role of the LKB1/AMPK pathway
+
+in tumor invasion and metastasis of cancer cells (Review). Oncology
+
+Reports, 34, 2821–2826. https://doi.org/10.3892/or.2015.4288
+
+Li, Y., Zhang, Y., Xia, Y., Shen, Y., & Zhang, J. (2016). Haemophilus parasuis
+
+modulates cellular invasion via TGF‐beta1 signaling. Veterinary Microbi-
+ology, 196, 18–22. https://doi.org/10.1016/j.vetmic.2016.10.012
+
+Ma, B., Hua, K., Zhou, S., Zhou, H., Chen, Y., Luo, R., … Jin, H. (2018).
+Haemophilus parasuis infection activates NOD1/2‐RIP2 signaling path-
+way in PK‐15 cells. Developmental and Comparative Immunology, 79,
+158–165. https://doi.org/10.1016/j.dci.2017.10.021
+
+Moller, K., Andersen, L. V., Christensen, G., & Kilian, M. (1993).
+
+Optimalization of the detection of NAD dependent Pasteurellaceae
+
+from the respiratory tract of slaughterhouse pigs. Veterinary Microbiol-
+
+ogy, 36, 261–271. https://doi.org/10.1016/0378‐1135(93)90093‐M
+
+Ni, B. B., Li, B., Yang, Y. H., Chen, J. W., Chen, K., Jiang, S. D., & Jiang, L. S.
+
+(2014). The effect of transforming growth factor beta1 on the crosstalk
+
+between autophagy and apoptosis in the annulus fibrosus cells under
+
+serum deprivation. Cytokine, 70, 87–96. https://doi.org/10.1016/j.
+cyto.2014.07.249
+
+Olvera, A., Ballester, M., Nofrarias, M., Sibila, M., & Aragon, V. (2009). Dif-
+
+ferences in phagocytosis susceptibility in Haemophilus parasuis strains.
+
+Veterinary Research, 40, 24. https://doi.org/10.1051/vetres/2009007
+
+Rafiee, M., & Blackall, P. J. (2000). Establishment, validation and use of the
+
+Kielstein‐Rapp‐Gabrielson serotyping scheme for Haemophilus parasuis.
+Australian Veterinary Journal, 78, 172–174. https://doi.org/10.1111/
+j.1751‐0813.2000.tb10586.x
+
+https://orcid.org/0000-0003-2181-6319
+https://doi.org/10.1089/dna.2014.2745
+https://doi.org/10.1089/dna.2014.2745
+https://doi.org/10.1016/j.vetmic.2005.07.007
+https://doi.org/10.1016/j.vetmic.2005.07.007
+https://doi.org/10.1016/j.bbamcr.2009.03.003
+https://doi.org/10.1016/j.bbamcr.2009.03.003
+https://doi.org/10.5582/bst.2015.01035
+https://doi.org/10.5582/bst.2015.01035
+https://doi.org/10.4161/auto.5184
+https://doi.org/10.4161/auto.5184
+https://doi.org/10.1016/j.molimm.2015.02.016
+https://doi.org/10.1016/j.tvjl.2013.08.027
+https://doi.org/10.1016/j.tcb.2003.12.002
+https://doi.org/10.1046/j.1462-5822.2002.00164.x
+https://doi.org/10.1002/cbin.10463
+https://doi.org/10.1038/ncomms7379
+https://doi.org/10.1038/emboj.2011.12
+https://doi.org/10.2741/4375
+https://doi.org/10.1080/15548627.2015.1100356
+https://doi.org/10.1080/15548627.2015.1100356
+https://doi.org/10.1016/j.cell.2007.12.018
+https://doi.org/10.3892/or.2015.4288
+https://doi.org/10.1016/j.vetmic.2016.10.012
+https://doi.org/10.1016/j.dci.2017.10.021
+https://doi.org/10.1016/0378-1135(93)90093-M
+https://doi.org/10.1016/j.cyto.2014.07.249
+https://doi.org/10.1016/j.cyto.2014.07.249
+https://doi.org/10.1051/vetres/2009007
+https://doi.org/10.1111/j.1751-0813.2000.tb10586.x
+https://doi.org/10.1111/j.1751-0813.2000.tb10586.x
+
+
+SHEN ET AL. 9 of 9
+Steele, S., Brunton, J., & Kawula, T. (2015). The role of autophagy in intra-
+
+cellular pathogen nutrient acquisition. Frontiers in Cellular and Infection
+
+Microbiology, 5, 51. https://doi.org/10.3389/fcimb.2015.00051
+
+Vanier, G., Szczotka, A., Friedl, P., Lacouture, S., Jacques, M., & Gottschalk,
+
+M. (2006). Haemophilus parasuis invades porcine brain microvascular
+
+endothelial cells. Microbiology, 152, 135–142. https://doi.org/
+10.1099/mic.0.28312‐0
+
+Wang, Y., Liu, C., Fang, Y., Liu, X., Li, W., Liu, S., … He, Q. (2012). Transcrip-
+tion analysis on response of porcine alveolar macrophages to
+
+Haemophilus parasuis. BMC Genomics, 13, 68. https://doi.org/
+
+10.1186/1471‐2164‐13‐68
+
+Winchell, C. G., Steele, S., Kawula, T., & Voth, D. E. (2015). Dining in: Intra-
+
+cellular bacterial pathogen interplay with autophagy. Current Opinion in
+
+Microbiology, 29, 9–14. https://doi.org/10.1016/j.mib.2015.09.004
+
+Yang, C. S., Kim, J. J., Lee, H. M., Jin, H. S., Lee, S. H., Park, J. H., … Jo, E. K.
+(2014). The AMPK‐PPARGC1A pathway is required for antimicrobial
+host defense through activation of autophagy. Autophagy, 10,
+
+785–802. https://doi.org/10.4161/auto.28072
+
+Zeng, Z., Chen, X., Yue, H., He, H., Ren, Y., Tang, C., & Zhang, B. (2018). The
+
+effect of rfaD and rfaF of Haemophilus parasuis on lipooligosaccharide
+
+induced inflammation by NF‐kappaB/MAPKs signaling in porcine alve-
+olar macrophages. The Journal of veterinary medical science/the Japanese
+
+Society of Veterinary Science, 80, 842–845. https://doi.org/10.1292/
+jvms.16‐0586
+
+Zhang, B., Xu, C., Zhang, L., Zhou, S., Feng, S., He, Y., & Liao, M. (2013).
+
+Enhanced adherence to and invasion of PUVEC and PK‐15 cells due
+to the overexpression of RfaD, ThyA and Mip in the DeltaompP2
+mutant of Haemophilus parasuis SC096 strain. Veterinary Microbiology,
+
+162, 713–723. https://doi.org/10.1016/j.vetmic.2012.09.021
+
+Zhang, D., Wang, W., Sun, X., Xu, D., Wang, C., Zhang, Q., … Liu, Z. (2016).
+AMPK regulates autophagy by phosphorylating BECN1 at threonine
+
+388. Autophagy, 12, 1447–1459. https://doi.org/10.1080/
+15548627.2016.1185576
+
+Zhang, J., Xu, C., Guo, L., Ke, B., Ke, C., Zhang, B., … Liao, M. (2011). A rapid
+pulsed‐field gel electrophoresis method of genotyping Haemophilus
+parasuis isolates. Letters in Applied Microbiology, 52, 589–595. https://
+doi.org/10.1111/j.1472‐765X.2011.03048.x
+
+Zhang, Y., Li, Y., Yuan, W., Xia, Y., & Shen, Y. (2016). Autophagy is associ-
+
+ated with pathogenesis of Haemophilus parasuis. Frontiers in
+
+Microbiology, 7, 1423. https://doi.org/10.3389/fmicb.2016.01423
+
+SUPPORTING INFORMATION
+
+Additional supporting information may be found online in the
+
+Supporting Information section at the end of the article.
+
+How to cite this article: ShenY, Zhou N, An J, et al. Haemoph-
+
+ilus parasuis infection in 3D4/21 cells induces autophagy
+
+through the AMPK pathway. Cellular Microbiology. 2019;21:
+
+e13031. https://doi.org/10.1111/cmi.13031
+
+https://doi.org/10.3389/fcimb.2015.00051
+https://doi.org/10.1099/mic.0.28312-0
+https://doi.org/10.1099/mic.0.28312-0
+https://doi.org/10.1186/1471-2164-13-68
+https://doi.org/10.1186/1471-2164-13-68
+https://doi.org/10.1016/j.mib.2015.09.004
+https://doi.org/10.4161/auto.28072
+https://doi.org/10.1292/jvms.16-0586
+https://doi.org/10.1292/jvms.16-0586
+https://doi.org/10.1016/j.vetmic.2012.09.021
+https://doi.org/10.1080/15548627.2016.1185576
+https://doi.org/10.1080/15548627.2016.1185576
+https://doi.org/10.1111/j.1472-765X.2011.03048.x
+https://doi.org/10.1111/j.1472-765X.2011.03048.x
+https://doi.org/10.3389/fmicb.2016.01423
+https://doi.org/10.1111/cmi.13031

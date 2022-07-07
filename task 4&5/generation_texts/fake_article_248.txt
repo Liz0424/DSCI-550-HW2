@@ -1,0 +1,28 @@
+In this study, we compared the effects of pro- and antagonist (ANT) and antagonist (AT) induction on DNA damage and mucosal integrity.
+
+Results: Pro- and antagonist (ANT) and antagonist (AT) induction of proteolytic enzymes are associated with inflammation and inflammation-induced apoptosis; and treatment with DMSO-1 (DMSO-2) in the treatment of C. elegans with different strains of C. elegans revealed that the proteolytic enzymes were not affected by the treatment of the cells with DMSO-1. Moreover, the apoptotic pathways of the cells with DMSO-1 were not affected.
+
+Conclusion:
+
+C. elegans has been shown to interact with O-TNF-α in a manner that is not previously known. D-AMP-1 was shown to induce apoptosis of human cells in vitro, and the apoptotic pathway was not impaired by D-AMP-1 treatment. There is evidence that D-AMP-1 is a receptor for O-TNF-α. Although this mechanism cannot be confirmed, it is clear that D-AMP-1 has been shown to interact with O-TNF-α in vivo and that it has important intracellular targets for O-TNF-α.
+
+Acknowledgments:
+
+This work was supported by grant NS01-138570 from the Department of Biochemistry and Biophysics of China University.
+
+References
+1. Chen, J., et al. (2008). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:216–222. doi:10.1016/j.cub.2008.04.025
+2. Fonseca, G., et al. (2008). A novel antidiabetic (IR+) TNF-α receptor. Proc Natl Acad Sci U S A
+
+(DOI: 10.1073/pnas.0b01322110)
+3. Gajda, T., et al. (2009). D-AMP-1 modulates O-TNF-α-induced apoptosis of human cells. Curr Opin Oncol 13:401–414. doi:10.1007/s10584-009-0828-8
+4. Gajda, T., et al. (2009). D-AMP-1 modulates O-TNF-α-induced apoptosis of human cells in vitro. Cell Host Microbe 22:216–222. doi:10.1016/j.cub.2009.04.025
+5. Gajda, T., et al. (2009a). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:216–222. doi:10.1016/j.cub.2009.04.025
+6. Gajda, T., et al. (2009b). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:206–232. doi:10.1016/j.cub.2009.04.025
+7. Gajda, T., et al. (2009c). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:206–232. doi:10.1016/j.cub.2009.04.025
+8. Gajda, T., et al. (2009d). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:206–232. doi:10.1016/j.cub.2009.04.025
+9. Gajda, T., et al. (2009e). D-AMP-1 modulates O-TNF-α-induced apoptosis of human cells in vitro. Cell Host Microbe 22:206–232. doi:10.1016/j.cub.2009.04.025
+10. Gajda, T. (2011a). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:206–232. doi:10.1016/j.cub.2009.04.025
+11. Gajda, T., et al. (2011b). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:206–232. doi:10.1016/j.cub.2009.04.025
+12. Gajda, T., et al. (2011c). D-AMP-1 induces apoptosis of human cells in vitro. Cell Host Microbe 22:206–232. doi:10.1016/j.cub.2009.04.025
+13. Gajda, T. (2011d). D-AMP-1 induces apoptosis of human cells in vitro.

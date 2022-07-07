@@ -1,0 +1,1220 @@
+Differential activation of the inflammasome in THP-1 cells exposed to chrysotile asbestos and Libby â€œsix-mixâ€• amphiboles and subsequent activation of BEAS-2B cells
+
+
+Cytokine 60 (2012) 718–730
+Contents lists available at SciVerse ScienceDirect
+
+Cytokine
+
+journal homepage: www.journals .e lsevier .com/cytokine
+Differential activation of the inflammasome in THP-1 cells exposed to
+chrysotile asbestos and Libby ‘‘six-mix’’ amphiboles and subsequent activation
+of BEAS-2B cells
+
+Muyao Li a, Mickey E. Gunter b,c, Naomi K. Fukagawa a,⇑
+a Department of Medicine, University of Vermont College of Medicine, Burlington, VT 05405, USA
+b Department of Geological Sciences, University of Idaho, Moscow, ID 83844, USA
+c Marsh Professor-at-Large, University of Vermont, Burlington, VT 05405, USA
+a r t i c l e i n f o
+
+Article history:
+Received 16 February 2012
+Received in revised form 28 July 2012
+Accepted 27 August 2012
+Available online 25 September 2012
+
+Keywords:
+Chrysotile asbestos
+Libby six-mix amphiboles
+Macrophage
+IL-1b
+Epithelium
+1043-4666/$ - see front matter � 2012 Elsevier Ltd. A
+http://dx.doi.org/10.1016/j.cyto.2012.08.025
+
+Abbreviations: ASC, apoptosis-associated speck-lik
+Chry, chrysotile; Cot, cancer osaka thyroid oncogene;
+drazine; EMSA, electrophoretic mobility shift assay
+glutamate cysteine ligase catalytic subunit; IKKs, IjB
+antagonist; IL-1RAcP, IL-1 receptor accessory protein;
+activated protein kinase; LIB, Libby ‘‘six-mix amphibo
+kinase kinase; MnSOD, manganese SOD; MYD88, my
+response gene 88; NLRP3, NOD-like receptor family,
+PMA, phorbol-12-myristate-13-acetate; SA, surface a
+tase; TRAF6, TNF receptor-associated factor 6; TIR, Tol
+progression locus 2; ZYF, Z-YVAD-FMK.
+⇑ Corresponding author. Address: Department of
+
+mont College of Medicine, 89 Beaumont Avenue,
+05405, USA. Tel.: +1 802 656 4403; fax: +1 802 656 2
+
+E-mail address: Naomi.Fukagawa@uvm.edu (N.K. F
+a b s t r a c t
+
+Inflammatory responses of THP-1 cells (macrophage cell line) exposed to chrysotile asbestos (Chry) and
+Libby six-mix (LIB) and the subsequent impact on bronchial epithelial cells were determined. Direct
+treatment of THP-1 cells with Chry caused cell death, activation of caspase-1 and release of IL-1b, while
+the addition of caspase-1 inhibitor, Z-YVAD-FMK, reduced IL-1b, suggesting that Chry activated the cas-
+pase-1 mediated Nod-like receptor protein 3 (NLRP3) inflammasome; by comparison, LIB had less effects
+on all of these parameters. Expression of antioxidant enzymes, protein oxidation and nitration, and lipid
+peroxides in THP-1 cells treated with the two particles suggest that LIB generated more reactive oxygen
+species (ROS) than the same dose of Chry. Differences in fiber length and surface area suggest a possible
+role for particulate size in the differential activation of the inflammasome. BEAS-2B cells, representing the
+bronchial epithelium, treated with supernatants of medium from Chry- or LIB-treated THP-1 cells (con-
+ditioned medium) activated the MAPK cascade, increased phosphorylation of ERK and Cot (MAP3K8),
+increased AP-1 binding activity and induced IL-6 release. To verify that IL-1b from THP-1 cells was
+responsible for activation of BEAS-2B, conditioned medium with added IL-1Ra, an IL-1b antagonist,
+was applied to BEAS-2B. Results show that IL-1Ra attenuated effects of conditioned medium, supporting
+a role of IL-1b, as a secondary mediator, in the transduction of inflammatory signaling from the macro-
+phage to epithelial cells. The effects of LIB-conditioned medium appeared to be less dependent on IL-1b.
+In conclusion, Chry and LIB induce differential inflammatory responses in THP-1 cells that subsequently
+lead to differential effects in epithelial cells.
+
+� 2012 Elsevier Ltd. All rights reserved.
+1. Introduction
+
+Human exposure to asbestos is associated with an increased
+incidence of pleural disease, asbestosis, lung cancer, and mesothe-
+ll rights reserved.
+
+e protein containing a CARD;
+DNPH, 2,4-dinitrophenylhy-
+
+; GB, glass beads; GCLC, c-
+kinases; IL-1Ra, IL-1 receptor
+IRAK, interleukin-1 receptor-
+
+les’’; MAP3K, MAPKKK, MAPK
+eloid differentiation primary
+pryin domain containing 3;
+
+rea; SOD, superoxide dismu-
+l- and IL-1R-like; Tpl2, tumor
+
+Medicine, University of Ver-
+Given C-207, Burlington, VT
+636.
+ukagawa).
+lioma [1]. Inflammation plays a key role in lung injury, involving
+different cell types, such as alveolar macrophages and bronchial
+epithelial cells that initiate and/or sustain inflammatory processes.
+Alveolar macrophages provide surveillance of the major bound-
+aries between the body and the outside world. Macrophages are in-
+nate immune cells with well-established roles in the primary
+response to pathogens. These cells recognize danger signals
+through receptors and activate specific signaling pathways [2].
+The macrophage-like cell line, THP-1, has been shown to secrete
+the proinflammatory cytokine, IL-1b, upon contact with crocidolite
+asbestos [3–5]. Mature IL-1b is processed through cleavage of the
+inactive pro-IL-1b precursor by caspase-1/ICE (IL-1b converting en-
+zyme). Caspase-1 was the first caspase to be discovered in mam-
+mals, but only recently has the pathway leading to its activation
+been elucidated and shown to involve a series of large complexes,
+called inflammasomes [6,7]. Stimulation of macrophages with
+asbestos resulted in cell death and robust secretion of IL-1b in a
+manner dependent on the Nod-like receptor protein 3 (NLRP3),
+
+http://dx.doi.org/10.1016/j.cyto.2012.08.025
+mailto:Naomi.Fukagawa@uvm.edu
+http://dx.doi.org/10.1016/j.cyto.2012.08.025
+http://www.sciencedirect.com/science/journal/10434666
+http://www.journals.elsevier.com/cytokine
+
+
+M. Li et al. / Cytokine 60 (2012) 718–730 719
+also called Nalp3 (NACHT, LRR and PYD domains-containing pro-
+tein 3) inflammasome [3,4,8,9]. Previous reports have indicated
+that macrophages from wild-type mice could undergo caspase-1-
+mediated IL-1b maturation but macrophages deficient in the
+NLRP3 inflammasome were incapable of secreting IL-1b [3,4,8].
+
+Following the initiation of proinflammatory responses upon
+exposure to asbestos with the release of cytokines, such as IL-1b,
+alveolar macrophages often die and are cleared from the airway.
+In contrast, neighboring bronchial epithelial cells can sustain path-
+ogenic responses and lead to asbestos-related lung disease, even if
+they may not be in direct contact with the asbestos fibers. IL-6 is
+considered to be an important mediator of acute inflammation
+[10] and implicated in the pathogenesis of particle-related lung
+disease. The MAPK pathways contribute to epithelial cell prolifera-
+tion, which is a major risk factor for the development of lung can-
+cer or fibro-proliferative diseases [11,12]. Whether IL-1b secreted
+by THP-1 cells affects the alveolar epithelium leading to cell prolif-
+eration, inflammation and eventual fibrosis via MAPK-IL-6 path-
+ways is uncertain although it is well established that direct
+exposure of pulmonary epithelial cells [13], alveolar [14], and
+bronchial epithelial cells [15,16] to asbestos leads to activation of
+MAPK cascades and induction of ERK1/2 phosphorylation.
+
+Several investigators have examined the interaction between
+macrophages and bronchial epithelial cells, employing a co-culture
+system (Transwell) in which two different cell types were sepa-
+rated by a membrane with only macrophages exposed to the par-
+ticles of asbestos or silica [17–19]. In the other compartment, the
+epithelial cells were bathed by the same culture medium. Although
+interesting connections were suggested, the underlying mecha-
+nisms whereby primary responses of the macrophage initiated
+and interacted with lung epithelial cells remain unclear. We have
+investigated signal transduction from THP-1 macrophage-like cells
+to BEAS-2B bronchial epithelial cells through a relatively simple
+method: that is, to initially determine the inflammatory responses
+of THP-1 exposed to different particulate fibers followed by collec-
+tion of the supernatants of culture medium without any fibers
+(termed as conditioned medium) in which BEAS-2B cells were then
+grown and their responses assessed.
+
+Asbestos occurs naturally and is composed of long thin fibers
+broadly classified into two groups: serpentine and amphibole
+[20]. Chrysotile asbestos (the asbestiform variety of the serpentine
+group) is the most commonly used asbestos type in the US [21]. The
+amphibole asbestos group consists of five mineral species: amosite,
+crocidolite, tremolite, actinolite, and anthophyllite. The amphibole
+asbestos occurring in the vermiculite mine near Libby, Montana, is
+a mixture of several different species of amphiboles [22]. Several
+research groups have studied this material, but the samples used
+in the present work are a subset of those discussed in the publica-
+tion by Meeker et al. [23] and morphologically characterized by
+Bellamy and Gunter [24]. Bellamy and Gunter referred to the Libby
+material as ‘‘six-mix’’. Because many of the studies examining the
+pathogenic mechanisms related to aberrant cellular responses to
+asbestos exposure utilized different forms of asbestos, the present
+work contrasts the signal transduction pathways induced by chrys-
+otile asbestos (Chry) and Libby six-mix (LIB). The role of IL-1b in the
+THP-1-conditioned medium secreted in response to Chry or LIB
+was compared and its subsequent effects on BEAS-2B immune re-
+sponses, specifically IL-6 secretion, were examined.
+2. Materials and methods
+
+2.1. Cell culture
+
+THP-1 cells: THP-1 cells from a human monocyte cell line were
+grown in RPMI 1640 medium (Invitrogen) containing 10% FBS;
+100 U/ml Penicillin/Streptomycin; 10 mM HEPES and 1 mM So-
+dium pyruvate at 37.0 �C in 5% CO2. Cells from this monocytic cell
+line require differentiation into cells with the functional character-
+istics of mature macrophages [25,26], accomplished by treatment
+with 100 nM PMA overnight and then refreshing the cells with
+medium without PMA. BEAS-2B cells: BEAS-2B cells from the hu-
+man bronchial epithelial cell line (ATCC) were seeded into flasks
+or plates pre-coated with a mixture of 0.01 mg/ml fibronectin,
+0.03 mg/ml bovine collagen type I and 0.01 mg/ml bovine serum
+albumin in medium. The cells were grown in DMEM/F12 medium
+(Invitrogen) containing 10% FBS; 100 U/ml of Penicillin/Streptomy-
+cin, 1 lg/ml Insulin-Transferrin-Na selenite (Sigma), 1 lg/ml
+Hydrocortisone (Sigma), and 10 mM HEPES at 37.0 �C in 5% CO2.
+
+2.2. Chrysotile asbestos and Libby six-mix treatments
+
+Chrysotile asbestos fibers (National Institute of Environmental
+Health Sciences reference sample, NIEHS), and Libby six-mix (Uni-
+ted States Geological Service, USGS) have been physically and
+chemically characterized previously [21,24,27–30]. Glass beads
+(GB) from Polysciences Inc. were used as a noncytotoxic particle
+control [29]. The surface area of chrysotile measured using
+Micromeritics Tristar equipment for nitrogen gas sorption analysis
+by Happond Expander™ is reported to be 28.83 m2/g (Table 1). The
+Chry and LIB fibers were sterilized under ultraviolet light overnight
+prior to suspension in HBSS at 1 mg/ml, sonication for 15 min in a
+water bath sonicator, and trituration eight times through a 22-
+gauge needle before treatment of the cells [31]. Two mass-based
+concentration systems have been commonly used in studies of
+asbestos exposure: (1) mass concentration, which means the mass
+of a constituent divided by the volume of a carrier and (2) mass-
+per-area, which is the mass divided by the exposed surface area.
+The asbestos suspensions were directly added to differentiated
+macrophages or BEAS-2B cells in medium at a mass concentration
+of 20 lg/ml and 40 lg/ml for 24 h, which was equivalent to mass
+per area of 5 lg/cm2 and 10 lg/cm2 achieved by adjusting the vol-
+ume of medium based on the surface area of the culture dishes. The
+culture medium collected after exposure of THP-1 cells for 24 h
+was centrifuged at the highest speed of an Eppendorf 5430R centri-
+fuge with 50 ml-tube rotor. Then the supernatant of medium was
+used to treat BEAS-2B cells and referred to as conditioned medium
+with indicated asbestos concentration from the original THP-1
+treatment. Since the conditioned medium contained no particles
+and the cellular responses to GB or medium alone were similar, a
+GB control was not included in the experiments using conditioned
+medium.
+
+2.3. Caspase-1 inhibitor treatments
+
+A caspase-1 inhibitor VI, Z-YVAD-FMK (ZYF), was purchased
+from BioVison and a caspase-1 inhibitor V, Z-D-CH2-DCB (ZD),
+from Calbiochem. In preliminary experiments, 10, 20, 40 and
+50 lM of inhibitors were applied to THP-1 cell 30 min prior to
+asbestos treatment. After 24 h, the inhibitory effects on production
+of IL-1b were compared, suggesting that ZYF was more efficient
+than ZD. Based on these preliminary results, only 40 lM of ZYF
+was used in the subsequent experiments.
+
+2.4. IL-1b and IL-1Ra treatments
+
+Recombinant human IL-1b protein and the antibody for cleaved
+IL-1b were purchased from Cell Signaling. The IL-1 receptor antag-
+onist (IL-1Ra) was purchased from Abcam. BEAS-2B cells were
+challenged in preliminary experiments by 10, 20, 40, 80, and
+100 ng/ml recombinant IL-1b to determine its effect on the secre-
+tion of IL-6. The inhibitory effects of both IL-1Ra and anti-IL-1b
+
+
+
+Table 1
+Fiber size references.
+
+Fiber name Mean fiber
+length (lm)
+
+Mean
+SA (m2/g)
+
+Source
+
+Glass beads (GB)a 2.06 3 Polysciences Inc
+Chrysotile (Chry) 21b 28.83c NIEHS
+LIBBY-6-mix (LIB)d 7.21 5 USGS
+
+a [29].
+b [30].
+c Nitrogen gas sorption analysis by Hammond Expanders™.
+d [29].
+
+720 M. Li et al. / Cytokine 60 (2012) 718–730
+were also tested and compared. Based on the preliminary results,
+only 400 ng/ml of IL-1Ra was used in the subsequent experiments
+to treat BEAS-2B cells.
+
+2.5. CytoTox-Glo™ Assay viability protocol
+
+The CytoTox-Glo™ Assay (Promega) uses a luminogenic peptide
+substrate (alanyl-alanylphenylalanyl-aminoluciferin; AAF-Glo™
+Substrate) to measure dead-cell protease activity, which is released
+from cells after loss of membrane integrity. The assay is primarily
+designed to selectively detect dead cells; however, with the addi-
+tion of the lysis reagent (provided in the kit), the CytoTox-Glo™ As-
+say viability protocol (by lysis) can also deliver the luminescent
+signal associated with the total number of cells. Cells were grown
+and treated as described above and then trypsinized and passed
+through the 40 lm mesh to break the clusters of cells and asbestos
+fibers. The collected cells were then loaded into a 96-well plate and
+the CytoTox-Glo™ Assay reagents applied to wells sequentially fol-
+lowing the manufacturer’s protocol. The luminescent signals were
+measured in a Synergy HT4 multi-detection microplate reader
+(BioTek Instruments). Viability was calculated by subtracting the
+luminescent signal resulting from experimental cell death from to-
+tal luminescent values.
+
+2.6. LDH cytotoxicity assay
+
+The CytoTox 96� cytotoxicity assay is a colorimetric assay from
+Promega. The assay quantitatively measures lactate dehydroge-
+nase (LDH), a stable cytosolic enzyme that is released upon cell ly-
+sis by treatments. Released LDH in culture supernatants was
+measured after 2, 4, 6, 8, and 24 h treatments with an enzymatic
+assay, which results in the conversion of a tetrazolium salt (INT)
+into a red formazan product. The amount of color formed is propor-
+tional to the number of lysed cells. Visible wavelength absorbance
+data were collected at 490 nm with the Synergy HT4 (BioTek
+Instruments). The results are expressed as a percentage of maxi-
+mum LDH released from cells lysed by repeated freezing and
+thawing.
+
+2.7. Cytokine assays
+
+Cells were grown and treated as described above; the culture
+medium was then collected and centrifuged twice at 14,000 rpm
+in an Eppendorf 5430R centrifuge with a rotor for 1.5 ml-tubes,
+and the supernatants stored in �80 �C until analysis. Cytokines
+and chemokines were analyzed using both Bio-Plex Pro™ Assay
+(Bio-Rad) and Milliplex Map� Assay (Millipore). Bio-Plex-27 hu-
+man cytokine kits were used in screening of cytokine responses,
+while Milliplex Map� custom kits were used for selected cytokines.
+The samples were prepared according to the manufacturer’s
+instructions and run on the Bio-Plex suspension array system
+(Bio-Rad). Standard curves were calculated and samples were ana-
+lyzed using the Bio-Plex Manager software version 5 (Bio-Rad).
+2.8. Caspase-1 FLICA assay
+
+Z-YVAD-FMK caspase-1 FLICA kit was purchased from Immuno-
+chemistry Technologies, LLC. The methodology is based on a fluo-
+rochrome inhibitor of caspase-1, the FLICA reagent FAM-YVAD-
+FMK, which enters the cells and binds covalently only to the active
+caspase-1. The asbestos-treated THP-1 cells were trypsinized and
+passed through the 40 lm mesh. 300 ll of each cell suspension,
+which contained at least 1 � 106 cells, were transferred to sterile
+tubes and incubated or washed sequentially with FLICA reagents
+according to the manufacturer’s protocol. The aliquots of cells were
+then loaded into microtiter plate wells in different dilutions and
+fluorescence read on a Synergy HT4 with excitation range from
+488 to 492 nm, and emission range from 515 to 535 nm.
+2.9. Western-blot analysis
+
+The antibodies for total or phospho-ERK1/2, caspase-1, total or
+phospho-NF-jB p65 (S536) were purchased from Cell Signaling;
+the antibody for total Cot from Santa Cruz; the antibodies for phos-
+pho-Cot (T290), b-actin and a-tubulin from Abcam Inc.; the anti-
+bodies for MnSOD, GCLC from Abnova; the antibody for NLRP3
+from AdipoGen; the antibody for 3-nitrotyrosine from Millipore.
+Total or nuclear proteins were extracted from treated cells as de-
+scribed previously [32]. The 20 lg of each total protein was elec-
+trophoresed on 10% or 7.5% Mini-PROTEAN� TGX™ precast gels
+(Bio-Rad) and then electroblotted onto nitrocellulose membranes.
+After blocking the membranes with 1% BSA blocking/dilution buf-
+fer, the membranes were incubated with the appropriate primary
+antibody at the recommended concentration overnight with shak-
+ing at 4 �C and then rinsed. After incubation with corresponding
+secondary antibodies, the protein bands were visualized using a
+SuperSignal™ West Pico Trial Kit (PIERCE) and exposed to radio-
+graphic films. The images and densities were captured with a GS-
+700 Imaging Densitometer (Bio-Rad, Richmond, CA) and analyzed
+with Quantity One Software Version 4.2 (Bio-Rad, Richmond, CA).
+The membranes were stripped and then reimmunoblotted with
+another antibody or loading control: b-actin or a-tubulin antibody.
+2.10. Oxidized protein detection
+
+Protein carbonyl modifications were detected and quantified
+using the OxyBLOT™ Assay (Millipore) according the manufac-
+turer’s protocol. Briefly, BEAS-2B cells were treated with Chry
+and LIB and protein lysates were incubated with 2, 4-dinitrophen-
+ylhydrazine (DNPH). The DNP-derivative protein samples were
+separated by SDS–PAGE followed by Western blotting. The same
+membranes were stripped and then reimmunoblotted with b-actin
+as a loading control.
+2.11. Lipid and aqueous peroxides assay
+
+Lipid and aqueous peroxides in THP-1 conditioned medium
+were measured with the OxiSelect™ Hydrogen Peroxide Assay
+Kit (Cell Biolabs, Inc.) according to the manufacturer’s protocol.
+Peroxide in the medium converts Fe2+ into Fe3+, which reacts with
+an equal molar amount in the presence of acid to create a purple
+product that absorbs maximally between 540 and 600 nm. Sam-
+ples were then reacted with xylenol orange in 96-well plate and
+read on the Synergy HT4. The peroxide content in unknown sam-
+ples was calculated by comparison with the predetermined H2O2
+standard curve.
+
+
+
+M. Li et al. / Cytokine 60 (2012) 718–730 721
+2.12. EMSA for AP-1
+
+Double stranded AP-1 consensus oligonucleotides were pur-
+chased from Promega. The probes were labeled with [c-32P] ATP
+using T4 polynucleotide kinase (Invitrogen) according to the man-
+ufacturer’s protocol. EMSA was performed as described previously
+[33]. The 6 lg of nuclear extracts from BEAS-2B cells exposed to
+Chry, LIB or 10 ng/ml of TNF-a were used in the binding assay;
+1 ll of anti c-Fos antibody (Santa Cruz) were applied to supershift
+the AP-1 complexes, respectively; cold AP-1 probes were also in-
+cluded at 1:100 M ratios for probe competition.
+
+2.13. Statistics
+
+Values are presented as mean ± SEM for indicated numbers of
+experiments, or mean ± SD for measurement with replicates. The
+mean values are reported as a percentage of control. Comparisons
+were performed using one way Anova (GraphPad). The p values
+were considered to be significant if they were 60.05.
+Fig. 1. Cell viability and cytotoxicity. THP-1 cells differentiated with 100 nM PMA
+were refreshed and exposed to 20 lg/ml or 40 lg/ml of chrysotile (Chry20, Chry40)
+and LIB (Lib20, Lib40), and 40 lg/ml glass beads (GB). (A) Cell viability was
+measured using the CytoTox-Glo™ viability protocol in duplicate after 24 h
+treatments. The results were calculated by subtracting the luminescent signal
+resulting from experimental cell death based on total luminescent values. (B) BEAS-
+2B cells were treated with Chry20, Chry40, Lib20, Lib40 and GB. Cell viability was
+measured after 24 h treatments using the CytoTox-Glo™ viability protocol in
+duplicate. (C) Cytotoxicity in the THP-1 cells was determined with the LDH
+cytotoxicity assay in duplicate and over a 2, 4, 6, 8 and 24 h time course. Results
+were expressed as a percentage of maximum LDH released from cells lysed by
+repeated freezing and thawing. � Indicates p 6 0.05 when comparing treatments to
+control.
+3. Results
+
+3.1. Cell viability in response to asbestos exposure
+
+Cell viabilities were assessed with the CytoTox-Glo™ Assay and
+results shown in Fig. 1A and B. Differences between the two cell
+lines were found in the responses to direct exposure of THP-1
+and BEAS-2B cells to 20 or 40 lg/ml of Chry (Chry20, Chry40)
+and LIB (Lib20, Lib40). After 24 h of exposure, Chry significantly re-
+duced the survival of THP-I cells compared to control, whereas LIB
+had less of an effect (Fig. 1A). No reduction of cell viability was
+seen in BEAS-2B cells with the treatments compared to control;
+however, cell number based on the CytoTox-Glo™ Assay slightly
+increased with LIB treatments (Fig. 1B). To confirm the result from
+Fig. 1A, a LDH cytotoxicity assay was used in THP cells treated with
+Chry and LIB for 2, 4, 6, 8, and 24 h (Fig. 1C). Cell death gradually
+increased with increasing exposure times. By 24 h, Chry40 had in-
+duced significant cell death (�60%), with lesser degrees induced by
+Chry20, LIB40 and LIB20. Together the data indicate selective cyto-
+toxicity in macrophages exposed to asbestos compared to epithe-
+lial cells.
+
+3.2. IL-1b and caspase-1 responses in THP-1 cells
+
+Cytokine and chemokine concentrations were measured in the
+supernatant of the culture medium from treated THP-1 cells using
+the human Bio-Plex array (see Supplementary Tables 1 and 2 for
+complete set of data). IL-1b was the most prominently induced
+cytokine. Fig. 2A shows the results of induction of IL-1b in 3 inde-
+pendent experiments when THP-1 cells were treated with Chry
+and LIB for 24 h. Chry20 induced a 4-fold and Chry40 a 6-fold in-
+crease in IL-1b secretion compared to the control; whereas Lib40
+induced IL-1b secretion by only 2.9-fold. Meanwhile GB and con-
+trol resulted in similar levels of IL-1b. Other cytokines found to
+be significantly induced included IL-1Ra, G-CSF and IL-2 (see Sup-
+plementary Table 2).
+
+The combination of cell death and IL-1b secretion suggested the
+possible involvement of NLRP3 inflammasome activation. NLRP3
+expression was hence determined by Western-blot and showed
+that NLRP3 protein level was higher in all treatments compared
+to control. However, none of treatments achieved statistical signif-
+icance compared to control (Fig. 2B).
+
+Pro-caspase-1, an assembling member of the inflammasome
+complex, is proteolytically activated from a proenzyme to produce
+two active subunits, p20 and p10, with p20 being identifiable by
+immuno-blotting. Fig. 3A shows a representative blot and a sum-
+mary of data obtained from three independent experiments. Re-
+sults suggest that active p20 was induced by the Chry
+treatments, especially Chry40, but to a lesser degree by LIB treat-
+ments with no effect by GB. To further confirm the activation of
+caspase-1 in Chry-treatments, the caspase-1 FLICA assay was per-
+formed and the result revealed that Chry40 clearly increased cas-
+pase-1 activity in the THP-1 cells (Fig. 3B).
+
+The activation of caspase-1 and secretion of IL-1b are two
+important consequences of inflammasome activation. To verify
+whether blocking caspase-1 activation would reduce maturation
+of IL-1b in macrophages, a caspase-1 inhibitor, Z-YVAD-FMK
+(ZYF) was used in PMA-differentiated THP-1 cells and treated with
+40 lg/ml asbestos. Application of ZYF showed a trend towards
+
+
+
+Fig. 2. IL_1b release and NLRP3 priming. (A) Release of IL-1b in THP-1 cells was analyzed with a Bio-Plex 27 cytokine array. THP-1 cells were grown and treated with Chry and
+LIB for 24 h as described; the supernatant of culture medium was collected and then analyzed. Results from three independent experiments were summarized as mean ± SE in
+the bar-graphs. � Indicates p 6 0.05 when comparing asbestos treatments with control. (B) NLRP3 expression in Chry and LIB treated THP-1 cells. A representative Western-
+blot in the upper panel showing induction of NLRP3 levels with a-tubulin as a loading control. The lower panel is a summary bar-graph from three independent blots.
+
+722 M. Li et al. / Cytokine 60 (2012) 718–730
+repression of active p20, although the inhibitory effect did not
+reach statistical significance (Fig. 3A). Meanwhile, Fig. 3C shows
+that IL-1b was significantly induced by Chry20 and Chry40 with
+less effect of Lib40 and no effect of GB. ZYF significantly repressed
+the Chry40 and Lib40 effects resulting in little IL-1b detectable in
+the medium. These results suggest that IL-1b secretion in response
+to asbestos is caspase-1 dependent.
+
+3.3. Comparison of ROS production in Chry and LIB treated THP-1 cells
+
+Oxidative stress is another potential mediator for particle-in-
+duced inflammation in cells. Two antioxidant related enzymes,
+Fig. 3. Activation of caspase-1. (A) Representative Western blot in the upper panel show
+LIB- treated THP-1 cells; Chry40 and Lib40 were applied with or without caspase-1 inhibi
+a bar-graph summarizing three independent blots (mean ± SE) and � indicates p 6 0.05 w
+with the Z-YVAD-FMK caspase-1 FLICA kit. Chry treated THP-1 macrophages were analy
+when comparing Chry treatments with control. (C) The effects of ZYF on release of IL-1b b
+30 min prior to exposure to Chry and LIB. IL-1b levels in media analyzed with Milliplex Pl
+Chry or LIB treatments with control; � indicates p 6 0.05 when comparing ZYF-treated v
+superoxide dismutase (SOD) and c-glutamate cysteine ligase cata-
+lytic subunit (GCLC), were selected as the indicators of oxidative
+status since SOD expression is often low in the presence of oxida-
+tive stress whereas GCLC expression is induced if cells are chal-
+lenged by a reduction in GSH levels. Blake et al. have reported in
+murine macrophages that internalization of LIB asbestos fibers
+generated a significant increase in intracellular ROS, decreased
+GSH levels, and impaired total SOD activity [34]. To clarify the oxi-
+dative stress status in Chry- and LIB- treated THP-1 cells, the
+expression of manganese SOD (MnSOD) and GCLC were compared
+by Western blots. The upper panel of Fig. 4A shows protein blots of
+the two enzymes in THP-1 cells treated with either Chry or LIB; the
+ing both active p20 subunits and other caspase-1 protein components in Chry- and
+tor, ZYF. b-actin in the same blot served as a loading control. The lower panel in (A) is
+hen comparing Chry treatments with control. (B) Measurement of caspase-1 activity
+zed for casepase-1 activity in triplicate (values are mean ± SD), � indicates p 6 0.05
+y the THP-1 cells. The 40 lM of caspase-1 inhibitor, ZYF, was applied to THP-1 cells
+
+ex-2 Assay in triplicate (values are mean ± SD), � indicates p 6 0.05 when comparing
+s. non-ZYF treated cells exposed to Chry and Lib.
+
+
+
+M. Li et al. / Cytokine 60 (2012) 718–730 723
+lower bar-graphs summarizes MnSOD and GCLC expression in
+three experiments. Induction of MnSOD was found in response to
+Chry but not seen in GB and LIB-treated cells. Meanwhile, an in-
+crease of GCLC was seen in LIB treated cells but there was little
+in GB and Chry-treated cells. The difference between the responses
+to Chry and LIB treatments suggests that the two particulates in-
+duced oxidative stress to different degrees. Protein carbonyl mod-
+ifications were then determined using the OxyBLOT™ Assay. A
+representative blot (Fig. 4B) shows that THP-1 cells treated with
+Lib40 displayed a dramatic increase in the number and degree of
+oxidized proteins as compared to control, GB and Chry40-treated
+cells. This suggests that more oxidative stress is generated by LIB
+amphiboles compared to Chry. Reactive nitrogen species is another
+indicator of oxidative stress. Protein tyrosine nitration in Chry- and
+LIB- treated THP-1 cells was also compared and shown in a repre-
+sentative blot in Fig. 4C. LIB induced more 3-nitrotyrosine forma-
+tion than Chry treatments. Finally, the existence of lipid
+peroxides in conditioned medium was evaluated with the OxiSe-
+lect™ Hydrogen Peroxide Assay as shown in Fig. 4D. LIB treatments
+resulted in more lipid peroxide in conditioned medium than Chry
+treatments with most of the peroxide found in the lipid rather than
+aqueous fraction. There was a significant difference between the
+responses to Lib20 compared to Chry20.
+
+3.4. Role of IL-1b in BEAS-2B responses to THP-1-conditioned medium
+
+BEAS-2B cells were directly treated with Chry and LIB for 24 h.
+The induction of IL-6 by direct exposure of epithelial cells to Chry
+has been described elsewhere [17,35]; therefore in the present
+work, Chry-40 was used as a ‘‘positive control’’. IL-6 was found
+to be significantly induced by Chry40 and less so by Lib40 in di-
+rectly treated BEAS-2B cells, as shown in Fig. 5A.
+
+BEAS-2B cells were then grown in THP-1 conditioned medium
+for 24 h as well. Because the IL-1b levels in GB-conditioned med-
+ium was consistent with control, as described in Section 3.2, GB-
+conditioned medium was not used in the conditionally treated
+BEAS-2B cells. Several cytokines were found to be induced by con-
+ditioned medium (see Supplementary Tables 1 and 2). The most
+significant change occurred in IL-6 levels as shown in Fig. 5B. In
+comparison to Fig. 5A, direct treatment with Chry40 induced a
+4.8-fold increase of IL-6 compared to control; whereas the increase
+in IL-6 by Chry40-conditioned medium was only 1.5-fold. The in-
+crease in IL-6 by LIB-conditioned medium was less than seen with
+Chry-conditioned medium. These data support the contention that
+induction of IL-6 by THP-1 conditioned medium may be related to
+IL-1b.
+
+Activation of the MAPK cascade is a prominent finding in epi-
+thelial cells directly treated with asbestos [16,36]. Recently, an-
+other inflammatory protein kinase, Cot (cancer osaka thyroid
+oncogene), which is also known as Tpl2 (tumor progression locus
+2) or MAP3K8 and functions upstream of MAPK signaling has been
+described [37]. BEAS-2B cells directly treated with Chry and LIB
+particles showed increased phosphorylation of ERK1/2 and phos-
+phorylation of Cot kinase at Tyr290 compared to control (see Sup-
+plementary Fig. 1A and B). To determine whether conditioned
+medium had the same stimulatory function as directly treated
+BEAS-2B cells, activation of ERK and Cot was examined in BEAS-
+2B cells treated with THP-1 conditioned medium. Fig. 6A shows
+induction of P-ERK and P-Cot by Chry- and LIB-conditioned med-
+ium, similar to effects seen in directly treated cells.
+
+Since the transcription factor NF-jB has also been suggested to
+play a key role in the regulation of IL-6 expression and IL-1b is
+known to specifically induce phosphorylation of NF-jB p65 at
+Ser536 [38], the phosphorylation status of NF-jB p65 at Ser536
+was also examined in conditionally treated BEAS-2B cells. The re-
+sults revealed that phosphorylation of NF-jB p65 at Ser536 was in-
+duced by Chry40-conditioned medium (Fig. 6B). Activation of AP-1,
+which is downstream of MAPK pathways, is another important fea-
+ture of asbestos-treated epithelial cells. Thus, the binding activity
+of AP-1 was compared by EMSA, as shown in Fig. 6C, and demon-
+strated that the binding activity of AP-1 was augmented by both
+Chry40 and Lib20 conditioned medium.
+
+To determine if IL-1b itself could activate BEAS-2B cells to se-
+crete IL-6 as it appears to have done with conditioned medium,
+we treated cells with recombinant human IL-1b protein. IL-1Ra,
+an antagonist protein of IL-1b, was also used in parallel to test its
+effect on inhibition of IL-1b. Fig. 7A summarizes the IL-1b effect
+on IL-6 secretion. Treatment of BEAS-2B with 10 ng/ml of IL-1b in-
+duced �1.6-fold increase in IL-6 secretion compared to control, but
+increasing the dose beyond 10 ng/ml did not show a dose-depen-
+dent increase of IL-6 (data not shown). The effect of 100 ng/ml of
+IL-1b on IL-6 was even lower than the effect of 10 ng/ml. This find-
+ing is consistent with an effective dose in pharmacology (ED50)
+where the ED50 of recombinant IL-1b is commonly reported to
+be much less than 10 ng/ml. The IL-1Ra molecule is structurally re-
+lated to IL-1b but has mutations rendering it incapable of forming a
+complex with IL-1b/IL-1RI/IL-1 receptor accessory protein (IL-
+1RAcP) [39]. IL-1Ra-treatment did successfully suppress IL-6
+secretion.
+
+Although BEAS-2B cells treated with conditioned medium did
+not have direct contact with asbestos fibers, both direct and condi-
+tioned medium treatments resulted in phosphorylation of MAPK
+and secretion of IL-6. In addition, IL-1b itself can stimulate BEAS-
+2B in the same manner. The component in the conditioned med-
+ium that mediated the inflammatory message from THP-1 cells
+to BEAS-2B cells is likely to be IL-1b. The specificity of the IL-1b ef-
+fect in conditioned medium was hence tested by IL-1Ra to see
+whether IL-1Ra competitively blocked IL-1b in the conditioned
+medium and consequently affected the cellular responses of
+BEAS-2B cells. BEAS-2B cells were treated with THP-1-conditioned
+medium, in addition to Chry40 and Lib40 with or without 40 lM of
+ZYF (Chry40, Chry40 + ZYF, Lib40, Lib40 + ZYF) for 24 h. 400 ng/ml
+of IL-1Ra inhibitor was added to another set of Chry40- or Lib40-
+conditioned media (Chry40 + IL-1Ra, Lib40 + IL-1Ra). Fig. 7B illus-
+trates the corresponding changes in IL-6 by the Milli-Plex 2 Assay
+done in triplicate. Conditioned medium of Chry40 + ZYF slightly
+decreased IL-6; however, addition of IL-1Ra to Chry40-conditioned
+medium had a much greater effect on the suppression of IL-6 re-
+lease. In contrast, LIB treatments showed the same trends, but
+none of the differences reached significance. Fig. 7C shows a repre-
+sentative of Western-blots on the top and two summary graphs be-
+low. Results in Fig. 7C indicates the same trend of the inhibitory
+effects of IL-1Ra on the phosphorylation of ERK1/2 and Cot by
+Chry40-conditioned medium.
+
+In summary, both IL-6 and MAPK results demonstrate that
+blocking of IL-1b leads to down-regulation of the effects of
+Chry40-conditioned medium on BEAS-2B. This suggests that IL-
+1b in Chry-conditioned medium is responsible for triggering
+inflammatory responses in BEAS-2B cells. In contrast, blocking of
+IL-1b appears to play a smaller role in the effects induced by LIB.
+
+3.5. Comparison of cytotoxicity and inflammatory effects based on
+matched surface area
+
+We have compared the effects of Chry and LIB using mass con-
+centrations of 20 and 40 lg/ml that is equivalent to mass-per-area
+of 5 and 10 lg/cm2. To further evaluate whether the total surface
+area (SA) of particles affected the respective responses, the other
+approach which measures ‘‘the total surface area per unit of
+cross-sectional area’’ was also examined. According to the refer-
+enced SA values shown in Table 1, the SA of Chry is 28.83 m2/g, Lib-
+by-6 mix is 5 m2/g, and the GB control is 3 m2/g. Two
+
+
+
+Fig. 4. Redox status in Chry and LIB treated THP-1 cells. THP-1 cells were treated with Chry and LIB for 24 h. (A) Protein levels of two antioxidant-related enzymes, MnSOD
+and GCLC, were evaluated by Western blots. The upper panel shows two representative blots for Chry and LIB separately with b-actin as a loading control; the lower panel
+shows two bar-graphs illustrating MnSOD and GCLC expression, respectively. Data are from 3 independent experiments (mean ± SE). � Indicates p 6 0.05 when comparing
+Chry or LIB treatments with control; � indicates p 6 0.05 when comparing LIB with the same dose of Chry. (B) Protein carbonyl modification after 40 lg/ml of Chry and LIB
+treatments with or without ZYF detected by the OxyBLOTTM Assay. A representative blot showing multiple dark bands of oxidized proteins. b-actin in the same blot serves as a
+loading control. (C) Nitrated proteins were detected by anti 3-nitrotyrosine antibody. A representative Western blot shows multiple dark bands for tyrosine nitration. The
+membrane was re-blotted with a-tubulin as a loading control. (D) Lipid and aqueous peroxide in THP-1 conditional medium analyzed by the OxiSelect Hydrogen Peroxide
+assay in triplicate (values are mean ± SD); the upper dark box shows the aqueous part, the lower textured box shows the lipid fraction. � Indicates p 6 0.05 when comparing
+Chry or LIB treatments with control; � indicates p 6 0.05 when comparing LIB with the same dose of Chry.
+
+724 M. Li et al. / Cytokine 60 (2012) 718–730
+
+
+
+Fig. 5. Secretion of IL-6 in both directly and conditionally treated BEAS-2B cells. BEAS-2B cells were either directly or conditionally treated with Chry and LIB as described in
+the methods. Secretion of IL-6 was analyzed by the Bio-Plex-27 human cytokine kit. (A) IL-6 levels relative to control in directly treated BEAS-2B cells; (B) IL-6 levels relative
+to control in conditionally treated BEAS-2B. Each bar-graph summarizes three independent experiments (mean ± SE) and � indicates p 6 0.05 compared to control.
+
+Fig. 6. Activation of ERK, Cot, NF-jB, and AP-1 in BEAS-2B cells. BEAS-2B cells were conditionally treated as described in the methods. (A) The phosphorylation of ERK1/2
+(Thr202/Tyr204) and Cot (Tyr290) was detected by Western blots. Representative blots show either phosphorylated or total ERK and Cot on the left, with b-actin as a loading
+control; two bar-graphs summarizing 3 independent experiments (mean ± SE) are shown on the right, � indicates p 6 0.05 compared with the control. (B) The
+phosphorylation of NF-jB p65 at Ser536 was detected by Western blots. Representative blot showing either phosphorylated or total and re-probed with b-actin. The bar-
+graph summarizing 3 independent experiments (mean ± SE) is shown on the right, (C) representative EMSA from conditionally treated BEAS-2B cells displaying AP-1 binding
+activities. 10 ng/ml of TNF treatment was used as a positive control.
+
+M. Li et al. / Cytokine 60 (2012) 718–730 725
+concentrations of the total SA per area were selected that allow us
+to compare them to the other concentrations used. One is
+25 � 106 lm2/cm2, which is equivalent to a mass concentration
+of 3.3 lg/ml Chry or 20 lg/ml LIB; the other is 150 � 106 lm2/
+cm2, which is equivalent to mass concentration of 20 lg/ml Chry
+or 120 lg/ml LIB. Cell viability and cytokine/chemokine secretion
+were again compared. Fig. 8A and B illustrates cell viability result-
+ing from the same total surface area of Chry and LIB fibers in per
+cm2 of exposed THP-1 or BEAS-2B cells. Fig. 8A shows that both fi-
+bers have a dose-dependent cytotoxic effect on THP-1 cells but that
+the effect of Chry150 was much greater than Lib150. Meanwhile,
+Fig. 8B shows that both Chry and LIB induced similar trends in re-
+sponses of BEAS-2B cells where both resulted in minimal cytotox-
+icity of these cells. Fig. 8C and D compared the release of IL-1b by
+THP-1 cells and IL-6 by BEAS-2B cells respectively. Although both
+particles had shown similar trends of cytotoxicity, Chry elicited a
+totally different inflammatory response than LIB. Release of IL-1b
+in Fig. 8C was dramatically increased in Chry150 with an opposite
+effect with Lib150, suggesting that Chry150 resulted in an inflam-
+matory form of cell death with increased cytokines; whereas
+Lib150 resulted in a cell death without inflammation. Similarly,
+Fig. 8D shows that secretion of IL-6 for the Chry150 was also quite
+
+
+
+Fig. 7. Blocking the effects of IL-1b by IL-1Ra in BEAS-2B cells. (A) BEAS-2B cells were treated with 10 or 100 ng/ml of recombinant human IL-1b protein with or without
+400 ng/ml of IL-1Ra, bar-graph summarizes the effects of IL-1b and IL-1Ra on BEAS-2B release of IL-6 from three individual cytokine assays (mean ± SE). (B) BEAS-2B cells
+were treated with conditioned medium for 24 h; the inhibitory effect of IL-1Ra on IL-6 secretion was measured by a Milli-Plex 2 assay in triplicate (mean ± SD). ‘‘Chry40 + IL-
+1Ra’’ or ‘‘Lib40 + IL-1Ra’’ means that 400 ng/ml of IL-1Ra was added to Chry40 or Lib40 conditioned medium before using for the treatment of BEAS-2B cells � Indicates
+p 6 0.05 for Chry or LIB conditioned treatment compared to control. � indicates p 6 0.05 for comparison between Chry40 and Lib40 conditioned treatments with or without
+IL-1Ra. (C) Top panel is a representative Western blot showing the inhibitory effects of IL-1Ra on phosphorylation of ERK1/2 and Cot. with b-actin as a loading control. Lower
+panel shows two graphs (mean ± SE) summarizing the phosphorylation of ERK1/2 and Cot in both Chry40 and Lib40 conditionally treated cells respectively, with or without
+IL-1Ra inhibitor.
+
+726 M. Li et al. / Cytokine 60 (2012) 718–730
+different from Lib150. These data suggest that Chry had a much
+greater effect on IL-1b and IL-6 secretion than LIB, which was inde-
+pendent of matched total surface area.
+
+4. Discussion
+
+4.1. IL-1b acts as a secondary mediator
+
+The present data elucidate the role of IL-1b in the primary re-
+sponses of the macrophage and its interaction with epithelial cells
+as follows: (1) when exposed to Chry and LIB, THP-1 cells under-
+went a caspase-1 mediated inflammasome activation that resulted
+in an inflammatory form of cell death which now known as pyrop-
+tosis [40] and produced the proinflammatory cytokine, IL-1b; (2)
+exogenous IL-1b treatment activated BEAS-2B and triggered
+BEAS-2B inflammatory responses; (3) THP-1 conditioned medium,
+containing secreted IL-1b, mimicked the effect of IL-1b treatment;
+and (4) blocking IL-1b by IL-1Ra antagonist protein diminished the
+effects of conditioned medium on BEAS-2B. Together, it appears
+that the IL-1b in THP-1 conditioned medium acts as the secondary
+mediator that stimulates the BEAS-2B immune response to Chry
+and LIB.
+
+However, activation of target cells by IL-1b is tightly regulated
+at many levels, both extracellularly and intracellularly [39,41].
+The extracellular regulation includes the presence of naturally
+occurring inhibitors, such as the receptor antagonist, IL-1Ra. In
+addition to the release of IL-1b, THP-1 cells also released IL-1Ra
+simultaneously, as shown in Supplementary Tables 1 and 2. Thus,
+the effect of endogenous IL-1b in THP-1 conditioned medium
+was naturally restricted when it was applied to BEAS-2B cells. All
+of these inhibitory effects could explain why a dramatic 10-fold
+higher level of IL-1b in THP-1 conditioned medium treated with
+Chry40 was limited to only 1.5-fold greater release of IL-6 by
+BEAS-2B cells.
+
+4.2. Chry and LIB differentially activate the inflammasome in THP-1
+cells
+
+In the present work, through comparison of THP-1 cells re-
+sponses to Chry with LIB, we demonstrated that chrysotile asbestos
+has more effect on the activation of the NLRP3 inflammasome than
+LIB. Although Fig. 2B did not show that the NLRP3 expression in
+Chry treatments is higher than in LIB, activation of caspase-1 and
+release of IL-1b were greater in Chry than LIB treatments. NLRP3
+inflammasome activation has been defined as a rapid process in
+which caspase-1 cleavage is induced. The process is independent
+of upstream de novo transcription [42]. Cell priming through mul-
+tiple signaling receptors that induce NLRP3 expression is necessary
+
+
+
+Fig. 8. Comparison of cell viability and pro-inflammatory cytokines with two matched SA/area concentrations (25 and 150 lm2/cm2). Cell viability assay and cytokine assay
+were run in duplicate, � indicates p 6 0.05 for comparison between Chry or LIB exposure and the control. � indicates p 6 0.05 when comparison between Chry and the same
+dose of LIB. (A) Cell viability in THP-1 cells. (B) Cell viability in BEAS-2B cells. (C) Secretion of IL-1b by THP-1 cells. (D) Secretion of IL-6 by BEAS-2B cells.
+
+M. Li et al. / Cytokine 60 (2012) 718–730 727
+but not sufficient for NLRP3 activation [43]. This priming can be
+overcome solely by constitutive NLRP3 expression. Actually, mac-
+rophages appear to express high levels of NLRP3 constitutively
+and can bypass the requirement of NLRP3 expression [44,45].
+Therefore, it is the activation of caspase-1, rather than expression
+of NLRP3, that is a key indicator of activation of NLRP3 inflamma-
+some in THP-1 cells.
+
+Environmental toxicants (such as asbestos) and damage-associ-
+ated molecular patterns (DAMPs) activate the NLRP3 inflamma-
+some, but the mechanisms by which these structurally distinct
+molecules trigger NLRP3 oligomerization and inflammasome acti-
+vation are currently unclear and have been intensely debated in
+the literature [46]. A model in which the generation of ROS is
+one of the crucial elements for NLRP3 activation has been sug-
+gested [47]. However, recent studies in mice and humans defective
+in the generation of ROS failed to support this hypothesis and
+strongly suggested anti-inflammatory effects of ROS [48,49]. Fur-
+thermore, SOD was reported to be required for the activation of
+caspase-1; SOD1 deficiency led to more ROS in macrophages but
+caused caspase-1 inhibition by specific oxidation and glutathiony-
+lation [50].
+
+In this study, Chry did not generate more intracellular ROS than
+LIB (Fig. 4), which was associated with more protein oxidation and
+tyrosine nitration. In addition, Chry promoted production of
+MnSOD protein but LIB did not. It seems unlikely that ROS were
+driving activation of the inflammasome in Chry treated THP-1 cells.
+
+However, an alternative model of inflammasome activation that
+takes into account the size of the activators is the lysosome rupture
+model, which is particularly useful in explaining NLRP3 inflamma-
+some activation by large particulate activators, such as Chry.
+According to this model, when phagocytosed particulates are too
+large to be efficiently cleared, inefficient clearance of the activating
+particle following phagocytosis leads to phagosomal destabiliza-
+tion and lysosomal rupture [47]. Lysosomal damage results in the
+release of lysosomal proteases into the cytosol that mediates
+NLRP3 inflammasome activation [51,52]. Since the selected model
+for inflammasome activation is closely related to the particulate
+size, it is reasonable to link the consequences of THP-1 cells in re-
+sponse to Chry and LIB with their remarkably different physical
+sizes. Chrysotile fibers belong to the group of longer and thinner fi-
+bers; the length of Chry is about 3 times that of LIB, and the mean
+surface area is about 5–6 times that of LIB (see Table 1), suggesting
+that Chry has more potential to result in aggressive lysosomal rup-
+ture and subsequent activation of the NLRP3 inflammasome. It has
+been well-demonstrated that longer fibers are incapable of under-
+going phagocytosis in vitro and in animals [21]. Long fibers have a
+greater potency than short fibers in assays of pro-inflammatory
+and genotoxic activity [53], and stimulate greater release of IL-1b
+by macrophages [5]. Therefore, further study of the correlations
+between particle size and activation of the inflammasome would
+be particularly interesting. In contrast, LIB probably stimulates
+more ROS production via a tightly controlled ROS-mediated model
+[51] in which, ROS primes NLRP3 on the one hand, but may impact
+inflammasome activation and down-regulate caspase-1 activity on
+the other hand.
+
+4.3. Signaling cascade in BEAS-2B cells mediated by the conditioned
+medium
+
+We have demonstrated that IL-1b is a major player in THP-1
+conditioned medium, leading to the initiation of the inflammatory
+response in the BEAS-2B cells. Besides IL-1b, we also detected lip-
+ids peroxides in conditioned medium (Fig. 4D) which is possibly
+another ‘‘alarm’’ signal that triggers responses in BEAS-2B. How-
+ever, this should be specifically identified and confirmed in future
+studies.
+
+Combining our findings with those from others, the process
+through which IL-1b triggers BEAS-2B release of IL-6 likely consists
+
+
+
+Fig. 9. Proposed schema for Chry and LIB induced signal transduction from the macrophage to the epithelium. In the macrophage ‘‘priming’’ step, the pro-inflammatory
+signals mediate activation of receptors and induction of NLRP3, procaspase-1 and pro-IL-1b. When macrophages are exposed to chrysotile fibers, phagocytosis is followed by
+phagosomal destabilization and lysosomal rupture. Lysosomal damage results in the release of cathepsin B into the cytosol that triggers three members of NLRP3
+inflammasome to assemble and subsequent activation of ASC (apoptosis-associated speck-like protein containing a CARD). This second step eventually activates pro-caspase-
+1, which in turn cleaves pro-IL-1b. In comparison to chrysotile, the relatively smaller size of the Libby amphibole probably results in more ROS production via a tightly
+controlled ROS-mediated model in which, ROS activate NLRP3, although high oxygen tension can also impact inflammasome function and down-regulate caspase-1 activity.
+In the epithelial cell, IL-1b signal transduction is initiated through a ligand-induced conformational change in the first extracellular domain of the IL-1RI that facilitates
+recruitment of IL-1RacP. Meanwhile, IL-1Ra can block the IL-1b signaling. The trimetric complex rapidly assembles two intracellular signaling proteins, MYD88, and IRAK,
+then through TRAF6 (TNF receptor-associated factor 6) linked to the downstream protein kinase cascades, including MAPK kinase family, Cot and IjB kinases (IKKs). The
+activation of ERK1/2 or other MAPKs leads to activation of the AP-1 transcription factor; the IKKb-mediated phosphorylation of p65 modulates NF-jB activity. Both AP-1 and
+NF-jB can directly up-regulate its target gene, IL-6. IL-6 further contributes to asbestos-related pathological phenotypes, such as asbestosis, lung cancer, and mesothelioma.
+
+728 M. Li et al. / Cytokine 60 (2012) 718–730
+
+
+
+M. Li et al. / Cytokine 60 (2012) 718–730 729
+of the following steps, as illustrated in Fig. 9. The initial step in IL-
+1b signal transduction is a ligand-induced conformational change
+in the first extracellular domain of the IL-1RI that facilitates
+recruitment of IL-1RacP. Through conserved cytosolic regions
+called Toll- and IL-1R-like (TIR) domains, the trimetric complex
+rapidly assembles two intracellular signaling proteins, myeloid dif-
+ferentiation primary response gene 88 (MYD88) and interleukin-1
+receptor–activated protein kinase (IRAK) [41]. The IL-1R�TLR
+receptor-mediated signals, which are linked to the downstream
+protein kinase cascades, have been studied extensively. Members
+of the MAPK kinase (MAPKKK; called MAP3 K here) family, includ-
+ing MEKK1, 2, 3 and Cot (Tpl2 or MAP3K8) are critical in this pro-
+cess [54–56]. The activation of ERK1/2 or other MAPKs leads to
+activation of the AP-1 transcription factor, which could directly
+up-regulate its target gene, IL-6. In addition, the IKKb-mediated
+phosphorylation of p65 at Ser536 requires the upstream kinases
+Cot (Tpl2) and PKCf [57]. Then, in turn, IL-6 may act as a significant
+autocrine growth factor in epithelial cells [58,59] to further induce
+asbestos-related pathological phenotypes, such as asbestosis, lung
+cancer, and mesothelioma.
+
+5. Conclusion
+
+We have investigated the signal transduction from the THP-1
+macrophages to bronchial epithelial cells (BEAS-2B) in response
+to Chry and LIB through direct treatments of THP-1 cells followed
+by THP-1 conditioned medium treatments of BEAS-2B. We found
+that direct treatments of THP-1 cells with Chry and LIB differen-
+tially activated the inflammasome in processing IL-1b. IL-1b in con-
+ditioned medium acts as a secondary mediator to trigger BEAS-2B
+cells signaling cascades, including ERK, Cot, and then AP-1 and NF-
+kB, to induce IL-6, which then leads epithelial cells to pathologic
+phenotypes. Using IL-1Ra could interrupt the interaction and
+may have a potential therapeutic effect when exposure to patho-
+genic particles occurs.
+
+Acknowledgements
+
+The authors thank Brooke T. Mossman, Arti Shukla, Maximilian
+B. MacPherson, and Jedd Hillegass for helpful discussions.
+
+Appendix A. Supplementary material
+
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.cyto.2012.08.025.
+
+References
+
+[1] Agency for Toxic Substances and Disease Registry. Asbestos: Health Effects,
+Retrieved April 10; 2009. <http://www.atsdr.cdc.gov/asbestos/asbestos/
+health_effects/index.html>.
+
+[2] Martinez FO, Helming L, Gordon S. Alternative activation of macrophages: an
+immunologic functional perspective. Annu Rev Immunol 2009;27:451–83.
+
+[3] Dostert C, Petrilli V, Van Bruggen R, Steele C, Mossman BT, Tschopp J. Innate
+immune activation through Nalp3 inflammasome sensing of asbestos and
+silica. Science 2008;320:674–7.
+
+[4] Cassel SL, Eisenbarth SC, Iyer SS, Sadler JJ, Colegio OR, Tephly LA, et al. The
+Nalp3 inflammasome is essential for the development of silicosis. Proc Nat
+Acad Sci 2008;105:9035–40.
+
+[5] Palomäki J, Välimäki E, Sund J, Vippola M, Clausen PA, Jensen KA, et al. Long,
+needle-like carbon nanotubes and asbestos activate the NLRP3 inflammasome
+through a similar mechanism. ACS Nano 2011;5:6861–70.
+
+[6] Kummer JA, Broekhuizen R, Everett H, Agostini L, Kuijk L, Martinon F, et al.
+Inflammasome components NALP 1 and 3 show distinct but separate
+expression profiles in human tissues suggesting a site-specific role in the
+inflammatory response. J Histochem Cytochem 2007;55:443–52.
+
+[7] Martinon F, Mayor A, Tschopp J. The inflammasomes: guardians of the body.
+Annu Rev Immunol 2009;27:229–65.
+
+[8] Hornung V, Bauernfeind F, Halle A, Samstad EO, Kono H, Rock KL, et al. Silica
+crystals and aluminum salts activate the NALP3 inflammasome through
+phagosomal destabilization. Nat Immunol 2008;9:847–56.
+[9] Flavell RA, Elinav E, Hu B, Sutterwala F, Eisenbarth S. KL1 the inflammasome in
+health and disease. Cytokine 2010;52:2.
+
+[10] Peters M, Meyer zum Büschenfelde K-H, Rose-John S. The function of the
+soluble IL-6 receptor in vivo. Immunol Lett 1996;54:177–84.
+
+[11] Haegens A, van der Vliet A, Butnor KJ, Heintz N, Taatjes D, Hemenway D, et al.
+Asbestos-induced lung inflammation and epithelial cell proliferation are
+altered in myeloperoxidase-null mice. Cancer Res 2005;65:9670–7.
+
+[12] Shukla A, Lounsbury KM, Barrett TF, Gell J, Rincon M, Butnor KJ, et al. Asbestos-
+induced peribronchiolar cell proliferation and cytokine production are
+attenuated in lungs of protein kinase C-delta knockout mice. Am J Pathol
+2007;170:140–51.
+
+[13] Simeonova PP, Toriumi W, Kommineni C, Erkan M, Munson AE, Rom WN, et al.
+Molecular regulation of IL-6 activation by asbestos in lung epithelial cells: role
+of reactive oxygen species. J Immunol 1997;159:3921–8.
+
+[14] Cummins AB, Palmer C, Mossman BT, Taatjes DJ. Persistent localization of
+activated extracellular signal-regulated kinases (ERK1/2) is epithelial
+cell-specific in an inhalation model of asbestosis. Am J Pathol 2003;162:
+713–20.
+
+[15] Wang X, Samet J, Ghio A. Asbestos-induced activation of cell signaling
+pathways in human bronchial epithelial cells. Exp Lung Res 2006;32:
+229–43.
+
+[16] Robledo RF, Buder-Hoffmann SA, Cummins AB, Walsh ES, Taatjes DJ, Mossman
+BT. Increased phosphorylated extracellular signal-regulated kinase
+immunoreactivity associated with proliferative and morphologic lung
+alterations after chrysotile asbestos inhalation in mice. Am J Pathol
+2000;156:1307–16.
+
+[17] Drumm K, Messner C, Kienast K. Reactive oxygen intermediate-release of
+fibre-exposed monocytes increases inflammatory cytokine-mRNA level,
+protein tyrosine kinase and NF-jB activity in co-cultured bronchial
+epithelial cells (BEAS-2B). Eur J Med Res 1999;4:257–63.
+
+[18] Kienast K, Kaes C, Drumm K, Buhl R, Micke P, Oesch F, et al. Asbestos-exposed
+blood monocytes–deoxyribonucleic acid strand lesions in co-cultured
+bronchial epithelial cells. Scand J Work Environ Health 2000;26:71–7.
+
+[19] Herseth JI, Refsnes M, Lag M, Hetland G, Schwarze PE. IL-1b as a determinant in
+silica-induced cytokine responses in monocyte-endothelial cell co-cultures.
+Hum Exp Toxicol 2008;27:387–99.
+
+[20] Gunter ME, Belluso E, Mottana A. Amphiboles: environmental and health
+concerns. Rev Mineral Geochem 2007;67:453–516.
+
+[21] Campbell WJ, Huggins CW, Wylie AG. Chemical and physical characterization
+of amosite, chrysotile, crocidolite, and nonfibrous tremolite for oral ingestion
+studies by the National Institute of Environmental Health. Sciences
+1980;8452:1–63.
+
+[22] Bandli BR, Gunter ME. A review of scientific literature examining the mining
+history, geology, mineralogy, and amphibole asbestos health effects of the
+Rainy Creek igneous complex, Libby, Montana, USA. Inhal Toxicol
+2006;18:949–62.
+
+[23] Meeker GP, Bern AM, Brownfield IK, Lowers HA, Sutley SJ, Hoefen TM, et al. The
+composition and morphology of amphibole from the Rainy Creek Complex,
+near Libby, Montana. Am. Mineral. 2003;88:1955–69.
+
+[24] Bellamy JM, Gunter ME. Morphological characterization of Libby ‘‘six-mix’’
+used in in vivo studies. Periodico Di Mineralogia 2008;77:75–82.
+
+[25] Schwende H, Fitzke E, Ambs P, Dieter P. Differences in the state of
+differentiation of THP-1 cells induced by phorbol ester and 1,25-
+dihydroxyvitamin D3. J Leukoc Biol 1996;59:555–61.
+
+[26] Tsuchiya S, Kobayashi Y, Goto Y, Okumura H, Nakae S, Konno T, et al. Induction
+of maturation in cultured human monocytic leukemia cells by a phorbol
+diester. Cancer Res 1982;42:1530–6.
+
+[27] Churg A, Wiggs B. Fiber size and number in workers exposed to processed
+chrysotile asbestos, chrysotile miners, and the general population. Am J Ind
+Med 1986;9:143–52.
+
+[28] Groppo C, Tomatis M, Turci F, Gazzano E, Ghigo D, Compagnoni R, et al.
+Potential toxcity of nonregulated asbestiform minerals: balangeroite from the
+Western Alps. Part 1: identification and characterization. J Toxicol Environ
+Health A 2005;68:1–19.
+
+[29] Hillegass J, Shukla A, MacPherson M, Lathrop S, Alexeeva V, Perkins T, et al.
+Mechanisms of oxidative stress and alterations in gene expression by Libby
+six-mix in human mesothelial cells. Parti Fibre Toxicol 2010;7:26.
+
+[30] Valentine R, Chang MJ, Hart RW, Finch GL, Fisher GL. Thermal modification of
+chrysotile asbestos: evidence for decreased cytotoxicity. Environ Health
+Perspect 1983;51:357–68.
+
+[31] Shukla A, MacPherson MB, Hillegass J, Ramos-Nino ME, Alexeeva V, Vacek PM,
+et al. Alterations in gene expression in human mesothelial cells correlate with
+mineral pathogenicity. Am J Respir Cell Mol Biol 2009;41:114–23.
+
+[32] Li M, Chiu JF, Mossman BT, Fukagawa NK. Down-regulation of manganese-
+superoxide dismutase through phosphorylation of FOXO3a by Akt in
+explanted vascular smooth muscle cells from old rats. J Biol Chem
+2006;281:40429–39.
+
+[33] Li M, Chiu JF, Kelsen A, Lu SC, Fukagawa NK. Identification and characterization
+of an Nrf2-mediated ARE upstream of the rat glutamate cysteine ligase
+catalytic subunit gene (GCLC). J Cell Biochem 2009;107:944–54.
+
+[34] Blake DJ, Bolin CM, Cox DP, Cardozo-Pelaez F, Pfau JC. Internalization of Libby
+amphibole asbestos and induction of oxidative stress in murine macrophages.
+Toxicol Sci 2007;99:277–88.
+
+[35] Haegens A, Barrett TF, Gell J, Shukla A, MacPherson M, Vacek P, et al. Airway
+epithelial NF-jB activation modulates asbestos-induced inflammation and
+mucin production in vivo. J Immunol 2007;178:1800–8.
+
+http://dx.doi.org/10.1016/j.cyto.2012.08.025
+http://www.atsdr.cdc.gov/asbestos/asbestos/health_effects/index.html
+http://www.atsdr.cdc.gov/asbestos/asbestos/health_effects/index.html
+
+
+730 M. Li et al. / Cytokine 60 (2012) 718–730
+[36] Ramos-Nino ME, Haegens A, Shukla A, Mossman BT. Role of mitogen-activated
+protein kinases (MAPK) in cell injury and proliferation by environmental
+particulates. Mol Cell Biochem 2002;234–235:111–8.
+
+[37] Johannessen CM, Boehm JS, Kim SY, Thomas SR, Wardwell L, Johnson LA, et al.
+COT drives resistance to RAF inhibition through MAP kinase pathway
+reactivation. Nature 2010;468:968–72.
+
+[38] Buss H, Dörrie A, Schmitz ML, Hoffmann E, Resch K, Kracht M. Constitutive and
+interleukin-1-inducible phosphorylation of p65 NF-jB at Serine 536 is
+mediated by multiple protein kinases including IjB kinase (IKK)-a, IKKb,
+IKKe, TRAF Family member-associated (TANK)-binding kinase 1 (TBK1), and
+an unknown kinase and couples p65 to TATA-binding protein-associated
+factor II31-mediated interleukin-8 transcription. J Biol Chem 2004;279:
+55633–43.
+
+[39] Arend WP, Palmer G, Gabay C. IL-1, IL-18, and IL-33 families of cytokines.
+Immunol Rev 2008;223:20–38.
+
+[40] Bergsbaken T, Fink SL, Cookson BT. Pyroptosis: host cell death and
+inflammation. Nat Rev Micro 2009;7:99–109.
+
+[41] Weber A, Wasiliew P, Kracht M. Interleukin-1 (IL-1) pathway. Sci Signal
+2010;3:cm1.
+
+[42] Bauernfeind F, Ablasser A, Bartok E, Kim S, Schmid-Burgk J, Cavlar T, et al.
+Inflammasomes: current understanding and open questions. Cell Mol Life Sci
+2010:1–19.
+
+[43] Bauernfeind FG, Horvath G, Stutz A, Alnemri ES, MacDonald K, Speert D, et al.
+Cutting edge: NF-jB activating pattern recognition and cytokine receptors
+license NLRP3 inflammasome activation by regulating NLRP3 expression. J
+Immunol 2009;183:787–91.
+
+[44] Gong Y-N, Wang X, Wang J, Yang Z, Li S, Yang J, et al. Chemical probing reveals
+insights into the signaling mechanism of inflammasome activation. Cell Res
+2010;20:1289–305.
+
+[45] Bauernfeind F, Bartok E, Rieger A, Franchi L, Núñez G, Hornung V. Cutting edge:
+reactive oxygen species inhibitors block priming, but not activation, of the
+NLRP3 inflammasome. J Immunol 2011;187:613–7.
+
+[46] Bryant C, Fitzgerald KA. Molecular mechanisms involved in inflammasome
+activation. Trends Cell Biol 2009;19:455–64.
+
+[47] Tschopp J, Schroder K. NLRP3 inflammasome activation: the convergence of
+multiple signalling pathways on ROS production? Nat Rev Immunol
+2010;10:210–5.
+[48] Romani L, Fallarino F, De Luca A, Montagnoli C, D’Angelo C, Zelante T, et al.
+Defective tryptophan catabolism underlies inflammation in mouse chronic
+granulomatous disease. Nature 2008;451:211–5.
+
+[49] van de Veerdonk FL, Smeekens SP, Joosten LAB, Kullberg BJ, Dinarello CA, van
+der Meer JWM, et al. Reactive oxygen species–independent activation of the
+IL-1b inflammasome in cells from patients with chronic granulomatous
+disease. Proc Nat Acad Sci 2010;107:3030–3.
+
+[50] Meissner F, Molawi K, Zychlinsky A. Superoxide dismutase 1 regulates
+caspase-1 and endotoxic shock. Nat Immunol 2008;9:866–72.
+
+[51] Latz E. The inflammasomes: mechanisms of activation and function. Curr Opin
+Immunol 2010;22:28–33.
+
+[52] Schroder K, Tschopp J. The Inflammasomes. Cell 2010;140:821–32.
+[53] Donaldson K, Murphy F, Duffin R, Poland C. Asbestos, carbon nanotubes and
+
+the pleural mesothelium: a review of the hypothesis regarding the role of long
+fibre retention in the parietal pleura, inflammation and mesothelioma. Part
+Fibre Toxicol 2010;7:5.
+
+[54] Huang Q, Yang J, Lin Y, Walker C, Cheng J, Liu ZG, et al. Differential regulation
+of interleukin 1 receptor and Toll-like receptor signaling by MEKK3. Nat
+Immunol 2004;5:98–103.
+
+[55] Dumitru CD, Ceci JD, Tsatsanis C, Kontoyiannis D, Stamatakis K, Lin J-H, et al.
+TNF-a induction by LPS is regulated posttranscriptionally via a Tpl2/ERK-
+dependent pathway. Cell 2000;103:1071–83.
+
+[56] Handoyo H, Stafford MJ, McManus E, Baltzis D, Peggie M, Cohen P. IRAK1-
+independent pathways required for the interleukin-1-stimulated activation of
+the Tpl2 catalytic subunit and its dissociation from ABIN2. Biochem J
+2009;424:109–18.
+
+[57] Viatour P, Merville M-P, Bours V, Chariot A. Phosphorylation of NF-jB and IjB
+proteins: implications in cancer and inflammation. Trends Biochem Sci
+2005;30:43–52.
+
+[58] Miki S, Iwano M, Miki Y, Yamamoto M, Tang B, Yokokawa K, et al. Interleukin-6
+(IL-6) functions as an in vitro autocrine growth factor in renal cell carcinomas.
+FEBS Lett 1989;250:607–10.
+
+[59] Yeh HH, Lai WW, Chen HHW, Liu HS, Su WC. Autocrine IL-6-induced Stat3
+activation contributes to the pathogenesis of lung adenocarcinoma and
+malignant pleural effusion. Oncogene 2006;25:4300–9.
+
+
+	Differential activation of the inflammasome in THP-1 cells exposed to chrysotile asbestos and Libby “six-mix” amphiboles and subsequent activation of BEAS-2B cells
+	1 Introduction
+	2 Materials and methods
+	2.1 Cell culture
+	2.2 Chrysotile asbestos and Libby six-mix treatments
+	2.3 Caspase-1 inhibitor treatments
+	2.4 IL-1β and IL-1Ra treatments
+	2.5 CytoTox-Glo™ Assay viability protocol
+	2.6 LDH cytotoxicity assay
+	2.7 Cytokine assays
+	2.8 Caspase-1 FLICA assay
+	2.9 Western-blot analysis
+	2.10 Oxidized protein detection
+	2.11 Lipid and aqueous peroxides assay
+	2.12 EMSA for AP-1
+	2.13 Statistics
+
+	3 Results
+	3.1 Cell viability in response to asbestos exposure
+	3.2 IL-1β and caspase-1 responses in THP-1 cells
+	3.3 Comparison of ROS production in Chry and LIB treated THP-1 cells
+	3.4 Role of IL-1β in BEAS-2B responses to THP-1-
+	3.5 Comparison of cytotoxicity and inflammatory effects based on matched surface area
+
+	4 Discussion
+	4.1 IL-1β acts as a secondary mediator
+	4.2 Chry and LIB differentially activate the inflammasome in THP-1 cells
+	4.3 Signaling cascade in BEAS-2B cells mediated by the conditioned medium
+
+	5 Conclusion
+	Acknowledgements
+	Appendix A Supplementary material
+	References

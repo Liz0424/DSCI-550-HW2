@@ -1,0 +1,556 @@
+pnas201617441 7867..7868
+
+
+Correction
+
+CELL BIOLOGY
+Correction for “Drosophila Mgr, a Prefoldin subunit cooperating
+with von Hippel Lindau to regulate tubulin stability,” by Nathalie
+Delgehyr, Uta Wieland, Hélène Rangone, Xavier Pinson, Guojie
+Mao, Nikola S. Dzhindzhev, Doris McLean, Maria G. Riparbelli,
+Salud Llamazares, Giuliano Callaini, Cayetano Gonzalez, and
+David M. Glover, which appeared in issue 15, April 10, 2012, of
+Proc Natl Acad Sci USA (109:5729–5734; first published March 26,
+2012; 10.1073/pnas.1108537109).
+The authors wish to note, “In Fig. 4A in this article, the two last
+
+panels were identical due to incorrect handling during the final
+assembly of the figure. The description of the results is accurate
+and these changes have no bearing on the experimental results or
+the conclusions. The figure legend has been corrected to indicate
+35S-Vhl and its likely degradation product. We apologize for any
+inconvenience that this error has caused.” The corrected Fig. 4
+and its corrected legend appear below.
+
+www.pnas.org PNAS | November 29, 2016 | vol. 113 | no. 48 | E7867–E7868
+
+C
+O
+R
+R
+EC
+
+TI
+O
+N
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ h
+tt
+
+ps
+:/
+
+/w
+w
+
+w
+.p
+
+na
+s.
+
+or
+g 
+
+by
+ N
+
+or
+ri
+
+s 
+M
+
+ed
+ic
+
+al
+ L
+
+ib
+ra
+
+ry
+ U
+
+ni
+v 
+
+S
+ou
+
+th
+er
+
+n 
+C
+
+al
+if
+
+or
+ni
+
+a 
+on
+
+ J
+un
+
+e 
+19
+
+, 2
+02
+
+2 
+fr
+
+om
+ I
+
+P
+ a
+
+dd
+re
+
+ss
+ 1
+
+54
+.5
+
+9.
+12
+
+4.
+74
+
+.
+
+
+
+www.pnas.org/cgi/doi/10.1073/pnas.1617441113
+
+64
+
+50
+
+A
+
+M
+BP
+
+M
+BP
+
+-M
+gr
+
+M
+BP
+
+-V
+hl
+
+M
+BP
+
+M
+BP
+
+-M
+gr
+
+M
+BP
+
+-V
+hl
+
+M
+BPM
+BP
+
+-M
+gr
+
+M
+BP
+
+-V
+hl
+
+35S Vhl35S Mgr
+
+D
+
+-tub-tub
+B
+
+-tub -tub
+
+Coomassie
+
+M
+BP
+
+M
+BP
+
+-V
+hl
+
+M
+BP
+
+M
+BP
+
+-V
+hl
+
+M
+BP
+
+M
+BP
+
+M
+BP
+
+-M
+gr
+
+M
+BP
+
+-M
+gr
+
+C
+
+F
+
+Ct
+rl
+
+6 Days RNAi
+m
+gr
+vh
+l
+
+vh
+l+m
+gr
+
+Ct
+rl
+m
+gr
+vh
+l
+
+vh
+l+m
+gr
+
+9 Days RNAi
+
+-tubulin
+
+Mgr
+
+Loading
+Control
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+%
+ o
+
+f a
+bn
+
+or
+m
+
+al
+ s
+
+pi
+nd
+
+le
+%
+
+ o
+f c
+
+el
+ls
+
+ w
+ith
+
+ou
+t c
+
+en
+tr
+
+os
+om
+
+e
+
+vhl+mgr RNAimgr RNAi
+
+-tubulin
+
+vhl+mgr RNAimgr RNAi
+
+I
+
+E
+
+J
+
+H
+
+0
+
+10
+
+20
+
+30
+
+Ctrl vhl mgr vhl
++
+mgr
+
+p=0.014
+0
+
+20
+
+40
+
+60
+
+80 p=0.0005G
+
+p=0.02
+
+%
+ o
+
+f 
+-t
+
+ub
+ul
+
+in
+ le
+
+ve
+ls
+
+Dplp
+
+*
+
+-tu
+b
+
+MBP-Vhl
++ 35S Mgr
+
+Amido Black
+
+Coomassie Autoradiography
+
+*
+
+64
+
+36
+
+22
+
+36
+
+64
+
+50
+
+36
+
+22
+
+64
+
+50
+36
+
+22
+16
+
+64
+
+36
+
+-tubulin
+
+35S Vhl
+Autoradiography
+
+35S MgrCoomassie
+
+Fig. 4. Mgr and Vhl cooperate in regulating tubulin destruction. (A) MBP, MBP-Mgr, and MBP-Vhl, affinity purified from Escherichia coli extracts (Coomassie stain)
+tested for binding 35S-Methionine labeled Mgr and Vhl synthesized by coupled transcription-translation in vitro. The arrow indicates 35S-Vhl, the second band being
+likely a degradation product (autoradiography). (B) MBP and MBP-Mgr, affinity-purified from E. coli extracts (Coomassie stain) tested for binding purified αβ-tubulin
+(Western blot). (C) MBP and MBP-Vhl, affinity-purified from E. coli extracts (Coomassie stain, Right) tested for binding-purified αβ-tubulin (Coomassie stain, Left).
+(D) MBP-Vhl, affinity purified from E. coli extracts, and tested for binding 35S-Mgr (as in A). Excess of purified αβ-tubulin is insufficient to release the Vhl:Mgr in-
+teraction. (E–J) DMEL-2 cells treated with Control, mgr, Vhl, or mgr and Vhl dsRNA for 6 or 9 d. (E) Levels of β-tubulin in three independent experiments 9 d after
+transfection. (F) Western blot of β-tubulin and Mgr after such treatment. H2A is used as loading control (Ctrl). (G) Percentage of prometaphase and metaphase cells
+with monopolar or disorganized spindles after indicated dsRNA treatment. Error bars = SEMs of three independent experiments. n > 300 metaphase cells; (H) Mitotic
+cells immunostained to reveal microtubules (α-tubulin). (Scale bar, 10 μm.) (I) Percentage of cells without centrosome 9 d after indicated transfections. Error bars = SEM
+of three independent experiments. n > 600 cells. (J) Cells immunostained to reveal centrosomes (Dplp). (Scale bar, 10 μm.) All P values are from Student t tests.
+
+E7868 | www.pnas.org
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ h
+tt
+
+ps
+:/
+
+/w
+w
+
+w
+.p
+
+na
+s.
+
+or
+g 
+
+by
+ N
+
+or
+ri
+
+s 
+M
+
+ed
+ic
+
+al
+ L
+
+ib
+ra
+
+ry
+ U
+
+ni
+v 
+
+S
+ou
+
+th
+er
+
+n 
+C
+
+al
+if
+
+or
+ni
+
+a 
+on
+
+ J
+un
+
+e 
+19
+
+, 2
+02
+
+2 
+fr
+
+om
+ I
+
+P
+ a
+
+dd
+re
+
+ss
+ 1
+
+54
+.5
+
+9.
+12
+
+4.
+74
+
+.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1617441113

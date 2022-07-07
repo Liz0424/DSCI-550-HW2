@@ -1,0 +1,40 @@
+international journal of oncology  50:  1455,  2017
+
+CORRIGENDUM 
+
+Doi: 10.3892/ijo.2017.3900
+
+Promoter methylation of RASSF1A modulates the effect of 
+the microtubule-targeting agent docetaxel in breast cancer
+
+eun young gil, uk Hyun jo, Hoiseon jeong, young 
+Mi WHang, ok Hee Woo, kyu ran cHo, jae Hong seo, 
+aeree kiM, eun sook lee, insong koH, yeul Hong 
+kiM and kyong HWa Park   
+
+int j oncol 41: 611-620, 2012; Doi: 10.3892/ijo.2012.1470
+
+following the publication of this article, an interested reader 
+drew to our attention that there were possible anomalies in the 
+presentation of fig. 5B in the above article. after having 
+examined the figure, we recognized that several errors had 
+indeed occurred during the process of compiling the figure. 
+
+a corrected version of fig. 5 is shown below, containing new 
+data for fig. 5B, after our having re-performed the western blot 
+experiment according to the identical procedure detailed in the 
+paper. We obtained broadly similar results to those featured 
+originally in the article; therefore, the revision of this figure does 
+not affect the conclusions reported in the study. We thank the 
+reader of our article who drew this matter to our attention.
+
+figure 5. rassf1a enhances docetaxel-induced cell cycle arrest. (a) the 
+effect of rassf1a on docetaxel-induced cell cycle arrest was evaluated in 
+MDa-MB-231 cells stably transfected with rassf1a or control vector. cells 
+were analyzed for cell cycle progression. Positions of cell populations with 2N 
+and 4n Dna content are indicated (upper panel). Histogram plotting of the cell 
+cycle progression is shown in lower left, while comparison of cells in g2/M 
+phase is shown in lower right. columns, means (n=3); bars, seM; *P<0.05. 
+(B) expression of cell cycle regulating proteins is shown by western blot 
+analysis. three breast cancer cell lines transfected with rassf1a and control 
+vector were analyzed with or without exposure to docetaxel (10 nM).

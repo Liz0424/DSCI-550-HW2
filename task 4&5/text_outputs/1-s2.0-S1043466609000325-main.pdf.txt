@@ -1,0 +1,1089 @@
+Effect of sodium butyrate on lung vascular TNFSF15 (TL1A) expression: Differential expression patterns in pulmonary artery and microvascular endothelial cells
+
+
+Cytokine 46 (2009) 72–78
+Contents lists available at ScienceDirect
+
+Cytokine
+
+journal homepage: www.elsevier .com/locate / issn/10434666
+Effect of sodium butyrate on lung vascular TNFSF15 (TL1A) expression: Differential
+expression patterns in pulmonary artery and microvascular endothelial cells
+
+Surinder Safaya a,*, Elizabeth S. Klings a,b, Adam Odhiambo b, Guihua Li b, Harrison W. Farber a,b,
+Martin H. Steinberg a,b
+
+a Center of Excellence in Sickle Cell Disease and Division of Hematology/Oncology, 88 East Newton St., Boston, MA 02118, USA
+b The Pulmonary Center, Department of Medicine, Boston University School of Medicine, 88 East Newton St., Boston, MA 02118, USA
+a r t i c l e i n f o
+
+Article history:
+Received 15 February 2008
+Received in revised form 8 December 2008
+Accepted 29 December 2008
+
+Keywords:
+Endothelium
+Butyrate
+TNF-a
+Inflammation
+Sickle cell disease
+1043-4666/$ - see front matter � 2009 Elsevier Ltd. A
+doi:10.1016/j.cyto.2008.12.013
+
+* Corresponding author. Fax: +1 6174141021.
+E-mail address: ssafaya@bu.edu (S. Safaya).
+a b s t r a c t
+
+Vascular endothelial growth inhibitor TNFSF15 (TL1A), a ligand for TNFRSF25 (DR3) and decoy receptor
+TNFRSF6B (DcR3), is expressed in human pulmonary arterial (HPAEC) and lung microvascular (HMVEC)
+endothelial cells where it might modulate inflammation and sickle vasculopathy. Pulmonary disease,
+endothelial abnormalities and inflammation are prominent features of sickle cell disease (SCD). Butyrate
+has opposing effects on endogenous TNFSF15 expression in pulmonary endothelium, acting as an inhib-
+itor in HPAEC and an inducer in HMVEC. Similar effects were observed with a known cytokine TNF-a in
+these two cell types. Furthermore the TNFSF15 promoter utilized different combinations of cis-elements
+for its expression in these two cell types. AP1-like and G-rich sequence elements were critical for pro-
+moter activity in large vessel HPAEC while AP1-like and NF-jB consensus sequence elements were
+required in small vessel HMVEC. The requirement of an NF-jB sequence element by the TNFSF15 pro-
+moter in HMVEC but not in HPAEC supported the notion that HMVEC might be a target of inflammation
+and vasoocclusion in SCD. The dual effects of butyrate-dependant TNFSF15 regulation in lung endothe-
+lium may help in identify inflammatory pathways and understand the role of HMVEC in pathogenesis
+of vasoocclusion in SCD.
+
+� 2009 Elsevier Ltd. All rights reserved.
+1. Introduction
+
+Modifications of the endothelial cell (EC) phenotype can occur
+after exposure to sickle erythrocytes (RBCs) and/or plasma [1,2].
+Exposure of cultured bovine, human pulmonary artery, or human
+lung microvascular endothelial cells (BPAEC, HPAEC and HMVEC)
+to plasma taken from SCD patients during the acute chest syn-
+drome resulted in up-regulation of mRNA expression of the vaso-
+constrictor endothelin-1 (ET-1) and dysregulation of nitric oxide
+(NO) metabolism [1,3]. Exposure of EC to RBCs from SCD patients
+without a recent acute vasoocclusive event (steady-state) induced
+expression of vascular cell adhesion molecule-1 (VCAM-1) and
+intercellular adhesion molecule-1 (ICAM-1) [2]. These data suggest
+a role for chronic inflammation in sickle vasoocclusion as altera-
+tions in the EC phenotype occurred upon exposure to blood com-
+ponents from SCD patients even when they appeared clinically
+well. TNFSF15 encodes a cytokine belonging to the tumor necrosis
+factor ligand family that is predominantly expressed on endothe-
+lial cells and functions as an autocrine cytokine, inhibiting angio-
+genesis, cell proliferation, and tumor growth as well as
+ll rights reserved.
+stabilizing the vasculature [4]. This cytokine plays a role in the
+induction of pro-inflammatory cytokines and extracellular matrix
+degrading enzymes in atherogenesis [5]. Its expression is up-regu-
+lated in inflammatory bowel disease, suggesting a role in inflam-
+mation [6,7]. It also functions as a T-cell co-stimulator leading to
+increased secretion of pro-inflammatory cytokines [8].
+
+Sickle vasculopathy is, at least in part, a result of endothelial
+damage and inflammation. Perturbation of the microvascular
+endothelium, because of its important role in inflammation and
+maintenance of vascular tone, may play a role in sickle vasoocclu-
+sion [9,10]. EC activation may differ between large vessels and the
+microvasculature; this heterogeneity could be a factor in the path-
+ophysiology of diseases across different vascular beds. In earlier
+studies, human umbilical vein endothelial cells (HUVEC) were used
+for endothelial cell activation studies, but concerns about EC heter-
+ogeneity makes this cell type less suitable to study pulmonary
+complications of SCD. Since much of vasoocclusion occurs at the le-
+vel of microvasculature, we hypothesized that the pulmonary
+microvascular endothelium could be a primary target for cytokines
+during the acute chest syndrome and possibly other types of sickle
+cell lung disease.
+
+Sodium butyrate and similar compounds can induce fetal hemo-
+globin expression in SCD and these agents might be therapeutically
+
+mailto:ssafaya@bu.edu
+http://www.sciencedirect.com/science/journal/10434666
+http://www.elsevier.com/locate/issn/10434666
+
+
+S. Safaya et al. / Cytokine 46 (2009) 72–78 73
+useful [11,12]. Butyrate is also known to modulate gene expres-
+sion in the endothelium. In HUVEC, exposure to butyrate in-
+duced expression of ICAM-1, E-selectin and endothelin-1 [13].
+Sodium phenyl butyrate increased VCAM-1 and ICAM-1 expres-
+sion while down-regulating ET-1 in transformed human bone
+marrow endothelial cells [14]. Butyrate’s effects are not re-
+stricted to the endothelium as it is also known to suppress
+pro-inflammatory cytokines in monocytes [15]. These studies
+suggest that butyrate could potentially act as an immune modu-
+lator in endothelial cells. In the present study, we examined the
+effects of butyrate on TNFSF15 expression in HPAEC and HMVEC
+while comparing these effects to those of another known im-
+mune modulator, TNF-a. This study may provide new insights
+into the role of TNFSF15 in inflammation within microvascular
+endothelium.
+
+2. Materials and methods
+
+2.1. Cell cultures
+
+HPAEC and HMVEC (passage 6–9) were grown in EGM-2 and
+EGM-2 MV media supplemented with growth factors and 10%
+fetal bovine serum (Clonetics, Walkersville, MD) under humidi-
+fied conditions (5% CO2) at 37 �C. Sodium butyrate, 4 mM (Sig-
+ma–Aldrich, USA) or recombinant human TNF-a, 40 ng/ml
+(Millipore Corp., Temecula, CA) was added directly to the med-
+ia. For experiments involving endogenous TNFSF15 expression,
+cells were incubated in presence of butyrate or TNF-a for 20,
+40 min or 1, 2, 6 or 24 h. At the end of each incubation period,
+the cells were washed with PBS and lysed for RNA and protein
+isolation.
+
+2.2. RNA isolation and RT-PCR assay
+
+Total RNA was isolated using the RNeasy mini kit (Qiagen,
+Valencia, CA) and treated with RNase-free DNase (Qiagen). DNA
+free RNA (0.25 lg) was used as the template for one-step RT-PCR
+(Invitrogen, Carlsbad, CA). The forward and reverse primers used
+were: (a) TNFSF15—50-ATGGGCCGAGGATCTGGGACTGAGC-30 and
+5‘-CTATAGTAAGAAGGTTTTATCTTC-30 (750 bp fragment); (b) TL1-
+5‘-GCAAAGTCTACAGTTTCCCAATGAGAAAATTAATCC-30 and the
+same reverse primer as used for TNFSF15 (522 bp fragment); (c)
+GAPDH—5‘-ATGACATCAAGAAGGTGGTG-30 and 5‘-CATACCAGGAA
+ATGAGCTGG-30 (177 bp fragment). The following conditions were
+used: initial incubation, 30 min (53 �C), 2 min (94 �C), 40 s dena-
+turation (94 �C), 40 s annealing (55 �C) and 1 min elongation
+(68 �C) for a total of 30 cycles. The PCR products were run on
+1.5% agarose gels and bands were visualized. Relative levels of
+TNFSF15 RNA expression were obtained from densitometry analy-
+sis; the intensity of the TNFSF15 RT-PCR band was divided by the
+corresponding GAPDH band and the values obtained were plotted
+against each time point. Densitometry image analysis was done by
+using software available at http://rsb.info.nih.gov/. Each experi-
+ment was performed in triplicate.
+
+2.3. Western blot analysis of TNFSF15 protein
+
+HPAEC and HMVEC were plated and incubated in the presence
+of butyrate (4 mM) or TNF-a (40 ng/ml) for 20, 40 min, 1, 2, 6 or
+24 h. Following incubation, cells were washed with PBS and lysed
+in RIPA buffer containing a cocktail of protease inhibitors [16]. The
+lysate was cleared of cellular debris, protein concentration was
+determined by using the Bio-Rad Dc protein assay (Bio-Rad, Hercu-
+les, CA) and samples (40 lg) loaded onto a 10% SDS–PAGE gel.
+Gel-fractionated proteins were transferred to a nitrocellulose
+membrane and blotted with an anti-human TL1A primary antibody
+raised against human TNFSF15 peptide (1:200 dilution) (Biolegend,
+San Diego, CA), followed by a goat anti-mouse IgG-HRP secondary
+antibody (1:5000 dilution). Bound antibody was detected via an
+enhanced chemiluminescence fluorography reagent kit (Western
+lightning chemiluminescence reagent, Perkin Elmer, USA). Use of
+an anti-tubulin goat anti-mouse antibody (Santa Cruz Biotech, San-
+ta Cruz, CA) served as an internal control for these experiments.
+Relative levels of TNFSF15 protein were determined via densitom-
+etry and corrected for tubulin expression. Each experiment was
+performed in triplicate.
+
+2.4. Reporter plasmid constructs
+
+HPAEC DNA was used to amplify the TNFSF15 promoter, a 1417
+base pair fragment (�1390/+27 from initiation site, ref Gene
+NM_005118). The forward and reverse primers used were 50-
+TCCAGGCTGTGACATAACCA-30 and 50-CAAAGCTCAGTCCCAGATCC-30.
+The amplified product was cloned into p-GEM-T Easy vector (Pro-
+mega, Madison, WI), releasing the insert with Not1 and end-filling
+the fragment. The excised and end-filled fragment was cloned into
+the basic pGL3 (Promega) luciferase reporter vector at the Sma1
+site in the multi-cloning site. The promoter orientation was con-
+firmed by restriction enzyme analysis and sequencing. A series of
+50-end deletion constructs of the TNFSF15 promoter were gener-
+ated. The deleted constructs were designated: p-89-luc, p-188-luc,
+p-444-luc, p-540-luc, p-912-luc, p-1056-luc, p-1228-luc and p-
+1390-luc.
+
+In the p-188-luc and p-444-luc constructs, we identified a mod-
+ification of the classic AP1 site with 80% homology; this sequence
+element was designated as AP1-like motif. The G-rich, AP1-like and
+NF-jB binding sequences were mutated individually and in combi-
+nation (described in Fig. 4), using the Quick change multi-site-di-
+rected PCR based mutagenesis kit (Stratagene, La Jolla, CA). These
+mutations in consensus AP1 and NF-jB sequences have previously
+been reported to abolish the functional activity of these sequence
+elements [17–19]. All the mutant constructs were confirmed by
+sequencing. Plasmids constructs were purified (Qiagen plasmid
+kit) before electroporation into the endothelial cells.
+
+2.5. Cell transfection and luciferase assay
+
+HPAEC and HMVEC were grown to a density of 1.5 � 106 cells
+per 100 � 15 mm plate, washed with PBS, trypsinized, centrifuged,
+and resuspended in media containing 10% FBS. A total of 1.25–
+1.5 � 106 cells were transfected with 12 lg of pGL-3 basic lucifer-
+ase reporter plasmid linked to various constructs of the TNFSF15
+promoter and 0.14 lg of pRL-SV40 Renilla luciferase (85:1 dilution)
+as an internal control reporter, in a final volume of 400 ll. Reporter
+plasmids and cells were incubated on ice for 10 min and electropo-
+rated (Bio-Rad Electroporator) at 200 V/975 lF for HPAEC and at
+180 V/950 lF for HMVEC in a 0.4 cm cuvette. Three electropora-
+tions were performed for each plasmid. After electroporation, cells
+were allowed to recover for 10 min at room temperature, pooled
+and equal volumes were placed into 6 or 24 well culture plates
+with 1–2 ml of media per well. In the preliminary promoter trans-
+fections studies, the luciferase activity was monitored up to 48 h.
+The promoter activity was found to peak at 6–8 h after transfec-
+tion; hence 6 h of incubation time was selected for all transfection
+studies. At the end of incubation period, media was aspirated; cells
+were washed with PBS, lysed and assayed for luciferase activity
+using a dual-luciferase reporter assay system (Promega, Madison,
+WI) and a Bio-Rad Luminometer. Results presented as RLU, a ratio
+of pGL-3 promoter construct firefly luciferase values to the Renilla
+luciferase internal control.
+
+http://rsb.info.nih.gov/
+
+
+74 S. Safaya et al. / Cytokine 46 (2009) 72–78
+2.6. Statistical analysis
+
+Data are expressed as means ± SEM. Differences between
+groups were evaluated by paired t-tests using R-sigma plot 8.02,
+SPSS software package for Microsoft Windows. Results were con-
+sidered significant when p 6 0.05.
+
+3. Results
+
+3.1. Effect of butyrate on endogenous TNFSF15 expression
+
+The expression pattern of TNFSF15 in HPAEC and HMVEC was
+studied using RT-PCR and Western analysis. The ECs were incu-
+bated in presence or absence of butyrate (4 mM) for 20 or
+40 min or 1, 2, 6 or 24 h and at the end of each incubation period,
+RNA and protein were isolated. Using TNFSF15 gene specific prim-
+ers, a 750 bp fragment was amplified in both cell types, and is ex-
+pressed at high levels in HPAEC when compared to HMVEC
+(Fig. 1A, lane C). The presence of this fragment was indicative of
+full length TNFSF15 transcript. This transcript is a longer variant
+of TL1/VEGI, a protein with antiangiogenic activity. When TL1 spe-
+cific primers were used, no amplified product of this transcript
+(522 bp) was detected in either cell types (data not shown). This
+observation suggests that TNFSF15 (TL1A) is predominantly ex-
+pressed in the two pulmonary endothelial cell types studied. Using
+a TNFSF15 specific antibody, a 31 kDa band corresponding to
+TNFSF15 (TL1A) protein in both cell types was detected and base-
+line protein expression was higher in HPAEC as compared to
+HMVEC (Fig. 1B, lane C).
+
+Next the effect of sodium butyrate on TNFSF15 RNA and protein
+expression in these two cell types was investigated. Butyrate’s ef-
+fects on gene expression were observed after 20 min of exposure
+in both HPAEC and HMVEC. In HPAEC, butyrate inhibited RNA
+expression of after 20 min of exposure; this inhibitory effect
+TNF
+
+Tub
+
+TN
+FS
+
+F1
+5/
+
+G
+A
+
+P
+D
+
+H
+TN
+
+FS
+F1
+
+5/
+Tu
+
+bu
+lin
+
+0 .0
+0 .2
+0 .4
+0 .6
+0 .8
+1.0
+1.2
+1.4
+1.6
+1.8
+
+0 .0
+0 .5
+1.0
+1.5
+2 .0
+2 .5
+3 .0
+
+*
+
+*
+
+C     20 40 rh42621
+
+A RNA Expression in     CEAPH
+TNFS
+
+GAPD
+
+B     Protein  Expressionin   HPAEC
+
+C    20 40 1       2      6      24 hr
+
+Fig. 1. Effect of butyrate on TNFSF15 expression in HPAEC and HMVEC. (A) TNFSF15 RN
+20 min, 40 min and at 1, 2, 6 or 24 h. The TNFSF15 gene specific PCR amplified product (7
+mean TNFSF15 expression corrected for GAPDH for each time point (±SEM) is presented
+expression (31 kDa) corrected for tubulin (50 kDa) expression at each time point (±SEM
+was lost at 2 h and at later time points. In HMVEC, co-incubation
+with butyrate for 20 min induced RNA expression and this effect
+persisted up to 24 h. The effect of butyrate on TNFSF15 expression
+was more robust in HMVEC as compared to HPAEC. The effect of
+butyrate on gene expression was also observed at the protein le-
+vel in these two cell types and followed a similar time course
+(*p < .05); (Fig. 1A and B).
+
+3.2. Effect of TNF-a on endogenous TNFSF15 expression
+
+Co-incubating HPAEC and HMVEC with TNF-a (40 ng/ml) pro-
+duced effects on TNFSF15 expression similar to those observed with
+butyrate. In HPAEC, TNFSF15 RNA and protein expression was inhib-
+ited after 20 min, while in HMVEC, expression was induced at
+20 min and continued to be higher up to 24 h of incubation
+(*p < .05) (Fig. 2A and B). These data suggest that TNF-a and butyrate
+have similar effects on TNFSF15 expression in these two cell types.
+
+3.3. Identification of TNFSF15 minimal functional promoter element in
+HPAEC and HMVEC
+
+Having established a differential effect of butyrate on endoge-
+nous TNFSF15 expression in HPAEC and HMVEC, our next step
+was to investigate whether this effect could be attributed to the
+use of different sequence elements within the TNFSF15 promoter
+(�1390/+27). For this purpose, a series of 50-deletion constructs
+of the TNFSF15 promoter were generated (Fig. 3A).
+
+In HPAEC, the promoter region sufficient for minimal promoter
+activity was identified between the �89 and �188 nucleotides, 50
+to the initiation codon (p-188-luc). Other promoter deletion con-
+structs, p-444-luc, p-540-luc, p-912-luc, p-1056-luc and p-1228-luc
+exhibited higher activity than either p-188-luc or p-1390/+27-luc,
+suggesting the presence of some activator sequences located be-
+tween 50 to p-188-luc and p-1390-luc. Deletions at 30 of p-188-luc
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+
+SF15 Protein
+
+ulin Protein
+
+TN
+FS
+
+F1
+5/
+
+G
+A
+
+P
+D
+
+H
+TN
+
+FS
+F1
+
+5/
+Tu
+
+bu
+lin
+
+0 .0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+
+*
+
+*
+
+02C 40 1      2      6     24 hr 
+
+CEVMH
+F15 RT-PCR
+
+H RT-PCR
+
+HMVEC
+
+C    20 40 1      2      6    24 hr
+
+A expression in untreated (C) and butyrate (4 mM) treated HPAEC and HMVEC at
+50 bp) and GAPDH amplified product, (177 bp) are shown. Graphic representation of
+
+(n = 3). (B) Western analysis and graphic representation of mean TNFSF15 protein
+) (n = 3).
+
+
+
+TNFSF15 RT-PCR
+
+GAPDH RT-PCR
+
+TN
+FS
+
+F1
+5/
+
+Tu
+bu
+
+lin
+
+TN
+FS
+
+F1
+5/
+
+Tu
+bu
+
+lin
+TN
+
+FS
+F1
+
+5/
+G
+
+A
+P
+
+D
+H
+
+TN
+FS
+
+F1
+5/
+
+G
+A
+
+P
+D
+
+H
+
+0 .0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+
+0 .0
+
+0 .5
+
+1.0
+
+1.5
+
+2 .0
+
+2 .5
+
+3 .0
+
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+2.0
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+*
+
+*
+
+*
+
+*
+
+C     20 40 02Crh42621 40 1      2      6    24hr
+
+A RNA Expression  in    HPAEC HMVEC
+
+B Protein Expression in    HPAEC 
+TNFSF15 Protein
+
+Tubulin Protein
+
+C    20 40 1       2      6     24hr C    20 40 1       2      6     24hr
+
+  HMVEC
+
+Fig. 2. Effect of TNF-a on TNFSF15 expression in HPAEC and HMVEC. (A) TNFSF15 RNA expression in untreated (C) and TNF-a (40 ng/ml) treated HPAEC and HMVEC at 20 min,
+40 min and at 1, 2, 6 or 24 h. The TNFSF15 gene specific PCR amplified product (750 bp) and GAPDH amplified product (177 bp) are demonstrated. Graphic representation of
+mean TNFSF15 expression corrected for GAPDH for each time point (±SEM) is presented (n = 3). (B) Western analysis of TNFSF15 (31 kDa) and tubulin (50 KDa) expression.
+Graphic representation of mean TNFSF15 protein expression corrected for tubulin expression at each time point (±SEM) is presented (n = 3).
+
+R
+LU
+
+0
+
+2
+
+4
+
+6
+
+8
+
+* **
+
+0 500
+
+p-89-Luc
+p-188-Luc
+p-444-Luc
+p-540-Luc
+p-912-Luc
+p-1056-Luc
+p-1228-Luc
+p-1390-Luc
+
+0
+
+2
+
+4
+
+6
+
+8
+
+R
+LU
+
+p-89    p-188   p-444  p-540  p-912  p-1056  p-1228  p-1390
+
+HMVECHPAEC
+
+* **
+
+p-89   p-188   p-444   p-540  p-912  p-1056 p-1228    p-1390
+
+1000 1500 bp
+
+B C
+
+A
+
+Fig. 3. Identification of TNFSF15 minimal promoter sequence elements active in HPAEC and HMVEC. (A) Schematic diagram of TNFSF15 promoter-luciferase reporter
+constructs. Base pair scale is represented on the X-axis for each of the deleted promoters listed on the Y-axis. These promoter constructs along with the control plasmid pRL-
+SV40 were electroporated into HPAEC (B) and HMVEC (C) and incubated for 6 h. At the end of incubation period, cells were lysed and assayed for luciferase activity. Luciferase
+activity was normalized to Renilla luciferase activity encoded by co-transfected pRL-SV40 control plasmid, mean luciferase activity expressed as relative luciferase units (RLU)
+is presented (n = 3). The p-188-luc and p-1390-luc promoters have higher activity than the p-89-luc promoter in HPAEC (*p < 0.01). In HMVEC, p-444-luc and p-1390-luc
+promoter activity was significantly higher than the p-188-luc promoter (**p < 0.05).
+
+S. Safaya et al. / Cytokine 46 (2009) 72–78 75
+
+
+
+76 S. Safaya et al. / Cytokine 46 (2009) 72–78
+(p-89-luc) reduced most of its activity (Fig. 3B). These results indi-
+cate the presence of critical minimal regulatory elements in p-188-
+luc, essential for its expression in HPAEC.
+
+These p-1390-luc deletion constructs were also tested in
+HMVEC, p-188-luc exhibited little activity, implying that p-188-
+luc does not have all of the required sequence elements necessary
+for its expression in HMVEC. Nevertheless, the p-444-luc construct
+activity was comparable to that of p-1390-luc in HMVEC, suggest-
+ing that p-444-luc is the essential minimal promoter functional in
+HMVEC (Fig. 3C). From these observations, it is reasonable to con-
+clude that the TNFSF15 promoter utilizes different promoter se-
+quences for its expression in HPAEC and HMVEC.
+
+3.4. G-rich and AP1-like sequence elements are necessary for TNFSF15
+promoter activity in HPAEC
+
+Our next goal was to identify the sequence elements critical for
+minimal promoter activity in each of these cell types. Several con-
+sensus sequences were identified in the p-188-luc promoter region
+(�188/+27) including a putative AP1-like binding domain (�102 to
+�92), a G-rich sequence (�128 to�118) as well as the MZF1, ADR1,
+GKLF and NF-AT sequence elements. The functional roles of the
+R
+LU
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+p-188G p-188AP1 p-188G-AP1
+
+HPAEC
+
+p-188
+
+*
+
+***
+**
+
+R
+LU
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+P-444     p-444G   p-444AP
+
+R
+LU *
+
+HPAEC
+
+**
+
+A B
+
+C
+
+Fig. 4. Effect of mutated consensus binding sequences on the activity of p-188-luc and p-4
+and the mutants (along with control pRL-SV40) were electroporated into HPAEC (n = 3) At
+normalized to that of pRL-SV40 (A). The data are presented as relative luciferase units (R
+188-luc) or the AP1-like region (p-188-AP) (**p < 0.007 compared with p-188) resulted in
+AP1) had a greater effect suggesting synergy (***p < 0.001 compared with HPAEC). The
+HMVEC (B) and HPAEC (C). Mutations in the G-rich (p-444-G) (*p < 0.02), AP1-like (p-44
+significant when compared to unaltered p-444-luc in HMVEC. The sequence motifs and
+AP1-like and G-rich sequence in modulating p-188-luc construct
+activity was tested by mutating core nucleotide bases in these se-
+quence elements (G-rich, AP1 and G-AP1 mutant constructs). The
+p-188-luc-AP1 mutant has significantly decreased activity and
+G-rich sequence alteration also reduced the promoter activity;
+mutations in the G-rich region also partially abolished the MFZ1
+element (NGNGGGGA) located 50 to the putative G-rich element.
+When both AP1-like and G-rich elements were mutated in p-188-
+luc, the inhibition was greater than with either mutated sequence
+element alone, suggesting a synergistic effect. Based on these re-
+sults, it appears that both the G-rich and AP1-like sequences have
+critical roles in regulating the TNFSF15 promoter expression in
+HPAEC (Fig. 4A). Another consensus AP1-like binding site exists
+at �34 to �26 region in the construct p-89-luc, but since this pro-
+moter construct has little functional activity, this sequence is unli-
+kely to contribute to the TNFSF15 promoter activity.
+
+3.5. NF-jB sequence element is critical to TNFSF15 promoter activity
+in HMVEC
+
+The lack of p-188-luc promoter activity in HMVEC suggests that
+the presence of AP1-like and G-rich sequence elements in this
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+   *
+
+  **
+
+  ***   ***
+
+HMVEC
+
+p-444 p-444G p444AP1 p-444NFkB p-444AP1-NFkB
+
+1   p-444NFkB  p-444AP1-NFkB
+
+**
+**
+
+44-luc promoter constructs in HPAEC and HMVEC. The p-188-luc promoter construct
+the end of 6 h incubation period, cells were lysed and assayed for luciferase activity,
+
+LU). While mutations in either G-rich region (p-188-G) (*p < 0.004 compared with p-
+a significant decrease in activity, the combination of the two sequences (p-188-G-
+p-444-luc promoter construct and its mutants were similarly electroporated into
+
+4-AP) (**p < 0.01), NF-jB (p-444-NF-jB) regions of p-444-luc (***p < 0.005) were all
+their mutants are shown at the top with mutations indicated in boldface italics.
+
+
+
+S. Safaya et al. / Cytokine 46 (2009) 72–78 77
+construct is not sufficient to allow its expression in HMVEC. It is
+likely that sequences 50 to the p-188-luc region are critical to its
+expression in this cell type. A sequence motif search in this region
+led to identification of a NF-jB sequence in p-444-luc (�314 to
+�305 region). Altering this NF-jB sequence significantly reduced
+p-444-luc construct expression in HMVEC. Although G-rich and
+AP1-like sequence mutants also reduce the p-444-luc activity, these
+two sequence motifs alone can not drive the promoter in the absence
+of NF-jB element. Furthermore, altering both AP1-like and NF-jB
+sequence elements in p-444-luc did not produce a significant change
+in promoter activity compared with mutation of the NF-jB site alone
+(Fig. 4B). However, altering NF-jB sequence in p-444-luc did not in-
+hibit its activity in HPAEC, but altering both AP1-like and NF-jB ele-
+ments inhibited activity and produced effects similar to altering the
+AP1-like sequence element (Fig. 4C). Taken together, these observa-
+tions imply that, in HMVEC, even though AP1-like and G-rich se-
+quence elements may play a role, the presence of NF-jB sequence
+element is critical for TNFSF15 promoter activity. Conversely, in
+HPAEC, the AP1-like sequence element and not the NF-jB site is re-
+quired for TNFSF15 minimal promoter activity.
+4. Discussion
+
+Our goal was to explore the expression pattern of TNFSF15 in
+HPAEC and HMVEC and define the effects of butyrate or TNF-a
+on its expression. Induction of TNFSF15 has been associated with
+inflammation, one of the proposed mediators of sickle vasoocclu-
+sion [6–8]. The existence of heterogeneity in endogenous TNFSF15
+expression among endothelial cell types suggests that differential
+effects on expression may be induced by butyrate. Vasoocclusive
+episodes and hemolytic anemia are hallmarks of the pathophysiol-
+ogy of SCD; the acute chest syndrome and pulmonary hypertension
+are prominent examples of vasoocclusive and hemolysis-related
+complications, respectively. The endothelium appears to play a role
+in the pathogenesis of these major pulmonary complications of
+SCD. Because of this, we choose to extend previous studies cen-
+tered on other vascular beds to an evaluation of the major endo-
+thelial cell types within the lung, HPAEC and HMVEC. These
+results suggest that TNFSF15 could play a role in vasoocclusion
+within the pulmonary vasculature.
+
+Endogenous TNFSF15 expression at the base line was higher in
+HPAEC compared with HMVEC, supporting the notion that expres-
+sion is heterogeneous among cell types. Moreover, co-incubation
+with either butyrate or TNF-a produced differing effects on
+TNFSF15 expression in these two cell types, even though the down-
+stream effects were similar with butyrate in both. Butyrate or TNF-
+a inhibited TNFSF15 RNA and protein expression in HPAEC, indicat-
+ing a possible anti-inflammatory role of these two agents in large
+vessel endothelium. In contrast, the induction of TNFSF15 RNA
+and protein expression in HMVEC by butyrate or TNF-a suggested
+a pro-inflammatory role of these agents in small vessel endothe-
+lium. We have not investigated the mechanism of butyrate’s effects
+on TNFSF15 expression in these endothelial cell types. Butyrate has
+been reported to regulate gene expression via the AP1 binding se-
+quences and histone acetylation [20] SP1/SP3 multi-protein inter-
+actions [21,22], a CRE motif [23], interaction with NF-jB signal
+transduction pathway [24] and inhibition of histone deacetylase
+[25]. We found that TNFSF15 gene can be either induced or re-
+pressed in response to butyrate, depending upon the cell type
+studied.
+
+Although the mechanisms for the TNFSF15 response to butyrate
+or TNF-a in these two lung EC types is not clear, it might relate to
+the selective use of promoter sequence elements as suggested by
+our promoter deletion studies. It would of interest to establish
+whether the TNFSF15 promoter uses the same or different cis-ele-
+ments to regulate the gene expression in the two pulmonary endo-
+thelial cell types and this might help in understanding the
+mechanism of the differential effects of butyrate. To begin to ad-
+dress the mechanism responsible for the regulation of TNFSF15
+expression, we identified different regions of the TNFSF15 promoter
+that are critical for gene expression in each cell type. The minimal
+promoter construct p-188-luc was functional in HPAEC but not in
+HMVEC; altering the core AP1-like sequence element along with
+G-rich sequence in p-188-luc eliminated most of the activity of this
+construct. This minimal promoter has two putative AP1-like and
+one G-rich sequences, but only one of these AP1-like sequence ele-
+ments (�102 to �92) contributed to the minimal promoter activ-
+ity. The NF-jB sequence element (�314 to �305) did not appear
+to be essential for minimal promoter activity in HPAEC as its dele-
+tion in p-188-luc or alteration in p-444-luc, respectively, did not af-
+fect the activity. In HMVEC, the promoter construct p-444-luc was
+functional and its activity appeared to be due to the NF-jB se-
+quence element present in this construct. The G-rich and AP1-like
+sequence elements do appear to exert additional effects on pro-
+moter activity. These results suggest that NF-jB, possibly in tan-
+dem with AP1-like sequence elements, drive the TNFSF15
+promoter in HMVEC. Interestingly, this NF-jB sequence element
+was also critical for TNFSF15 activity in murine cerebral endothelial
+cells suggesting an overlap with other endothelial cell types [26].
+
+The use of an NF-jB sequence motif by the TNFSF15 promoter in
+HMVEC, and its pro-inflammatory response to butyrate suggests
+that HMVEC are a target of inflammation as NF-jB is a key tran-
+scription factor in the inflammatory response [27]. Moreover, the
+recent description of TNFSF15 as a critical gene in gut inflammation
+[7] supports the notion that HMVEC are targets of inflammation
+and that TNFSF15 might play an important role in this process.
+Hence, TNFSF15 up-regulation in lung microvascular endothelium
+could provide a pro-inflammatory milieu favoring SCD vasoocclu-
+sion. During vasoocclusion, the endothelium in SCD becomes
+pro-inflammatory via the up-regulation of adhesion molecules
+[28,29]. Endothelial activation can occur in this setting by a variety
+of mechanisms. Pro-inflammatory cytokines such as TNF-a can be
+released by circulating monocytes and activate the endothelium
+[30]. Low oxygen tension within the vasculature results in HbS
+polymerization, adherence of sickle cells to the vascular endothe-
+lium and microvasculature occlusion [31,32]. Co-incubation of
+sickle erythrocytes with HPAEC resulted in up-regulation of the
+adhesion molecules, VCAM-1 and ICAM-1 [2], suggesting a role
+for the sickle erythrocyte in the modulation of inflammation. Leu-
+kocyte and platelet adherence to the endothelium also occur and
+might further enhance this process [33–35]. Abnormal interactions
+between sickle erythrocytes, leukocytes and platelets with the
+endothelium could trigger the expression of cytokines such as
+TNFSF15 that can activate or inactivate genes essential for normal
+endothelial function. The observation of a pro-inflammatory re-
+sponse to butyrate in HMVEC raises the possibility that pharmaco-
+logical use of this agent to induce fetal hemoglobin might
+paradoxically perturb the endothelium.
+
+We show that both butyrate and TNF-a produce differential ef-
+fects on TNFSF15 expression in HPAEC and HMVEC. The induction
+of TNFSF15 gene expression in HMVEC by butyrate suggests that
+up-regulation of this gene could produce a pro-inflammatory envi-
+ronment that might contribute to the pathogenesis of sickle
+vasoocclusion.
+
+Acknowledgments
+
+The authors thank Dr. Douglas V. Faller for his review of this
+manuscript and helpful suggestions.
+
+Grants: Supported in part NIH Grants R01-HL68970, R01-
+HL68970-02-S1, U54HL70819 (M.H.S.) and K23 HL079003 (E.S.K.).
+
+
+
+78 S. Safaya et al. / Cytokine 46 (2009) 72–78
+References
+
+[1] Hammerman SI, Klings ES, Hendra KP, Upchurch Jr GR, Rishikof DC, Loscalzo J,
+et al. Endothelial cell nitric oxide production in acute chest syndrome. Am J
+Physiol Heart Circ Physiol 1999;277:H1579–92.
+
+[2] Shiu YT, Udden MM, McIntire LV. Perfusion with sickle erythrocytes up-
+regulates ICAM-1 and VCAM-1 gene expression in cultured human endothelial
+cells. Blood 2000;95:3232–41.
+
+[3] Hammerman SI, Kourembanas S, Conca TJ, Tucci M, Brauer M, Farber HW.
+Endothelin-1 production during the acute chest syndrome in sickle cell
+disease. Am J Respir Crit Care Med 1997;156:280–5.
+
+[4] Yu Jingyi, Tian S, Metheny-Barlow L, Chew L-J, Hayes AJ, Pan H, et al.
+Modulation of endothelial cell growth arrest and apoptosis by vascular
+endothelial growth inhibitor. Circ Res 2001;89:1161–7.
+
+[5] Kang Y-J, Kim W-J, Bae H-Uk, Kim DI-k, Park YB, Park J-E, et al. Involvement of
+TL1A and DR3 in induction of pro-inflammatory cytokines and matrix
+metalloproteinase-9 in atherogenesis. Cytokine 2005;29:229–35.
+
+[6] Prehn JL, Mehdizadeh S, Landers CJ, Luo X, Cha SC, Wei P, et al. Potential role for
+TL1A, the new TNF-family member and potent costimulator of IFN-c, in
+mucosal inflammation. Clin Immunol 2004;112:66–77.
+
+[7] Bamias G, Mishina M, Nyce M, Ross WG, Kollias G, Nieves JR, et al. Role of TL1A
+and its receptor DR3 in two models of chronic murine ileitis. Proc Natl Acad Sci
+USA 2006;103:8441–6.
+
+[8] Migone T-S, Zhang J, Luo X, Zhuang L, Chen C, Hu B, et al. TL1A is a TNF-like
+ligand for DR3 and TR6/DcR3 and functions as a T-cell costimulator. Immunity
+2002;16:479–92.
+
+[9] Pober J, Cotran R. The role of endothelial cells in inflammation. Transplantation
+1990;50:537–44.
+
+[10] Hebbel RP, Osarogiagbon UR, Kaul D. The endothelial biology of Sickle cell
+disease: inflammation and chronic vasculopathy. Microcirculation
+2004;11:129–52.
+
+[11] Perrine SP, Faller DV. Butyrate-induced reactivation of the fetal globin genes: a
+molecular treatment for the beta-hemoglobinopathies. Experientia
+1993;49:133–7.
+
+[12] Safaya S, Ibrahim A, Rieder RF. Augmentation of c-globin gene promoter
+activity by carboxylic acids and components of the human b-globin locus
+control region. Blood 1994;84:3929–35.
+
+[13] Miller SJ, Zaloga GP, Hoggatt AM, Carlos LC, Faulk WP. Short-chain fatty acids
+modulate gene expression for vascular endothelial cell adhesion molecules.
+Nutrition 2005;21:740–8.
+
+[14] Odièvre MH, Brun M, Krishnamoorthy R, Lapouméroulie C, Elion J. Sodium
+phenylbutyrate down regulates endothelin-1 expression in cultured human
+endothelial cells: relevance to sickle-cell disease. Am J Hematol
+2007;82:357–62.
+
+[15] Saemann MD, Bohmig GA, Österreicher CH, Burtscher H, Parolini O, Diakos C,
+et al. Anti-inflammatory effects of sodium butyrate on human monocytes:
+potent inhibition of IL 12 and up-regulation of IL-10 production. FASEB J
+2000;14:2380–2.
+
+[16] Shimizu K, Watanabe K, Yamashita H, Abe M, Yoshimatsu H, Ohta H, et al.
+Gene regulation of a novel angiogenesis inhibitor, vasohibin, in endothelial
+cells. Biochem Biophys Res Commun 2005;327:700–6.
+
+[17] Lui W-Y, Sze K-L, Lee WM. Nectin-2 expression in testicular cells is controlled
+via the functional cooperation between transcription factors of the Sp1, CREB,
+and AP-1 families. J Cell Physiol 2006;207:144–57.
+[18] Marreirosa A, Czolijc R, Yardleya G, Crossleyc M, Jackson P. Identification of
+regulatory regions within the KAI1 promoter: a role for binding of AP1, AP2
+and p53. Gene 2003;302:155–64.
+
+[19] Ganster RW, Taylor BS, Shao L, Geller DA. Complex regulation of human
+inducible nitric oxide synthase gene transcription by Stat 1 and NF-kappa B.
+Proc Natl Acad Sci USA 2001;98:8638–43.
+
+[20] Yutaka K, Shimizu T, Kuwano K. Sodium butyrate up-regulates cathelicidin
+gene expression via activator protein-1 and histone acetylation at the
+promoter region in a human lung epithelial cell line, EBC-1. Mol Immunol
+2006;43:1972–81.
+
+[21] Walker GE, Wilson EM, Powell D, Oh Y. Butyrate, a histone deacetylase
+inhibitor, activates the human IGF binding protein-3 promoter in breast cancer
+cells: molecular mechanism involves anSp1/Sp3 multiprotein complex.
+Endocrinology 2001;142:3817–27.
+
+[22] Ye Jianjiang, Shedd D, Miller G. An Sp1 response element in the Kaposi’s
+sarcoma-associated herpesvirus open reading frame 50 promoter mediates
+lytic cycle induction by butyrate. J Virol 2005;79:1397–408.
+
+[23] Patel P, Nankova BB, LaGamma EF. Butyrate, a gut-derived environmental
+signal, regulates tyrosine hydroxylase gene expression via a novel promoter
+element. Dev Brain Res 2005;160:53–62.
+
+[24] Yin L, Laevsky G, Giardina C. Butyrate suppression of colonocyte NF-jB
+activation and cellular proteasome activity. J Biol Chem
+2001;276:44641–6.
+
+[25] Yoo EJ, Chung JJ, Choe SS, Kim KH, Kim JB. Down-regulation of histone
+deacetylases stimulates adipocyte differentiation. J Biol Chem
+2006;281:6608–15.
+
+[26] Xiao Q, Hsu CY, Chen H, Xiucui MA, Xu J, Lee J-M. Characterization of cis-
+regulatory elements of the vascular endothelial growth inhibitor gene
+promoter. Biochem J 2005;388:913–20.
+
+[27] Sebban H, Courtois G. NF-jB and inflammation in genetic disease. Biochem
+Pharmacol 2006;72:1153–60.
+
+[28] Belcher JD, Mahaseth H, Welch TE, Vilback AE, Sonbol KM, Kalambur
+VS, et al. Critical role of endothelial cell activation in hypoxia-induced
+vasoocclusion in transgenic sickle mice. Am J Physiol Heart Circ Physiol
+2005;288:H2715–25.
+
+[29] Mahaseth H, Vercellotti GM, Welch TE, Bowlin PR, Sonbol KM, Hsia CJ, et al.
+Polynitroxyl albumin inhibits inflammation and vasoocclusion in transgenic
+sickle mice. J Lab Clin Med 2005;145:204–11.
+
+[30] Setty BN, Stuart MJ. Vascular cell adhesion molecule-1 is involved in mediating
+hypoxia-induced sickle red blood cell adherence to endothelium: potential
+role in sickle cell disease. Blood 1996;88:2311–20.
+
+[31] Kaul DK, Fabrey ME, Nagel RL. The pathophysiology of vascular obstruction in
+the sickle syndrome. Blood Rev 1996;10:29–44.
+
+[32] Platt OS. Sickle cell anemia as an inflammatory disease. J Clin Invest
+2000;106:337–8.
+
+[33] Kaul DK, Liu XD, Choong S, Belcher JD, Vercellotti GM, Hebbel RP. Anti-
+inflammatory therapy ameliorates leukocyte adhesion and microvascular flow
+abnormalities in transgenic sickle mice. Am J Physiol Heart Circ Physiol
+2004;287:H293–301.
+
+[34] Okpala I. Leukocyte adhesion and the pathophysiology of sickle cell disease.
+Curr Opin Hematol 2006;13:40–4.
+
+[35] Covas DT, de Lucena Angulo I, Vianna Bonini PP, Zago MA. Effects of
+hydroxyurea on the membrane of erythrocytes and platelets in sickle cell
+anemia. Haematologica 2004;89:273–80.
+
+
+	Effect of sodium butyrate on lung vascular TNFSF15 (TL1A) expression: Differential expression patterns in pulmonary artery and microvascular endothelial cells
+	Introduction
+	Materials and methods
+	Cell cultures
+	RNA isolation and RT-PCR assay
+	Western blot analysis of TNFSF15 protein
+	Reporter plasmid constructs
+	Cell transfection and luciferase assay
+	Statistical analysis
+
+	Results
+	Effect of butyrate on endogenous TNFSF15 expression
+	Effect of TNF-α on endogenous TNFSF15 expression
+	Identification of TNFSF15 minimal functional promoter element in HPAEC and HMVEC
+	G-rich and AP1-like sequence elements are necessary for TNFSF15 promoter activity in HPAEC
+	NF-κB sequence element is critical to TNFSF15 pr
+
+	Discussion
+	Acknowledgments
+	References

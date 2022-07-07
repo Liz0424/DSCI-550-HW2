@@ -1,0 +1,38 @@
+We evaluated the effect of template and non-template (8,20) templates on adult-specific c-Fos expression, cell proliferation, and apoptosis in a mouse model of enteric keratotoxicity.
+
+C-fos expression was measured by western blotting using standard methods. For each mouse, a single template (8,20) was used as a template for the induction of c-Fos expression.
+The template was pre-treated with 25 μM of 1,5-DDA, 1,20β-fos, 1,5-d-d-fbos, or 3,5-d-fos or 3,5-d-fos (2,5-d-d-fbos) and was transferred to the culture plate.
+Cell proliferation was assessed by Western blotting using standard methods.
+The cell proliferation and apoptosis measurements were performed by Western blotting using a Western blotting kit (Bio-Rad, Indianapolis, IN).
+
+The mice were used in this study as a model of keratotoxicosis. Tumor necrosis was confirmed with Western blotting (10.0, 20 μM 1,5-DDA, or 1,5-d-fos). After incubation in the air for at least 6 h, tumor necrosis was detected at the site of exposure and was detected at 0.5 h after exposure. After treatment, tumor necrosis was detected in the lungs of mice exposed to the template (0.5 h) or non-template (0.5 h) mice (Fig. 1 and Table S1).
+
+Table 1. Effects of template in the human keratotoxicity assay.
+
+Description
+
+An advanced stage of keratotoxicosis (CS). The most common stage of CS is keratotoxicity, which is complicated by the effects of various factors, including exposure to various environmental factors (e.g., sunlight, temperature, humidity, oxygen content, etc.) (1,2,3,4,5,6,7,8,9,10,11).
+
+The most common stage of CS is keratotoxicity, which is complicated by the effects of various factors, including exposure to various environmental factors (e.g., sunlight, temperature, humidity, oxygen content, etc.) (1,2,3,4,5,6,7,8,9,10,11).
+
+The most common stage of CS is keratotoxicity, which is complicated by the effects of various factors, including exposure to various environmental factors (e.g., sunlight, temperature, humidity, oxygen content, etc.) (1,2,3,4,5,6,7,8,9,10,11).
+
+The most common stage of CS is keratotoxicity, which is complicated by the effects of various factors, including exposure to various environmental factors (e.g., sunlight, temperature, humidity, oxygen content, etc.) (1,2,3,4,5,6,7,8,9,10,11).
+
+The most common stage of CS is keratotoxicity, which is complicated by the effects of various factors, including exposure to various environmental factors (e.g., sunlight, temperature, humidity, oxygen content, etc.) (1,2,3,4,5,6,7,8,9,10,11).
+
+The most common stage of CS is keratotoxicity, which is complicated by the effects of various factors, including exposure to various environmental factors (e.g., sunlight, temperature, humidity, oxygen content, etc.) (1,2,3,4,5,6,7,8,9,10,11).
+
+Table 2. Effects of template in the human keratotoxicity assay.
+
+Description
+
+CS is a well-studied CS, which has been shown to be associated with numerous conditions, including pancreatitis (1,2,3,4,5,6,8,9,10,11).
+
+CS is a well-studied CS, which has been shown to be associated with numerous conditions, including pancreatitis (1,2,3,4,5,6,8,9,10,11).
+
+CS is a well-studied CS, which has been shown to be associated with numerous conditions, including pancreatitis (1,2,3,4,5,6,8,9,10,11).
+
+CS is a well-studied CS, which has been shown to be associated with numerous conditions, including pancreatitis (1,2,3,4,5,6,8,9,10,11).
+
+CS is a well-studied CS, which has been shown to be associated with numerous conditions, including pancreatitis (1,2,3,4,5

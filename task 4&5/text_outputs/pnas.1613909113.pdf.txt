@@ -1,0 +1,139 @@
+pnas201613909 5776..5776
+
+
+Correction
+
+CELL BIOLOGY
+Correction for “Itch E3 ubiquitin ligase regulates large tumor sup-
+pressor 1 stability,” by King Ching Ho, Zhonghua Zhou, Yi-Min
+She, Alex Chun, Terry D. Cyr, and Xiaolong Yang, which appeared
+in issue 12, March 22, 2011, of Proc Natl Acad Sci USA (108:4870–
+4875; first published March 7, 2011; 10.1073/pnas.1101273108).
+
+The authors wish to note: “There is an error on the fourth panel
+of Fig. 2, the Ponceau S staining figure. We have now replaced it
+with a correct figure.” As a result, Fig. 2 has been corrected. The
+corrected figure and its legend appear below.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1613909113
+
+Fig. 2. Interaction of LATS1 and Itch in vivo and in vitro. (A) Interaction of ectopically expressed LATS1 and Itch. COS7 lysates expressing either LATS1-FLAG
+alone or together with Itch-Myc or Itch-C830A-Myc were immunoprecipitated with anti-Myc antibody, followed by Western blotting with anti-FLAG antibody.
+Ponceau S staining of antibody heavy chain indicates equal amounts of anti-Myc antibody were used. (B) Interaction of endogenous LATS1 and Itch. Protein
+lysates from MDA-MB-231 cells were immunoprecipitated with either control anti-FLAG antibody or anti-LATS1 antibody, followed by Western blotting with
+anti-Itch antibody. (C) Immunostaining analysis of LATS1 and Itch. LATS1-FLAG and Itch-Myc were cotransfected into COS7 cells, followed by immunostaining
+with anti-FLAG and anti-Myc primary antibodies and AF488 anti-mouse IgG and AF555 anti-rabbit IgG secondary antibodies. (D) GST-pulldown analysis of
+interaction of LATS1 and Itch in vitro. COS7 lysates expressing wild-type (LATS1-WT-FLAG), single-PPxY mutants (LATS1-Y376F-FLAG or LATS1-Y559F-FLAG), or
+double PPxY mutant (LATS1-Y376F-Y559F-FLAG) of LATS1 were pulled down with GST, GST-Itch, GST-Itch-WW-mutant, or GST-WW, followed by Western
+blotting for LATS1-FLAG using anti-FLAG antibody. 1/10 input (10 μg) represents 1/10 of protein lysate (100 μg) used for GST pulldown.
+
+E5776 | PNAS | September 27, 2016 | vol. 113 | no. 39 www.pnas.org
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ h
+tt
+
+ps
+:/
+
+/w
+w
+
+w
+.p
+
+na
+s.
+
+or
+g 
+
+by
+ N
+
+or
+ri
+
+s 
+M
+
+ed
+ic
+
+al
+ L
+
+ib
+ra
+
+ry
+ U
+
+ni
+v 
+
+S
+ou
+
+th
+er
+
+n 
+C
+
+al
+if
+
+or
+ni
+
+a 
+on
+
+ J
+un
+
+e 
+19
+
+, 2
+02
+
+2 
+fr
+
+om
+ I
+
+P
+ a
+
+dd
+re
+
+ss
+ 1
+
+54
+.5
+
+9.
+12
+
+4.
+74
+
+.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1613909113

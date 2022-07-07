@@ -1,0 +1,742 @@
+Interleukin-19 Acts as a Negative Autocrine Regulator of Activated Microglia
+
+
+RESEARCH ARTICLE
+
+Interleukin-19 Acts as a Negative Autocrine
+Regulator of Activated Microglia
+Hiroshi Horiuchi1, Bijay Parajuli1, YueWang1, Yasu-Taka Azuma2, Tetsuya Mizuno1,
+Hideyuki Takeuchi1*, Akio Suzumura1
+
+1 Department of Neuroimmunology, Research Institute of Environmental Medicine, Nagoya University, Furo-
+cho, Chikusa-ku, Nagoya, 464–8601, Japan, 2 Laboratory of Veterinary Pharmacology, Division of
+Veterinary Science, Osaka Prefecture University Graduate School of Life and Environmental Science,
+Izumisano, Osaka, 598–8531, Japan
+
+* htake@riem.nagoya-u.ac.jp
+
+Abstract
+Activated microglia can exert either neurotoxic or neuroprotective effects, and they play piv-
+
+otal roles in the pathogenesis and progression of various neurological diseases. In this
+
+study, we used cDNAmicroarrays to show that interleukin-19 (IL-19), an IL-10 family cyto-
+
+kine, is markedly upregulated in activated microglia. Furthermore, we found that microglia
+
+are the only cells in the nervous system that express the IL-19 receptor, a heterodimer of
+
+the IL-20Rα and IL-20Rβ subunits. IL-19 deficiency increased the production of such pro-in-
+
+flammatory cytokines as IL-6 and tumor necrosis factor-α in activated microglia, and IL-19
+
+treatment suppressed this effect. Moreover, in a mouse model of Alzheimer’s disease, we
+
+observed upregulation of IL-19 in affected areas in association with disease progression.
+
+Our findings demonstrate that IL-19 is an anti-inflammatory cytokine, produced by activated
+
+microglia, that acts negatively on microglia in an autocrine manner. Thus, microglia may
+
+self-limit their inflammatory response by producing the negative regulator IL-19.
+
+Introduction
+Microglia are the macrophage-like resident immune cells that contribute to the maintenance of
+homeostasis in the central nervous system (CNS). Their functions include antigen presentation
+to initiate the immunological reaction, direct attack against non-self antigens, debris clearance,
+and support of neuronal circuit development [1–5]. Abnormal activation of microglia often
+damages the CNS, and microglial activation is a characteristic pathological hallmark of various
+neurological disorders, including neuroinflammatory and neurodegenerative diseases [6–12].
+Activated microglia can exert either neurotoxic or neuroprotective effects, depending on their
+environmental conditions and the type and extent of stimulation [13–16], and can release both
+pro-inflammatory cytokines (e.g. interleukin-1β [IL-1β], IL-6, tumor necrosis factor-α [TNF-
+α]) and anti-inflammatory cytokines (e.g. IL-10, transforming growth factor-β). Pro-
+inflammatory cytokines exacerbate neuroinflammation by fueling microglial activation,
+
+PLOSONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 1 / 12
+
+a11111
+
+OPEN ACCESS
+
+Citation: Horiuchi H, Parajuli B, Wang Y, Azuma Y-T,
+Mizuno T, Takeuchi H, et al. (2015) Interleukin-19
+Acts as a Negative Autocrine Regulator of Activated
+Microglia. PLoS ONE 10(3): e0118640. doi:10.1371/
+journal.pone.0118640
+
+Academic Editor: Michelle L. Block, Indiana School
+of Medicine, UNITED STATES
+
+Received: September 17, 2014
+
+Accepted: January 12, 2015
+
+Published: March 20, 2015
+
+Copyright: © 2015 Horiuchi et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+
+Data Availability Statement: All relevant data are
+within the paper.
+
+Funding: This work was supported by a grant-in-aid
+for Scientific Research on Innovative Areas; grants
+from the Ministry of Health, Labour and Welfare of
+Japan; and the Program for Promotion of
+Fundamental Studies in Health Sciences of the
+National Institute of Biomedical Innovation (NIBIO) of
+Japan. The funders had no role in study design, data
+collection and analysis, decision to publish, or
+preparation of the manuscript.
+
+http://crossmark.crossref.org/dialog/?doi=10.1371/journal.pone.0118640&domain=pdf
+http://creativecommons.org/licenses/by/4.0/
+
+
+whereas anti-inflammatory cytokines oppose those effects by suppressing microglial produc-
+tion of pro-inflammatory cytokines [17], suggesting that microglial activation is self-limiting.
+
+IL-19 is a member of the IL-10 family cytokines including IL-20, IL-22, IL-24, IL-26, IL-
+28A, IL-28B, and IL-29 [18]. At the primary sequence level, IL-19 is highly homologous to IL-
+20 and IL-24, and shares a receptor formed by heterodimerization of the IL-20Rα and IL-20Rβ
+subunits [19–21]. Previous studies showed that IL-19 contributes to the pathogenesis of auto-
+immune diseases such as psoriasis, asthma, and rheumatoid arthritis by upregulation of pro-
+inflammatory cytokines, including IL-6 and TNF-α [22–24]. However, the source and
+biological functions of IL-19 in the CNS have yet to be elucidated.
+
+In this study, we found that microglia are the predominant producers of IL-19 in the CNS,
+as well as the only CNS cells to express functional IL-19 receptors. Furthermore, IL-19 sup-
+presses microglial production of pro-inflammatory cytokines. Our findings suggest that micro-
+glia self-limit their participation in neuroinflammation and neurodegeneration in various
+neurological diseases by producing a negative regulator, IL-19.
+
+Methods
+
+Reagents
+Lipopolysaccharide (LPS) was purchased from Sigma-Aldrich (St. Louis, MO, USA). Recombi-
+nant mouse IL-19 protein was purchased from R&D Systems (Minneapolis, MN, USA).
+
+Animals
+All animal experiments were conducted under protocols approved by the Animal Experiment
+Committee of Nagoya University (approved numbers: 14017, 14018, and 14020). C57BL/6
+(B6) mice were purchased from Japan SLC (Hamamatsu, Japan). IL-19-/- mice (B6 back-
+ground) [25,26] were obtained from Regeneron Pharmaceuticals, Inc. (Tarrytown, NY, USA).
+Transgenic mice expressing variants of human amyloid precursor protein (APP) with the
+K595N and M596L mutations and presenilin 1 (PS1) with the A264E mutation were purchased
+from the Jackson Laboratory (B6C3-Tg(APP695)3Dbo Tg(PSEN1)5Dbo/J; #003378) [27], and
+then backcrossed to C57BL/6J mice for more than 10 generations after purchase (the resultant
+strain is designated here as APP/PS1 Tg) [28].
+
+Cells
+Primary cultures were prepared from B6 mice or IL-19-/- mice. Primary microglia cultures were
+isolated from primary mixed glial-cell cultures prepared from newborn mice using the “shaking
+off”method (at 14 days in vitro), as described previously [29]. The purity of the cultures was>
+99%, as determined by anti-CD11b immunostaining. Cultures were maintained in Dulbecco’s
+modified Eagle’s minimum essential medium (DMEM) (Sigma-Aldrich) supplemented with
+10% fetal bovine serum (FBS) (Equitech-Bio, Inc., Kerrville, TX, USA), 5 μg/ml bovine insulin
+(Sigma-Aldrich), and 0.2% glucose. Primary astrocyte cultures were purified from primary
+mixed glial cultures by three to four repetitions of trypsinization and replating, as described pre-
+viously [30]. The purity of astrocytes was> 95%, as determined by GFAP-specific immunostain-
+ing. Primary neuron cultures were prepared from the cortices of mouse embryos at embryonic
+day 17 (E17), as described previously [31]. Briefly, cortical fragments were dissociated into single
+cells in dissociation solution (Sumitomo Bakelite, Akita, Japan) and resuspended in nerve culture
+medium (Sumitomo Bakelite). Neurons were plated on polyethylenimine-coated glass coverslips
+(Asahi Techno Glass, Chiba, Japan) at a density of 5 × 104 cells/well (500 μl/well) in 24-well
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 2 / 12
+
+Competing Interests: Akio Suzumura is a PLOS
+ONE Editorial Board member. This does not alter the
+authors’ adherence to PLOS ONE Editorial policies
+and criteria.
+
+
+
+multidishes. The purity of the cultures was> 95%, as determined by NeuN-specific immunos-
+taining. Neurons were used at 14 days in vitro for the following assessments.
+
+RNA extraction, cDNAmicroarrays, and reverse transcription-
+polymerase chain reaction (RT-PCR)
+Microglia and astrocytes were seeded at a density of 1 × 105 cells/well (500 μl/well) in 48-well
+plates. Neurons were plated on polyethylenimine-coated coverslip at a density of 5 × 104 cells/
+well (500 μl/well) in 24-well plates. Microglia were treated with 100 ng/ml LPS for 0–24 h or
+1–1000 ng/ml for 6 h. Astrocytes were treated with 100 ng/ml LPS for 0–24 h or 1–1000 ng/ml
+for 12 h. Total RNA was extracted frommicroglia, astrocytes, neurons, hippocampi of APP/PS1
+Tg mice and B6 mice (10- and 15-month-old) using the miRNeasy Mini Kit (Qiagen, Valencia,
+CA, USA). RNA was run on an Agilent 2100 Bioanalyzer to assess quality; only samples with
+excellent RNA quality (RNA Integrity Number [RIN]> 7) were used. For microarray experi-
+ments, RNA samples were evaluated on the Agilent Mouse SurePrint G3 8 × 60KMicroarray.
+The resultant signals were quantitated and analyzed using the Agilent GeneSpring 12.1 soft-
+ware. For RT-PCR experiments, RNA was reverse transcribed into cDNA using SuperScript III
+(Life Technologies, Carlsbad, CA, USA). Expression levels of genes encoding IL-19, IL-6, TNF-
+α, hypoxanthine phosphoribosyltransferase 1 (HPRT1), and glyceraldehyde 3-phosphate dehy-
+drogenase (GAPDH) were measured using quantitative PCR (qPCR), which was performed on
+cDNA on a Rotor-Gene Q using the Rotor-Gene SYBR Green PCR Kit (Qiagen). Relative ex-
+pression levels were determined using the ΔΔCT method; the genes of interest were normalized
+to the geometric mean of HPRT1 and GAPDH. The following specific primer sets were used:
+
+Mouse IL-1 sense: 5’-TACAGAGACAGGGTGTTCCAGGAC-3’;
+Mouse IL-19 antisense: 5’-GCATTGGTGGCTTCCTGACTGCAGT-3’;
+Mouse IL-6 sense: 5’-ACAAGTCGGAGGCTTAATTACACAT-3’;
+Mouse IL-6 antisense: AATCAGAATTGCCATTGCACAA-3’;
+Mouse TNF-α sense: GACCCTCACACTCAGATCATCTTCT-3’;
+Mouse TNF-α antisense: 5’-CCACTTGGTGGTTTGCTACGA-3’;
+Mouse HPRT1 sense: 5’-CCTAAGATGAGCGCAAGTTGAA-3’;
+Mouse HPRT1 antisense: 5’-CCACAGGACTAGAACACCTGCTAA-3’
+Mouse GAPDH sense: 50-TGTGTCCGTCGTGGATCTGA-3’
+Mouse GAPDH antisense: 50- CCTGCTTCACCACCTTCTTGA-3’
+Assays were carried out in five independent trials.
+
+Enzyme-linked immunosorbent assay (ELISA)
+Microglia and astrocytes were seeded at a density of 1 × 105 cells/well in 48-well plates, and then
+treated with 100 ng/ml LPS for 0–24 h. Hippocampi of APP/PS1 Tg and B6 mice (15-month-old)
+were collected after transcardial perfusion with phosphate-buffered saline. Concentrations of IL-19,
+IL-6, and TNF-α in culture supernatant were determined using the appropriate ELISA kits (IL-19,
+eBioscience; IL-6 and TNF-α, R&D Systems). Assays were carried out in three independent trials.
+
+Western blotting
+Levels of IL-20Rα, IL-20Rβ, STAT3, and phosphorylated STAT3 (pSTAT3) were evaluated by
+Western blotting as described previously [32]. To evaluate the expression levels of IL-20Rα and
+IL-20Rβ, microglia and astrocytes were seeded at a density of 1 × 105 cells/well (500 μl/well) in
+48-well plates and treated with or without 100 ng/ml LPS for 24 h. To assess the phosphoryla-
+tion of STAT3, cells were seeded at a density of 1 × 105 cells/well in 48-well plates and treated
+with 100 ng/ml IL-19 for 0–120 min. Cells were lysed with TNES buffer (50 mM Tris-HCl [pH
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 3 / 12
+
+
+
+7.5], 150 mM NaCl, 1% Nonident P-40, 2 mM EDTA, 0.1% SDS) containing phosphatase in-
+hibitor cocktail (Sigma-Aldrich) and protease inhibitor mixture (Roche, Mannheim, Ger-
+many). Fifty micrograms of cell lysate protein dissolved in Laemmli sample buffer were
+separated on 4–20% SDS-polyacrylamide gels (Mini-Protean TGX, Bio-Rad, Hercules, CA,
+USA), and transferred to Hybond-P polyvinylidene difluoride membranes (GE Healthcare,
+Buckingham, UK). The membranes were blocked with 5% skim milk in Tris-buffered saline
+containing 0.05% Tween-20 for 1 h at room temperature, and then incubated overnight at 4°C
+with rabbit anti-IL-20Rα polyclonal antibodies (Merck Millipore, Billerica, MA, USA), rat
+anti-IL-20Rβmonoclonal antibody (eBioscience, San Diego, CA, USA), mouse anti-STAT3
+monoclonal antibody (BD Pharmingen, Franklin Lakes, NJ, USA), rabbit anti-pSTAT3 poly-
+clonal antibodies (Cell Signaling Technology, Danvers, MA, USA), or mouse anti-β-actin
+monoclonal antibody (Sigma-Aldrich), followed by incubation with horseradish peroxidase—
+conjugated secondary antibodies (GE Healthcare, Buckingham, UK) for 1 h at room tempera-
+ture. The signals were visualized using SuperSignal West Pico chemiluminescent substrate
+(Thermo Fisher Scientific), and quantitated using a CS Analyzer 3.0 system (Atto, Tokyo,
+Japan). Assays were carried out in five independent trials.
+
+Cell proliferation assay
+Microglia were treated with IL-19 (0–100 ng/ml) for 24 h. Cell proliferation was assessed using
+the 3-(4,5-dimethyl-thiazol-2yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazo-
+lium (MTS) assay with the CellTiter 96 AQueous One Solution assay (Promega, Madison, WI,
+USA) as described previously [33]. Assays were carried out in five independent trials.
+
+Statistical analysis
+Statistical significance was analyzed using Student’s t-test or one-way analysis of variance
+(ANOVA) followed by post-hoc Tukey’s test, using GraphPad Prism version 6.0 (GraphPad
+Software, La Jolla, CA, USA).
+
+Results
+
+Activated microglia are the predominant producers of IL-19
+First, we evaluated the mRNA expression profile of activated microglia using cDNA microar-
+rays. We found that 1,449 genes were significantly upregulated following treatment with LPS
+for 24 h. We identified IL-19 as the most upregulated gene (Table 1).
+
+Next, we confirmed IL-19 expression in CNS cells using qPCR and ELISA. LPS stimulation
+significantly induced IL-19 mRNA and protein expression in microglia and astrocytes (Fig. 1),
+but not in neurons (data not shown). IL-19 mRNA expression levels in microglia and astro-
+cytes reached their peaks at 6 h and 12 h after stimulation with 100 ng/ml LPS, respectively
+(Fig. 1, A and D). Next, we evaluated IL-19 mRNA expression levels in microglia and astrocytes
+stimulated with LPS at graded doses (0–1000 ng/ml) for 6 h and 12 h, respectively. IL-19
+mRNA reached a plateau at 100 ng/ml LPS (Fig. 1, B and E). Production of IL-19 in microglia
+and astrocytes increased in a time-dependent manner, and microglia produced approximately
+twice as much IL-19 as astrocytes (Fig. 1, C and F). These results indicate that IL-19 is predom-
+inantly produced by activated microglia in the CNS.
+
+Functional IL-19 receptor is exclusively expressed in microglia
+To determine which cells can respond to IL-19 in the CNS, we examined the levels of the IL-19
+receptor (a heterodimer of the IL-20Rα and IL-20Rβ subunits) in CNS cells byWestern blotting.
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 4 / 12
+
+
+
+A recent study reported that IL-19 receptor is expressed in astrocytes, but not in microglia [34].
+However, our data indicated that the IL-20Rα subunit was exclusively expressed in microglia,
+whereas the IL-20Rβ subunit was ubiquitously expressed in neurons, astrocytes, and microglia
+(Fig. 2A). Moreover, LPS stimulation did not alter the expression levels of the IL-19 receptor
+subunits in astrocytes and microglia (Fig. 2B). Downstream signals of IL-19 reportedly mediate
+STAT3 phosphorylation [20,21,35]. Indeed, Western-blotting analysis confirmed that treatment
+with IL-19 induced STAT3 phosphorylation in microglia (Fig. 2C). Although a previous study
+also showed that IL-19 suppresses the production of IL-6 and TNF-α in LPS-stimulated astro-
+cytes [34], in our hands IL-19 did not affect the levels of production of these cytokines by LPS-
+stimulated astrocytes (Fig. 3, A and B). These data show that microglia exclusively express the
+functional receptor of IL-19, and are thus the primary potential targets of IL-19 in the CNS.
+
+IL-19 does not activate microglia in resting state
+Next, we investigated whether IL-19 affects the proliferation of microglia. The MTS assay re-
+vealed that stimulation with IL-19 itself did not affect microglial proliferation (Fig. 4). Similar-
+ly, treatment with IL-19 did not induce microglial production of pro-inflammatory cytokines
+such as IL-6 and TNF-α (Fig. 5, A and B).
+
+IL-19 suppresses the production of pro-inflammatory factors in activated
+microglia
+Next, we investigated whether IL-19 affects the functions of activated microglia. Additional
+treatment of IL-19 did not significantly suppress the production of IL-6 and TNF-α in LPS-
+stimulated microglia, but ablation of IL-19 increased the production of these cytokines in LPS-
+stimulated microglia (Fig. 5, C and D), and these effects were reversed by addition of IL-19
+(Fig. 5, C and D). These results indicate that IL-19 may serve to limit microglial activation by
+suppressing pro-inflammatory cytokine production.
+
+In APP/PS1 Tg mice, IL-19 is upregulated in affected areas in
+association with disease progression
+Finally, to assess the involvement of IL-19 in neurodegenerative diseases, we investigated the
+expression pattern of IL-19 in a mouse model of AD using APP/PS1 Tg mice. mRNA
+
+Table 1. Upregulated genes in activated microglia (Top 10).
+
+Gene name Fold Change (vs. untreated)
+
+interleukin-19 7287.7
+
+schlafen 4 5064.0
+
+cDNA sequence U90926 4117.9
+
+urate (5-hydroxyiso-)hydrolase 2273.6
+
+interleukin-6 1852.3
+
+solute carrier organic anion transporter family, member 2b1 1502.6
+
+nitric oxide synthase 2, inducible 1022.8
+
+interleukin-1 family, member 6 980.2
+
+prostaglandin E synthase 915.8
+
+immunoresponsive gene 1 908.5
+
+Gene expression levels are expressed as fold change relative to the untreated control (n = 3).
+
+doi:10.1371/journal.pone.0118640.t001
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 5 / 12
+
+
+
+expression levels of IL-19 gradually increased in the hippocampi of APP/PS1 Tg mice
+(Fig. 6A). Protein levels of IL-19 were also significantly elevated in the diseased mice (Fig. 6B).
+
+Discussion
+In this study, we showed that activated microglia secrete IL-19 and are the only CNS cells to ex-
+press functional IL-19 receptor. Although a recent paper [34] reported that astrocytes express IL-
+19 and its receptor, our findings revealed that microglia are both the main source and target of
+IL-19 in the CNS. Previous studies reported that IL-19 is derived primarily frommacrophages,
+and to a lesser extent from B cells and epithelial-lineage cells including epithelial cells, endothelial
+cells, and keratinocytes [36–38]. Our data also demonstrated that microglia, the macrophage-like
+cell in the CNS, produce more IL-19 than astrocytes, which belong to the epithelial lineage.
+
+Previous reports showed that monocyte-lineage cells release IL-19 upon pro-inflammatory
+stimulation by factors such as LPS, IL-6, IL-17, and TNF-α [39,40]. IL-19 induces monocytes to
+produce IL-6 and TNF-α [22,39] and triggers T cells to release T-helper type 2 cytokines
+
+Fig 1. Activated microglia are the predominant source of IL-19 in the CNS. (A) qPCR data for IL-19 in
+microglia treated with LPS (100 ng/ml) for 0–24 h. (B) qPCR data for IL-19 in microglia treated with LPS (0–
+1000 ng/ml) for 6 h. (C) ELISA data for IL-19 in culture supernatant of microglia treated with LPS (100 ng/ml)
+for 24 h. (D) qPCR data for IL-19 in astrocytes treated with LPS (100 ng/ml) for 0–24 h. (E) qPCR data for IL-
+19 in astrocytes treated with LPS (0–1000 ng/ml) for 12 h. (F) ELISA data for IL-19 in culture supernatant of
+astrocytes treated with LPS (100 ng/ml) for 24 h. Microglia released approximately twice as much IL-19 as
+astrocytes. *, p< 0.05. **, p< 0.01. ***, p< 0.001. Values are means ± SD (n = 5).
+
+doi:10.1371/journal.pone.0118640.g001
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 6 / 12
+
+
+
+Fig 2. Microglia are the only cells in the CNS that express functional IL-19 receptor. (A) Western blotting
+data for receptors of IL-19. Only microglia express both the IL-20Rα and IL-20Rβ subunits. Neu, neurons;
+Ast, astrocytes; Mi, microglia. (B) Western blotting data for receptors of IL-19. LPS stimulation did not change
+the expression levels of IL-19 receptor subunits. Skin was used as the positive control. NT, untreated; LPS,
+LPS-treated. (C) Western-blotting analysis of STAT3 phosphorylation in microglia treated with 100 ng/ml IL-
+19. IL-19 induced STAT3 phosphorylation, the main downstream signal of the IL-19 receptor. All quantitative
+data are expressed as means ± SD (n = 3). *, p< 0.01 vs. 0 min. **, p< 0.001 vs. 0 min.
+
+doi:10.1371/journal.pone.0118640.g002
+
+Fig 3. IL-19 does not suppress production of pro-inflammatory cytokines in LPS-stimulated
+astrocytes. Astrocytes were treated with LPS (100 ng/ml) and recombinant IL-19 (100 ng/ml) for 24 h. (A)
+Production of IL-6 and (B) TNF-α. Treatment with IL-19 did not microglial production of IL-6 and TNF-α.
+Values are means ± SD (n = 3). N.S., not significant.
+
+doi:10.1371/journal.pone.0118640.g003
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 7 / 12
+
+
+
+Fig 4. IL-19 does not affect microglial proliferation.Microglial proliferation was evaluated by MTS assay.
+Treatment with 1–100 ng/ml IL-19 for 24 h did not affect microglial proliferation. Values are means ± SD (n =
+5).
+
+doi:10.1371/journal.pone.0118640.g004
+
+Fig 5. IL-19 suppresses production of pro-inflammatory cytokines in activated microglia. (A and B)
+Microglia were treated with recombinant IL-19 (100 ng/ml) for 24 h. Production of (A) IL-6 and (B) TNF-α.
+Stimulation with IL-19 itself did not induce microglial production of IL-6 and TNF-α. (C and D) Microglia from
+B6 mice and IL-19-/- mice were incubated in the presence of 100 ng/ml LPS, with or without 100 ng/ml IL-19,
+for 24 h. Production of (C) IL-6 and (D) TNF-α. IL-19 deficiency increased the production of pro-inflammatory
+factors in activated microglia, and this effect was reversed by addition of IL-19. *, p< 0.001. Data indicate
+means ± SD (n = 3). N.D., not detected.
+
+doi:10.1371/journal.pone.0118640.g005
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 8 / 12
+
+
+
+including IL-4, IL-5, IL-10, and IL-13 [23]. Therefore, IL-19 is recognized as an important player
+in the pathogenesis of systemic inflammatory diseases such as psoriasis, asthma, rheumatoid ar-
+thritis, and sepsis [22–24,41]. On the other hand, IL-19 also exerts anti-inflammatory activities
+in inflammatory bowel disease and vascular inflammatory diseases [25,42]. In contrast to its
+pro-inflammatory properties in monocytes, IL-19 attenuates the production of IL-6 and TNF-α
+in macrophages [25]. Our data also demonstrated that IL-19 has an anti-inflammatory activity
+in microglia. Activation of STAT3 is a key downstream step in IL-19 receptor signaling
+[20,21,35], and our data also showed that stimulation with IL-19 activates STAT3 in microglia,
+as shown previously in macrophages [25]. Moreover, IL-19 reportedly suppresses inflammatory
+responses in vascular smooth muscle cells via downregulation of human antigen R, which pro-
+motes transcription of pro-inflammatory factors [42]. Thus, the pleiotropic properties of IL-19
+in monocyte-lineage cells may depend on signaling downstream of the IL-19 receptor.
+
+Activated microglia play a pivotal role in the pathogenesis and progression of various neu-
+rological disorders such as trauma, stroke, inflammation, epilepsy, and neurodegenerative dis-
+eases by releasing neurotoxic factors including glutamate, nitric oxide, and reactive oxygen
+species [6–12,43]. Microglia also exacerbate neuroinflammation associated with leukocyte infil-
+tration by secreting pro-inflammatory cytokines and chemokines including TNF-α, interferon-
+γ (IFN-γ), IL-1β, IL-6, IL-12, IL-17, and IL-27 [5,43–47]. These microglial inflammatory and
+neurotoxic factors fuel the spiral of microglial activation and sustain chronic neuroinflamma-
+tion and neurodegeneration [1,5,43,48]. On the other hand, activated microglia also utilize
+self-limiting systems. IFN-γ, a well-known microglia stimulatory factor, is released from acti-
+vated microglia [44,47] but it also alleviates microglia-mediated neuroinflammation in manner
+that depends on activation-induced cell death [49], providing a possible mechanism for relapse
+and remission in multiple sclerosis. Our data suggest that IL-19 may participate in a novel
+mechanism by which microglia self-limit their inflammatory response. Unlike IFN-γ, IL-19 did
+not affect microglial survival. Furthermore, supplemental IL-19 did not exert additional sup-
+pressive effects on pro-inflammatory cytokine production by activated microglia, probably be-
+cause these cells had already released a saturating amount of IL-19. Therefore, IL-19 may be a
+weaker negative regulator of microglia than IL-10. Mouse model of AD exhibited gradual upre-
+gulation of IL-19 in the affected areas as disease progressed. Further studies are needed to
+
+Fig 6. In a mousemodel of AD, IL-19 is upregulated in affected regions in association with disease
+progression. (A) qPCR data for IL-19 in the hippocampi of APP/PS1 Tg and B6 mice. (B) ELISA data for IL-
+19 in the hippocampi of APP/PS1 Tg and B6 mice. IL-19 expression level gradually increased as disease
+progressed. WT, wild-type B6 mice. *, p< 0.01 vs. WT. **, p< 0.001 vs. WT. Values are means ± SD (n =
+3).
+
+doi:10.1371/journal.pone.0118640.g006
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 9 / 12
+
+
+
+clarify whether additional administration of IL-19 could effectively slow and halt the progres-
+sion of neurodegenerative diseases.
+
+In summary, we identified IL-19 as a novel anti-inflammatory cytokine released from acti-
+vated microglia. In the CNS, microglia are the only cells that express functional IL-19 receptor;
+therefore, microglia are both the main source and target of IL-19. Ablation of IL-19 increased
+microglial production of pro-inflammatory factors, and this effect was reversed by addition of
+IL-19. Our findings suggest that microglia self-limit their participation in neuroinflammation
+and neurodegeneration by producing a negative regulator, IL-19.
+
+Author Contributions
+Conceived and designed the experiments: HH HT AS. Performed the experiments: HH BP HT.
+Analyzed the data: HH HT AS. Contributed reagents/materials/analysis tools: YW YA TM.
+Wrote the paper: HH HT AS.
+
+References
+1. Block ML, Zecca L, Hong JS. Microglia-mediated neurotoxicity: uncovering the molecular mechanisms.
+
+Nat Rev Neurosci. 2007; 8(1): 57–69. PMID: 17180163
+
+2. Boche D, Perry VH, Nicoll JA. Review: activation patterns of microglia and their identification in the
+human brain. Neuropathol Appl Neurobiol. 2013; 39(1): 3–18. doi: 10.1111/nan.12011 PMID:
+23252647
+
+3. Kempermann G, Neumann H. Neuroscience. Microglia: the enemy within? Science. 2003; 302(5651):
+1689–1690. PMID: 14657479
+
+4. Kreutzberg GW. Microglia: a sensor for pathological events in the CNS. Trends Neurosci. 1996; 19(8):
+312–318. PMID: 8843599
+
+5. Takeuchi H. Neurotoxicity by microglia: Mechanisms and potential therapeutic strategy. Clin Exp Neu-
+roimmunol. 2010; 1(1): 12–21.
+
+6. Bruijn LI, Miller TM, Cleveland DW. Unraveling the mechanisms involved in motor neuron degeneration
+in ALS. Annu Rev Neurosci. 2004; 27: 723–749. PMID: 15217349
+
+7. Cagnin A, Brooks DJ, Kennedy AM, Gunn RN, Myers R, Turkheimer FE, et al. In-vivo measurement of
+activated microglia in dementia. Lancet. 2001; 358(9280): 461–467. PMID: 11513911
+
+8. Eikelenboom P, Bate C, Van Gool WA, Hoozemans JJ, Rozemuller JM, Veerhuis R, et al. Neuroinflam-
+mation in Alzheimer’s disease and prion disease. Glia. 2002; 40(2): 232–239. PMID: 12379910
+
+9. McGeer PL, McGeer EG. Inflammatory processes in amyotrophic lateral sclerosis. Muscle Nerve.
+2002; 26(4): 459–470. PMID: 12362410
+
+10. Nelson PT, Soma LA, Lavi E. Microglia in diseases of the central nervous system. Ann Med. 2002; 34
+(7–8): 491–500. PMID: 12553496
+
+11. Orr CF, Rowe DB, Halliday GM. An inflammatory review of Parkinson’s disease. Prog Neurobiol. 2002;
+68(5): 325–340. PMID: 12531233
+
+12. Pavese N, Gerhard A, Tai YF, Ho AK, Turkheimer F, Barker RA, et al. Microglial activation correlates
+with severity in Huntington disease: a clinical and PET study. Neurology. 2006; 66(11): 1638–1643.
+PMID: 16769933
+
+13. Jimenez S, Baglietto-Vargas D, Caballero C, Moreno-Gonzalez I, Torres M, Sanchez-Varo R, et al. In-
+flammatory response in the hippocampus of PS1M146L/APP751SL mouse model of Alzheimer’s dis-
+ease: age-dependent switch in the microglial phenotype from alternative to classic. J Neurosci. 2008;
+28(45): 11650–11661. doi: 10.1523/JNEUROSCI.3024-08.2008 PMID: 18987201
+
+14. Nakanishi H, Wu Z. Microglia-aging: roles of microglial lysosome- and mitochondria-derived reactive
+oxygen species in brain aging. Behav Brain Res. 2009; 201(1): 1–7. doi: 10.1016/j.bbr.2009.02.001
+PMID: 19428609
+
+15. Sawada M. Neuroprotective and toxic changes in microglia in neurodegenerative disease. Parkinson-
+ism Relat Disord. 2009; 15 Suppl 1: S39–41. doi: 10.1016/S1353-8020(09)70011-2 PMID: 19131042
+
+16. Wu Z, Tokuda Y, Zhang XW, Nakanishi H. Age-dependent responses of glial cells and leptomeninges
+during systemic inflammation. Neurobiol Dis. 2008; 32(3): 543–551. doi: 10.1016/j.nbd.2008.09.002
+PMID: 18848892
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 10 / 12
+
+http://www.ncbi.nlm.nih.gov/pubmed/17180163
+http://dx.doi.org/10.1111/nan.12011
+http://www.ncbi.nlm.nih.gov/pubmed/23252647
+http://www.ncbi.nlm.nih.gov/pubmed/14657479
+http://www.ncbi.nlm.nih.gov/pubmed/8843599
+http://www.ncbi.nlm.nih.gov/pubmed/15217349
+http://www.ncbi.nlm.nih.gov/pubmed/11513911
+http://www.ncbi.nlm.nih.gov/pubmed/12379910
+http://www.ncbi.nlm.nih.gov/pubmed/12362410
+http://www.ncbi.nlm.nih.gov/pubmed/12553496
+http://www.ncbi.nlm.nih.gov/pubmed/12531233
+http://www.ncbi.nlm.nih.gov/pubmed/16769933
+http://dx.doi.org/10.1523/JNEUROSCI.3024-08.2008
+http://www.ncbi.nlm.nih.gov/pubmed/18987201
+http://dx.doi.org/10.1016/j.bbr.2009.02.001
+http://www.ncbi.nlm.nih.gov/pubmed/19428609
+http://dx.doi.org/10.1016/S1353-8020(09)70011-2
+http://www.ncbi.nlm.nih.gov/pubmed/19131042
+http://dx.doi.org/10.1016/j.nbd.2008.09.002
+http://www.ncbi.nlm.nih.gov/pubmed/18848892
+
+
+17. Sawada M, Suzumura A, Hosoya H, Marunouchi T, Nagatsu T. Interleukin-10 inhibits both production
+of cytokines and expression of cytokine receptors in microglia. J Neurochem. 1999; 72(4): 1466–1471.
+PMID: 10098850
+
+18. Sabat R, Wallace E, Endesfelder S, Wolk K. IL-19 and IL-20: two novel cytokines with importance in in-
+flammatory diseases. Expert Opin Ther Targets. 2007; 11(5): 601–612. PMID: 17465720
+
+19. Fickenscher H, Hor S, Kupers H, Knappe A, Wittmann S, Sticht H. The interleukin-10 family of cyto-
+kines. Trends Immunol. 2002; 23(2): 89–96. PMID: 11929132
+
+20. Dumoutier L, Leemans C, Lejeune D, Kotenko SV, Renauld JC. Cutting edge: STAT activation by IL-
+19, IL-20 and mda-7 through IL-20 receptor complexes of two types. J Immunol. 2001; 167(7):
+3545–3549. PMID: 11564763
+
+21. Parrish-Novak J, XuW, Brender T, Yao L, Jones C, West J, et al. Interleukins 19, 20, and 24 signal
+through two distinct receptor complexes. Differences in receptor-ligand interactions mediate unique bi-
+ological functions. J Biol Chem. 2002; 277(49): 47517–47523. PMID: 12351624
+
+22. Liao YC, LiangWG, Chen FW, Hsu JH, Yang JJ, Chang MS. IL-19 induces production of IL-6 and TNF-
+alpha and results in cell apoptosis through TNF-alpha. J Immunol. 2002; 169(8): 4288–4297. PMID:
+12370360
+
+23. Liao SC, Cheng YC, Wang YC, Wang CW, Yang SM, Yu CK, et al. IL-19 induced Th2 cytokines and
+was up-regulated in asthma patients. J Immunol. 2004; 173(11): 6712–6718. PMID: 15557163
+
+24. Sakurai N, Kuroiwa T, Ikeuchi H, Hiramatsu N, Maeshima A, Kaneko Y, et al. Expression of IL-19 and
+its receptors in RA: potential role for synovial hyperplasia formation. Rheumatology (Oxford). 2008; 47
+(6): 815–820. doi: 10.1093/rheumatology/ken061 PMID: 18397956
+
+25. Azuma YT, Matsuo Y, Kuwamura M, Yancopoulos GD, Valenzuela DM, Murphy AJ, et al. Interleukin-
+19 protects mice from innate-mediated colonic inflammation. Inflamm Bowel Dis. 2010; 16(6):
+1017–1028. doi: 10.1002/ibd.21151 PMID: 19834971
+
+26. Ellison S, Gabunia K, Richards JM, Kelemen SE, England RN, Rudic D, et al. IL-19 Reduces Ligation-
+Mediated Neointimal Hyperplasia by Reducing Vascular Smooth Muscle Cell Activation. Am J Pathol.
+2014; 184(7): 2134–2143. doi: 10.1016/j.ajpath.2014.04.001 PMID: 24814101
+
+27. Borchelt DR, Ratovitski T, van Lare J, Lee MK, Gonzales V, Jenkins NA, et al. Accelerated amyloid de-
+position in the brains of transgenic mice coexpressing mutant presenilin 1 and amyloid precursor pro-
+teins. Neuron. 1997; 19(4): 939–945. PMID: 9354339
+
+28. Takeuchi H, Mizoguchi H, Doi Y, Jin S, Noda M, Liang J, et al. Blockade of gap junction hemichannel
+suppresses disease progression in mouse models of amyotrophic lateral sclerosis and Alzheimer’s dis-
+ease. PLoS One. 2011; 6(6): e21108. doi: 10.1371/journal.pone.0021108 PMID: 21712989
+
+29. Suzumura A, Mezitis SG, Gonatas NK, Silberberg DH. MHC antigen expression on bulk isolated mac-
+rophage-microglia from newborn mouse brain: induction of Ia antigen expression by gamma-interferon.
+J Neuroimmunol. 1987; 15(3): 263–278. PMID: 3110208
+
+30. Liang J, Takeuchi H, Doi Y, Kawanokuchi J, Sonobe Y, Jin S, et al. Excitatory amino acid transporter
+expression by astrocytes is neuroprotective against microglial excitotoxicity. Brain Res. 2008; 1210:
+11–19. doi: 10.1016/j.brainres.2008.03.012 PMID: 18410911
+
+31. Takeuchi H, Mizuno T, Zhang G, Wang J, Kawanokuchi J, Kuno R, et al. Neuritic beading induced by
+activated microglia is an early feature of neuronal dysfunction toward neuronal death by inhibition of mi-
+tochondrial respiration and axonal transport. J Biol Chem. 2005; 280(11): 10444–10454. PMID:
+15640150
+
+32. Doi Y, Takeuchi H, Horiuchi H, Hanyu T, Kawanokuchi J, Jin S, et al. Fingolimod phosphate attenuates
+oligomeric amyloid beta-induced neurotoxicity via increased brain-derived neurotrophic factor expres-
+sion in neurons. PLoS One. 2013; 8(4): e61988. doi: 10.1371/journal.pone.0061988 PMID: 23593505
+
+33. Takeuchi H, Jin S, Wang J, Zhang G, Kawanokuchi J, Kuno R, et al. Tumor necrosis factor-alpha in-
+duces neurotoxicity via glutamate release from hemichannels of activated microglia in an autocrine
+manner. J Biol Chem. 2006; 281(30): 21362–21368. PMID: 16720574
+
+34. Cooley ID, Chauhan VS, Donneyz MA, Marriott I. Astrocytes produce IL-19 in response to bacterial
+challenge and are sensitive to the immunosuppressive effects of this IL-10 family member. Glia. 2014;
+62(5): 818–828. PMID: 24677051
+
+35. Preimel D, Sticht H. Molecular modeling of the interleukin-19 receptor complex. Novel aspects of recep-
+tor recognition in the interleukin-10 cytokine family. J Mol Model. 2004; 10(4): 290–296. PMID:
+15243778
+
+36. Menon R, Ismail L, Ismail D, Merialdi M, Lombardi SJ, Fortunato SJ. Human fetal membrane expres-
+sion of IL-19 and IL-20 and its differential effect on inflammatory cytokine production. J Matern Fetal
+Neonatal Med. 2006; 19(4): 209–214. PMID: 16854693
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 11 / 12
+
+http://www.ncbi.nlm.nih.gov/pubmed/10098850
+http://www.ncbi.nlm.nih.gov/pubmed/17465720
+http://www.ncbi.nlm.nih.gov/pubmed/11929132
+http://www.ncbi.nlm.nih.gov/pubmed/11564763
+http://www.ncbi.nlm.nih.gov/pubmed/12351624
+http://www.ncbi.nlm.nih.gov/pubmed/12370360
+http://www.ncbi.nlm.nih.gov/pubmed/15557163
+http://dx.doi.org/10.1093/rheumatology/ken061
+http://www.ncbi.nlm.nih.gov/pubmed/18397956
+http://dx.doi.org/10.1002/ibd.21151
+http://www.ncbi.nlm.nih.gov/pubmed/19834971
+http://dx.doi.org/10.1016/j.ajpath.2014.04.001
+http://www.ncbi.nlm.nih.gov/pubmed/24814101
+http://www.ncbi.nlm.nih.gov/pubmed/9354339
+http://dx.doi.org/10.1371/journal.pone.0021108
+http://www.ncbi.nlm.nih.gov/pubmed/21712989
+http://www.ncbi.nlm.nih.gov/pubmed/3110208
+http://dx.doi.org/10.1016/j.brainres.2008.03.012
+http://www.ncbi.nlm.nih.gov/pubmed/18410911
+http://www.ncbi.nlm.nih.gov/pubmed/15640150
+http://dx.doi.org/10.1371/journal.pone.0061988
+http://www.ncbi.nlm.nih.gov/pubmed/23593505
+http://www.ncbi.nlm.nih.gov/pubmed/16720574
+http://www.ncbi.nlm.nih.gov/pubmed/24677051
+http://www.ncbi.nlm.nih.gov/pubmed/15243778
+http://www.ncbi.nlm.nih.gov/pubmed/16854693
+
+
+37. Hsing CH, Li HH, Hsu YH, Ho CL, Chuang SS, Lan KM, et al. The distribution of interleukin-19 in
+healthy and neoplastic tissue. Cytokine. 2008; 44(2): 221–228. doi: 10.1016/j.cyto.2008.06.007 PMID:
+18809337
+
+38. Wolk K, Kunz S, Asadullah K, Sabat R. Cutting edge: immune cells as sources and targets of the IL-10
+family members? J Immunol. 2002; 168(11): 5397–5402. PMID: 12023331
+
+39. Gallagher G, Dickensheets H, Eskdale J, Izotova LS, Mirochnitchenko OV, Peat JD, et al. Cloning, ex-
+pression and initial characterization of interleukin-19 (IL-19), a novel homologue of human interleukin-
+10 (IL-10). Genes Immun. 2000; 1(7): 442–450. PMID: 11196675
+
+40. Hsing CH, Hsieh MY, ChenWY, Cheung So E, Cheng BC, Chang MS. Induction of interleukin-19 and
+interleukin-22 after cardiac surgery with cardiopulmonary bypass. Ann Thorac Surg. 2006; 81(6):
+2196–2201. PMID: 16731153
+
+41. Hsing CH, Chiu CJ, Chang LY, Hsu CC, Chang MS. IL-19 is involved in the pathogenesis of endotoxic
+shock. Shock. 2008; 29(1): 7–15. PMID: 18246602
+
+42. Cuneo AA, Herrick D, Autieri MV. Il-19 reduces VSMC activation by regulation of mRNA regulatory fac-
+tor HuR and reduction of mRNA stability. J Mol Cell Cardiol. 2010; 49(4): 647–654. doi: 10.1016/j.
+yjmcc.2010.04.016 PMID: 20451530
+
+43. Takeuchi H, Suzumura A. Gap junctions and hemichannels composed of connexins: potential thera-
+peutic targets for neurodegenerative diseases. Front Cell Neurosci. 2014; 8: 189. doi: 10.3389/fncel.
+2014.00189 PMID: 25228858
+
+44. Kawanokuchi J, Mizuno T, Takeuchi H, Kato H, Wang J, Mitsuma N, et al. Production of interferon-
+gamma by microglia. Mult Scler. 2006; 12(5): 558–564. PMID: 17086900
+
+45. Kawanokuchi J, Shimizu K, Nitta A, Yamada K, Mizuno T, Takeuchi H, et al. Production and functions
+of IL-17 in microglia. J Neuroimmunol. 2008; 194(1–2): 54–61. doi: 10.1016/j.jneuroim.2007.11.018
+PMID: 18295350
+
+46. Sonobe Y, Yawata I, Kawanokuchi J, Takeuchi H, Mizuno T, Suzumura A. Production of IL-27 and
+other IL-12 family cytokines by microglia and their subpopulations. Brain Res. 2005; 1040(1–2):
+202–207. PMID: 15804439
+
+47. Wang X, Suzuki Y. Microglia produce IFN-gamma independently from T cells during acute toxoplasmo-
+sis in the brain. J Interferon Cytokine Res. 2007; 27(7): 599–605. PMID: 17651021
+
+48. Orellana JA, Saez PJ, Shoji KF, Schalper KA, Palacios-Prado N, Velarde V, et al. Modulation of brain
+hemichannels and gap junction channels by pro-inflammatory agents and their possible role in neuro-
+degeneration. Antioxid Redox Signal. 2009; 11(2): 369–399. doi: 10.1089/ars.2008.2130 PMID:
+18816186
+
+49. Takeuchi H, Wang J, Kawanokuchi J, Mitsuma N, Mizuno T, Suzumura A. Interferon-gamma induces
+microglial-activation-induced cell death: a hypothetical mechanism of relapse and remission in multiple
+sclerosis. Neurobiol Dis. 2006; 22(1): 33–39. PMID: 16386911
+
+IL-19 as a Negative Regulator of Activated Microglia
+
+PLOS ONE | DOI:10.1371/journal.pone.0118640 March 20, 2015 12 / 12
+
+http://dx.doi.org/10.1016/j.cyto.2008.06.007
+http://www.ncbi.nlm.nih.gov/pubmed/18809337
+http://www.ncbi.nlm.nih.gov/pubmed/12023331
+http://www.ncbi.nlm.nih.gov/pubmed/11196675
+http://www.ncbi.nlm.nih.gov/pubmed/16731153
+http://www.ncbi.nlm.nih.gov/pubmed/18246602
+http://dx.doi.org/10.1016/j.yjmcc.2010.04.016
+http://dx.doi.org/10.1016/j.yjmcc.2010.04.016
+http://www.ncbi.nlm.nih.gov/pubmed/20451530
+http://dx.doi.org/10.3389/fncel.2014.00189
+http://dx.doi.org/10.3389/fncel.2014.00189
+http://www.ncbi.nlm.nih.gov/pubmed/25228858
+http://www.ncbi.nlm.nih.gov/pubmed/17086900
+http://dx.doi.org/10.1016/j.jneuroim.2007.11.018
+http://www.ncbi.nlm.nih.gov/pubmed/18295350
+http://www.ncbi.nlm.nih.gov/pubmed/15804439
+http://www.ncbi.nlm.nih.gov/pubmed/17651021
+http://dx.doi.org/10.1089/ars.2008.2130
+http://www.ncbi.nlm.nih.gov/pubmed/18816186
+http://www.ncbi.nlm.nih.gov/pubmed/16386911

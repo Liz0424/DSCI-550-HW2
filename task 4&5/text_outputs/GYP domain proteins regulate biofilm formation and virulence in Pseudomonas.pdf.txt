@@ -1,0 +1,1049 @@
+HD-GYP domain proteins regulate biofilm formation and virulence in Pseudomonas aeruginosa
+
+
+HD-GYP domain proteins regulate biofilm formation
+and virulence in Pseudomonas aeruginosa
+
+Robert P. Ryan,1 Jean Lucey,1 Karen O’Donovan,1
+
+Yvonne McCarthy,1 Liang Yang,2 Tim Tolker-Nielsen2
+
+and J. Maxwell Dow1*
+1BIOMERIT Research Centre, Department of
+Microbiology, BioSciences Institute, National University
+of Ireland, Cork, Ireland.
+2Center for Biomedical Microbiology, BioCentrum-DTU,
+Technical University of Denmark, DK-2800 Lyngby,
+Denmark.
+
+Summary
+
+HD-GYP is a protein domain involved in the hydroly-
+sis of the bacterial second messenger cyclic-di-GMP.
+The genome of the human pathogen Pseudomonas
+aeruginosa PAO1 encodes two proteins (PA4108,
+PA4781) with an HD-GYP domain and a third protein,
+PA2572, which contains a domain with variant key
+residues (YN-GYP). Here we have investigated the
+role of these proteins in biofilm formation, virulence
+factor synthesis and virulence of P. aeruginosa. Muta-
+tion of PA4108 and PA4781 led to an increase in the
+level of cyclic-di-GMP in P. aeruginosa, consistent
+with the predicted activity of the encoded proteins as
+cyclic-di-GMP phosphodiesterases. Mutation of both
+genes led to reduced swarming motility but had dif-
+fering effects on production of the virulence factors
+pyocyanin, pyoverdin and ExoS. Mutation of PA2572
+had no effect on cyclic-di-GMP levels and did not
+influence swarming motility. However, PA2572 had a
+negative influence on swarming that was cryptic and
+was revealed only after removal of an uncharacter-
+ized C-terminal domain. Mutation of PA4108, PA4781
+and PA2572 had distinct effects on biofilm formation
+and architecture of P. aeruginosa. All three proteins
+contributed to virulence of P. aeruginosa to larvae of
+the Greater Wax moth Galleria mellonella.
+
+Introduction
+
+The nucleotide cyclic di-GMP [bis-(3′-5′)-cyclic di-
+guanosine monophosphate] is a second messenger in
+bacteria that regulates a range of functions including
+
+developmental transitions, polysaccharide synthesis,
+adhesion, biofilm formation, the synthesis of virulence
+factors and virulence in bacterial pathogens (Römling
+et al., 2005; Jenal and Malone, 2006; Ryan et al., 2006a;
+Cotter and Stibitz, 2007). The level of cyclic di-GMP in
+bacterial cells is influenced by both synthesis and degra-
+dation. The GGDEF protein domain synthesizes cyclic
+di-GMP, whereas EAL and HD-GYP domains are involved
+in cyclic di-GMP hydrolysis (Paul et al., 2004; Christen
+et al., 2005; Ryjenkov et al., 2005; Schmidt et al., 2005;
+Tamayo et al., 2005; Ryan et al., 2006b). GGDEF and
+EAL domains were first linked to cyclic di-GMP turnover
+through studies of the regulation of cellulose synthesis in
+Gluconacetobacter xylinus (Tal et al., 1998). Subse-
+quently, a number of reports have described the role of
+GGDEF/EAL domain proteins in the control of different
+cellular functions in diverse bacteria and the enzymatic
+activity of the two domains has been established. In con-
+trast, comparatively little is known about the role of
+HD-GYP domain proteins in bacteria, although bioinfor-
+matic studies indicate that genes encoding proteins with
+this domain occur in many genomic sequences represent-
+ing all major classes of bacteria (Galperin, 2005).
+
+Studies of the function and role of the HD-GYP domain
+have thus far focused on the regulatory protein RpfG from
+the plant pathogen Xanthomonas campestris. RpfG is
+required for full virulence of X. campestris and acts to
+positively regulate the synthesis of virulence factors such
+as extracellular enzymes and extracellular polysaccha-
+ride, positively regulate motility, but negatively regulate
+adherence and biofilm formation (Slater et al., 2000; Dow
+et al., 2003; Crossman and Dow, 2004; Dow et al., 2006;
+Ryan et al., 2007). The isolated HD-GYP domain of RpfG
+can hydrolyse cyclic di-GMP to GMP via a linear interme-
+diate (Ryan et al., 2006b). Mutation of the HD residues
+comprising the presumed catalytic diad of the HD-GYP
+domain abolishes both the regulatory activity and enzy-
+matic activity against cyclic di-GMP (Ryan et al., 2006b).
+
+The work in this paper had the overall aim of broaden-
+ing our understanding of the cellular function of HD-GYP
+domain proteins by examination of their role in the human
+pathogen Pseudomonas aeruginosa. The P. aeruginosa
+genome encodes two proteins (PA4108, PA4781) with an
+HD-GYP domain and a third protein PA2572, which con-
+tains a variant HD-GYP domain (specifically YN-GYP). It
+is not known whether all three proteins are capable of
+
+Received 4 September, 2008; accepted 5 November, 2008. *For
+correspondence. E-mail m.dow@ucc.ie; Tel. (+353) 21 4901316;
+Fax (+353) 21 4275934.
+
+Environmental Microbiology (2009) 11(5), 1126–1136 doi:10.1111/j.1462-2920.2008.01842.x
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd
+
+mailto:m.dow@ucc.ie
+
+
+cyclic di-GMP degradation. The expression of PA4108,
+PA4781 and PA2572 is substantially increased during
+co-culture of P. aeruginosa with human epithelial cells
+(Ichikawa et al., 2000; Chugani and Greenberg, 2007)
+and PA2572 and PA4781 are induced by mucopurulent
+fluid from cystic fibrosis patients (Wolfgang et al., 2004).
+These observations raise the question as to whether
+these proteins act to regulate factors associated with the
+virulence of P. aeruginosa, an issue we address here. Our
+findings indicate that PA4108 and PA4781 are cyclic
+di-GMP phosphodiesterases that regulate the synthesis
+and/or secretion of the virulence determinants pyocyanin,
+pyoverdin and ExoS as well as having a positive effect on
+swarming. In contrast, PA2572, which is inactive in cyclic
+di-GMP hydrolysis, has a cryptic negative influence on
+swarming. Mutations of PA4108, PA4781 and PA2572
+have distinct effects on the synthesis of different virulence
+determinants and on biofilm formation and architecture
+but all mutants have reduced virulence to larvae of the
+Greater Wax Moth Galleria mellonella.
+
+Results
+
+Domain organization of PA2572, PA4108 and PA4781
+
+The HD-GYP domain in PA2572 and PA4781 is found
+in association with an N-terminal CheY-like response
+receiver (REC) regulatory domain. PA2572 additionally
+has an uncharacterized C-terminal extension that is
+absent from PA4781 and from RpfG of X. campestris.
+PA4108 has an HD-GYP domain with additional
+N-terminal and C-terminal domains that are uncharacter-
+ized. The presence of the REC domain suggests that
+PA2572 and PA4781 are elements within two component
+regulatory systems. Although PA2572 is adjacent to a
+gene (PA2571) encoding a sensor kinase, no gene encod-
+ing a sensor kinase is found within the genomic vicinity of
+PA4781, which appears therefore to be an ‘orphan’
+regulator.
+
+Analysis of the enzymatic activities of the HD-GYP
+domains of PA2572, PA4108 and PA4781 by expression
+in Xanthomonas campestris
+
+As outlined in Introduction, mutation of rpfG in X. campes-
+tris leads to a substantial reduction in the synthesis of the
+extracellular enzymes endoglucanase, endomannanase
+and protease. Expression of the isolated HD-GYP domain
+of RpfG in the rpfG mutant background restores enzyme
+production to near wild-type levels. This effect, which is
+also seen with this domain carrying a C-terminal His6 tag,
+depends upon the HD diad and the ability to degrade
+cyclic di-GMP (Ryan et al., 2006b). Expression in the
+
+X. campestris rpfG mutant was used to analyse the enzy-
+matic activities of the isolated HD-GYP domains of
+PA2572, PA4108 and PA4781 that had C-terminal His6
+tags. HD-GYP domains from both PA4108 and PA4781
+were able to restore production of endoglucanase,
+endomannanase and protease towards wild-type levels
+(Fig. 1A–C). In contrast, no effect was seen with the
+YN-GYP domain of PA2572 (Fig. 1A–C). Western analy-
+sis with antisera against the His6 tag showed that all the
+domains were expressed (Fig. 1D).
+
+The effects of expression of the various HD-GYP
+domains on the cellular level of cyclic di-GMP in
+X. campestris were also determined. The levels of the
+nucleotide were elevated in the rpfG mutant compared
+with the wild-type X. campestris strain 8004 (Fig. 2;
+Fig. S1). Expression of the HD-GYP domains of RpfG,
+PA4108 and PA4781 caused a reduction in the level,
+although expression of the YN-GYP domain of PA2572
+had no effect (Fig. 2). The absence of any effect with the
+YN-GYP variant domain suggested that this does not
+have any enzymatic activity against cyclic di-GMP. This
+contention was further examined by assessment of the
+effects of alteration of the conserved H231 and D232
+residues of RpfG to Y and N residues respectively. These
+changes (H231Y, D232N) were introduced by site-
+directed mutagenic PCR into the construct expressing
+HD-GYPHis6 (see Experimental procedures). Western
+analysis with antisera against the His6 tag showed that
+the variant protein was expressed to the same level as the
+wild-type (Fig. S2). However, these alterations in the HD
+diad eliminated the regulatory activity of the HD-GYPHis6
+domain in restoring extracellular enzyme synthesis
+(Fig. S2).
+
+Taken together, these findings suggest that the
+HD-GYP domains of PA4108 and PA4781 have cyclic
+di-GMP phosphodiesterase activity but that the YN-GYP
+domain of PA2572 is inactive. Unfortunately, it was not
+possible to purify sufficient protein to examine these pro-
+posed enzymatic activities directly.
+
+Phenotypic effects of mutation of genes encoding
+HD-GYP domain proteins in Pseudomonas aeruginosa
+
+Specific disruption of PA2572, PA4108 and PA4781 was
+carried out using pEX18-Gm as described in Experimen-
+tal procedures. The mutant strains were tested for the
+cellular level of cyclic di-GMP and for production of factors
+or phenotypes that have been associated with P. aerugi-
+nosa virulence. Mutation of PA2572, PA4108 and PA4781
+had no effect on growth in minimal M9 medium or
+complex LB medium. Mutation of PA4108 and PA4781
+gave rise to increased levels of cyclic di-GMP (Fig. 3),
+consistent with the role of the HD-GYP domain in cyclic
+di-GMP degradation. In contrast, there was no discernible
+
+HD-GYP domain proteins in Pseudomonas aeruginosa 1127
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+difference in the level of cyclic di-GMP between the
+PA2572 mutant and the wild-type (Fig. 3). Introduction of
+the PA4108 and PA4781 genes cloned in pBBRMCS1-Cm
+into the appropriate mutants reduced cyclic di-GMP levels
+to wild-type (Fig. 3).
+
+Mutation of PA4108 and PA4781 led to reduction in both
+swarming and twitching motility (Fig. 4C and data not
+shown), whereas mutation of PA2572 had no effect on
+either form of motility. All strains showed wild-type swim-
+ming motility. Introduction of PA4108 and PA4781 genes
+into the appropriate mutants restored wild-type swarming
+and twitching motility (Fig. 4C and data not shown).
+
+Mutation of PA4108, PA4781 and PA2572 had different
+effects on the production of the phenazine, pyocyanin, the
+siderophore pyoverdine and rhamnolipid (Fig. 4; Fig. S3).
+Mutation of PA4781 led to an increase in pyoverdine
+
+production, whereas mutation of PA2572 led to a reduc-
+tion and mutation of PA4108 had no significant effect
+(Fig. 4A). In contrast, only mutation of PA4108 had a
+significant effect on pyocyanin production, which was
+reduced compared with wild-type (Fig. 4B). The produc-
+tion of rhamnolipid was elevated in the PA2572 mutant but
+was at wild-type level in both the PA4108 and PA4781
+mutant strains (Fig. S3). Mutation of PA4108 but not
+PA2572 or PA4781 led to reduction in the extracellular
+levels of the Type III-secreted effector ExoS (Fig. 5A).
+Introduction of the cloned PA4108 into the PA4108 mutant
+restored ExoS levels to wild-type (Fig. 5B). Overall, these
+results indicated that PA2572, PA4108 and PA4781 have
+distinct regulatory effects on production of certain viru-
+lence factors in P. aeruginosa, although PA4108 and
+PA4781 have the same influence on motility.
+
+Fig. 1. Analysis of the ability of the HD-GYP domains of PA2572, PA4108 and PA4781 to regulate of production of extracellular enzymes in
+X. campestris. DNA encoding the different HD-GYP domains with a C-terminal His6 tag was cloned into pLAFR3 and constructs introduced
+into the rpfG mutant of X. campestris. The relative level of mannanase (A) and endoglucanase (B) in culture supernatants of different bacterial
+strains was measured after growth in NYGB medium to an OD at 600 nm of 2.0 and compared with that of the wild-type X. campestris strain
+8004. Values given are the means and standard errors of triplicate measurements. (C) The relative level of protease production was assessed
+by zones of clearing around bacterial colonies grown on skimmed milk agar plates. The HD-GYP domain of PA4108 and PA4781 but not
+PA2572 restored production of the three enzyme activities to near levels of the X. campestris wild-type strain 8004. Western blot analysis with
+an anti-His6 antiserum (D) showed that all protein domains were expressed in X. campestris. Lanes: 1, X. campestris wild-type strain 8004
+carrying pLAFR3; 2, X. campestris rpfG mutant expressing RpfG HD-GYPHis6 [rpfG(RpfG HD-GYP)]; 3, rpfG (pLAFR3); 4, rpfG (PA2572
+HD-GYPHis6); 5, rpfG (pLAFR3); 6, rpfG (PA4781 HD-GYPHis6); 7, rpfG (pLAFR3); 8, rpfG (PA4108 HD-GYPHis6).
+
+1128 R. P. Ryan et al.
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+Mutations of genes encoding different HD-GYP domain
+proteins have distinct effects on biofilm formation in
+Pseudomonas aeruginosa
+
+The effect of mutation of PA4108, PA4781 and PA2572 on
+biofilm formation in P. aeruginosa was assessed using
+bacteria growing in flow cells (see Experimental proce-
+dures). In FAB medium, wild-type P. aeruginosa devel-
+oped characteristic mushroom structures with a stalk and
+cap (Fig. 6A). The PA2572 mutant formed similar struc-
+tures, but unlike the wild-type, had central hollowing of the
+stalk with a region that was devoid of bacteria, as seen by
+staining with either the live stain Syto9 (Fig. 6B) or dead
+stain propidium iodide (data not shown). The PA4108
+mutant produced a flatter biofilm than wild-type with
+smaller mushroom structures and reduced biomass
+(Fig. 6C; Fig. S4E). The PA4781 mutant produced a
+biofilm with little heterogeneity that covered a large
+percentage of the surface and encompassed a few
+mushroom-like structures (Fig. 6D). Introduction of cloned
+PA2572, PA4108 or PA4781 genes into the appropriate
+mutant strains restored the formation of mushroom struc-
+tures similar to those of the wild-type in each case
+(Fig. S4). These differences in architecture of the biofilms
+formed by the different mutants provide further support for
+the notion that PA2572, PA4108 and PA4781 have distinct
+regulatory actions.
+
+Mutation of genes encoding HD-GYP domain proteins
+influences virulence of Pseudomonas aeruginosa
+
+The virulence of different strains of P. aeruginosa to larvae
+of G. mellonella were assessed as described in Experi-
+
+mental procedures, using 10 larvae at each inoculum
+level. The minimum inoculum of the wild-type required to
+kill all 10 larvae was 12 � 3 cfu (n = 9). For strains with
+mutation of PA2572, PA4108 and PA4781, a higher level
+of bacteria was required to kill all 10 larvae, indicating a
+reduction in virulence. The minimum inoculum level (cfu)
+was 1000 for the PA2572 mutant, 1100 for the PA4108
+mutant and 745 for the PA4781 mutant. Complemented
+PA2572, PA4108 and PA4781 strains had wild-type levels
+of virulence, with minimum inoculum level between 10
+and 15 cfu. All values are the means of quadruplicate
+measurements. The whole experiment was repeated
+twice with essentially the same result. These findings
+indicated that all three HD-GYP domain proteins contrib-
+ute to virulence in the Galleria model.
+
+A cryptic regulatory activity of the YN-GYP domain
+protein PA2572
+
+In some cases functions of domains within modular pro-
+teins may be cryptic and may only be revealed by analysis
+of the phenotypes of multiple transposon insertions in
+each gene or by the generation of specific deletion
+mutants (Kulesekara et al., 2006; Tarutina et al., 2006). A
+preliminary indication of such a cryptic activity of the
+YN-GYP domain of PA2572 was provided by the analysis
+of the motility phenotypes of four mutants with transposon
+insertions in different sites in PA2572 (Jacobs et al., 2003;
+Fig. 7A, which is a gene of 1344 nt. Although transposon
+insertions at positions 113, 615 and 928 did not influence
+swarming or twitching, the insertion at position 1107 (in
+strain 16841) led to a reduction in both types of motility
+(Fig. 7B and C; Fig. S5). All transposon mutants showed
+wild-type swimming motility, however (Fig. S5). The inser-
+
+Fig. 2. Analysis of the cyclic di-GMP phosphodiesterase activity of
+the HD-GYP domains of PA2572, PA4108 and PA4781 by
+expression in the rpfG mutant of X. campestris. Relative levels of
+cyclic di-GMP in the rpfG mutant of X. campestris expressing
+HD-GYP domains from different P. aeruginosa proteins are
+compared with those in the rpfG mutant expressing the HD-GYP
+domain of RpfG, the rpfG mutant alone and wild-type X. campestris
+strain 8004. Values given are the mean and standard deviation of
+triplicate measurements.
+
+Fig. 3. Effects of mutation of PA2572, PA4108 and PA4781 on
+cyclic di-GMP level in P. aeruginosa. Elevated levels of extractable
+nucleotide were seen after mutation of PA4108 and PA4781, but
+not PA2572. Introduction of the cloned PA4108 and PA4781 genes
+into the appropriate mutants reduced cyclic di-GMP levels to
+wild-type.
+
+HD-GYP domain proteins in Pseudomonas aeruginosa 1129
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+tion affecting swarming and twitching is within the region
+of PA2572 encoding the uncharacterized C-terminal
+extension. Introduction of the wild-type PA2572 gene
+cloned in pBBRMCS5-GmR into strain 16841 did not
+restore wild-type motility (data not shown). These findings
+suggested that truncation of PA2572 had revealed a
+dominant negative regulatory activity of the protein on
+P. aeruginosa twitching and swarming motility. Although
+the insertion in strain 16841 led to a reduction in motility,
+there was no effect on the production of pyocyanin,
+pyoverdin or rhamnolipid (data not shown).
+
+The YN-GYP domain has a dominant negative
+effect on swarming motility
+
+The hypothesis that the truncated PA2572 has a dominant
+negative effect on motility was further tested by experi-
+ments in which the effects of expression of a truncated
+protein with only REC and YN-GYP domains (encoded
+by nucleotides 1–1110) were examined. Constructs
+
+expressing a protein with both REC and YN-GYP domains
+cloned in pBBRMCS5-GmR or the REC and YN-GYP
+domains with a His6 tag cloned into pLAFR3 (see Experi-
+mental procedures) were introduced into the wild-type
+strains mPAO1 and PAO1. This resulted in a negative
+effect on swarming and twitching in both strains (Fig. 8).
+These effects were also seen when the construct cloned
+in pBBRMCS5-Gm was introduced into strain 8166
+(Fig. S6), which has a transposon insertion at position 113
+of PA2572 (Fig. 7A). In contrast, expression of either
+the REC domain alone, the YN-GYP domain with the
+C-terminal extension (both with His6 tags) or of the
+YN-GYP domain alone had no effect on swarming motility
+(Fig. S7A and data not shown). Western analysis with
+antisera against the His6 tag showed that the different
+proteins were however expressed (Fig. S7B). Taken
+together, these results support the view that PA2572 has
+a cryptic dominant negative effect on motility and indicate
+that this action requires both the REC and YN-GYP
+domains.
+
+Fig. 4. Mutation of genes encoding different HD-GYP domain proteins has different phenotypic effects in P. aeruginosa PAO1. (A) Pyoverdine
+production; (B) pyocyanin production; and (C) swarming motility on 0.5% Eiken agar. Mutation of PA2572 did not influence swarming (not
+shown). The phenotypic effects of mutation could be reversed by introduction of the cloned genes into the appropriate mutants.
+
+1130 R. P. Ryan et al.
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+Discussion
+
+HD-GYP domains proteins regulate virulence factor
+synthesis in Pseudomonas aeruginosa
+
+The work in this paper provides evidence that the
+
+HD-GYP domain proteins PA4108 and PA4781 are cyclic
+di-GMP phosphodiesterases that act in regulation of motil-
+ity, synthesis of virulence determinants and biofilm archi-
+tecture in P. aeruginosa. Mutation of either PA4108 or
+PA4781 leads to a reduction in motility associated with
+elevated cellular levels of cyclic di-GMP. Observations
+from a range of bacteria have similarly linked lower levels
+of the nucleotide with motile behaviour and higher cellular
+levels with sessile behaviour and biofilm formation (Simm
+et al., 2004). This apparently common action of PA4108
+and PA4781 in regulation of motility contrasts with distinct
+effects of mutation of PA4108 and PA4781 on biofilm
+architecture and the synthesis of virulence determinants;
+mutation of PA4108 has different effects to mutation of
+PA4781 on the synthesis of pyoverdin and pyocyanin and
+only mutation of PA4108 influences the levels of the type
+III-secreted effector ExoS. The mechanistic basis for
+these apparently diverse actions of HD-GYP domain pro-
+teins remains obscure.
+
+An enzymatically inactive HD-GYP domain has a
+regulatory role
+
+A number of lines of evidence indicate that the YN-GYP
+domain of PA2572 has no activity as a cyclic di-GMP
+phosphodiesterase. Expression of PA2572, the YN-GYP
+domain attached to the uncharacterized C-terminal
+domain or the isolated YN-GYP domain did not restore
+extracellular enzyme activity to the rpfG mutant of
+
+Fig. 5. Effects of mutation of genes encoding HD-GYP domain
+proteins on production of extracellular type III secreted effector
+ExoS.
+A. Immunoblot of extracellular proteins of P. aeruginosa strains
+separated by SDS-polyacrylamide gel and probed with antisera to
+ExoS. The PA4108 mutant shows significantly reduced ExoS level.
+B. ExoS levels in extracellular protein preparations from
+complemented mutants. Strains were grown in the presence of the
+calcium chelator nitrilotriacetic acid and equivalent amounts of
+protein (10 mg) were loaded in each lane.
+
+Fig. 6. Effects of mutation of genes encoding
+HD-GYP domain proteins on biofilm
+architecture in P. aeruginosa. Images are of
+4-day-old biofilms in flow cells in FAB
+medium. (A) P. aeruginosa PAO1 wild-type;
+(B) PA2572 mutant; (C) PA4108 mutant; and
+(D) PA4781 mutant. For these experiments,
+P. aeruginosa was visualized with Syto9, as
+described in Experimental procedures. Scale
+bars, 20 mm.
+
+HD-GYP domain proteins in Pseudomonas aeruginosa 1131
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+X. campestris and had no effect on the levels of cyclic
+di-GMP. Furthermore, the H231Y, D232N alteration in the
+presumed catalytic diad of the HD-GYP domain of RpfG
+abolished the regulatory effect on extracellular enzyme
+synthesis in X. campestris. Nevertheless, mutation of
+
+PA2572 influenced biofilm architecture and caused over-
+production of rhamnolipid. Boles and colleagues (2005)
+have demonstrated that rhamnolipids mediate formation
+of hollows or cavities within the centre of P. aeruginosa
+biofilms and have proposed that this is associated with the
+process of bacterial detachment. It is therefore plausible
+that the hollowing of the stalk of the mushroom produced
+by the PA2572 mutant is a consequence of the over-
+production of rhamnolipid by this strain.
+
+Further to this, a cryptic regulatory role for the YN-GYP
+domain on swarming was revealed through the use of
+multiple transposon mutants within PA2572 and by
+expression of the different domain combinations in the
+wild-type P. aeruginosa. Although the complete loss of
+PA2572 has no apparent effect on swarming, the loss of
+the C-terminal domain results in a protein with a dominant
+
+Fig. 7. Motility phenotypes of P. aeruginosa mPAO1 (Jacobs
+et al., 2003) and derived mutants with transposon insertion at
+different locations within PA2572.
+A. Map of the locations of the transposon insertions within the
+PA2572 gene, nucleotide positions given in brackets. Arrows
+indicate orientations of the outward facing neomycin
+phosphotransferase promoter of the transposon. These strains,
+constructed by Jacobs and colleagues (2003), were obtained
+from the University of Washington Genome Centre
+(http://www.gs.washington.edu/labs/manoil).
+B. Predicted domain organization of PA2572 comprising REC,
+YN-GYP and the uncharacterized C-terminal domain, with amino
+acid positions indicated.
+C. Swarming motility of mPAO1 and mutants with transposon
+insertions in different positions within PA2572.
+D. Twitching motility of mPAO1 and mutants with transposon
+insertions in different positions within PA2572.
+
+Fig. 8. Motility of wild-type P. aeruginosa is influenced by
+expression of PA2572 with a C-terminal truncation. Twitching (A)
+and swarming motility (B) were assessed in mPAO1, mPAO1
+carrying the cloning vector pBBRMCS5-GmR and mPAO1 carrying
+a construct comprising nucleotides 1–1110 of PA2572 (labelled as
+pTRUN), which expresses the C-terminally truncated PA2572
+protein. A similar reduction in swarming was seen in P. aeruginosa
+PAO1 carrying a construct expressing the C-terminally truncated
+PA2572 protein with a His6 tag, cloned in pLAFR3.
+
+1132 R. P. Ryan et al.
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+http://www.gs.washington.edu/labs/manoil
+
+
+negative effect. This construct also had no enzymatic
+activity against cyclic di-GMP as assessed by heterolo-
+gous expression in X. campestris. As pointed out by
+Kulesekara and colleagues (2006), analysis of the phe-
+notypic effects of expressing such truncated proteins may
+or may not represent regulatory functions that occur
+during the biological function of the full-length protein. The
+mechanism(s) by which the YN-GYP domain exerts these
+effects are unknown, but it is plausible that this involves
+protein–protein interactions. Yeast two-hybrid analysis
+has revealed physical interactions between the HD-GYP
+domain of RpfG from Xanthomonas axonopodis pv. citri
+and a range of proteins including several with a GGDEF
+domain as well as other regulators (Andrade et al., 2006).
+Although the biological relevance of such interactions has
+yet to be tested, these observations suggest a scenario
+whereby the YN-GYP domain could modulate the activity
+of a subset of GGDEF domain proteins or other regulators
+(Andrade et al., 2006) with a consequent negative effect
+on swarming. It is also possible that the YN-GYP domain
+interferes with the action of the HD-GYP domain proteins
+PA4108 and PA4718, which have opposite effects on
+swarming to (truncated) PA2572.
+
+Conservation of the C-terminal domain of PA2572 in
+other HD-GYP domain proteins
+
+Our results are consistent with a model in which the
+C-terminal domain of PA2572 acts to inhibit the function of
+the YN-GYP domain in regulation of swarming, although
+they give no clues as to the mechanism of inhibition or
+how this is relieved to allow the proposed action of the
+domain. Examination of the databases using BLASTP
+indicated that proteins with the same domain structure as
+PA2572, including the C-terminal domain, occur in a wide
+range of bacteria including other Pseudomonas spp.,
+Burkholderia spp. and Vibrio cholerae. Many of these
+proteins have variations in the HD motif that include HG,
+HN, HE and HQ in addition to YN, which appears to be
+restricted to the pseudomonads. It remains to be deter-
+mined if these proteins with alteration of the HD diad have
+enzymatic activity against cyclic di-GMP.
+
+The finding that an enzymatically inactive HD-GYP
+domain can have a regulatory activity has parallels in
+studies of GGDEF and EAL domains, where variations in
+the amino acids within the GGDEF and EAL motifs occur
+naturally in some proteins. Domains with sequences that
+are divergent from the consensus may have lost enzy-
+matic activity, but may still play a regulatory role. In the
+GGDEF-EAL domain proteins CC3396 from Caulobacter
+crescentus and FimX from P. aeruginosa, binding of GTP
+to an enzymatically inactive GGDEF domain acts to regu-
+late the activity of the EAL domain in cyclic di-GMP
+hydrolysis (Christen et al., 2005; Kazmierczak et al.,
+
+2006). Similar considerations may apply to inactive EAL
+domains (Schmidt et al., 2005), which perhaps can bind
+cyclic di-GMP. As well as intramolecular effects, enzymati-
+cally inactive EAL or GGDEF domains could conceivably
+regulate cellular processes through intermolecular inter-
+actions with other proteins or other molecules, in a fashion
+influenced by the binding of cyclic di-GMP or GTP.
+
+HD-GYP domain proteins regulate virulence of
+Pseudomonas aeruginosa
+
+Mutation of PA2572, PA4108 and PA4781 led to a reduc-
+tion in bacterial virulence in the larvae of G. mellonella. In
+P. aeruginosa strain PA14, the type III-secreted effectors
+ExoT and ExoU have a significant role in G. mellonella
+killing, although translocation of ExoT or ExoU alone is
+sufficient to give near wild-type levels of killing. (P. aerugi-
+nosa PA14 has no exoS gene). As far as we are aware,
+the role of ExoS in virulence of P. aeruginosa PAO1 to
+G. mellonella has not yet been established. Although
+mutation of PA4108 leads to a reduction in the levels of
+ExoS we cannot infer a causal relationship to the reduc-
+tion of killing; the processes that contribute to virulence
+that are regulated by the HD-GYP domain proteins in
+bacteria within the host are unknown.
+
+These observations add to a body of work that indicates
+a role for proteins with GGDEF and/or EAL domain, and
+by inference cyclic di-GMP, in the regulation of virulence
+and virulence factor synthesis in P. aeruginosa as well as
+in a number of human, animal and plant pathogens includ-
+ing Vibrio cholerae, Salmonella spp. and Xanthomonas
+campestris (Hisert et al., 2005; Tischler and Camilli, 2005;
+Kulesekara et al., 2006; Ryan et al., 2007). As with
+P. aeruginosa, the genomes of many of these bacteria
+encode between 1 and 4 HD-GYP domain proteins,
+although they are absent in Salmonella spp. and E. coli
+and more highly represented in Vibrio spp., where V. chol-
+erae has 9 and V. vulnificus has 15. HD-GYP domain
+proteins are also found in a number of other bacterial
+pathogens of animals including Clostridium perfringens,
+Bordetella bronchiseptica and Treponema denticola.
+Whether these proteins play a significant role in the viru-
+lence of these diverse pathogenic bacteria remains to be
+determined.
+
+Experimental procedures
+
+Bacterial strains, plasmids and culture conditions
+
+The bacterial strains and plasmids used in this study are
+listed in Table S1. Pseudomonas aeruginosa strains were
+routinely cultured in Luria–Bertani (LB) broth. Xanthomonas
+campestris strains were routinely grown in NYGB medium,
+which comprises Bacteriological Peptone (Oxoid, Basing-
+stoke, UK), 5 g l-1; yeast extract (Difco), 3 g l-1 and glycerol,
+
+HD-GYP domain proteins in Pseudomonas aeruginosa 1133
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+20 g l-1. Antibiotics rifampicin (Rif), tetracycline (Tc), chloram-
+phenicol (Cm) and gentamycin (Gm) were added where
+appropriate.
+
+Construction and complementation of PA2572, PA4108
+and PA4781 mutants
+
+Mutants were created by the disruption of gene with the use
+of the suicide plasmid pEX18Gm (see Table S1). Briefly, an
+internal fragment of each of the genes was amplified using
+the primers detailed in Table S2 and was cloned into the
+TOPO (Invitrogen) vector. This fragment was excised with
+EcoRI and ligated into the suicide plasmid pEX18Gm cut with
+the same enzyme. This construct was introduced into PAO1
+by electroporation. Mutants were selected by plating on LB
+agar medium containing gentamicin (20 mg ml-1). Candidate
+strains were analysed by colony PCR using the primers
+detailed in Table S2 to confirm disruption of the PA2572,
+PA4108 and PA4781 gene by integration of the suicide
+vector. Complementing clones were constructed in
+pBBRMCS3 using DNA fragments amplified using primers
+detailed in Table S2.
+
+Expression of the HD-GYP domains of P. aeruginosa
+proteins in Xanthomonas campestris
+
+DNA fragments encoding the HD-GYP domain from PA2572,
+PA4108 and PA4781 with a C-terminal His6-tag were ampli-
+fied by PCR by using chromosomal DNA of P. aeruginosa
+strain PAO1, as template with primers carrying restriction
+sites for BamHI and HindIII (see Table S2). These amplified
+fragments were cloned into the TOPO (Invitrogen) vector.
+The appropriate DNA fragments were excised from these
+constructs using BamHI and HindIII and ligated into pLAFR3
+that had been cut with the same enzymes so that expression
+is under control of the lac promoter of the vector. Constructs
+were introduced into X. campestris wild-type or rpfG mutant
+by triparental mating using the helper plasmid pRK2073.
+Procedures used for Western analysis to examine protein
+expression levels using an anti-His6 antibody are described
+in Supporting Information.
+
+Phenotypic analyses
+
+Methods used for assay of extracellular enzyme activities in
+X. campestris, and for assays in of motility, pyoverdine, pyo-
+cyanin, rhamnolipid and ExoS production in P. aeruginosa
+are given in Supporting Information. Virulence of P. aerugi-
+nosa to larvae of G. mellonella was tested as described pre-
+viously (Miyata et al., 2003). Bacterial suspensions from a
+dilution series were inoculated into larvae, with 10 larvae
+used for each inoculum level. The minimum inoculum
+required to kill all 10 larvae was determined for each strain.
+Additional details are given in the Supporting Information.
+
+Cultivation and imaging of biofilms
+
+Biofilms were grown in flow chambers with individual channel
+dimensions of 1 ¥ 4 ¥ 40 mm. The flow system was
+
+assembled and prepared as described by Sternberg and
+Tolker-Nielsen (2005). The flow chambers were inoculated by
+injecting 350 ml of overnight culture diluted to an OD600 of 0.01
+into each flow channel with a syringe. After inoculation, flow
+channels were left without flow for 1 h, after which medium
+flow at a linear rate of 0.2 mm s-1 was started using a Watson
+Marlow 205S peristaltic pump.
+
+All microscopic observations and image acquisitions were
+performed on an LSM510 confocal laser scanning micro-
+scope (CLSM) (Carl Zeiss, Jena, Germany) equipped with
+detectors and filter sets for monitoring Syto9 fluorescence.
+Simulated three-dimensional images, shadow projections
+and sections were generated using the Imaris software
+package (Bitplane AG, Zürich, Switzerland).
+
+Detection and quantification of cyclic di-GMP
+
+The method for detection and quantification of cyclic di-GMP
+from X. campestris or P. aeruginosa strains was adapted
+from Simm and colleagues (2004; 2005). Details are given in
+Supporting Information.
+
+Acknowledgements
+
+We thank Susan Lynch and Dara Frank for providing mono-
+clonal antibodies to ExoS, and Roger Simm and Ute Römling
+for technical advice on the measurement of cyclic di-GMP
+and for helpful discussions. We are grateful to Susan Joyce
+for guidance with the Galleria virulence assays. This work has
+been supported by grants from Science Foundation of Ireland
+and Enterprise Ireland (to J.M.D.), the Royal Irish Academy
+(to R.P.P.) and the Danish Natural Science Research Council
+(to T.T.-N.), which are gratefully acknowledged.
+
+References
+
+Andrade, M.O., Alegria, M.C., Guzzo, C.R., Docena, C.,
+Rosa, M.C., Ramos, C.H., and Farah, C.S. (2006) The
+HD-GYP domain of RpfG mediates a direct linkage
+between the Rpf quorum-sensing pathway and a subset of
+diguanylate cyclase proteins in the phytopathogen Xanth-
+omonas axonopodis pv citri. Mol Microbiol 62: 537–551.
+
+Boles, B.R., Thoendel, M., and Singh, P.K. (2005) Rhamno-
+lipids mediate detachment of Pseudomonas aeruginosa
+from biofilms. Mol Microbiol 57: 1210–1223.
+
+Christen, M., Christen, B., Folcher, M., Schauerte, A., and
+Jenal, U. (2005) Identification and characterization of a
+cyclic di-GMP-specific phosphodiesterase and its allosteric
+control by GTP. J Biol Chem 280: 30829–30837.
+
+Chugani, S., and Greenberg, E.P. (2007) The influence of
+human respiratory epithelia on Pseudomonas aeruginosa
+gene expression. Microb Pathog 42: 29–35.
+
+Cotter, P.A., and Stibitz, S. (2007) c-di-GMP-mediated regu-
+lation of virulence and biofilm formation. Curr Opin Micro-
+biol 10: 17–23.
+
+Crossman, L., and Dow, J.M. (2004) Biofilm formation and
+dispersal in Xanthomonas campestris. Microbes Infect 6:
+623–629.
+
+Dow, J.M., Crossman, L., Findlay, K., He, Y.Q., Feng, J.X.,
+and Tang, J.L. (2003) Biofilm dispersal in Xanthomonas
+
+1134 R. P. Ryan et al.
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+campestris is controlled by cell-cell signaling and is
+required for full virulence to plants. Proc Natl Acad Sci USA
+100: 10995–11000.
+
+Dow, J.M., Fouhy, Y., Lucey, J.F., and Ryan, R.P. (2006) The
+HD-GYP domain, cyclic di-GMP signaling, and bacterial
+virulence to plants. Mol Plant Microbe Interact 19: 1378–
+1384.
+
+Galperin, M.Y. (2005) A census of membrane-bound and
+intracellular signal transduction proteins in bacteria: Bacte-
+rial IQ, extroverts and introverts. BMC Microbiology 5: 35.
+
+Hisert, K.B., MacCoss, M., Shiloh, M.U., Darwin, K.H., Singh,
+S., Jones, R.A., et al. (2005) A glutamate-alanine-leucine
+(EAL) domain protein of Salmonella controls bacterial sur-
+vival in mice, antioxidant defence and killing of macroph-
+ages: role of cyclic diGMP. Mol Microbiol 56: 1234–1245.
+
+Ichikawa, J.K., Norris, A., Bangera, M.G., Geiss, G.K., van’t
+Wout, A.B., Bumgarner, R.E., et al. (2000) Interaction of
+Pseudomonas aeruginosa with epithelial cells: identifica-
+tion of differentially regulated genes by expression microar-
+ray analysis of human cDNAs. Proc Natl Acad Sci USA 97:
+9659–9664.
+
+Jacobs, M.A., Alwood, A., Thaipisuttikul, I., Spencer, D.,
+Haugen, E., Ernst, S., et al. (2003) Comprehensive trans-
+poson mutant library of Pseudomonas aeruginosa. Proc
+Natl Acad Sci USA 100: 14339–14344.
+
+Jenal, U., and Malone, J. (2006) Mechanisms of cyclic-di-
+GMP signaling in bacteria. Annu Rev Genet 40: 385–407.
+
+Kazmierczak, B.I., Lebron, M.B., and Murray, T.S. (2006)
+Analysis of FimX, a phosphodiesterase that governs
+twitching motility in Pseudomonas aeruginosa. Mol Micro-
+biol 60: 1026–1043.
+
+Kulesekara, H., Lee, V., Brencic, A., Liberati, N., Urbach, J.,
+Miyata, S., et al. (2006) Analysis of Pseudomonas aerugi-
+nosa diguanylate cyclases and phosphodiesterases
+reveals a role for bis-(3′-5′)-cyclic-GMP in virulence. Proc
+Natl Acad Sci USA 103: 2839–2844.
+
+Miyata, S., Casey, M., Frank, D.W., Ausubel, F.M., and Dren-
+kard, E. (2003) Use of the Galleria mellonella caterpillar as
+a model host to study the role of the type III secretion
+system in Pseudomonas aeruginosa pathogenesis. Infect
+Immun 71: 2404–2413.
+
+Paul, R., Weiser, S., Amiot, N.C., Chan, C., Schirmer, T.,
+Giese, B., and Jenal, U. (2004) Cell cycle-dependent
+dynamic localization of a bacterial response regulator with
+a novel di-guanylate cyclase output domain. Genes Dev
+18: 715–727.
+
+Römling, U., Gomelsky, M., and Galperin, M.Y. (2005) C-di-
+GMP: the dawning of a novel bacterial signalling system.
+Mol Microbiol 57: 629–639.
+
+Ryan, R.P., Fouhy, Y., Lucey, J.F., and Dow, J.M. (2006a)
+Cyclic di-GMP signaling in bacteria: recent advances and
+new puzzles. J Bacteriol 188: 8327–8334.
+
+Ryan, R.P., Fouhy, Y., Lucey, J.F., Crossman, L.C., Spiro, S.,
+He, Y.W., et al. (2006b) Cell-cell signaling in Xanthomonas
+campestris involves an HD-GYP domain protein that func-
+tions in cyclic di-GMP turnover. Proc Natl Acad Sci USA
+103: 6712–6717.
+
+Ryan, R.P., Fouhy, Y., Lucey, J.F., Jiang, B.L., He, Y.Q.,
+Feng, J.X., et al. (2007) Cyclic di-GMP signalling in the
+virulence and environmental adaptation of Xanthomonas
+campestris. Mol Microbiol 63: 429–442.
+
+Ryjenkov, D.A., Tarutina, M., Moskvin, O.M., and Gomelsky,
+M. (2005) Cyclic diguanylate is a ubiquitous signaling mol-
+ecule in Bacteria: insights into biochemistry of the GGDEF
+protein domain. J Bacteriol 187: 1792–1798.
+
+Schmidt, A.J., Ryjenkov, D.A., and Gomelsky, M. (2005) Ubiq-
+uitous protein domain EAL encodes cyclic diguanylate-
+specific phosphodiesterase: enzymatically active and
+inactive EAL domains. J Bacteriol 187: 4774–4781.
+
+Simm, R., Morr, M., Kader, A., Nimtz, M., and Römling, U.
+(2004) GGDEF and EAL domains inversely regulate cyclic
+di-GMP levels and transition from sessility to motility. Mol
+Microbiol 53: 1123–1134.
+
+Simm, R., Fetherston, J.D., Kader, A., Römling, U., and
+Perry, R.D. (2005) Phenotypic convergence mediated by
+GGDEF-domain-containing proteins. J Bacteriol 187:
+6816–6823.
+
+Slater, H., Alvarez-Morales, A., Barber, C.E., Daniels, M.J.,
+and Dow, J.M. (2000) A two-component system involving
+an HD-GYP domain protein links cell-cell signalling to
+pathogenicity gene expression in Xanthomonas campes-
+tris. Mol Microbiol 38: 986–1003.
+
+Sternberg, C., and Tolker-Nielsen, T. (2005) Growing and
+analyzing biofilms in flow cells. In Current Protocols in
+Microbiology. Coico, R., Kowalik, T., Quarles, J., Steven-
+son, B., and Taylor, R. (eds). New York, USA: John Wiley &
+Sons, pp. 1B.2.1–1B.2.15.
+
+Tal, R., Wong, H.C., Calhoon, R., Gelfand, D., Fear, A.L.,
+Volman, G., et al. (1998) Three cdg operons control cellular
+turnover of cyclic di-GMP in Acetobacter xylinum: genetic
+organization and occurrence of conserved domains in
+isoenzymes. J Bacteriol 180: 4416–4425.
+
+Tamayo, R., Tischler, A.D., and Camilli, A. (2005) The EAL
+domain protein VieA is a cyclic diguanylate phosphodi-
+esterase. J Biol Chem 280: 33324–33330.
+
+Tarutina, M., Ryjenkov, D.A., and Gomelsky, M. (2006) An
+unorthodox bacteriophytochrome from Rhodobacter
+sphaeroides involved in turnover of the second messenger
+c-di-GMP. J Biol Chem 281: 34751–34758.
+
+Tischler, A.D., and Camilli, A. (2005) Cyclic diguanylate regu-
+lates Vibrio cholerae virulence gene expression. Infection
+Immun 73: 5873–5882.
+
+Wolfgang, M.C., Jyot, J., Goodman, A.L., Ramphal, R., and
+Lory, S. (2004) Pseudomonas aeruginosa regulates flagel-
+lin expression as part of a global response to airway fluid
+from cystic fibrosis patients. Proc Natl Acad Sci USA 101:
+6664–6668.
+
+Supporting information
+
+Additional Supporting Information may be found in the online
+version of this article:
+
+Fig. S1. Analysis of the cyclic di-GMP phosphodiesterase
+activity of the HD-GYP domains of PA2572, PA4108 and
+PA4781 by expression in the rpfG mutant of X. campestris. (A
+and B) Representative HPLC chromatograms showing detec-
+tion of cyclic di-GMP in extracts from (A) X. campestris wild-
+type strain 8004 and (B) the rpfG mutant. The peak indicated
+by the arrow is cyclic di-GMP.
+Fig. S2. Mutation of the signature H and D residues of the
+HD-GYP domain of RpfG to Y and N respectively, abolishes
+
+HD-GYP domain proteins in Pseudomonas aeruginosa 1135
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136
+
+
+
+the regulatory function on extracellular enzyme synthesis.
+Unlike the wild-type HD-GYP domain, an H231Y D232N
+variant (labelled YN-GYP) carrying a C terminal His6 tag, is
+unable to restore production of mannanase (A) and endoglu-
+canase (B) to the rpfG mutant of X. campestris. Values given
+are the means and standard errors of triplicate measure-
+ments. Variants with the single alteration H231Y or D232N
+also lost the regulatory ability (data not shown). (C) Western
+blot analysis with an anti-His6 antiserum shows that all
+variant proteins are expressed in X. campestris. Lanes: 1,
+rpfG (pLAFR3); 2, rpfG (HD-GYPHis6); 3, rpfG (YD-
+GYPHis6); 4, rpfG (YN-GYPHis6).
+Fig. S3. Mutation of PA2752 but not PA4108 or PA4781 has
+an effect on the production of rhamnolipid in culture super-
+natants of Pseudomonas aeruginosa. The level of rhamno-
+lipid in culture supernatants of strains grown in PPGAS
+medium was measured as described by Boles and col-
+leagues (2005). Complementation of the PA2572 mutant
+reduces rhamnolipid production back to wild-type levels.
+Fig. S4. Biofilm architectures of complemented PA2572,
+PA4108 and PA4781 mutants are similar to the wild-type
+P. aeruginosa. Images are of 4-day-old biofilms in flow cells in
+FAB medium. (A) P. aeruginosa PAO1 wild-type; (B) comple-
+mented PA2572 mutant; (C) complemented PA4108 mutant;
+and (D) complemented PA4781 mutant. For these experi-
+ments, P. aeruginosa was visualized with Syto9, as described
+in Experimental procedures. Scale bars = 20 mm. (E)
+Biomass of biofilms produced by different strains of P. aerugi-
+nosa as measured using COMSTAT. Values are means � SD
+of 13 measurements.
+Fig. S5. Motility phenotypes of P. aeruginosa mPAO1 and
+derived mutants with transposon insertion at different loca-
+tions within PA2572, which has 1344 nt. (A and B) Swimming
+behaviour of the mutants is indistinguishable from the wild-
+type mPAO1 on (A) Eiken medium with 0.3% agar or (B) CAA
+medium with 0.3% agar. (C) Swarming motility on CAA
+medium solidified with 0.6% agar at pH 7.4 is affected only in
+strain 16841, which has the transposon insertion located at
+
+nt 1107. (D) Twitching motility on CAA medium solidified with
+0.5% agar at pH 7.4 is also only affected in strain 16841.
+Fig. S6. The negative influence of expression of PA2572
+with a Cterminal truncation on swarming motility is also seen
+in a PA2572 mutant background. Swarming motility (A and B)
+and swimming motility (C and D) were assessed in the
+P. aeruginosa wild-type mPA01 and mutant strain 8166,
+these strains carrying the cloning vector pBBRMCS5
+(labelled as vector) and these strains carrying a construct
+expressing the C-terminally truncated PA2572 protein
+(labelled as Insert). Introduction of pTRUN into mPA01 and
+strain 8166 influences swarming motility over that seen with
+the vector control (A and B) but has no effect on swimming
+compared with a vector control (C and D). Note that the
+pBBRMCS5 vector alone has an influence on both forms of
+motility. Shown are representatives of swimming and swarm-
+ing plates after 18 h of incubation.
+Fig. S7. Expression of the isolated REC domain of PA2572
+in mPAO1 does not influence swarming motility. (A) The REC
+domain of PA2572 expressed using pBBRMCS-5 does not
+give the swarming-negative phenotype in a P. aeruginosa
+mPAO1 or in strain 8166 (shown). Introduction of the REC
+domain with a His6 tag expressed using pLAFR3 gave the
+same result. This contrasts with the effects seen with expres-
+sion of REC-YN-GYP (the truncated PA2572) using pTRUN,
+which gives substantially reduced swarming (see Fig. S5).
+(B) Western blot analysis with an anti-His6 antiserum shows
+that both the REC domain and REC-YN-GYP domain
+proteins are expressed in mPAO1. Lanes: 1, mPAO1
+(pBBRMCS); 2, mPAO1 (pLAFR3); 3, mPAO1 (pRECHis6);
+4, mPAO1 (pTRUNHis6).
+Table S1. Strains and plasmids.
+Table S2. Primers used in this work.
+
+Please note: Wiley-Blackwell are not responsible for the
+content or functionality of any supporting materials supplied
+by the authors. Any queries (other than missing material)
+should be directed to the corresponding author for the article.
+
+1136 R. P. Ryan et al.
+
+© 2008 The Authors
+Journal compilation © 2008 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 11, 1126–1136

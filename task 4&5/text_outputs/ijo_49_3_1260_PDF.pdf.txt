@@ -1,0 +1,42 @@
+international journal of oncology  49:  1260,  2016
+
+CORRIGENDUM 
+
+Doi: 10.3892/ijo.2016.3613
+
+Cisplatin in combination with zoledronic acid: A synergistic 
+effect in triple-negative breast cancer cell lines
+
+toni ibrahim, chiara liverani, laura mercatali, 
+emanuele Sacanna, michele Zanoni, franceSco 
+fabbri, Wainer Zoli and Dino amaDori 
+
+int j oncol 42: 1263-1270, 2013; Doi: 10.3892/ijo.2013.1809
+
+following the publication of the above article, an interested 
+reader drew an anomaly associated with the presentation of 
+fig. 7 to our attention. essentially, the panel showing the 
+cis 0.001 data at t0 for the brc-230 cell line was the same as 
+that showing the cis 0.01 data.
+
+after having re-examined our data, we realized that an error 
+must have occurred when preparing fig. 7. a duplication of the 
+photo corresponding to brc-230 cis 0.001 t0 was incorrectly 
+placed in the position corresponding to brc-230 cis 0.01 t0, 
+while the correct BRC-230 Cis 0.01 T0 figure was erroneously 
+positioned in the brc-230 cis 0.01 t1 slot. fortunately, we had  
+retained all of the data on our computer and were able to find the 
+correct photos representing the conditions of brc-230 cis 0.01 
+t0 and t1.
+
+The correct version of Fig. 7 is shown below. The findings 
+and conclusions of this paper are still supported by our 
+experimental data and are not affected by this error. We sincerely 
+apologize for this oversight and thank the reader for drawing 
+this matter to our attention. We regret any inconvenience caused 
+by our mistake.
+
+ 
+
+figure 7. effect of single and combined treatments on the migration ability 
+detected by wound healing assay.

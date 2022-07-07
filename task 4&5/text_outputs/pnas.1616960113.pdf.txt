@@ -1,0 +1,269 @@
+pnas201616960 7643..7644
+
+
+Correction
+
+MEDICAL SCIENCES
+Correction for “LRP-6 is a coreceptor for multiple fibrogenic
+signaling pathways in pericytes and myofibroblasts that are in-
+hibited by DKK-1,” by Shuyu Ren, Bryce G. Johnson, Yujiro
+Kida, Colin Ip, Kathryn C. Davidson, Shuei-Liong Lin, Akio
+Kobayashi, Richard A. Lang, Anna-Katerina Hadjantonakis,
+Randall T. Moon, and Jeremy S. Duffield, which appeared in
+issue 4, January 22, 2013, of Proc Natl Acad Sci USA (110:1440–1445;
+first published January 9, 2013; 10.1073/pnas.1211179110).
+The authors wish to note the following: “Panel L in Fig. 3
+
+incorrectly showed a low-power image of fibrosis extent in sham
+kidneys exposed to Ad-control instead of Ad-Dkk1. This problem
+has now been corrected by replacing the upper left image with a
+representative panel from sham kidney treated with Ad-Dkk1.” The
+corrected Fig. 3 and its legend appear below.
+
+www.pnas.org PNAS | November 22, 2016 | vol. 113 | no. 47 | E7643–E7644
+
+C
+O
+R
+R
+EC
+
+TI
+O
+N
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ h
+tt
+
+ps
+:/
+
+/w
+w
+
+w
+.p
+
+na
+s.
+
+or
+g 
+
+by
+ N
+
+or
+ri
+
+s 
+M
+
+ed
+ic
+
+al
+ L
+
+ib
+ra
+
+ry
+ U
+
+ni
+v 
+
+S
+ou
+
+th
+er
+
+n 
+C
+
+al
+if
+
+or
+ni
+
+a 
+on
+
+ J
+un
+
+e 
+19
+
+, 2
+02
+
+2 
+fr
+
+om
+ I
+
+P
+ a
+
+dd
+re
+
+ss
+ 1
+
+54
+.5
+
+9.
+12
+
+4.
+74
+
+.
+
+
+
+www.pnas.org/cgi/doi/10.1073/pnas.1616960113
+
+Fig. 3. DKK-1 blocks pericyte activation and transition to myofibroblasts and reverses myofibroblast activation in vivo, inhibiting fibrogenesis, capillary rarefaction,
+and inflammation. (A) Western blots of 5 μL of plasma from mice 5 d after i.v. injection of Ad-control or Ad-DKK-1 and from mice subjected to sham surgery and
+injected with control. (B) Experimental schemata for adenoviral administration, kidney injury, and analysis in the UUO model. (C–M) Prevention studies. (C) Low-
+magnification confocal images of kidney cortex 4 d after sham operation or UUO in Coll-GFPTr mice that had received Ad-control or Ad-DKK-1 6 d previously, showing
+Coll-GFP cells or PDGFRβ cells. g, glomerulus; a, arteriole. (D–F) Graphs showing quantification of Coll-GFP cells, PDGFRβ cells, and αSMA cells in kidney 4 d after UUO.
+(G) Proportion of Coll-GFP cells that express the proliferation marker Ki67. (Hand I) Western blot of GFP (H) or αSMA/CTGF (I) in whole Coll-GFP mouse kidney 4 d after
+UUO. (J) Quantification of macrophage numbers in kidney sections detected by F4/80 staining. (K) Western blot quantifying canonical WNT signaling by detecting the
+H2B-GFP fusion protein after Ad-DKK-1 vs. Ad-control treatment of TCF/Lef:H2B-GFPTr reporter mice during UUO kidney injury. (L) Sirius red-stained kidneys 10 d after
+UUO. (M) Morphometry of Sirius red-stained collagen (Upper) or qPCR for Col1a1transcripts (Lower) 10 d after UUO in mice treated with Ad-control vs. Ad-DKK-1.
+(N–P) Reversal studies. Confocal Images (N) and morphometric quantification (O) of αSMA staining 10 d after UUO in mice treated with Ad-control or Ad-DKK-1 from
+day 4. (P) Quantification of capillary density 10 d after UUO. Note that rarefaction occurs in response to kidney disease, but DKK-1 partially reverses rarefaction.
+(Q) Pericyte detachment. Images and quantification of pericyte area in Coll-GFP mice 2 d after UUO in the presence of circulating DKK-1 or control. Note that injury to
+the kidney stimulated pericyte spreading and detachment from endothelium (arrowheads). *P < 0.05, **P < 0.01. n = 4–6 per group. Error bars indicate SEM.
+
+E7644 | www.pnas.org
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ h
+tt
+
+ps
+:/
+
+/w
+w
+
+w
+.p
+
+na
+s.
+
+or
+g 
+
+by
+ N
+
+or
+ri
+
+s 
+M
+
+ed
+ic
+
+al
+ L
+
+ib
+ra
+
+ry
+ U
+
+ni
+v 
+
+S
+ou
+
+th
+er
+
+n 
+C
+
+al
+if
+
+or
+ni
+
+a 
+on
+
+ J
+un
+
+e 
+19
+
+, 2
+02
+
+2 
+fr
+
+om
+ I
+
+P
+ a
+
+dd
+re
+
+ss
+ 1
+
+54
+.5
+
+9.
+12
+
+4.
+74
+
+.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1616960113

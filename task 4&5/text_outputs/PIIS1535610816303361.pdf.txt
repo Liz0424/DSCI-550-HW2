@@ -1,0 +1,91 @@
+A Critical Role for Notch Signaling in the Formation of Cholangiocellular Carcinomas
+
+
+Cancer Cell
+
+Corrections
+A Critical Role for Notch Signaling
+in the Formation of Cholangiocellular Carcinomas
+Steffen Zender, Irina Nickeleit, Torsten Wuestefeld, Inga Sörensen, Daniel Dauch, Przemyslaw Bozko, Mona El-Khatib,
+Robert Geffers, Hueseyin Bektas, Michael P. Manns, Achim Gossler, Ludwig Wilkens, Ruben Plentz, Lars Zender,
+and Nisar P. Malek*
+*Correspondence: nisar.malek@med.uni-tuebingen.de
+
+http://dx.doi.org/10.1016/j.ccell.2016.07.005
+
+(Cancer Cell 23, 784–795; June 10, 2013)
+
+In the original article, which shows that the expression of Notch-ICD leads to the formation of intrahepatic cholangiocarcinomas,
+
+there is a duplication of actin blots in Figures 2G, 6F, and S2F.
+
+Figure 2G shows the expression levels of cyclin E, cylin A, and p27 in wild-type and Notch-ICD mice undergoing liver regeneration
+
+after partial hepatectomy. The actin blot corresponding to the protein extracts from the wild-type mouse livers was duplicated and
+
+inadvertently used for the Notch-ICD mouse livers. The correct actin blot is now shown in the revised Figure 2G below.
+
+In Figure 6F, the actin blot derived from Figure 6A, which shows that downregulation of Notch 1 by siRNA leads to a reduction of cyclin
+
+E levels, was erroneously duplicated in Figure 6F, which shows that inhibition of Notch activity by DAPT leads to cyclin E downre-
+
+gulation. In the revised Figure 6F shown below, the correct actin blot has been used.
+
+Finally, in Figure S2F, the blot for cleaved Notch expression had been duplicated and erroneously labeled as Cyclin E. The correct
+
+cyclin E blot is now shown in the revised figure below.
+
+While none of these errors affect the results or conclusions of this work, the authors would like to apologize for any confusion this
+
+might have caused.
+Cancer Cell 30, 349–365, August 8, 2016 ª 2016 Elsevier Inc. 353
+
+mailto:nisar.malek@med.uni-tuebingen.de
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.ccell.2016.07.005&domain=pdf
+http://dx.doi.org/10.1016/j.ccell.2016.07.005
+
+
+A B
+
+C D
+
+E F
+
+G
+
+Figure 2. Notch Signaling Leads to Dysregulated Expression of Cyclin E and Genetic Instability
+
+Cancer Cell
+
+Corrections
+
+354 Cancer Cell 30, 349–365, August 8, 2016
+
+
+
+A B
+
+C D
+
+E F
+
+Figure 6. Notch Signaling as a Therapeutic Target in CCC
+
+Cancer Cell
+
+Corrections
+
+Cancer Cell 30, 349–365, August 8, 2016 355
+
+
+
+Figure S2
+
+Cancer Cell
+
+Corrections
+
+356 Cancer Cell 30, 349–365, August 8, 2016
+
+
+	A Critical Role for Notch Signaling in the Formation of Cholangiocellular Carcinomas

@@ -1,0 +1,778 @@
+The TNF-α antagonist etanercept reverses age-related decreases in colonic SERT expression and faecal output in mice
+
+
+1Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+www.nature.com/scientificreports
+
+The TNF-α antagonist etanercept 
+reverses age-related decreases in 
+colonic SERT expression and faecal 
+output in mice
+Bhavik Anil Patel1, Sara Fidalgo1, Chunfang Wang2, Leena Parmar1, Kasonde Mandona1, 
+Annabelle Panossian1, Melanie S. Flint1, Richard N. Ranson3, M. Jill Saffrey2 & 
+Mark S. Yeoman1
+
+Treatment for chronic constipation in older people is challenging and the condition has a major 
+impact on quality of life. A lack of understanding about the causes of this condition has hampered the 
+development of effective treatments. 5-HT is an important pro-kinetic agent in the colon. We examined 
+whether alterations in colonic 5-HT signalling underlie age–related changes in faecal output in mice and 
+whether these changes were due to an increase in TNF-α. Components of the 5-HT signalling system 
+(5-HT, 5-HIAA, SERT) and TNF-α expression were examined in the distal colon of 3, 12, 18 and 24-
+month old mice and faecal output and water content monitored under control conditions and following 
+the administration of etanercept (TNF-α inhibitor; 1 mg Kg−1). Faecal output and water content were 
+reduced in aged animals. Age increased mucosal 5-HT availability and TNF-α expression and decreased 
+mucosal SERT expression and 5-HIAA. Etanercept treatment of old mice reversed these changes, 
+suggesting that age-related changes in TNFα expression are an important regulator of mucosal 5-HT 
+signalling and pellet output and water content in old mice. These data point to “anti-TNFα” drugs as 
+potential treatments for age-related chronic constipation.
+
+The incidence of chronic constipation (CC) and faecal impaction increases with age, with a prevalence of 50% 
+in community dwelling older people rising to 74% in those that are institutionalized1. The treatment of CC is 
+challenging for both the patient and clinicians and living with CC results in a reduced quality of life which may 
+lead to a loss of independence2,3. Treatment of CC in the elderly is hampered by a lack of recruitment of older 
+people to clinical trials and knowledge of the causes of the condition in this patient group. Previous studies have 
+demonstrated age-related changes in colonic motility in both humans and animal models4–8, although the precise 
+causes of these changes are currently unknown.
+
+Changes in 5-hydroxytryptamine (5-HT) signalling can dramatically affect colonic motility and faecal output 
+in several species9, although it is not clear how 5-HT signalling is affected by age. There are two main sources of 
+5-HT in the colon, namely the enterochromaffin (EC) cells located in the mucosa and a subpopulation of the 
+myenteric neurons. A growing body of evidence suggests that mucosal 5-HT can act to modulate colonic motor 
+patterns and faecal output in rodents, for review see10. Specifically, mucosal 5-HT can be released by both chem-
+ical and mechanical stimuli (properties of the luminal contents of the bowel), and propulsion can be attenuated 
+by 5-HT antagonists and enhanced by 5-HT3/5-HT4 agonists applied to the mucosa or perfused intra-luminally. 
+More recent work has exploited the observation that mucosal 5-HT is synthesized using tryptophan hydroxy-
+lase 1 (TPH1), an isoenzyme of tryptophan hydroxylase11 while myenteric 5-HT uses tryptophan hydroxylase 2 
+(TPH2)12. Ex vivo colonic motility assays from TPH1KO (TPH1 knock out) mice showed that pellet motility was 
+slower than in wildtype mice but was overcome by increasing pellet size13.
+
+In addition to impaired colonic motility, TPH1KO mice had elongated colons, reduced pellet output, increased 
+pellet size and weight and reduced pellet water content, changes that were consistent with those we have reported 
+
+1School of Pharmacy and Biomolecular Science, University of Brighton, Brighton, BN2 4GJ, UK. 2Department of 
+Life, Health and Chemical Sciences, The Open University, Walton Hall, Milton Keynes, MK7 6AA, UK. 3Department 
+of Applied Sciences, Faculty of Health and Life Sciences, Northumbria University, Newcastle upon Tyne, NE1 8ST, 
+UK. Correspondence and requests for materials should be addressed to M.S.Y. (email: m.s.yeoman@brighton.ac.uk)
+
+received: 09 November 2016
+
+Accepted: 12 January 2017
+
+Published: 15 February 2017
+
+OPEN
+
+mailto:m.s.yeoman@brighton.ac.uk
+
+
+www.nature.com/scientificreports/
+
+2Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+previously in old mice6 and those observed in humans with CC14. Together these data strongly suggest that alter-
+ations in mucosal 5-HT can modulate colonic motility.
+
+The strength and duration of the extracellular 5-HT signal can be exquisitely controlled by alterations in the 
+level and activity of the serotonin transporter (SERT) which acts to clear 5-HT from the extracellular space into 
+surrounding enterocytes where it is metabolized15. Altered 5-HT signalling underlies a range of GI disorders in 
+which colonic motility is altered16,17. In many cases, these changes have been linked to changes in the expression 
+of SERT16,17. Many of these disorders also share an inflammatory phenotype and a range of pro-inflammatory 
+mediators e.g. tumor necrosis factor alpha (TNF-α ), have been shown to down-regulate SERT expression in the 
+colonic mucosa18. The ageing process is also associated with a chronic low level background inflammation in the 
+colon of both humans19,20 and animals21. In the gastrointestinal (GI) tract, the causes of this low grade inflamma-
+tion are unclear although changes in the gut microbiota22 and oxidative stress23,24 have been proposed as contrib-
+utory factors. Nevertheless, the link between inflammation and changes to 5-HT signalling raises the potential for 
+anti-inflammatory drugs to also have beneficial effects on 5-HT signalling and colonic motility.
+
+Our study focused on an examination of the distal colon of the mice as we had previously shown that this 
+region of the lower bowel contributed significantly to the reduced colonic motility in aged animals6. The current 
+study tested the hypothesis that treatment of aged mice with the TNF-α  antagonist, etanercept could attenuate 
+the age-related decrease in pellet output and water content in mice and examined whether these changes could be 
+explained by alterations in colonic 5-HT signalling processes.
+
+Results
+Age-related changes in 5-HT content and availability in the distal colon. A combination of immu-
+nohistochemistry and high performance liquid chromatography (HPLC) were used to examine the effects of 
+age on the intracellular 5-HT content of the distal colon. Numbers of EC cells increased steadily between 3 and 
+18 months and then decreased significantly between 18 and 24 months (Fig. 1A,B). There was no significant 
+difference between the numbers of EC cells in the 3 and 24 month groups. Age-related changes in mucosal 5-HT 
+content showed a similar trend to the change in EC cell number (Fig. 1C) consistent with the EC cells being the 
+main source of 5-HT in the mucosa. Myenteric 5-HT levels were significantly decreased at 24-months compared 
+to 3 months (Fig. 1D).
+
+5-HT has to be released in order to affect the function of its targets in the colon. We were therefore inter-
+ested in examining the extracellular level of 5-HT (5-HT availability) and how this changed with age. We chose 
+to utilize constant potential amperometry to measure extracellular 5-HT as this technique provides a method 
+to observe real time changes in the levels of oxidizable substances such as 5-HT. Our initial study focused on 
+mucosal 5-HT. Differential pulse voltammetry performed on 3 month distal colon demonstrated a clear oxidation 
+peak at + 600 mV that was consistent with the oxidation of 5-HT (see supplementary Fig. S1). Previous studies 
+have demonstrated that 5-HT is the only substance released from the mucosa that is oxidized at + 650 mV25–27, 
+indicating that the oxidation signals presented in this paper are solely due to the oxidation of 5-HT.
+
+Using constant potential amperometry we demonstrated that increasing age increased mucosal 5-HT availa-
+bility (Fig. 1E,F). Post-hoc analysis demonstrated a significant increase in 5-HT availability in both the 18-month 
+and 24-month tissue compared to 3-month controls. 5-HT availability at the electrochemical sensor is dictated 
+by a combination of the amount of 5-HT released from the tissue, its rate of re-uptake via the serotonin trans-
+porter (SERT) and also by diffusion. There were no clear changes in release with increasing age (data not shown) 
+so subsequent figures have focused on the involvement of age-related changes in re-uptake via SERT. In order to 
+examine the involvement of SERT in the age-related increase in 5-HT availability, we utilized fluoxetine, a potent 
+inhibitor of SERT. If SERT was functional, then blockade with fluoxetine would inhibit re-uptake increasing the 
+5-HT signal at the sensor. Application of fluoxetine caused a significant increase in 5-HT availability in 3, 12 and 
+18-month colon but failed to alter 5-HT availability in 24-month colon (Fig. 1F). These data are consistent with 
+SERT being functional in the three younger groups, but not in the 24-month colon.
+
+We were unable to measure 5-HT availability in the myenteric plexus. This does not appear to be due to dra-
+matic differences in the levels of 5-HT (compare Fig. 1C,D) or SERT (compare Fig. 2B,E) in this tissue, which are 
+comparable to those in the mucosa, but most likely represents the location of the release sites in the myenteric 
+preparation which lie deep within the muscle inhibiting 5-HT diffusion to the sensor.
+
+Effects of age on SERT expression and 5-hydroxyindoleacetic acid (5-HIAA) levels in mouse  
+distal colon. To further quantify how the expression of SERT was altered with age we analysed colonic sam-
+ples from the four age groups of mice with Western blot. Using a SERT-specific antibody a single major pro-
+tein band with a molecular weight of approximately 67 kDa was identified in all age groups in both the mucosa 
+(Fig. 2A) and the myenteric preparations (Fig. 2D), equivalent to the molecular weight of SERT identified 
+previously in the mouse28. In the mucosa, the intensity of the normalised band decreased with increasing age 
+(Fig. 2A,B), confirming a reduction in the expression of SERT with increasing age. 5-HIAA is the major metab-
+olite of 5-HT and is formed following the re-uptake of 5-HT into enterocytes via SERT. The ratio of mucosal 
+5-HIAA:5-HT, was significantly decreased in 24-month mucosa compared to both 3 and 12-month groups, con-
+sistent with the reduction in SERT expression (Fig. 2C).
+
+In the myenteric samples, SERT expression was unaffected by age (Fig. 2D,E). However, the 5-HIAA:5-HT 
+ratio was increased in the 24 month group (Fig. 2F). This was not due to a change in the level of 5-HIAA (consist-
+ent with the lack of change in SERT, data not shown) but was due to the age-related decrease in myenteric 5-HT 
+(Fig. 1D).
+
+Effects of age on TNFα levels in the distal colon. Increasing age is associated with low-level chronic 
+inflammation in many tissues including the colon, and pro-inflammatory mediators such as TNF-α  have been 
+
+
+
+www.nature.com/scientificreports/
+
+3Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+shown to down-regulate SERT expression in the colonic mucosa18. We therefore examined if TNF-α  levels in 
+the distal colon changed with age in the mouse using an ELISA based assay and focused our attentions on the 
+extremes of age (3 and 24 months). TNF-α  levels were significantly higher in the distal colon mucosa of 24-month 
+animals compared to 3-month controls (Fig. 3A). Distal colonic myenteric levels of TNF-α  were unaffected by age 
+but overall were approximately 8 fold higher than in the mucosa (Fig. 3B).
+
+Effects of age and the TNFα inhibitor etanercept on pellet output and water content. To 
+understand if the observed increase in mucosal TNF-α  was responsible for the age-related changes in faecal 
+output in mice, we treated 3 and 24-month old mice with the TNF-α  antagonist, etanercept. In untreated mice, 
+the number of faecal pellets (Fig. 4A) and their water content (Fig. 4B) were significantly reduced in mice aged 
+
+Figure 1. Effects of age on 5-HT levels in the mouse distal colon. (A) Photomicrographs of 10 μ m sections 
+showing the mucosa of the distal colon from 3, 12, 18 and 24-month tissue. EC cells labelled with an anti-5-HT 
+antibody and a fluorescent secondary antibody are shown as white on these black and white images. Scatter 
+plots show (B) the mean number of EC cells (n =  5) (C) Mucosal 5-HT levels (n = ≥  6) and (D) myenteric 
+5-HT levels (n = ≥  7). (E) Oxidation traces obtained using a boron-doped diamond electrode held at + 0.65 V. 
+With the electrode held away from the tissue (beginning of trace) the 5-HT oxidation current is low. With the 
+electrode 0.1 mm from the tissue (grey bar) the current increases rapidly and plateaus within 20 s. Removal of 
+the electrode from the tissue (end of trace) reduces the oxidation current to baseline. (F) Scatter plot showing 
+the increase in 5-HT oxidation current with increasing age (p <  0.0001) in the presence and absence of 
+fluoxetine (n =  6). *p <  0.05, **p <  0.01, ***p <  0.001. Data show the mean ±  SD.
+
+
+
+www.nature.com/scientificreports/
+
+4Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+Figure 2. Effects of age on SERT expression and the 5-HIAA:5-HT ratio in the mouse distal colon. The 
+anti-SERT antibody detected a major band at approximately 67 kDa in both the mucosa (A) and the myenteric 
+preparation (D). (B) Normalisation of the bands to the total protein load of the labelled membrane showed that 
+the density of the bands in the mucosa was greater in the young compared to the old group (n =  6). (C) Scatter 
+plot showing the effects of age on mucosal 5-HIAA:5-HT ratio (n =  4–7 per group). (E) Scatter plot showing 
+that age has no effect on myenteric SERT expression (n =  6). (F) Age does not affect myenteric 5-HIAA levels 
+(n =  7–8 per group). *p <  0.05, **p <  0.01, ***p <  0.001 Data plotted represent the mean ±  SD. Western blot 
+shown are cropped gel blots.
+
+Figure 3. Effects of age on TNFα expression in the distal colon. Increasing age is associated with an increase 
+in mucosal TNFα  expression (A) but not myenteric TNFα  expression (B). Values are mean ±  SD, n =  6 per 
+group. **p <  0.01.
+
+
+
+www.nature.com/scientificreports/
+
+5Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+24-months compared to 3-month controls. Strikingly, 24-month old animals treated with etanercept demon-
+strated a doubling of pellet number compared to age matched controls and a significant increase in the water 
+content of the faecal pellets (Fig. 4A,B). Furthermore, pellet number and water content in the etanercept treated 
+24-month old animals were not significantly different to 3-month controls demonstrating the ability of entaner-
+cept to reverse the age-related functional changes.
+
+Effects of etanercept on 5-HT signalling in distal colon. As age affected components of both mucosal 
+and myenteric 5-HT signalling and because both components have previously been shown to be important in 
+regulating colonic motility, we were interested to examine which component of 5-HT signalling was affected by 
+etanercept. Etanercept increased the mucosal 5-HIAA:5-HT ratio (Fig. 5A) and SERT expression in the 24-month 
+old distal colon (Fig. 5B,C), consistent with it reversing the effects of increased age. However, etanercept had no 
+direct effect on mucosal 5-HT levels (Fig. 5D).
+
+We next examined whether etanercept treatment could alter 5-HT signalling in the myenteric prepara-
+tion, as we had previously demonstrated that increasing age reduced myenteric 5-HT levels and that myenteric 
+TNF-α  levels were much higher than those in the mucosa. Interestingly, levels of 5-HT in 24 month myenteric 
+preparations were unaffected by etanercept (see supplementary Fig. S2A). However, etanercept did reduce the 
+5-HIAA:5-HT ratio in the 24 month myenteric preparation (see supplementary Fig. S2B), consistent with it 
+reversing the effects of age. However, these changes occurred in the absence of any changes in SERT expression 
+and 5-HT levels, suggesting that etanercept is most likely reducing 5-HIAA levels either though an increase in the 
+function of SERT or through an increase in the activity of monoamine oxidase A.
+
+In order to determine whether the effects of etanercept were specific to its ability to bind TNF-α  we examined 
+whether etanercept affected 5-HT signalling in the distal colon of 3-month control mice that had negligible levels 
+of TNF-α . Etanercept had no effect on mucosal (Fig. 5E,F) or myenteric (see supplementary Fig. S2C,D) 5-HT 
+levels or the 5-HIAA:5-HT ratio in 3-month treated animals.
+
+Discussion
+The main findings of this study are 1) TNF-α  expression is elevated in the distal colon of 24 month old mice 
+and this change is associated with a decrease in faecal pellet output and pellet water content; 2) Treatment of 
+24-month old mice with etanercept, a TNF-α  antagonist, reversed the age-related decreases in pellet output and 
+water content; 3) Etanercept reversed the age-related increase in mucosal 5-HT availability and decrease in SERT 
+expression suggesting that the age-related increase in TNF-α  observed in this tissue is responsible for the changes 
+in SERT expression.
+
+Work in this and a previous study6 has demonstrated that aged mice develop a phenotype that has some of the 
+characteristics of human constipation (reduced faecal output and water content). We have extended our previous 
+study to understand further the underlying causes of these changes.
+
+As 5-HT is a major regulator of colonic motility and therefore faecal output we examined how mucosal and 
+myenteric 5-HT signalling changed with age. Age increased distal colonic mucosal 5-HT availability through a 
+reduction in SERT expression. Consistent with this, was the observation that the mucosal 5-HIAA:5-HT ratio was 
+also reduced with age, as the metabolism of 5-HT to 5-HIAA requires the re-uptake of 5-HT into the cytoplasm 
+via SERT (Fig. 6). There is a paucity of data examining how mucosal 5-HT signalling changes in older humans 
+with chronic constipation. Lincoln et al.29 showed a significant increase in mucosal 5-HT in patients with idio-
+pathic constipation29. In a more recent study, Costedio et al.30 demonstrated an increase in mucosal 5-HT availa-
+bility that was shown to be due to an increase in EC cell number, 5-HT content and 5-HT release in the absence of 
+changes in SERT expression30. Both studies in humans are consistent with the increased 5-HT availability reported 
+in this current study. However, the increased EC cell number and 5-HT content observed in both the human 
+studies is more representative of the changes we observed in the 18-month colon samples rather than the oldest 
+
+Figure 4. Effects of etanercept treatment on pellet output and water content. Faecal pellet output (A) and 
+water content (B) are reduced with age and reversed in 24-month animals following etanercept treatment 
+(n =  7–8 per group). Etanercept has no effect on pellet output and water content in 3-month animals. Values are 
+mean ±  SD, n =  6 per group. **p <  0.01; ***p <  0.001.
+
+
+
+www.nature.com/scientificreports/
+
+6Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+Figure 5. Pre-treatment with etanercept reverses age-related changes in mucosal SERT expression and the 
+5-HIAA:5-HT ratio. Etanercept increases mucosal 5-HIAA:5-HT ratio (A) and mucosal SERT expression in 
+24-month colon (B/C) n =  7 per group). Etanercept treatment has no significant effect on mucosal 5-HT levels 
+in 24 month colon (D; n =  7) or 3 month tissue (E; n =  8) or on the 5-HIAA:5-HT ratio in 3-month animals  
+(F; n =  8). *p <  0.05, **p <  0.01. Values are mean ±  SD. Western blot shown are cropped gel blots.
+
+Figure 6. Diagrammatic representation of the putative mechanisms regulating pellet output and pellet 
+water content in the mouse. 
+
+
+
+www.nature.com/scientificreports/
+
+7Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+24-month group. One possible explanation for this discrepancy is that the observed changes may be reflective of 
+the relatively low mean age of the participants in the study by Costedio et al. (24–74 years, mean age 42 years). 
+Indeed, Mawe and Hoffmann have recently suggested that the increased EC cell numbers and mucosal 5-HT con-
+tent associated with coeliac disease, compared to the reduced numbers of EC cells and 5-HT content observed in 
+inflammatory bowel disease (IBD) was a function of the duration of the inflammatory condition with IBD being 
+longer than coeliac disease10. These suggestions are interesting and might provide an explanation for our observed 
+increase in EC cells number and mucosal 5-HT content in mice between 3–18 months and the subsequent 
+decrease in both parameters between 18 and 24 months. Age-related increases in both distal colon EC cell number 
+and expression of the isoform of tryptophan hydroxylase present in the EC cells (TPH1) have also been reported 
+by Keating et al.31. However, their changes were observed at 24 months compared to 18 months in our current 
+study31. This time discrepancy may reflect differing levels of inflammation in the colon due to different housing 
+conditions or differences in the backgrounds of the two strains of C57BL/6 mice. Inflammatory mediators have 
+previously been shown to post-translationally regulate SERT expression32 and this could explain why Keating et al.  
+saw no difference in SERT mRNA expression with age but we observed clear decreases in SERT protein expres-
+sion at both 18 and 24 months.
+
+The most interesting finding from this study was that treatment of mice with etanercept for 2 weeks was 
+capable of attenuating the age-related changes in pellet output and water content, mucosal SERT expression and 
+5-HIAA:5-HT ratio. Previous studies have shown that pro-inflammatory mediators such as TNF-α  can reduce 
+SERT expression in the colonic mucosa in rodent models of inflammatory bowel conditions18,33–37 observations 
+that are consistent with our findings. Despite the clear reversal of the aged phenotype in the distal colon mucosa, 
+etanercept failed to reverse the age-related decrease in myenteric 5-HT.
+
+If age-related changes in pellet output and water content can be reversed by etanercept and etenercept binds 
+free TNF-α , then what are the main drivers for the increase in mucosal TNF-α ? Previous studies using acute 
+applications of dextran sulfate sodium or Trinitrobenzenesulfonic acid to the colon of young mice have demon-
+strated an increase in mucosal TNF-α  and this increase is inhibited in TPH1KO mice or by drugs that selectively 
+inhibit mucosal 5-HT synthesis38,39. These observations suggest that the age-related increase in 5-HT overflow 
+could be driving the increase in TNF-α . However, as TNF-α  has been shown to decrease mucosal SERT expres-
+sion18, and would therefore increase mucosal 5-HT overflow, it is possible that the increase in mucosal TNF-α  
+could occur independently of 5-HT. Interrupting this pathway using etanercept to block TNF-α  signalling 
+increased mucosal SERT expression and the 5-HIAA:5-HT ratio, without altering mucosal 5-HT, suggesting that 
+this pathway was at least partially responsible for the age-related changes in mucosal 5-HT overflow. Together 
+these findings suggest that while mucosal 5-HT may contribute to the increase in mucosal TNF-α  with age other 
+age-related changes in the colon may also be involved. These alternative causes of the increase in mucosal TNF-α  
+are currently unknown but are under investigation. Potential contributing factors include an increase in replica-
+tive senescence and the development of a pro-inflammatory senescence associated secretory phenotype (SASP)40. 
+Alternatively, inflammation due to activation of the immune system21,41, reduced colonic polyamine levels42, as a 
+consequence of altered gut microbiota22 may also contribute43,44. Most recently, vitamin D deficiency, a common 
+hallmark associated with ageing, has been demonstrated to induce colonic inflammation through the secretion of 
+senescence-associated inflammatory cytokines45.
+
+If 5-HT is a pro-kinetic agent, then why does an increase in mucosal 5-HT availability impair faecal out-
+put? Previous studies have demonstrated that pharmacological blockade of mucosal SERT and a consequential 
+increase in 5-HT availability impairs colonic motility and faecal output in both humans and rodent models46,47. 
+The authors proposed that this was due to the high levels of mucosal 5-HT which lead to desensitization of 5-HT3 
+receptors on intrinsic primary afferent neurons impairing the peristaltic reflex. Treatment with etanercept was 
+able to reverse the effects of age on both mucosal 5-HT availability and faecal output, strongly suggesting that 
+the age-related change in mucosal 5-HT availability was a major contributor to impaired faecal output in aged 
+mice. Indeed TPH1KO mice, in which mucosal 5-HT levels are dramatically reduced, also show impaired colonic 
+motility in ex vivo assays confirming a role for mucosal 5-HT in regulating colonic motility13. Interestingly, this 
+model also demonstrated other features in common with our aged phenotype namely an elongated colon and fae-
+cal impaction6 further supporting a role for disrupted mucosal 5-HT signalling in the aged phenotype. However, 
+earlier studies comparing both TPH1KO and TPH2KO mouse showed that colonic motility was only impaired 
+in the TPH2KO mouse in which myenteric 5-HT was significantly reduced48. The discrepancy between these two 
+studies most likely represents the different methods used to assess colonic motility and it is likely that a combina-
+tion of both mucosal and myenteric 5-HT release are required for appropriate colonic motility in young animals49. 
+While our aged phenotype could be explained by an impairment in mucosal 5-HT signalling, we did observe a 
+reduction in myenteric 5-HT suggesting that neuronal signalling was also altered with age. However, myenteric 
+TNF-α  expression was not altered with age and the effects of age were not reversed by etanercept suggesting 
+that this is not the main mechanism by which age or etanercept have their effects on motility. Although there 
+were no age-related changes in myenteric TNF-α  levels, it was interesting to note that treatment with the TNF-α  
+antagonist etanercept decreased myenteric 5-HIAA:5-HT ratio potentially providing a compensatory increase 
+in myenteric 5-HT. Based on these findings we cannot exclude the possibility that a component of the ability of 
+etanercept to rescue the aged-phenotype is through its actions on neuronal 5-HT signalling.
+
+Previous studies have also shown that TNF-α  can have a range of direct effects on colonic tissue providing the 
+possibility that etanercept can directly influence faecal output and water content. However, TNF-α  suppresses 
+fluid absorption and favours secretion of fluid into the lumen of the bowel50,51. Therefore etanercept treatment 
+would be predicted to reduce pellet water content and this would not explain the increase we observed. However, 
+fluid absorption from the colon is also affected by colonic transit time, with slower transit times increasing fluid 
+absorption. TNF-α  has been shown to reduce the strength of smooth muscle contractions in mice52,53, through 
+a mechanism that involves a decrease in C-kinase-activated protein phosphatase-1 (PP1) inhibitor, 17 kDa 
+
+
+
+www.nature.com/scientificreports/
+
+8Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+(CPI-17) levels. This would be expected to slow colonic transit and increase fluid absorption. However, the lack 
+of change in TNF-α  in the myenteric/muscle preparation with age suggests that the ability of TNF-α  to inhibit 
+colonic muscle contractions is likely to have only a minimal effect on colonic motility in our aged animals.
+
+The data presented here suggest that etanercept and related TNF-α  antagonists could be useful treatments for 
+age-related CC. However, work on higher organisms is inconclusive as to whether colonic TNF-α  levels increase 
+with age. A study in baboons > 18 years old, showed that TNF-α  levels are not increased with age54. However, 
+baboons can live to 45 years old in captivity, suggesting that a number of these animals had barely reached middle 
+age. Studies on humans are also inconclusive; with some documenting age-related increases in TNF-α 55 while 
+others do not56. Interestingly, mild diarhoea is a common side effect of patients taking etanercept for their rheu-
+matoid arthritis although how much of this is due to a concomitant reduction in the use of opioid based pain 
+killers is unclear.
+
+The potential to utilize TNFα  antagonists to treat age-related constipation in humans is not without its prob-
+lems. First, the cost of the drugs is likely to make treatment prohibitively expensive, making it important to elu-
+cidate the optimum dose and dosing frequency in animal models before trialing the treatment in humans. There 
+is also the potential issue that anti-inflammatory drugs, like etanercept, that suppress the immune system may 
+increase the incidence of infections in older people whose immune system is suppressed. However, in a study of 
+the long term safety of etanercept in the elderly population the incidence of adverse events, serious adverse events, 
+infectious events, medically important infections, and malignancies was not significantly raised in elderly subjects 
+in comparison with subjects less than 65 years old57. Finally, etanercept and all other clinically available TNF-α  
+antagonists are administered by injection, which may well reduce compliance. Should these drugs prove effica-
+cious in humans for the treatment of age-related constipation, then industry should be encouraged to develop 
+orally active TNF-α  antagonists that do not cross into the systemic circulation.
+
+Finally, given the results from this and other studies that have examined the role of colonic 5-HT signalling on 
+motility, it is tempting to infer that the effects of etanercept are through its ability to restore age-related changes 
+in both mucosal and myenteric 5-HT signalling. Given the complexity of colonic 5-HT signalling processes and 
+the changes we have observed with age, directly demonstrating the link between etanercept treatment, 5-HT 
+signalling and improved bowel movements is at best difficult. Our main finding is that mucosal SERT expres-
+sion is down-regulated with age. Attempts to mimic this change by administering the SERT antagonist, fluox-
+etine, to young animals may well inhibit faecal output and water content but whether these effects are due to 
+changes in mucosal 5-HT signalling or changes in myenteric or CNS 5-HT signalling processes will be unclear. 
+Additionally, analyzing the effects of increasing TNF-α  levels in young animals to try to mimic the effects of 
+age on this pro-inflammatory mediator would also be unclear because the changes we have observed in TNF-α  
+expression are very region specific and whole animal dosing will not generate similar region specific changes. 
+Therefore in the absence of a conclusive set of experiments the link between etanercept treatments, alterations in 
+mucosal/myenteric 5-HT signalling and age-related changes in pellet output remain inconclusive.
+
+These data demonstrate the reversal of an age-related functional phenotype in the lower bowel with an 
+anti-inflammatory drug. This work provides an exciting insight into one of the potential causes of age-related 
+colonic dysfunction in mice. The observation that the TNF-α  antagonist etanercept can reverse age-related 
+changes in mucosal SERT expression, 5-HIAA levels and the decrease in faecal pellet output and water content 
+highlights the potential for “anti-TNFα ” drugs to alleviate age-related colonic dysfunction. In the short term, effi-
+cacy in humans may be established using existing drugs, but longer-term this provides an opportunity to develop 
+GI tract specific analogues of etanercept to treat colonic dysfunction.
+
+Methods
+Ethical approval. All procedures were carried out according to U.K. Home Office regulations and the 
+Animal [Scientific Procedures] Act 1986) and were approved by the University of Brighton Ethics Committee. 
+The manuscript was prepared according to the ARRIVE guidelines.
+
+Animals. 8 week old male C57BL/6 J mice (Harlan UK) were aged in individual ventilated cages under 
+barrier-reared conditions. Animals were maintained at 19.0 ±  1 °C, 55% humidity and fed on a maintenance diet 
+(RM1 (E) 801002 (Special Diet Services) chow). Initial studies were performed on 3, 12, 18 and 24 month old ani-
+mals to characterize the time course of changes in 5-HT signalling. Later experiments focused on 3 and 24 month 
+old mice to understand whether inflammation was a cause of the observed functional and biochemical changes.
+
+Administration of Etanercept. Etanercept (1 mg Kg−1) was administered intraperitoneally (i.p.) twice a 
+week for 2 weeks. Control animals were injected i.p. with sterile water.
+
+Monitoring of faecal pellet output. Faecal pellet output was performed in an arena divided into three 
+equal sized sections (14 ×  25 cm) by perforated Perspex dividers. Individual mice were placed in each section so 
+they could visualise and smell their cage mates. Pellets were collected for 1 hour and their number and total wet 
+weight determined. Pellets were dried overnight at 50 °C and their dry weight and water content determined.
+
+Intestinal preparation. Animals were asphyxiated with CO2 and exsanguinated following cervical disloca-
+tion. The whole colon was harvested 1 cm proximal to the anus and placed in oxygenated (95% O2 and 5% CO2) 
+Krebs buffer solution, pH 7.4 (117 mM NaCl, 4.7 mM KCl, 2.5 mM CaCl2, 1.2 mM MgCl2, 1.2 mM NaH2PO4, 
+25 mM NaHCO3 and 11 mM glucose). Based on our previous findings that ex vivo colonic motility was impaired 
+with age and that this impairment was due solely to a reduction in motility in the distal colon6 we have focused 
+
+
+
+www.nature.com/scientificreports/
+
+9Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+our investigations in this current study on 5-HT signalling in the distal colon. The distal colon was identified as 
+the distal most half of the colon and used for the experiments described below.
+
+Amperometric monitoring of 5-HT availability. Amperometric measurements were made using 
+a boron-doped diamond (BDD) microelectrode as previously described58. Tissue samples were perfused with 
+warm (37 °C) Krebs solution at a flow rate of 2 mL/min. Continuous amperometric recordings of 5-HT overflow 
+were carried out using a BioStat™  multi-channel potentiostat (ESA Biosciences, Inc, USA) with the electrode 
+potential held at + 650 mV vs Ag|AgCl. Briefly, using a micromanipulator, the BDD electrode was positioned 
+several centimetres away from the mucosa for several seconds to obtain a baseline reading. To record mucosal 
+5-HT availability, the electrode was advanced and positioned 0.1 mm from mucosal surface for 40 s; at this dis-
+tance 5-HT oxidation currents were reproducibly recorded. This procedure was repeated 5 times for each tissue. 
+In a number of experiments the effects of the SERT antagonist, fluoxetine on 5-HT overflow was determined in 
+all four age groups. Briefly, following a set on control readings in Krebs buffer solution the tissue was perfused for 
+20 minutes with 1 μ M fluoxetine and 5-HT availability determined as described above.
+
+HPLC measurements of distal colonic 5-HT and 5-HIAA levels. The mucosa was removed from 
+1 cm2 segments of the distal colon from 3, 12, 18 and 24 month old animals using a sharp scalpel and this and 
+the remaining tissue, consisting of the longitudinal and circular muscle layers and the myenteric plexus (subse-
+quently called the myenteric sample) were placed separately in 500 μ l of ice cold 0.1 M perchloric acid. Samples 
+were homogenised and centrifuged at 14,600 g for 10 minutes prior to chromatographic analysis. HPLC analysis 
+of 5-HIAA and 5-HT was then carried out according to the method of Parmer et al.59.
+
+SERT Western Blot Analysis. The mucosa/myenteric samples from 2 cm segments of distal colon were 
+isolated and snap frozen in liquid N2 for storage. Tissue was homogenized on ice in lysis buffer (10 mM HEPES, 
+150 mM NaCl, 1 mM EDTA, 0.2% Nonidet P40, protease inhibitor cocktail P8340, Sigma-Aldrich Inc.). Lysates 
+were centrifuged and supernatants were removed and their protein content assessed using Quick Start Bradford 
+Dye reagent (Bio-Rad)60. 15 μ g of protein from each sample was separated using SDS-PAGE. Antibodies were 
+diluted in Tris-buffered saline +  0.1% Tween (TBST). Membranes were incubated overnight at 4 °C with a rabbit 
+anti-SERT antibody (#24330, Immunostar Inc; 1:1500 in TBST) followed by a goat anti-rabbit HRP-conjugated 
+secondary antibody (1:2000 in TBST, SC-2005, Santa Cruz Biotechnology) for 1 hr at room temperature. Protein 
+bands were detected using ECL plus western blotting detection system (GE Healthcare). The relative intensity 
+of each SERT band was normalised to the total protein load determined by staining the PVDF membrane with 
+Coomassie Brilliant Blue (Bio-Rad). This normalisation process was chosen as a number of the commonly used 
+housekeeping genes have previously been shown to change expression with age in other tissues61,62 and there is 
+currently a lack of proteomic data detailing the effects that age has on protein expression in the mouse colon.
+
+Immunofluorescence labeling of EC cells. Immunofluorescence labelling was performed on 10 μ m 
+transverse sections of distal colon. Tissues were fixed in 4% paraformaldehyde in PBS and then embedded in 
+paraffin. Sections were deparaffinised in Histoclear and rehydrated in graded ethanol solutions. The slides were 
+then incubated for 30 min in 2 N HCl for antigen retrieval. The sections were then incubated with 10% goat serum 
+(S-1000; Vector lab, Peterborough, UK) for 2 hours at room temperature. Rabbit anti-serotonin primary antibody 
+(1:8000; 20080; ImmunoStar, UK) was applied overnight at 4 °C, and then slides were washed three times with 
+PBS (10 min each wash). Sections were incubated for 2 hours with Alexa 488 goat anti-rabbit secondary anti-
+body (1:200, A-11034; Invitrogen, UK). After washing with PBS, sections were mounted with Fluoroshield DAPI 
+(F6057; Sigma, UK). Sections were viewed and images were acquired using an Olympus BX-UCB microscope.
+
+TNFα analysis in colonic samples. TNF-α  levels from mucosa/myenteric samples were determined using 
+a R&D systems Mouse TNF-α  Quantikine ELISA kit according to the manufacturer’s instructions. Levels of 
+TNF-α  were normalized to the protein content of the tissue.
+
+Data Analysis. For amperometic responses, current amplitudes were recorded and converted to 5-HT con-
+centrations using calibration responses. Population means were compared using a one-way ANOVA (GraphPad 
+Prism) and significant differences determined using post-hoc Tukey tests. In amperometric experiments where 
+the effects of both age and fluoxetine treatment were compared, the data was analysed using a 2-way ANOVA fol-
+lowed by a post-hoc Tukey test. HPLC peak areas for the analytes of interest were recorded using CHI potentiostat 
+1050 software and converted to concentrations using calibration responses. For both these data and those com-
+paring TNF-α  expression data from 2 age groups were compared with an unpaired t-test while those comparing 
+more than two groups were analysed using a one way ANOVA followed by a post-hoc Tukey test. Quantitative 
+evaluation of the number of serotonin-positive cells per ten microscopic fields (x40) was assessed in four age 
+groups. Age-related differences were determined using a one-way ANOVA (GraphPad Prism). For Western blots 
+the ratios of the intensity of each SERT- labelled band to the Coomassie stained PVDF membrane were compared 
+using a Kruskall Wallis ANOVA followed by a post hoc Tukey test. In experiments where the effects of age and 
+etanercept were examined on pellet output and water content data were compared using a two-way ANOVA and 
+Tukey post-hoc test. All analysis was carried out using GraphPad Prism Vs 6.
+
+References
+1. Rao, S. S. C. & Go, J. T. Update on the management of constipation in the elderly: new treatment options. Clinical Interventions in 
+
+Aging 5, 163–171 (2010).
+2. Camilleri, M., Cowen, T. & Koch, T. R. Enteric neurodegeneration in ageing. Neurogastroenterology & Motility 20, 418–429, doi: 
+
+10.1111/j.1365-2982.2008.01134.x (2008).
+
+
+
+www.nature.com/scientificreports/
+
+1 0Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+3. Zarate, N. & Spencer, N. J. Chronic constipation: Lessons from animal studies. Best Practice &amp; Research Clinical Gastroenterology 
+25, 59–71 (2011).
+
+4. McDougal, J. N., Miller, M. S., Burks, T. F. & Kreulen, D. L. Age-related changes in colonic function in rats. American Journal of 
+Physiology - Gastrointestinal and Liver Physiology 247, G542–G546 (1984).
+
+5. Smits, G. J. M. & Lefebvre, R. A. Influence of aging on gastric emptying of liquids, small intestine transit, and fecal output in rats. 
+Experimental Gerontology 31, 589–596 (1996).
+
+6. Patel, B. A. et al. Impaired colonic motility and reduction in tachykinin signalling in the aged mouse. Experimental Gerontology 53, 
+24–30, http://dx.doi.org/10.1016/j.exger. 2014.02.007 (2014).
+
+7. Madsen, J. L. & Graff, J. Effects of ageing on gastrointestinal motor function. Age and Ageing 33, 154–159, doi: 10.1093/ageing/
+afh040 (2004).
+
+8. O’Mahony, D., O’Leary, P. & Quigley, E. M. M. Aging and Intestinal Motility. Drugs & Aging 19, 515–527, doi: 10.2165/00002512-
+200219070-00005 (2002).
+
+9. Kendig, D. M. & Grider, J. R. Serotonin and colonic motility. Neurogastroenterology & Motility 27, 899–905, doi: 10.1111/nmo.12617 
+(2015).
+
+10. Mawe, G. M. & Hoffman, J. M. Serotonin signalling in the gut: functions, dysfunctions and therapeutic targets. Nat Rev Gastroenterol 
+Hepatol 10, 473–486, doi: 10.1038/nrgastro.2013.105 (2013).
+
+11. Côté, F. et al. Disruption of the nonneuronal tph1 gene demonstrates the importance of peripheral serotonin in cardiac function. 
+Proceedings of the National Academy of Sciences of the United States of America 100, 13525–13530, doi: 10.1073/pnas.2233056100 
+(2003).
+
+12. Walther, D. J. et al. Synthesis of Serotonin by a Second Tryptophan Hydroxylase Isoform. Science 299, 76–76, doi: 10.1126/
+science.1078197 (2003).
+
+13. Heredia, D. J. et al. Important role of mucosal serotonin in colonic propulsion and peristaltic reflexes: in vitro analyses in mice 
+lacking tryptophan hydroxylase 1. The Journal of Physiology 591, 5939–5957, doi: 10.1113/jphysiol.2013.256230 (2013).
+
+14. Longstreth, G. F. et al. Functional Bowel Disorders. Gastroenterology 130, 1480–1491, http://dx.doi.org/10.1053/j.gastro.2005.11.061 
+(2006).
+
+15. Wade, P. R. et al. Localization and Function of a 5-HT Transporter in Crypt Epithelia of the Gastrointestinal Tract. The Journal of 
+Neuroscience 16, 2352–2364 (1996).
+
+16. Coates, M. D. et al. Molecular defects in mucosal serotonin content and decreased serotonin reuptake transporter in ulcerative 
+colitis and irritable bowel syndrome. Gastroenterology 126, 1657–1664, http://dx.doi.org/10.1053/j.gastro.2004.03.013 (2004).
+
+17. Mawe, G. M., Coates, M. D. & Moses, P. L. Review article: intestinal serotonin signalling in irritable bowel syndrome. Alimentary 
+Pharmacology & Therapeutics 23, 1067–1076, doi: 10.1111/j.1365-2036.2006.02858.x (2006).
+
+18. Foley, K. F., Pantano, C., Ciolino, A. & Mawe, G. M. IFN-γ  and TNF-α  decrease serotonin transporter function and expression in 
+Caco2 cells. Vol. 292 (2007).
+
+19. Britton, E. & McLaughlin, J. T. Ageing and the gut. Proceedings of the Nutrition Society 72, 173–177, doi: 10.1017/S0029665112002807 
+(2013).
+
+20. Sipos, F., Leiszter, K. & Tulassay, Z. Effect of ageing on colonic mucosal regeneration. World Journal of Gastroenterology: WJG 17, 
+2981–2986, doi: 10.3748/wjg.v17.i25.2981 (2011).
+
+21. Steegenga, W. T. et al. Structural, functional and molecular analysis of the effects of aging in the small intestine and colon of 
+C57BL/6J mice. BMC Medical Genomics 5, 38–38, doi: 10.1186/1755-8794-5-38 (2012).
+
+22. Duncan, S. H. & Flint, H. J. Probiotics and prebiotics and health in ageing populations. Maturitas 75, 44–50, http://dx.doi.
+org/10.1016/j.maturitas.2013.02.004 (2013).
+
+23. Pascua, P. et al. Melatonin, and to a lesser extent growth hormone, restores colonic smooth muscle physiology in old rats. Journal of 
+Pineal Research 51, 405–415, doi: 10.1111/j.1600-079X.2011.00904.x (2011).
+
+24. Pozo, M. J. et al. Melatonin, a Potential Therapeutic Agent for Smooth Muscle-Related Pathological Conditions and Aging Current 
+Medicinal Chemistry 17, 4150–4165 (2010).
+
+25. Patel, B. A. Continuous amperometric detection of co-released serotonin and melatonin from the mucosa in the ileum. The Analyst 
+133, 516–524 (2008).
+
+26. Bertrand, P. P. Real-time measurement of serotonin release and motility in guinea pig ileum. J Physiol 577, 689–704, doi: 10.1113/
+jphysiol.2006.117804 (2006).
+
+27. Parmar, L., Morgan, L. D. & Patel, B. A. Intracellular and extracellular sampling to monitor the neurotransmission process using a 
+chromatographic method. Analytical Methods 3, 2770–2776 (2011).
+
+28. Esmaili, A. et al. Enteropathogenic Escherichia coli Infection Inhibits Intestinal Serotonin Transporter Function and Expression. 
+Gastroenterology 137, 2074–2083 (2009).
+
+29. Lincoln, J., Kamm, C. R., Burnstock, M. A. & Lennard-Jones, G. J. E. Serotonin and 5-hydroxyindoleacetic acid are increased in the 
+sigmoid colon in severe idiopathic constipation. Gastroenterology 98, 1219–1225 (1990).
+
+30. Costedio, M. M. et al. Mucosal serotonin signaling is altered in chronic constipation, but not in opiate-induced constipation. The 
+American journal of gastroenterology 105, 1173–1180, doi: 10.1038/ajg.2009.683 (2010).
+
+31. Keating, C., Nocchi, L., Yu, Y., Donovan, J. & Grundy, D. Ageing and gastrointestinal sensory function: altered colonic 
+mechanosensory and chemosensory function in the aged mouse. The Journal of Physiology. n/a–n/a, doi: 10.1113/jp271403 
+(2016).
+
+32. Mendoza, C., Matheus, N., Iceta, R., Mesonero, J. E. & Alcalde, A. I.Lipopolysaccharide induces alteration of serotonin transporter 
+in human intestinal epithelial cells. Innate Immunity 15, 243–250, doi: 10.1177/1753425909104781 (2009).
+
+33. O’Hara, J. R., Ho, W., Linden, D. R., Mawe, G. M. & Sharkey, K. A. Enteroendocrine cells and 5-HT availability are altered in mucosa 
+of guinea pigs with TNBS ileitis. American Journal of Physiology - Gastrointestinal and Liver Physiology 287, G998–G1007, doi: 
+10.1152/ajpgi.00090.2004 (2004).
+
+34. Linden, D. R., Chen, J.-X., Gershon, M. D., Sharkey, K. A. & Mawe, G. M. Serotonin availability is increased in mucosa of guinea pigs 
+with TNBS-induced colitis 10.1152/ajpgi.00488.2002. Am J Physiol Gastrointest Liver Physiol 285, G207–216 (2003).
+
+35. Coates, M. D. et al. Molecular defects in mucosal serotonin content and decreased serotonin reuptake transporter in ulcerative 
+colitis and irritable bowel syndrome. Gastroenterology 126, 1657–1664 (2004).
+
+36. Linden, D. R. et al. Serotonin transporter function and expression are reduced in mice with TNBS-induced colitis. 
+Neurogastroenterology & Motility 17, 565–574, doi: 10.1111/j.1365-2982.2005.00673.x (2005).
+
+37. O’Hara, J. R., Skinn, A. C., MacNaughton, W. K., Sherman, P. M. & Sharkey, K. A. Consequences of Citrobacter rodentium infection 
+on enteroendocrine cells and the enteric nervous system in the mouse colon. Cellular Microbiology 8, 646–660, doi: 
+10.1111/j.1462-5822.2005.00657.x (2006).
+
+38. Margolis, K. G. et al. Pharmacological reduction of mucosal but not neuronal serotonin opposes inflammation in mouse intestine. 
+Gut 63, 928–937, doi: 10.1136/gutjnl-2013-304901 (2014).
+
+39. Ghia, J. E. et al. Serotonin Has a Key Role in Pathogenesis of Experimental Colitis. Gastroenterology 137, 1649–1660, http://dx.doi.
+org/10.1053/j.gastro.2009.08.041 (2009).
+
+40. Yeoman, M., Scutt, G. & Faragher, R. Insights into CNS ageing from animal models of senescence. Nat. Rev. Neurosci. 13, 435–445, 
+doi: 10.1038/nrn3230 (2012).
+
+
+
+www.nature.com/scientificreports/
+
+1 1Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+41. Salminen, A. et al. Activation of innate immunity system during aging: NF-kB signaling is the molecular culprit of inflamm-aging. 
+Ageing Research Reviews 7, 83–105, http://dx.doi.org/10.1016/j.arr.2007.09.002 (2008).
+
+42. Minois, N., Carmona-Gutierrez, D. & Madeo, F. Polyamines in aging and disease. Aging (Albany NY) 3, 716–732 (2011).
+43. Kibe, R. et al. Upregulation of colonic luminal polyamines produced by intestinal microbiota delays senescence in mice. 
+
+Scientific Reports 4, 4548, doi: 10.1038/srep04548 http://www.nature.com/articles/srep04548#supplementary-information 
+(2014).
+
+44. Matsumoto, M., Kurihara, S., Kibe, R., Ashida, H. & Benno, Y. Longevity in Mice Is Promoted by Probiotic-Induced Suppression of 
+Colonic Senescence Dependent on Upregulation of Gut Bacterial Polyamine Production. Plos One 6, e23652, doi: 10.1371/journal.
+pone.0023652 (2011).
+
+45. Liu, Y. et al. 1,25(OH)(2)D(3) Deficiency Induces Colon Inflammation via Secretion of Senescence-Associated Inflammatory 
+Cytokines. Plos One 11, e0146426, doi: 10.1371/journal.pone.0146426 (2016).
+
+46. Coates, M. D., Johnson, A. C., Greenwood-van Meerveld, B. & Mawe, G. M.Effects of serotonin transporter inhibition on 
+gastrointestinal motility and colonic sensitivity in the mouse. Neurogastroenterology & Motility 18, 464–471, doi: 
+10.1111/j.1365-2982.2006.00792.x (2006).
+
+47. Chial, H. J. et al. Selective effects of serotonergic psychoactive agents on gastrointestinal functions in health. American Journal of 
+Physiology - Gastrointestinal and Liver Physiology 284, G130–G137 (2003).
+
+48. Li, Z. et al. Essential Roles of Enteric Neuronal Serotonin in Gastrointestinal Motility and the Development/Survival of Enteric 
+Dopaminergic Neurons. The Journal of Neuroscience 31, 8998–9009, doi: 10.1523/jneurosci.6684-10.2011 (2011).
+
+49. Smith, T. K., Park, K. J. & Hennig, G. W. Colonic Migrating Motor Complexes, High Amplitude Propagating Contractions, Neural 
+Reflexes and the Importance of Neuronal and Mucosal Serotonin. Journal of Neurogastroenterology and Motility 20, 423–446, doi: 
+10.5056/jnm14092 (2014).
+
+50. Markossian, S. & Kreydiyyeh, S. I. TNF-α  down-regulates the Na+ –K+  ATPase and the Na+ –K+ –2Cl− cotransporter in the rat 
+colon via PGE2. Cytokine 30, 319–327, http://dx.doi.org/10.1016/j.cyto.2004.11.009 (2005).
+
+51. Barmeyer, C. et al. IL-1β  and TNFα  regulate sodium absorption in rat distal colon. Biochemical and Biophysical Research 
+Communications 317, 500–507, http://dx.doi.org/10.1016/j.bbrc.2004.03.072 (2004).
+
+52. Ohama, T. et al. Intestinal inflammation downregulates smooth muscle CPI-17 through induction of TNF-α  and causes motility 
+disorders. Vol. 292 (2007).
+
+53. Kinoshita, K. et al. Role of TNF-α  in muscularis inflammation and motility disorder in a TNBS-induced colitis model: clues from 
+TNF-α -deficient mice. Neurogastroenterology & Motility 18, 578–588, doi: 10.1111/j.1365-2982.2006.00784.x (2006).
+
+54. Tran, L. & Greenwood-Van Meerveld, B. Age-Associated Remodeling of the Intestinal Epithelial Barrier. The Journals of Gerontology 
+Series A: Biological Sciences and Medical Sciences 68, 1045–1056, doi: 10.1093/gerona/glt106 (2013).
+
+55. Rosenstiel, P. et al. Systematic expression profiling of innate immune genes defines a complex pattern of immunosenescence in 
+peripheral and intestinal leukocytes. Genes Immun 9, 103–114, http://www.nature.com/gene/journal/v9/n2/suppinfo/6364454s1.
+html (2008).
+
+56. Mabbott, Neil A. A breakdown in communication? Understanding the effects of aging on the human small intestine epithelium. 
+Clinical Science (London, England: 1979) 129, 529–531, doi: 10.1042/cs20150364 (2015).
+
+57. Fleischmann, R. et al. Long term safety of etanercept in elderly subjects with rheumatic diseases. Annals of the Rheumatic Diseases 
+65, 379–384, doi: 10.1136/ard.2005.035287 (2006).
+
+58. Patel, B. A., Bian, X., Quaiserova-Mocko, V., Galligan, J. J. & Swain, G. M. In vitro continuous amperometric monitoring of 
+5-hydroxytryptamine release from enterochromaffin cells of the guinea pig ileum. The Analyst 132, 41–47 (2007).
+
+59. Parmar, L., Morgan, L. D. & Patel, B. A. Intracellular and extracellular sampling to monitor the neurotransmission process using a 
+chromatographic method. Analytical Methods doi: 10.1039/C1AY05520H, doi: 10.1039/C1AY05520H
+
+60. Bradford, M. M. A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of 
+protein-dye binding. Anal Biochem 72, 248–254 (1976).
+
+61. Touchberry, C. D., Wacker, M. J., Richmond, S. R., Whitman, S. A. & Godard, M. P. Age-Related Changes in Relative Expression 
+of Real-Time PCR Housekeeping Genes in Human Skeletal Muscle. Journal of Biomolecular Techniques: JBT 17, 157–162 
+(2006).
+
+62. Boda, E., Pini, A., Hoxha, E., Parolisi, R. & Tempia, F. Selection of Reference Genes for Quantitative Real-time RT-PCR Studies in 
+Mouse Brain. J Mol Neurosci 37, 238–253, doi: 10.1007/s12031-008-9128-9 (2009).
+
+Acknowledgements
+MSY, BAP, MJS and RR would like to thank BBSRC for funding (grant numbers BB/GO15147/1 and BB/
+GO15988/1). MSY would like to acknowledge support from University of Brighton sabbatical fund. BAP 
+acknowledges support provided by a Royal Society Research Grant. We would like to thank Dr. Brian Jones for 
+his helpful comments on this manuscript and the staff of the University of Brighton Bioresource Centre for their 
+help with this study.
+
+Author Contributions
+B.A.P. - study concept and design, acquisition, analysis and interpretation of data; critical revision of the 
+manuscript S.F.-acquisition, analysis of data and critical revision of the manuscript C.W. and K.M. - acquisition 
+and analysis of data. A.P. and M.S.F. - acquisition of data. L.P. - acquisition and analysis of HPLC data. J.S. - study  
+design for the immunohistochemistry, critical revision of the manuscript and grant funding. R.R. - critical 
+revision of the manuscript and grant funding. M.S.Y.- study concept and design; data analysis, writing the 
+manuscript; grant funding.
+
+Additional Information
+Supplementary information accompanies this paper at http://www.nature.com/srep
+Competing financial interests: The authors declare no competing financial interests.
+How to cite this article: Patel, B. A. et al. The TNF-α antagonist etanercept reverses age-related decreases in 
+colonic SERT expression and faecal output in mice. Sci. Rep. 7, 42754; doi: 10.1038/srep42754 (2017).
+Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+
+http://www.nature.com/articles/srep04548#supplementary-information
+http://www.nature.com/srep
+
+
+www.nature.com/scientificreports/
+
+1 2Scientific REPORTS | 7:42754 | DOI: 10.1038/srep42754
+
+This work is licensed under a Creative Commons Attribution 4.0 International License. The images 
+or other third party material in this article are included in the article’s Creative Commons license, 
+
+unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, 
+users will need to obtain permission from the license holder to reproduce the material. To view a copy of this 
+license, visit http://creativecommons.org/licenses/by/4.0/
+ 
+© The Author(s) 2017
+
+http://creativecommons.org/licenses/by/4.0/
+
+	The TNF-α antagonist etanercept reverses age-related decreases in colonic SERT expression and faecal output in mice
+	Introduction
+	Results
+	Age-related changes in 5-HT content and availability in the distal colon
+	Effects of age on SERT expression and 5-hydroxyindoleacetic acid (5-HIAA) levels in mouse distal colon
+	Effects of age on TNFα levels in the distal colon
+	Effects of age and the TNFα inhibitor etanercept on pellet output and water content
+	Effects of etanercept on 5-HT signalling in distal colon
+
+	Discussion
+	Methods
+	Ethical approval
+	Animals
+	Administration of Etanercept
+	Monitoring of faecal pellet output
+	Intestinal preparation
+	Amperometric monitoring of 5-HT availability
+	HPLC measurements of distal colonic 5-HT and 5-HIAA levels
+	SERT Western Blot Analysis
+	Immunofluorescence labeling of EC cells
+	TNFα analysis in colonic samples
+	Data Analysis
+
+	Additional Information
+	Acknowledgements
+	References

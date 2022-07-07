@@ -1,0 +1,107 @@
+e.g.
+
+(a) Anisotropy as a function of the
+
+complexity of the heterodimeric components of the 2DAG
+
+(1), (2), (3) and (4).
+
+(b) Coefficient of the 2DAG, Eq. 3.5 (Figure 5).
+
+(c) Coefficient of the 2DAG, Eq. 3.6 (Figure 6).
+
+(d) Coefficient of the 2DAG, Eq. 4.8 (Figure 7).
+
+(e) Coefficient of the 2DAG, Eq. 5.8 (Figure 8).
+
+(f) Coefficient of the 2DAG, Eq. 6.6 (Figure 9).
+
+(g) Coefficient of the 2DAG, Eq. 7.7 (Figure 10).
+
+(h) Coefficient of the 2DAG, Eq. 8.1
+
+(i) Coefficient of the 2DAG, Eq. 9.2
+
+(j) Coefficient of the 2DAG, Eq. 10.2
+
+(k) Coefficient of the 2DAG, Eq. 11.3
+
+(L) Coefficient of the 2DAG, Eq. 12.0
+
+(M) Coefficient of the 2DAG, Eq. 13.1
+
+(N) Coefficient of the 2DAG, Eq. 14.1
+
+(L) Coefficient of the 2DAG, Eq. 15.2
+
+(N) Coefficient of the 2DAG, Eq. 16.3
+
+(M) Coefficient of the 2DAG, Eq. 17.2
+
+(M) Coefficient of the 2DAG, Eq. 18.2
+
+(M) Coefficient of the 2DAG, Eq. 19.3
+
+(N) Coefficient of the 2DAG, Eq. 20.2
+
+(M) Coefficient of the 2DAG, Eq. 21.1
+
+(M) Coefficient of the 2DAG, Eq. 22.1
+
+(M) Coefficient of the 2DAG, Eq. 23.1
+
+(M) Coefficient of the 2DAG, Eq. 24.1
+
+(M) Coefficient of the 2DAG, Eq. 25.1
+
+(M) Coefficient of the 2DAG, Eq. 26.1
+
+(M) Coefficient of the 2DAG, Eq. 27.1
+
+(M) Coefficient of the 2DAG, Eq. 28.1
+
+(M) Coefficient of the 2DAG, Eq. 29.1
+
+(M) Coefficient of the 2DAG, Eq. 30.1
+
+(M) Coefficient of the 2DAG, Eq. 31.1
+
+(M) Coefficient of the 2DAG, Eq. 32.1
+
+(M) Coefficient of the 2DAG, Eq. 33.1
+
+(M) Coefficient of the 2DAG, Eq. 34.1
+
+(M) Coefficient of the 2DAG, Eq. 35.1
+
+(M) Coefficient of the 2DAG, Eq. 36.1
+
+(M) Coefficient of the 2DAG, Eq. 37.1
+
+(M) Coefficient of the 2DAG, Eq. 38.1
+
+(M) Coefficient of the 2DAG, Eq. 39.1
+
+(M) Coefficient of the 2DAG, Eq. 40.1
+
+(M) Coefficient of the 2DAG, Eq. 41.1
+
+(M) Coefficient of the 2DAG, Eq. 42.1
+
+(M) Coefficient of the 2DAG, Eq. 43.1
+
+(M) Coefficient of the 2DAG, Eq. 44.1
+
+(M) Coefficient of the 2DAG, Eq. 45.1
+
+(M) Coefficient of the 2DAG, Eq. 46.1
+
+(M) Coefficient of the 2DAG, Eq. 47.1
+
+(M) Coefficient of the 2DAG, Eq. 48.1
+
+(M) Coefficient of the 2DAG, Eq. 49.1
+
+(M) Coefficient of the 2DAG, Eq. 50.1
+
+(M) Coefficient of the 2DAG, Eq. 51.1

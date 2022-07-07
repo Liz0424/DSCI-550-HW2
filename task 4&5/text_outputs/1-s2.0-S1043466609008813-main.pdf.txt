@@ -1,0 +1,795 @@
+Signaling pathway underlying the up-regulatory effect of TNF-α on the Na+/K+ ATPase in HepG2 cells
+
+
+Cytokine 49 (2010) 312–318
+Contents lists available at ScienceDirect
+
+Cytokine
+
+journal homepage: www.elsevier .com/locate / issn/10434666
+Signaling pathway underlying the up-regulatory effect of TNF-a on the
+Na+/K+ ATPase in HepG2 cells
+
+Ari Kassardjian, Zeina Dakroub, Ola El Zein, Sawsan Ibrahim Kreydiyyeh *
+
+Department of Biology, Faculty of Arts & Sciences, American University of Beirut, Beirut, Lebanon
+
+a r t i c l e i n f o a b s t r a c t
+Article history:
+Received 26 March 2009
+Received in revised form 8 November 2009
+Accepted 22 November 2009
+
+Keywords:
+TNF-a
+Na+/K+ ATPase
+JNK
+Caspases
+NF-jB
+1043-4666/$ - see front matter � 2009 Elsevier Ltd. A
+doi:10.1016/j.cyto.2009.11.020
+
+* Corresponding author. Fax: +961 1 744461.
+E-mail address: Sawkreyd@aub.edu.lb (S.I. Kreydiy
+The activity of the Na+/K+ ATPase was shown to be reduced during apoptosis and enhanced during cell
+proliferation. This work investigated whether TNF-a exerts also opposite effects on the Na+/K+ ATPase
+in HepG2 cells and whether these effects are time-dependent. A time response study demonstrated that
+the activity and protein expression of the ATPase are decreased at 1 h and increased at 4, 6 and 8 h. This
+work focused on the up-regulatory 4 h-response. TNF-a was shown to exert a stimulatory effect on cJNK
+and NF-jB and an inhibitory effect on caspases which, in the basal state, down-regulate the ATPase. The
+cytokine was found to target the caspases by activating JNK which in turn activates NF-jB. The activated
+transcription factor inhibits the caspases and frees the ATPase from their inhibitory action leading thus to
+its up-regulation.
+
+� 2009 Elsevier Ltd. All rights reserved.
+1. Introduction
+
+Tumor necrosis factor a (TNF-a) is a pro-inflammatory cytokine
+with numerous biological properties ranging from inflammation to
+proliferation, differentiation, and cancer growth. It plays a central
+role in shock due to sepsis and wasting syndromes due to a variety
+of cancers [1]. It is also involved in different physiological and
+pathophysiological conditions [2]. In the liver it was described to
+act as a ‘‘two-edged sword” [3], exerting both apoptotic and anti-
+apoptotic effects.
+
+These antagonistic effects were ascribed to the multiple and
+complex signaling pathways activated by the cytokine. Caspases,
+nuclear factor kappa B (NF-jB), Jun N-terminal kinase (JNK) [4],
+proteases, ceramides, and reactive oxygen species, were all found
+to mediate TNF-a action. While activation of NF-jB was found cru-
+cial for cell survival, activation of caspases was deemed essential
+for the apoptotic process. The role of JNK is however still contro-
+versial promoting both apoptotic and anti-apoptotic responses [5].
+
+Apoptosis was found to be accompanied by changes in the lev-
+els of Na+, K+ , and Cl� , and a decrease in the activity of the Na+/K+
+
+ATPase also known as Na+/K+ pump [6], a ubiquitous transporter
+responsible for the establishment of the trans-membrane Na+
+
+and K+ gradients. In a previous work we studied the 1 h effect of
+TNF-a on the Na+-/K+ ATPase in HepG2 cells. The activity of the
+ATPase was found to be modulated by JNK, which stimulated the
+ll rights reserved.
+
+yeh).
+caspases and inhibited NF-jB, resulting in a net inhibition of the
+pump, and probably favoring the apoptotic pathway [7]. Since
+TNF was reported also to promote cell proliferation in hepatocytes
+[8], we speculated that these antagonistic responses may be due to
+differences in the period of action of the cytokine. TNF-a may be
+activating different mediators at different time intervals leading
+to opposite effects.
+
+This work aimed at testing this hypothesis and determining the
+mechanism of action of the cytokine.
+2. Materials and methods
+
+2.1. Materials
+
+Media and other chemicals needed for cell culture were pur-
+chased from Gibco, Paisley, Scotland.
+
+The general caspase inhibitor (FK009) and the JNK inhibitor (SP
+600125) were purchased, respectively, from MP Biomedicals, Ohio,
+USA, and Biosource, CA, USA.
+
+Recombinant Human TNF alpha was purchased from Endogen,
+MA, USA. The primary Na+/K+ ATPase a1 antibody was obtained
+from Upstate Va., USA, and the HepG2 cell line from ATCC.
+
+Anti-IjBa monoclonal antibody was obtained from Biosource
+International, USA. Goat anti-mouse IgG HPR conjugated antibody
+and Enhanced Chemiluminescence (ECL) kit were obtained from
+Santa Cruz, CA, USA.
+
+JNK activity was measured using a KinasesSTAR™ JNK Activity
+Assay Kit purchased from BioVision CA, USA.
+
+http://dx.doi.org/10.1016/j.cyto.2009.11.020
+mailto:Sawkreyd@aub.edu.lb
+http://www.sciencedirect.com/science/journal/10434666
+http://www.elsevier.com/locate/issn/10434666
+
+
+Fig. 1a. Time response study on the effect of TNF-a on the activity of the Na+/K+
+
+ATPase in HepG2 cells. Values are means ± SE of three observations assayed each in
+triplicates. Bars not sharing a common letter are significantly different from each
+other. P < 0.001.
+
+A. Kassardjian et al. / Cytokine 49 (2010) 312–318 313
+All other chemicals were obtained from Sigma Chemical Co., St.
+Louis, Missouri, USA.
+
+2.2. Methods
+
+2.2.1. Culture and treatment of HepG2 Cells
+HepG2 cells were grown in DMEM supplemented with 10% FBS,
+
+1% Penicillin and streptomycin, in a humidified incubator (5% CO2)
+at 37 �C. When 70–80% confluence was reached, the cells were
+starved overnight and treated next day.
+
+Dose and time response studies were conducted by treating the
+cells with different doses of TNF-a (5, 10, 40, and 100 ng/ml) for
+4 h, and with 100 ng/ml of TNF-a for different time periods (1, 2,
+3, 4, 6, and 8 h). The involvement of caspases, JNK and NF-jB
+was studied by pre-treating the cells with their respective specific
+inhibitors FK009 (4 lM) ([9], SP 600125 (50 lM) [10] and PDTC
+(100 lM) [11] . FK009 was added 15 min before TNF-a, while PDTC
+and SP 600125 were added 30 min before the cytokine.
+
+At the end of the incubation period, HepG2 cells were washed,
+lysed, homogenized with a polytron at 4 �C and 20,000 rpm, and
+preserved at �20 �C for later use after addition of protease inhibi-
+tors. Proteins were quantified using the Biorad assay.
+
+2.2.2. Western blot analysis
+Equal amounts of protein were loaded and resolved on 8% poly-
+
+acrylamide gels, and were transferred to PVD F membranes. The
+membranes were then blocked and incubated with a primary
+Na+/K+ ATPase a1 antibody, followed by a secondary IgG conju-
+gated to horseradish peroxidase. Detection of the signal was by en-
+hanced chemiluminescence. Equal loading was checked by
+Ponceau staining, a rapid and reversible staining method for visu-
+alizing protein bands on Western blots.
+
+2.2.3. NF-jB activity
+Activation of NF-jB by TNF was investigated by examining the
+
+degradation of its inhibitory subunit IjBa. The expression of IjB
+was studied by western blot analysis as described above using 10%
+polyacrylamide gels and an anti-IjBa monoclonal antibody with a
+goat anti-mouse secondary IgG conjugated to horseradish peroxidase.
+
+2.2.4. Na+/K+ ATPase activity assay
+Homogenates of HepG2 cells were suspended in Tris buffer
+
+(1300 mM NaCl, 200 mM KCl, 40 mM MgCl2 and 150 mM histidine;
+pH 7.4) to a concentration of 2 mg/ml. Saponin (1%) was then
+added at a ratio of 1:4 and the samples were incubated at room
+temperature for 30 min. Aliquots (50 ll) were then drawn and
+incubated at 37 �C for 30 min, in presence or absence of ouabain
+(3.75 mM final concentration), a specific inhibitor of the ATPase.
+Adenosine tri-phosphate (ATP) (7.5 mM final concentration) was
+then added and the samples were incubated for an additional
+30 min at 37 �C. At the end of the incubation period, an equal vol-
+ume of trichloroacetic acid (11.5%) was added to stop the reaction,
+and the samples were spun at 3000g for 5 min. The amount of
+inorganic phosphate liberated was measured colorimetrically
+according to the method of Taussky and Shorr [12]. The enzymatic
+activity was determined by measuring the ouabain inhibitable
+inorganic phosphate (Pi) released. The percent inhibition of the
+enzyme activity was calculated as follows:
+
+1�
+PiðtreatmentÞ � Piðtreatment þ ouabainÞ
+
+PiðcontrolÞ � Piðcontrolþ ouabainÞ
+� 100
+Fig. 1b. Time response study on the effect of TNF-a on the protein expression of the
+Na+/K+ ATPase in HepG2 cells. The results are representative of an experiment
+repeated three times.
+2.2.5. c-Jun N-terminal kinase activity
+A ‘‘KinasesStar JNK activity assay kit” was used to measure JNK
+
+activity according to the manufacturer’s instructions. Briefly JNK
+was immunoprecipitated from cell lysates and its activity deter-
+mined using recombinant c_jun as a substrate. Phosphorylation
+of c-Jun was detected by western blot analysis.
+2.2.6. Statistical analysis
+Results are reported as means ± SE and are tested for statistical
+
+significance by a one-way Analysis of Variance (ANOVA) followed
+by Tukey–Kramer multiple comparisons test using Instat and Excel
+Analysis softwares. The results were considered significant at
+P < 0.01.
+3. Results
+
+3.1. Time and dose response studies on the effect of TNF-a on the Na+/
+K+ ATPase in HepG2 cells
+
+TNF-a at 100 ng/ml reduced the activity and protein expression
+of the Na+/K+ ATPase at 1 h, and enhanced them at 4, 6 and 8 h
+(Fig. 1a). The most prominent increase was observed at 4 h and
+was maintained till 8 h (P < 0.001). This is why all further studies
+were conducted at 4 h. The effect on pump’s expression followed
+the same pattern as the effect on the pump’s activity (Fig. 1b).
+
+A dose response study was then conducted to see if the effect of
+the cytokine on the pump is concentration-dependent. The activity
+of the Na+/K+ATPase was significantly increased in starved cells
+treated for 4 h with 40 and 100 ng/ml TNF-a and unchanged at
+lower doses (5 and 10 ng/ml) (Fig. 1c).
+
+Since the up-regulatory effect observed at 4 h opposed what
+was found previously at 1 h, we decided to investigate the 4-h re-
+sponse and the signaling pathways involved.
+
+
+
+Fig. 1c. Dose response study on the effect of TNF-a on the activity of Na+/K+ ATPase
+in HepG2 cells treated with the cytokine for 4 h. Values are means ± SE of three
+observations assayed each in triplicates. Bars not sharing a common letter are
+significantly different from each other. P < 0.01.
+
+Fig. 3a. Effect of TNF-a, in presence and absence of PDTC and SP600125, on the
+activity of the Na+/K+ ATPase in HepG2 cells treated with the cytokine for 4 h.
+Values are means ± SE of three observations assayed each in triplicates. Bars not
+sharing a common letter are significantly different from each other. P < 0.01.
+
+Fig. 3b. Effect of TNF-a, in presence and absence of PDTC and SP600125, on the
+activity of the Na+/K+ ATPase in HepG2 cells treated with the cytokine for 4 h. The
+results are representative of an experiment repeated three times.
+
+314 A. Kassardjian et al. / Cytokine 49 (2010) 312–318
+3.3. Mediators of the late (4 h) effect of TNF-a on the Na+/K+ ATPase in
+HepG2 cells
+
+3.3.1. Involvement of JNK and NF-KB
+At 4 h, TNF decreased the expression of IKBa (Fig. 2a) and in-
+
+creased significantly the phosphorylation of c-jun (Fig. 2b) reveal-
+ing an activation of NF-jB and JNK by the cytokine.
+
+The involvement of NF-jB and Jun Kinase in the late (4 h) re-
+sponse was studied by using their respective inhibitors PDTC and
+SP600125.
+
+PDTC alone had no effect on the expression and activity of the
+pump but abrogated completely the effect of TNF-a (Fig. 3a and
+b). The ATPase was down-regulated by SP600125 and in its pres-
+ence the up-regulatory effect of TNF was significantly reduced
+(Fig. 3a and b).
+
+3.3.2. Involvement of caspases
+To determine whether TNF-a signaling is mediated through
+
+caspases, HepG2 cells were treated with FK009 a general caspase
+inhibitor. The inhibitor FK009 alone, increased both the activity
+and protein expression of the pump, exerting thus a similar effect
+to the one observed with TNF-a (Fig. 4a and b). The up-regulatory
+effect of TNF still appeared in presence of FK009 i.e. when caspases
+were inhibited.
+Fig. 2a. Effect of TNF-a (100 ng/ml, 4 h) on the expression of IjBa.
+
+Fig. 2b. Effect of TNF-a (100 ng/ml, 4 h) on the phosphorylation of c-jun.
+
+Fig. 4a. Effect of TNF-a in presence and absence of FK009 on the activity of the Na+/
+K+ ATPase in HepG2 cells incubated with the cytokine for 4 h. Values are means ± SE
+of three observations assayed each in triplicates. Bars not sharing a common letter
+are significantly different from each other. P < 0.01.
+3.3.3. Effect of different combinations of inhibitors on the protein
+expression and activity of the Na+/K+ ATPase at 4 h
+
+When both jun Kinase and NF-jB were inhibited concurrently
+with their respective inhibitors SP600125 and PDTC, a decrease
+in the activity and protein expression of the Na+/K+ ATPase was ob-
+served (Fig. 3a and b). This decrease still appeared in presence of
+the cytokine.
+
+The up-regulatory effect exerted by FK009 was reduced in pres-
+ence of PDTC (Fig. 5a and b), but in their simultaneous presence the
+
+
+
+Fig. 4b. Effect of TNF-a in presence and absence of FK009 on the protein expression
+of the Na+/K+ ATPase in HepG2 cells incubated with the cytokine for 4 h. The results
+are representative of an experiment repeated three times.
+
+Fig. 5a. Effect of TNF-a in the simultaneous presence and absence of FK009 and
+PDTC on the activity of the Na+/K+ ATPase in HepG2 cells incubated with the
+cytokine for 4 h. Values are means ± SE of three observations assayed each in
+triplicates. Bars not sharing a common letter are significantly different from each
+other. P < 0.01.
+
+Fig. 5b. Effect of TNF-a in the simultaneous presence and absence of FK009 and
+PDTC on the activity of the Na+/K+ ATPase in HepG2 cells incubated with the
+cytokine for 4 h. Results are representative of an experiment repeated three times.
+
+Fig. 6a. Effect of TNF-a in the simultaneous presence and absence of FK009 and
+SP600125 on the activity of the Na+/K+ ATPase in HepG2 cells incubated with the
+cytokine for 4 h. Values are means ± SE of three observations assayed each in
+triplicates. Bars not sharing a common letter are significantly different from each
+other. P < 0.01.
+
+Fig. 6b. Effect of TNF-a in the simultaneous presence and absence of FK009 and
+SP600125 on the activity of the Na+/K+ ATPase in HepG2 cells incubated with the
+cytokine for 4 h. Results are representative of an experiment repeated three times.
+
+Fig. 7a. Effect of TNF-a in the simultaneous presence and absence of FK009,
+SP600125 and PDTC on the activity of the Na+/K+ ATPase in HepG2 cells incubated
+with the cytokine for 4 h. Values are means ± SE of three observations assayed each
+in triplicates. Bars not sharing a common letter are significantly different from each
+other.
+
+A. Kassardjian et al. / Cytokine 49 (2010) 312–318 315
+full effect of TNF-a on the ATPase activity and expression was
+maintained (Fig. 5a and b).
+
+Treating the cells with SP 600125 and FK009 concurrently did
+not lead to any change in the activity or protein expression of
+the pump (Fig. 6a and b). The up-regulatory effect of TNF-a still ap-
+peared in their presence.
+
+Cells treated with the three inhibitors, FK009, SP600125 and
+PDTC, simultaneously, did not show any change in their Na+/K+
+ATPase activity or protein expression. However in their presence
+the effect of TNF was abrogated completely (Fig. 7a and b).
+
+Table 1 summarizes the effect of the different mediators on the
+pump.
+
+
+
+Fig. 7b. Effect of TNF-a in the simultaneous presence and absence of FK009,
+SP600125 and PDTC on the activity of the Na+/K+ ATPase in HepG2 cells incubated
+with the cytokine for 4 h.
+
+316 A. Kassardjian et al. / Cytokine 49 (2010) 312–318
+4. Discussion
+
+TNF-a is known to activate different mediators and signaling
+pathways that culminate in either cell survival or cell death. Acti-
+vation of the caspase cascade leads to apoptosis [13], while activa-
+tion of NF-jB, induces genes having anti-apoptotic effects. Many
+works demonstrated that apoptosis is accompanied by a reduction
+in the activity of Na+/K+ ATPase in various experimental models
+while stimulation of the ATPase was found to accompany liver
+regeneration [14]. Although many isoforms of the enzyme are
+known to exist, the a1 isoform is the one present in hepatocytes
+[15].
+
+4.1. Time and dose response studies
+
+TNF acted on the Na+/K+ ATPase time-dependently (Fig. 1a).
+Changes in the ATPase activity and protein expression followed a
+similar trend (Fig. 1a and b), suggesting that changes in activity
+are due to changes in the number of ATPase molecules. To deter-
+mine whether these opposite responses are also dose-dependent,
+cells were treated with different concentrations of TNF-a for
+4hrs. At 4 h, TNF-a at doses equal or higher than 40 ng/ml exerted
+a stimulatory effect on the ATPase (Fig. 1c). Since an increase in
+pump’s activity was reported to occur during liver regeneration
+[16], it can be speculated that TNF promotes at 4 h cell survival.
+
+The mechanism underlying the early inhibitory response was
+studied in a previous work [8]. This work is an attempt to unravel
+the signaling mechanism behind the 4 h-response.
+Table 1
+A summary of the effect of different inhibitors on the Na+/K+ ATPase.
+
+TNF-a PDTC SP00125 FK009
+
++
++
+
++ +
++
+
++ +
++
+
++ +
++ +
+
++ + +
++ +
+
++ + +
++ +
+
++ + +
++ + +
+
++ + + +
+4.2. Signaling mediators
+
+4.2.1. TNF stimulates NF-jB
+Inhibition of NF-jB with PDTC abrogated completely the effect
+
+of TNF-a. The results imply that the effect of TNF-a on NF-jB is
+stimulatory because had it been inhibitory, then PDTC would have
+imitated the effect of TNF-a and an up-regulatory effect would
+have been observed.
+
+4.2.2. TNF stimulates JNK
+Treating the cells with SP600125 (a specific inhibitor of JNK)
+
+abrogated only partially the effect of TNF-a (Fig. 3a and b) suggest-
+ing the presence of additional mediators that contribute to the ef-
+fect of TNF on the pump. JNK should be stimulated by the cytokine
+as was the case with NF-jB and for the same reasons mentioned
+above for NF-jB.
+
+4.2.3. TNF inhibits caspases
+The up-regulatory response to TNF-a still appeared in presence
+
+of FK009 (Fig. 4a and b), indicating that either caspases are not in-
+volved in TNF action, or if they are, they are inhibited by the cyto-
+kine. In the latter case, caspase inhibition should imitate the effect
+of TNF-a and this is in fact what was observed when FK009 was
+added alone (Fig. 4a and b). Addition of TNF-a simultaneously with
+FK009, lead to a similar response to the one observed with each
+one separately, inferring that caspases are part of the signaling
+pathway activated by TNF or else an additive effect would have
+been observed.
+
+It can be concluded that TNF-a acts via stimulation of NF-jB
+and JNK, and inhibition of caspases. No additional mediators are in-
+volved in TNF signaling, since when cells were treated with the
+cytokine in presence of inhibitors of all three mediators the effect
+of TNF-a disappeared completely (Fig. 7a and b).
+
+4.3. Positions of the signaling mediators in the pathway
+
+4.3.1. JNK is upstream of NF-jB
+It is apparent from the above that caspases, in the basal state,
+
+exert an inhibitory effect on the activity and protein expression
+of the Na+/K+ ATPase (Fig. 4a and b).
+
+The effect of JNK is however stimulatory since a down-regula-
+tion was observed when it was inhibited with SP 600125. Inhibi-
+tion of NF-jB did not have any effect on the pump, suggesting
+that the transcription factor is not involved in its regulation in
+the basal state.
+
+The fact that the effect of FK009 was abrogated partially with
+PDTC but fully with PDTC + SP600125, suggests that NF-jB and
+Effect on ATPase protein expression Effect on ATPase activity
+
+Up-regulation Up-regulation
+No effect No effect
+No effect No effect
+Down-regulation Down-regulation
+Reduced up-regulation Reduced up-regulation
+Up-regulation Up-regulation
+Up-regulation Up-regulation
+Down-regulation Down-regulation
+Down-regulation Down-regulation
+Reduced up-regulation Reduced up-regulation
+Up-regulation Up-regulation
+No effect No Effect
+Up-regulation Up-regulation
+No effect No effect
+No effect No effect
+
+
+
+Fig. 8. The signaling pathway underlying the effect of TNF-a on the Na+/K+ ATPase
+in HepG2 cells incubated with the cytokine for 4 h.
+
+A. Kassardjian et al. / Cytokine 49 (2010) 312–318 317
+JNK activate two different pathways that stimulate the pump. It
+can be postulated that the basal activity of the Na+/K+ ATPase is a
+balance between two stimulatory pathways mediated via JNK
+and NF-jB, and an inhibitory pathway mediated via caspases.
+When caspases are inhibited, the stimulatory effect of JNK and
+NF-jB becomes apparent. When caspases and NF-jB are inhibited
+concurrently, the up-regulatory effect is reduced because it be-
+comes restricted only to the one caused by JNK. However when
+JNK and caspases are inhibited concurrently, leaving only NF-jB
+active, no change is observed in the ATPase activity and expression.
+As the up-regulatory effect of NF-jB was not observed in this case,
+it can be postulated that it is activated by either JNK or caspases.
+Since the effect of FK009 disappeared partially in presence of PDTC
+but fully in presence of SP600125 and SP600125 + PDTC, it can
+safely be concluded that JNK is upstream of NF-jB and causes its
+activation.
+
+When JNK and NF-jB were inhibited simultaneously (Fig. 3a
+and b), leaving only the caspases active, down-regulation of the
+pump was observed. This confirms the inhibitory effect of caspases
+on the ATPase, an effect that was not counterbalanced anymore, in
+this case, by the stimulatory effect of JNK and NF-jB.
+
+4.3.2. JNK is upstream of caspases
+The effect of TNF was abrogated partially in presence of
+
+SP600125 alone but reappeared in the simultaneous presence of
+FK009 and SP600125. It can be speculated that TNF-a inhibits
+the caspases via activation of JNK, freeing thus the ATPase from
+their down-regulatory effect. The data indicate also that JNK is up-
+stream of caspases.
+
+4.3.3. NF-jB is upstream of caspases
+Inhibition of NF-jB with PDTC abrogated the effect of TNF and
+
+although JNK is still active, no up-regulation was observed because
+it was counteracted by an inhibition caused by active caspases.
+However, TNF effect reappeared upon simultaneous inhibition of
+NF-jB and caspases, implying that when NF-jB is active, it inhibits
+caspases and is upstream of them.
+
+When JNK and NF-jB are inhibited concurrently, the ATPase is
+down-regulated by TNF-a because the caspases remain active and
+are not inhibited by NF-jB.
+
+The cytokine could not exert its effect in presence of inhibitors
+of all three mediators since all stimulatory and inhibitory path-
+ways are blocked. The results infer that no additional mediators
+are involved in the response to TNF-a.
+
+4.4. Signaling pathway of TNF-a
+
+It can be concluded that TNF-a acts via stimulation of JNK and
+NF-jB, and inhibition of caspases. NF-jB is upstream of the casp-
+ases and inhibits them while JNK is upstream of NF-jB and acti-
+vates it and is itself activated by TNF-a. TNF activates also NF-jB
+but this activity is considerably enhanced by JNK. Fig. 8 represents
+the postulated signaling pathway underlying the effect of TNF-a on
+the Na+/K+ATPase at 4 h.
+
+4.5. Possible implications of the up-regulatory effect of TNF-a on the
+Na+/K+ATPase: roles of the mediators
+
+Up-regulation of the pump by TNF-a is suggestive of an anti-
+apoptotic state. In fact, in liver regeneration, the activity of the
+Na+/K+ATPase was found to be increased [17,7] and NF-jB acti-
+vated [7].
+
+The anti-apoptotic effect of NF-jB in hepatocytes has been very
+well documented and its cytoprotective function has been reported
+by many studies in various cell types [18–23]. Mice deficient in NF-
+jB activation have been shown to be more susceptible to hepato-
+carcinogenesis [24]. By activating NF-jB, the cytokine induces a
+number of anti-apoptotic genes, including c-FLIP, cIAP1, cIAP2, A1,
+A20, TRAF1, and TRAF2 [5].
+
+On the other hand caspases have been well recognized as key
+mediators of apoptosis and cell death [25,26]. Since an anti-apop-
+totic state prevails at 4hrs, the observed inhibition of caspases is
+expected.
+
+The role of JNK is however till now highly controversial. Many
+works correlated activation of JNK with cell death. The kinase
+was shown to play a central role in mediating the TNF-induced
+apoptotis in hepatocytes [27,28] and developing embryonic fore-
+brain [29,30]. Other studies however, did not find any association
+between JNK and cell death [31].
+
+In this work JNK activation seems to have an anti-apoptotic role,
+promoting cell survival and proliferation. These findings are in line
+with those reporting a role of JNK in oncogenesis [32–34].
+
+The TNF-induced activation of JNK observed in this work is
+needed to activate in turn NF-jB. One possible mechanism by
+which the kinase could activate the transcription factor would
+be by phosphorylating directly or indirectly IjB kinase (IKK)
+leading to its activation. IKK would in turn phosphorylate the
+inhibitory protein IjB on serine residues [34] targeting it for ubiq-
+uitination and subsequent degradation, and leading consequently
+to NF-jB activation [18]. Active NF-jB then inhibits caspases.
+Such an effect has been demonstrated before in fibroblasts by Tang
+et al. [35].
+
+It can be concluded that TNF-a exerts a time-dependent dual
+and opposite effect on the pump. The early 1 h response is inhibi-
+tory and suggestive of an apoptotic state while the later response
+at 4 h is stimulatory and suggestive of cell survival conditions.
+Although in both responses JNK is activated and is the key player,
+yet it exerts opposite effects on its targets namely NF-jB and
+caspases which mediate, respectively, cell survival and apoptosis.
+Caspases are active at 1 h but become inhibited at 4 h. The intrigu-
+ing question that needs to be addressed is why is there a transient
+and early activation of caspases that is followed by inhibition? Is
+this a step in preparation for the anti-apoptotic state that will ap-
+pear at 4 h? Su et al. [36] demonstrated previously that a defi-
+ciency in caspase 8 abolished the activation of NF-jB induced by
+antigen receptors, Fc receptors, or Toll-like receptor 4 in T, B, and
+natural killer cells, ascribing thus a role for caspases in the activa-
+tion of the transcription factor. It would be plausible then to as-
+sume that here again, the early and transient activation of
+caspases aims at triggering the activation of NF-jB which in turn
+would shut them down.
+
+
+
+318 A. Kassardjian et al. / Cytokine 49 (2010) 312–318
+Acknowledgment
+
+This work was supported by a grant from the University
+Research Board.
+
+References
+
+[1] Blam ME, Stein RB, Lichtenstein GR. Integrating anti–tumor necrosis factor
+therapy in inflammatory bowel disease: current and future perspectives. Am J
+Gastroenterol 2001;96:1977–97.
+
+[2] Bradham CA, Plümpe J, Manns MP, Brenner DA, Trautwein C. Mechanisms of
+hepatic toxicity. I. TNF-induced liver injury. Am J Physiol 1998;275:G387–392.
+
+[3] Behrens A, Jochum W, Sibilia M, Wagner EF. Oncogenic transformation by ras
+and fos is mediated by c-Jun N-terminal phosphorylation. Oncogene
+2000;19:2657–63.
+
+[4] Mohamed AA, Jupp OJ, Anderson HM, Littlejohn AF, Vandenabeele P, MacEwan
+DJ. Tumour necrosis factor-induced activation of c-Jun N-terminal kinase is
+sensitive to caspase-dependent modulation while activation of mitogen-
+activated protein kinase (MAPK) or p38 MAPK is not. Biochem J
+2002;366:145–55.
+
+[5] Wullaert A, Heyninck K, Beyaert R. Mechanisms of crosstalk between TNF
+induced NF-kappaB and JNK activation in hepatocytes. Biochem Pharmacol
+2006;72:1090–101.
+
+[6] Arrebola F, Zabiti S, Canizares FJ, Cubero MA, Crespo PV, Fernandez-Segura E.
+Changes in intracellular sodium, chlorine, and potassium concentrations in
+staurosporine-induced apoptosis. J Cell Physiol 2005;204:500–7.
+
+[7] FitzGerald MJ, Webber EM, Donovan JR, Fausto N. Rapid DNA binding by
+nuclear factor kappa B in hepatocytes at the start of liver regeneration. Cell
+Growth Differ 1995;6:417–27.
+
+[8] Kassardjian A, Kreydiyyeh S. JNK modulates the effect of caspases and NF-
+kappaB in the TNF-alpha-induced down-regulation of Na+/K+ATPase in HepG2
+cells. J Cell Physiol 2008;216(3):615–20.
+
+[9] Kumar S. The apoptotic cysteine protease CPP32. Int J Biochem Cell Biol
+1997;29:393–6.
+
+[10] Bennett BL, Sasaki DT, Murray BW, O’Leary EC, Sakata ST, Xu W, et al.
+SP600125, an anthrapyrazolone inhibitor of jun N-terminal kinase. Proc Natl
+Acad Sci USA 2001;98:13681–6.
+
+[11] Schreck R, Meier B, Mannel DN, Droge W, Baeuerle PA. Dithiocarbamates as
+potent inhibitors of nuclear factor kappa B activation in intact cells. J Exp Med
+1992;175:1181–94.
+
+[12] Taussky HH, Shorr E. Microcolorimetric method for determination of inorganic
+phosphorous. J Biol Chem 1953;202:675–85.
+
+[13] MacEwan DJ. TNF receptor subtype signalling: differences and cellular
+consequences. Cell Signal 2002;14:477–92.
+
+[14] Martinez-Mas JV, Peinado-Onsurbe J, Ruiz-Montasell B, Felipe A, Casado FJ,
+Pastor-Anglada M. Na+, K(+)-ATPase expression during the early phase of liver
+growth after partial hepatectomy. FEBS Lett 1995;362:85–8.
+
+[15] Benkoël L, Benoliel AM, Brisse J, Sastre B, Bongrand P, Chamlian A.
+Immunocytochemical study of Na+ K(+)-ATPase alpha 1 and beta 1 subunits
+in human and rat normal hepatocytes using confocal microscopy. Cell Mol Biol
+(Noisyle-grand) 1995;41:499–504.
+
+[16] Schenk DB, Hubert JJ, Leffert HL. Use of a monoclonal antibody to quantify
+(Na+,K+)-ATPase activity and sites in normal and regenerating rat liver. J Biol
+Chem 1984;259:14941–51.
+[17] Deliconstantinos G, Ramantanis G. Alterations in the activities of hepatic
+plasma-membrane and microsomal enzymes during liver regeneration.
+Biochem J 1983;212:445–52.
+
+[18] Karin M. The beginning of the end: IkB kinase (IKK) and NF-KB activation. J Biol
+Chem 1999;274:27339–42.
+
+[19] Liu H, Lo CR, Czaja MJ. NF-kappaB inhibition sensitizes hepatocytes to TNF-
+induced apoptosis through a sustained activation of JNK and c-Jun. Hepatology
+2002;35:772–8.
+
+[20] Beg AA, Baltimore D. An essential role for NF-jB in preventing TNF-a induced
+cell death. Science 1996:274,782–784.
+
+[21] Beg AA, Sha WC, Bronson RT, Ghosh S, Baltimore D. Embryonic lethality and
+liver degeneration in mice lacking the RelA component of NF-jB. Nature
+1995;376:167–9.
+
+[22] Duffey Dianne C, Chen Zhong, Dong Gang, Ondrey Frank G, Wolf Jeffery S,
+Brown Keith, et al. Expression of a dominant-negative mutant inhibitor-jBa of
+nuclear factor-jB in human head and neck squamous cell carcinoma inhibits
+survival, proinflammatory cytokine expression, and tumor growth in vivo.
+Cancer Res 1999;59:3468–74.
+
+[23] Karin M, Lin A. NF-kappaB at the crossroads of life and death. Nat Immunol
+2002;3:221–7.
+
+[24] Maeda S, Kamata H, Luo JL, Leffert H, Karin M. IKKbeta couples hepatocyte
+death to cytokine-driven compensatory proliferation that promotes chemical
+hepatocarcinogenesis. Cell 2005;121:977–90.
+
+[25] Chang HY, Yang X. Proteases for cell suicide: functions and regulation of
+caspases. Microbiol Mol Biol Rev 2000;64:821–46.
+
+[26] Cohen GM. Caspases: the executioners of apoptosis. Biochem J 1997;326:
+1–16.
+
+[27] Marderstein EL, Bucher B, Guo Z, Feng X, Reid K, Geller DA. Protection of rat
+hepatocytes from apoptosis by inhibition of c-Jun N-terminal kinase. Surgery
+2003;134:280–4.
+
+[28] Schwabe RF, Uchinami H, Qian T, Bennett BL, Lemasters JJ, Brenner DA.
+Differential requirement for c-Jun NH2-terminal kinase in TNFalpha- and Fas-
+mediated apoptosis in hepatocytes. FASEB J 2004;18:720–2.
+
+[29] Kuan CY, Yang DD, SamantaRoy DR, Davis RJ, Rakic P, Flavell RA. The Jnk1 and
+Jnk2 protein kinases are required for regional specific apoptosis during early
+brain development. Neuron 1999;22:667–76.
+
+[30] Sabapathy W, Jochum K, Hochedlinger L, Karin CM, Wagner EF. Defective
+neural tube morphogenesis and altered apoptosis in the absence of both JNK1
+and JNK2. Mech Dev 1999;89:115–24.
+
+[31] Liu Z, Hsu H, Goeddel D, Karin M. Dissection of TNF receptor 1 effector
+functions: JNK activation is not linked to apoptosis while NF-kappa B
+activation prevents cell death. Cell 1996;87:565–76.
+
+[32] Ip YT, Davis RJ. Signal transduction by the c-Jun N-terminal kinase (JNK)—from
+inflammation to development. Curr Opin Cell Biol 1998;10:205–19.
+
+[33] Lin SC, Lu SY, Lee SY, Lin CY, Chen CH, Chang KW. Areca (betel) nut extract
+activates mitogen-activated protein kinases and NF-kappaB in oral
+keratinocytes. Int J Cancer 2005;116:526–35.
+
+[34] DiDonato J, Mercurio F, Rosette C, Wu-Li J, Suyang H, Ghosh S, et al. Mapping of
+the inducible IkappaB phosphorylation sites that signal its ubiquitination and
+degradation. Mol Cell Biol 1996;4:1295–304.
+
+[35] Tang G, Minemoto Y, Dibling B, Purcell NH, Li Z, Karin M. Inhibition of JNK
+activation through NF-kB target genes. Nature 2001;414:313–7.
+
+[36] Su H, Bidère N, Zheng L, Cubre A, Sakai K, Dale J, et al. Requirement for
+caspase-8 in NF-kappaB activation by antigen receptor. Science 2005;307:
+1465–8.
+
+
+	Signaling pathway underlying the up-regulatory e
+	Introduction
+	Materials and methods
+	Materials
+	Methods
+	Culture and treatment of HepG2 Cells
+	Western blot analysis
+	NF-κB activity
+	Na+/K+ ATPase activity assay
+	c-Jun N-terminal kinase activity
+	Statistical analysis
+
+
+	Results
+	Time and dose response studies on the effect of 
+	Mediators of the late (4h) effect of TNF-α on th
+	Involvement of JNK and NF-KB
+	Involvement of caspases
+	Effect of different combinations of inhibitors on the protein expression and activity of the Na+/K+ ATPase at 4h
+
+
+	Discussion
+	Time and dose response studies
+	Signaling mediators
+	TNF stimulates NF-κB
+	TNF stimulates JNK
+	TNF inhibits caspases
+
+	Positions of the signaling mediators in the pathway
+	JNK is upstream of NF-κB
+	JNK is upstream of caspases
+	NF-κB is upstream of caspases
+
+	Signaling pathway of TNF-α
+	Possible implications of the up-regulatory effec
+
+	Acknowledgment
+	References

@@ -1,0 +1,611 @@
+Anti-inflammatory effect of aldose reductase inhibition in murine polymicrobial sepsis
+
+
+Cytokine 48 (2009) 170–176
+Contents lists available at ScienceDirect
+
+Cytokine
+
+journal homepage: www.elsevier .com/locate / issn/10434666
+Anti-inflammatory effect of aldose reductase inhibition in murine
+polymicrobial sepsis
+
+Aramati B.M. Reddy, Satish K. Srivastava, Kota V. Ramana *
+
+Department of Biochemistry and Molecular Biology, University of Texas Medical Branch, Galveston, TX 77555, USA
+
+a r t i c l e i n f o a b s t r a c t
+Article history:
+Received 11 March 2009
+Received in revised form 16 June 2009
+Accepted 6 July 2009
+
+Keywords:
+Sepsis
+Cecum ligation and puncture
+Cytokines
+Inflammation
+Aldose reductase
+1043-4666/$ - see front matter � 2009 Elsevier Ltd. A
+doi:10.1016/j.cyto.2009.07.004
+
+* Corresponding author. Address: Department of
+Biology, University of Texas Medical Branch, 6.638
+USA. Tel.: +1 409 772 3776; fax: +1 409 772 3679.
+
+E-mail address: kvramana@utmb.edu (K.V. Raman
+Aim: Increased production of cytokines and chemokines in serum and tissues upon oxidative stress
+caused by severe systemic infections are the major cause of sepsis. Aldose reductase (AR) known to medi-
+ate oxidative stress-induced NF-jB activation and transcription of cytokines and chemokines are the
+main mediator of bacterial endotoxin-induced inflammatory response. Our aim is to investigate the effect
+of AR inhibitors on the prevention of inflammatory cytokines in the cecum ligation and puncture (CLP)
+model of polymicrobial sepsis which closely mimics the sepsis syndrome in humans. Results: Mice were
+rendered septic by CLP in the absence and presence of AR inhibitor, sorbinil. The levels of cytokines, che-
+mokines and other inflammatory markers in the plasma, peritoneal fluid and heart of mice were signif-
+icantly inhibited by sorbinil. Inhibition of AR also prevented CLP-induced COX-2, iNOS and HMGB-1 in
+heart, kidney and spleen. Conclusions: Our results showed that the inhibition of AR significantly prevented
+the polymicrobial sepsis-induced increase in inflammatory markers and thus indicate the use of AR inhib-
+itors as anti-inflammatory agents.
+
+� 2009 Elsevier Ltd. All rights reserved.
+1. Introduction
+
+Sepsis is a serious medical condition that results in increased
+fatalities in elderly, immunocompromised and critically ill intu-
+bated patients [1]. This disease is characterized by whole-body
+inflammation due to severe systemic infection [2]. Severely burnt
+patients usually develop sepsis which is the major cause of death
+if not aggressively and timely treated [3]. In the United States
+alone, sepsis is the second leading cause of death in non-coronary
+intensive care unit patients [4], which account for 20–50% deaths
+per year out of 660,000 affected cases [5]. Despite significant ad-
+vances in the understanding of pathogenesis of sepsis and its com-
+plications, barely a small number of restorative strategies have
+been employed that could decrease mortality associated with sep-
+tic shock. Although sepsis is generally initiated by a bacterial infec-
+tion, the pathogenesis of sepsis is characterized by increased levels
+of inflammatory markers such as cytokines and chemokines that
+could lead to severe complications such as multiorgan failure and
+death [6]. Eventhough the treatment with broad range antibiotics
+is generally effective in killing the replicating bacteria, the dead
+bacterial cell wall components act as bacterial toxins which cause
+overwhelming systemic inflammatory response [7]. Thus control-
+ll rights reserved.
+
+Biochemistry and Molecular
+BSB, Galveston, TX 77555,
+
+a).
+ling bacterial infection is not sufficient to treat sepsis. It is rather
+important to neutralize the immunogenic signals that activate
+transcription factors that transcribe inflammatory markers.
+Although several new therapeutic strategies have been described
+in the literature for the treatment of sepsis to date, various anti-
+inflammatory strategies have produced only modest therapeutic
+effects in critically ill sepsis patients [8].
+
+Recently, we have shown that the treatment with aldose
+reductase (AR) inhibitors results in profoundly improved survival
+in the lipopolysaccharide (LPS) -induced endotoximia in mice [9].
+The observed improvement in survival after treatment with AR
+inhibitors or AR-siRNA was associated with restoration of cardiac
+muscle contractility and cardiac functions. We have demonstrated
+that a significant increase in the levels of serum as well as heart
+cytokines, chemokines and other inflammatory markers such as
+COX-2, iNOS and PGE2 in LPS-treated mice which significantly
+contributes to pathophysiology of sepsis, was markedly prevented
+by AR inhibition [9]. Also inhibition of AR prevented the endo-
+toxin, high glucose and TNF-a induced increase in the redox-sen-
+sitive transcription factors, NF-jB and AP-1, which are known to
+transcribe various inflammatory markers [9–15]. These results
+suggest that AR inhibitors, developed as anti-diabetic drugs, could
+be used as therapeutic intervention to prevent sepsis [16]. AR
+inhibitors such as zopolrestat, fidarestat have been found to be
+safe and passed in FDA’s phase-II and clinical trials for diabetic
+neuropathy but failed in phase-III clinical trials as they have been
+shown to be not as effective. There are several AR inhibitors such
+
+http://dx.doi.org/10.1016/j.cyto.2009.07.004
+mailto:kvramana@utmb.edu
+http://www.sciencedirect.com/science/journal/10434666
+http://www.elsevier.com/locate/issn/10434666
+
+
+A.B.M. Reddy et al. / Cytokine 48 (2009) 170–176 171
+as ranirestat that are still undergoing phase-III trails for diabetic
+neuropathy. An AR inhibitor, epalrestat is available in Japan
+mainly to treat patients with diabetic neuropathy [16,17]. Our re-
+cent results demonstrate that AR inhibitors could be used thera-
+peutically for inflammatory disorders other than diabetic
+complications [15,18]. For such use a careful examination of the
+effect of AR inhibition in clinically relevant animal models is
+mandatory. In the present study, we investigated whether treat-
+ment with AR inhibitors could prevent alterations in the cytokine
+and chemokine levels in a clinically more relevant model that
+mimics sepsis conditions in humans. Our results indicate that
+AR inhibitor is a powerful repressor of the expression of major
+cytokines and chemokines in a mouse model of polymicrobial
+sepsis indicating its use as potential anti-inflammatory agent in
+sepsis and associated complications.
+2. Materials and methods
+
+2.1. Materials
+
+Antibodies against COX-2, iNOS p65-NF-jB and HMGB-1 were
+purchased from Santa Cruz Biotech, Inc. (Santa Cruz, CA). Antibod-
+ies against AR were custom raised and tested for specificity. Mouse
+specific ELISA kits for cytokines were purchased from BD biosci-
+ences (Franklin Lakes, NJ). Cytokine antibody array was purchased
+from RayBiotech, Inc. (Norcross, GA). Sorbinil was gift from Pfizer
+(Groton, CT). ACTICHROME� Tissue factor activity assay kit was
+purchased from American diagnostic Inc (Stamford, CT), Tramadol
+Hydrochloride from Mallinckrodt Inc. (St. Louis, MO). All other re-
+agents were of the highest purity available.
+2.2. Cecim ligation and puncture procedure
+
+BALB/c female mice (19–23 g) were obtained from Jackson lab-
+oratories (Bar Harbor, ME) and housed with regular diet and ambi-
+ence for 48 h before recruiting to the study. The animals were
+maintained in accordance with the Guide for the Care and Use of
+Laboratory Animals published by the National Institutes of Health
+and in accordance with the Institute’s ‘‘Guideline of the Animal
+Care and Use Committee”. Using previously described method
+[19] CLP procedure was performed by anesthetizing the mice with
+ketamine (60 lg/g) and xylazine (10 lg/g) and a 2-cm midline inci-
+sion was made through the linea alba. The cecum was located, li-
+gated with sterile 3–0, silk, and perforated with double puncture
+using a 18-gauge needle. A small amount of stool was extruded
+to ensure wound potency. Sham-treated mice also had surgery
+done along with cecal manipulations but without ligation and
+puncture. The cecum was then replaced in its original position
+within the abdomen, and incision was immediately closed. Soon
+after surgery, each mouse received a subcutaneous injection of
+1 ml of warm (37 �C) normal saline with traMADOL hydrochloride
+(20 lg/g body wt). To inhibit AR, mice received 25 mg/kg body wt
+sorbinil 2 h after surgery and then 6 h after surgery. All mice (5 in
+each group) were kept at 22 �C and killed after 14 h of surgery.
+Blood was collected from the heart in EDTA-coated tubes. Plasma
+was separated from cellular components by centrifugation at
+600g for 5 min and stored at �20 �C. For peritoneal lavage, 2 cm
+skin was removed leaving the peritoneal membrane intact. Then
+1 ml of ice-cold 1� Hanks balanced salt solution (without CaCl2,
+MgCl2, Mg2SO4, and phenol red; GIBCO) was injected using 26
+gauge needle. After injection, peritoneum was gently palpated for
+30 s, and peritoneal fluid was aspirated out using a 20 gauge nee-
+dle. The fluid was centrifuged (600g, 5 min), and the supernatant
+was stored at �20 �C. Heart and aorta tissues were collected and
+stored at �70 �C for tissue homogenates.
+
+2.3. Measurement of cytokines in plasma
+
+Mice after 14 h of surgery were euthanized and blood was col-
+lected into EDTA-coated vacutainers by heart puncture. plasma
+was separated by centrifugation at 600g for 5 min. Levels of IL-
+1b, IL-6, TNF-a and MCP-1 in the plasma were measured by using
+respective mouse specific ELISA kits according to the manufac-
+turer’s instructions. Known concentrations of standards were used
+to generate the standard curves. The reaction was initiated by the
+addition of 0.1 ml of the serum, stopped and read at 450 nm on an
+ELISA plate reader. The results obtained are expressed as pg/ml of
+the plasma.
+
+2.4. Measurement of cytokines and chemokines in heart
+
+To measure the expression of cytokines and chemokines in
+heart tissue homogenates, we used commercially available RayBio
+Mouse cytokine antibody array system that determines the expres-
+sion of 64 inflammatory markers from a single sample by following
+manufacturer’s instructions. In-brief, 100 lg heart tissue homoge-
+nates were incubated with array support membrane where the
+membrane was specifically coated with antigens to capture an ar-
+ray of cytokines. The tagged proteins were detected by conjugating
+with biotinylated antibodies and streptavidin system. Fold change
+was calculated from the measured intensities of the individual
+spots signal developed on X-ray film using Kodak-densitometry
+software.
+
+2.5. Western blot analysis
+
+To examine the effect of AR inhibition on CLP-induced expres-
+sion of COX-2, iNOS, AR, NF-jB and HMGB-1 we homogenized
+heart, spleen and kidney tissues obtained from euthanized mice
+after 14 h of CLP procedure. Equal amount of protein from homog-
+enates were subjected to SDS–PAGE and Western blotting and
+membranes were probed for against specific antibodies AR, iNOS,
+pP65-NF-jB, COX-2, HMG-1 (HMGB-1) and GAPDH. The antigen–
+antibody complexes were detected by enhanced chemilumines-
+cence (Pierce, Rockford, IL). All blots were probed with GAPDH as
+a loading control and densitometric analysis was carried out by
+using Kodak Image station.
+
+2.6. Tissue factor assay
+
+Tissue factor was measured in mice plasma by using ACTI-
+CHROME� Tissue factor activity assay kit from American diagnostic
+Inc. by following manufacturer’s protocol. In-brief After the exper-
+imental procedure mice plasma were collected as described in
+methods and the reaction was initiated by adding equal amount
+of plasma to reaction mixture containing lapidated tissue factor,
+factor VIII and factor X, allowing to form complex with fVIIa to gen-
+erate TF/fVIIa complexes and convert fX into fXa. fXa cleaves the
+chromogenic substrate and the formation of color is measured by
+reading absorbance at 409 nm using micro well plate reader.
+Amount of tissue factor in the sample were calculated using the
+standards. The results obtained were measured in pMoles.
+
+2.7. Statistical analysis
+
+Data are presented as mean ± SEM and the p values were deter-
+mined using the one-way ANOVA and unpaired Student’s t-test.
+
+
+
+172 A.B.M. Reddy et al. / Cytokine 48 (2009) 170–176
+3. Results
+
+3.1. Prevention of CLP-induced increase in plasma and peritoneal
+cytokines by AR inhibition
+
+To investigate the effect of AR inhibition on polymicrobial infec-
+tion-induced inflammatory response, we performed CLP-surgery on
+mice injected without or with AR inhibitor, sorbinil. Increased red-
+ness around the cecum caused by increased blood flow due to dila-
+tory expansion of microcirculatory blood vessels observed in the
+CLP operated mice was prevented by AR inhibitor (Fig. 1). The plasma
+and peritoneal fluids were collected 14 h after CLP procedure and
+analyzed for cytokines and chemokines. The plasma and peritoneal
+fluid levels of IL-1b, IL-6, TNF-a and MCP-1 proteins in sham-oper-
+ated controls were low but detectable (Fig. 2A–D, left panel). How-
+ever in the CLP mice the plasma levels of TNF-a, IL-6, IL-1b and
+MCP-1 increased by approximately �0.8-, 37-, 11- and 10-folds,
+respectively (Fig. 2A–D, left panel). On the other hand, administra-
+tion of sorbinil to the CLP mice significantly (�45–80%) prevented
+the increase in the plasma levels of cytokines and chemokines. Sim-
+ilarly, in CLP mice the peritoneal fluid levels of TNF-a, IL-6, IL-1b and
+MCP-1 increased by 5.2-, 31-, 10- and 5-folds, respectively (Fig. 2A–
+D, right panel) and administration of sorbinil to the CLP mice signif-
+icantly (�40–70%) prevented the increase in cytokine levels. AR
+inhibitors alone had no effect on the basal levels of these cytokines
+and chemokines in plasma or peritoneal fluid. Further, the measure-
+ment of inflammatory cytokines (such as TNF-a, IL-1, IL-6) in the ser-
+um at 3 h after CLP-surgery did not cause any increase in the
+cytokine levels as compared to controls and AR inhibitor treated
+mice (data not shown). These results suggest that AR inhibition
+could prevent polymicrobial infection-induced systemic production
+of inflammatory cytokines and chemokines in mice.
+
+3.2. Prevention of CLP-induced increase in tissue cytokines by AR
+inhibition
+
+Since increased cardiac dysfunction and cardiomyopathy due
+to augmented local production of inflammatory cytokines and
+Fig. 1. AR inhibition prevents CLP-induced redness around the wound: after 14 h of CLP
+pictures were taken immediately after the opening of wound. The region showing redn
+chemokines are the major cause of mortality and morbidity ob-
+served in patients with sepsis [20], we specifically examined
+the effect of AR inhibition on CLP-induced cytokines and che-
+mokines in the mice hearts. We used an antibody array that
+determines the expression of 64 cytokines and chemokines
+and other inflammatory markers from a single sample
+(Fig. 3A). As shown in Fig. 3, the levels of MIP-2, MIP-1 and
+lymphotoxin increased by �6-fold in CLP mice group whereas
+the increase was only �3-fold in case of CLP + sorbinil group.
+Similarly the levels of other cytokines and chemokines were
+significantly elevated in CLP group of mice and administration
+of AR inhibitor significantly prevented these cytokines and che-
+mokines (Fig. 3B).
+
+We next determined the effect of AR inhibition on the CLP-in-
+duced levels of inflammatory markers COX-2, iNOS and HMGB-1
+in heart, spleen and kidney homogenates by Western blot anal-
+ysis (Fig. 4). As shown in Fig. 4A and B, polymicrobial sepsis
+caused �3.5-, �2.5-fold induction of COX-2 and iNOS respec-
+tively which was significantly (�90%) prevented by the adminis-
+tration of AR inhibitor. Similarly in CLP mice tissue homogenates,
+a significant increase in AR protein was observed and inhibitors
+of AR prevented CLP-induced increase in the expression of AR
+protein (Fig. 4C). Since the expression of cytokines and chemo-
+kines, COX-2, iNOS and AR depends on the activation of NF-jB,
+we next measured the activated form of NF-jB in mice heart,
+spleen and kidney homogenates. As shown in Fig. 4D the CLP-in-
+duced activation of NF-jB in mice tissue homogenates was sig-
+nificantly prevented by AR inhibition. Since activated
+macrophages and monocytes secrete HMGB-1 protein which acts
+as a mediator of inflammation [21], we next measured the effect
+of AR inhibition on the expression of HMGB-1. As shown in
+Fig. 4E, increased expression of HMGB-1 protein was observed
+in CLP tissues as compared to sham controls and ARI treatment
+significantly prevented CLP-induced HMGB-1. These results sug-
+gested that AR inhibition could prevent CLP-induced inflamma-
+tion by inhibiting redox-sensitive transcription factor, NF-jB –
+dependent expression of various inflammatory markers such as
+cytokines and chemokines.
+, mice were killed and wound was accessed for severity of the inflammation. Digital
+ess was circled. (A) Sham (B) Sham + ARI (C) CLP and (D) CLP + ARI.
+
+
+
+Fig. 2. AR inhibition prevents CLP-induced cytokine secretion in mouse plasma and peritoneal fluid: after 14 h of CLP, mice were killed and plasma was separated from blood.
+Peritoneal fluid was collected by injecting 1 ml of ice-cold 1� Hanks balanced salt solution into peritoneum as described in Section 2. (A) IL-1b, (B) IL-6, (C) TNF-a and (D)
+MCP-1 were measured in both plasma and in peritoneal fluid using mouse specific ELISA kits as described in Section 2. Data are expressed as Mean ± SEM (n = 4). *P < 0.001 vs.
+control, #P < 0.001 vs. CLP, **P < 0.05 vs. control, ##P < 0.05 vs. CLP. ARI = AR inhibitor.
+
+A.B.M. Reddy et al. / Cytokine 48 (2009) 170–176 173
+3.3. Prevention of CLP-induced activation of plasmatissue factor by AR
+inhibition
+
+Previous studies have shown that the use of anti-coagulants
+would be beneficial in preserving platelets and organ functions in
+endotoxemia-model via mechanisms involving inactivation of tis-
+sue factor, which plays a critical role in the initiation of complex
+mechanisms in the process of blood clot which causes organ dys-
+function [22]. We therefore, measured the activation of tissue fac-
+tor in CLP mice plasma. Our results (Fig. 5) show that tissue factor
+activity was much higher in CLP group as compared to CLP + ARI
+group of mice as well as sham-operated control mice indicating
+that inhibition of AR could prevent secretion of tissue factor.
+
+4. Discussion
+
+Polymicrobial sepsis is a serious medical condition character-
+ized by shock, hypoxemia, and organ dysfunction and dissemi-
+nated intravascular coagulation [1,23]. Although subjects of all
+age groups upon severe bacterial infections can get sepsis, higher
+mortality has been observed in overweight, older age, intubated
+and immunocompromised patients [5]. Severe sepsis results from
+the body’s systemic over-response to infection that disrupts
+homeostasis through an uncontrolled cascade of inflammation
+[24], blood coagulation and impaired fibriolysis [21]. Even though
+controlling bacterial infections by aggressive antibiotics therapy
+and maintaining homeostasis in immune response saves a num-
+ber of lives, 20–25% patients die because of multiorgan failure
+[4,5,25]. Although precise mechanism(s) of multiorgan failure is
+not clearly understood, several clinical models have been devel-
+oped to investigate the mechanism(s) involved in sepsis patho-
+genesis [26]. Among them, CLP-model has been shown to
+closely replicate the nature and course of clinical sepsis. This
+model is highly reproducible and widely used to study the mech-
+aninsm(s) of multiorgan failure as well as for testing the efficacy
+of drugs [27].
+
+
+
+Fig. 3. Inhibition of AR prevents inflammatory cytokines in mice hearts: after 14 h of CLP, mice hearts were dissected out and homogenates were made. The levels of various
+(as indicated in table under the figure) inflammatory markers were measured by using Ray Bio Mouse cytokine antibody array. The intensity of the spots was measured by
+densitometry and compared with positive and negative controls. (A) Representative picture is shown. (B) Table showing the fold change was calculated by measuring the
+intensities of individual array spots and normalized with controls and compared with CLP group.
+
+174 A.B.M. Reddy et al. / Cytokine 48 (2009) 170–176
+
+
+
+Fig. 4. AR inhibition prevents CLP-induced expression of COX-2, iNOS and HMGB-1 in mice heart, spleen and kidneys. After 14 h of CLP, mice hearts, spleen and kidneys were
+dissected out and homogenates were made. Equal amounts of homogenates were subjected to Western blot analysis using antibodies against (A) COX-2, (B) iNOS, (C) AR, D)
+p-p65 (NF-jB), (E) HMGB-1 and (F)GAPDH. Panel 1: heart, panel 2: spleen and panel 3: kidney. The antibody binding was detected by enhanced pico chemiluminescence
+(Pierce). The fold change was determined by densitometry scanning, as indicated at the top of the Western blot. ARI = AR inhibitor.
+
+Fig. 5. AR inhibition prevents tissue factor activity: after 14 h of CLP, the mice
+plasma was collected. The tissue factor activity was measured by using ACTI-
+CHROME� Tissue factor activity assay kit from American diagnostic Inc. as
+described in Section 2. Data are expressed as Mean ± SEM (n = 4). *P < 0.001 vs.
+control and #P < 0.001 vs. CLP. ARI = AR inhibitor.
+
+A.B.M. Reddy et al. / Cytokine 48 (2009) 170–176 175
+Uncontrolled generation of proinflammatory cytokines and che-
+mokines has been noted in experimental models of sepsis as well
+as in clinical settings. Early release of macrophage-derived proin-
+flammatory cytokines, such as TNF-a, IL-6, IL-1b and MCP-1 have
+been shown to be important in the pathogenesis of septic shock
+and multiorgan failure [28–31]. In our study, AR inhibitor adminis-
+tration resulted in a significant decrease in these proinflammatory
+cytokines not only in the plasma and peritoneal fluids but in the
+heart as well. Thus the ability of AR inhibited mice to produce less
+inflammatory cytokines in response to CLP-induced sepsis could
+indicate the potential use of AR inhibitors in prevention of sepsis
+and its associated complications. It is well known that under oxida-
+tive stress-induced by infections, bacterial toxins and during vari-
+ous pathological conditions NF-jB is significantly activated which
+regulates the expression of genes involved in inflammatory re-
+sponses [10,18]. The mechanisms by which AR inhibition exerts
+an inhibitory effect on proinflammatory cytokine levels may in-
+volve the suppression of NF-jB activity [11,29]. In fact, several re-
+ports suggest that inhibition of NF-jB could prevent inflammatory
+response observed in sepsis. For example, anti-oxidants such as N-
+acetylcystene, ascorbic acid, and a-tocopherol [32–35] which pre-
+vent the activation of ROS-induced NF-jB have been shown to pro-
+tect animals and humans from septic shock. We have recently
+shown that AR inhibitors which act like anti-oxidants and prevent
+bacterial endotoxin, LPS- induced generation of ROS prevent the
+activation of NF-jB and the expression of inflammatory markers
+in macrophages as well as in mice serum [9,12–14]. We have
+shown that AR-catalyzed reduced products of lipid aldehyde gluta-
+thione conjugates such as GS-DHN could mediate the signaling
+pathway that eventually increases transcription of inflammatory
+markers in vascular smooth muscle cells and other cells [14]. The
+increased cytokines, chemokines and growth factors subsequently
+initiate the signal transduction pathways that result in increased
+secretion of inflammatory markers which cause inflammation
+and multiorgan failure. Our cellular studies using vascular smooth
+muscle cells, vascular endothelial cells and macrophages have
+demonstrated that ROS-induced NF-jB activation and transcrip-
+tion of inflammatory markers such as TNF-a, IL-1b, COX-2 and
+iNOS can be prevented by inhibiting AR [10–15]. In the present
+study also our results indicate that the release of bacteria into
+the peritoneum by CLP procedure causes a significant increase in
+various inflammatory markers in the peritoneal fluid which is sig-
+nificantly prevented by AR inhibitor. Since several of the AR inhib-
+itors have been found to be safe and have already been studied for
+phase-1 and phase-2 clinical trails for diabetic neuropathy [16,17],
+the use of AR inhibitors as anti-inflammatory drug would be less
+time consuming and if found as effective in humans as in experi-
+mental model of sepsis, they could be used therapeutically in the
+inflammatory disorder patients. In summary, our results suggest
+that the AR inhibition has anti-inflammatory effects in murine
+model of sepsis. Further studies are required to use AR inhibition
+as an excellent therapeutic approach to treat sepsis especially
+those patients in which antibiotics though kill the bacteria, the cir-
+
+
+
+176 A.B.M. Reddy et al. / Cytokine 48 (2009) 170–176
+culating bacterial toxins including bacterial wall that takes several
+days to clear from the tissues cause fatal inflammatory disorders.
+
+Acknowledgments
+
+This work was supported by NIH Grant GM71036 (to KVR). We
+are thankful to Dr. E.R. Sherwood, Department of Anesthesiology
+for help in performing CLP.
+
+References
+
+[1] Hotchkiss RS, Karl IE. The pathophysiology and treatment of sepsis. N Engl J
+Med 2003;348:138–50.
+
+[2] Brown K, Brain S, Pearson J, Edgeworth J, Lewis S, Treacher D. Neutrophils in
+development of multiple organ failure in sepsis. Lancet 2006;368:157–69.
+
+[3] Cho S, Minn Y, Kwon K. Stroke after burn. Cerebrovasc Dis 2007;24:261–3.
+[4] Parrillo JE, Parker MM, Natanson C, Suffredini AF, Danner RL, Cunnion RE, et al.
+
+Septic shock in humans: advances in the understanding of pathogenesis,
+cardiovascular dysfunction, and therapy. Ann Intern Med 1990;113:227–42.
+
+[5] Martin GS, Mannino DM, Eaton S, Moss M. The epidemiology of sepsis in the
+United States from 1979 through 2000. N Engl J Med 2003;348:1546–54.
+
+[6] Parrillo JE. Pathogenetic mechanisms of septic shock. N Engl J Med
+1993;328:1471–8.
+
+[7] Kurahashi K, Kajikawa O, Sawa T, Ohra M, Gropper MA, Frank DW, et al.
+Pathogenesis of septic shock in Pseudomonas aeruginosa pneumonia. J Clin
+Invest 1999;104:743–50.
+
+[8] Eichacker PQ, Parent C, Kalil A, Esposito C, Cui X, Banks SM, et al. Risk and the
+efficacy of antiinflammatory agents: retrospective and confirmatory studies of
+sepsis. Am J Respir Crit Care Med 2002;166:1197–205.
+
+[9] Ramana KV, Willis MS, White MD, Horton JW, DiMaio JM, Srivastava D, et al.
+Endotoxin-induced cardiomyopathy and systemic inflammation in mice is
+prevented by aldose reductase inhibition. Circulation 2006;24:1838–46.
+
+[10] Ramana KV, Chandra D, Srivastava S, Bhatnagar A, Aggarwal BB, Srivastava SK.
+Aldose reductase mediates mitogenic signaling in vascular smooth muscle
+cells. J Biol Chem 2002;277:32063–70.
+
+[11] Ramana KV, Friedrich B, Srivastava S, Bhatnagar A, Srivastava SK. Activation of
+nuclear factor-kappaB by hyperglycemia in vascular smooth muscle cells is
+regulated by aldose reductase. Diabetes 2004;53:910–20.
+
+[12] Ramana KV, Fadl AA, Tammali R, Reddy AB, Chopra AK, Srivastava SK. Aldose
+reductase mediates the lipopolysaccharide-induced release of inflammatory
+mediators in RAW264.7 murine macrophages. J Biol Chem 2006;281:33019–29.
+
+[13] Ramana KV, Srivastava SK. Mediation of aldose reductase in lipopolysaccharide-
+induced inflammatory signals in mouse peritoneal macrophages. Cytokine
+2006;36:115–22.
+
+[14] Ramana KV, Bhatnagar A, Srivastava S, Yadav UC, Awasthi S, Awasthi YC, et al.
+Mitogenic responses of vascular smooth muscle cells to lipid peroxidation-
+derived aldehyde 4-hydroxy-trans-2-nonenal (HNE): role of aldose reductase-
+catalyzed reduction of the HNE-glutathione conjugates in regulating cell
+growth. J Biol Chem 2006;281:17652–60.
+
+[15] Ramana KV, Reddy AB, Tammali R, Srivastava SK. Aldose reductase mediates
+endotoxin-induced production of nitric oxide and cytotoxicity in murine
+macrophages. Free Radic Biol Med 2007;42:1290–302.
+[16] Bruno S, Cattaneo D, Perico N, Remuzzi G. Emerging drugs for diabetic
+nephropathy. Expert Opin Emerg Drugs 2005;10:747–71.
+
+[17] Hamada Y, Nakamura J. Clinical potential of Aldose reductase inhibitors in
+diabetic neuropathy. Treat Endocrinol 2004;3:245–55.
+
+[18] Srivastava SK, Ramana KV, Bhatnagar A. Role of aldose reductase and oxidative
+damage in diabetes and the consequent potential for therapeutic options.
+Endocr Rev 2005;26:380–92.
+
+[19] Walley KR, Lukacs NW, Standiford TJ, Strieter RM, Kunkel SL. Balance of
+inflammatory cytokines related to severity and mortality of murine sepsis.
+Infect Immun 1996;64:4733–8.
+
+[20] Mann DL. Inflammatory mediators and the failing heart: past, present, and the
+foreseeable future. Circ Res 2002;91:988–98.
+
+[21] Wang H, Bloom O, Zhang M, Vishnubhakat JM, Ombrellino M, Che J, et al.
+HMG-1 as a late mediator of endotoxin lethality in mice. Science
+1999;285:248–51.
+
+[22] Levi M, van der Poll T, ten Cate H, Van Deventer SJH. The cytokine-mediated
+imbalance between coagulant and anticoagulant mechanisms in sepsis and
+endotoxemia. Eur J Clin Invest 1997;27:3–9.
+
+[23] Benjamin CF, Hogaboam CM, Kunkel SL. The chronic consequences of severe
+sepsis. J Leukoc Biol 2004;75:408–12.
+
+[24] Bone RC, Balk RA, Cerra FB, Dellinger RP, Fein AM, Knaus WA, et al.
+Definitions for sepsis and organ failure and duidelines for the use of
+innovative therapies in sepsis. The ACCP/SCCM consensus conference
+committee. American college of chest physicians/society of critical care
+medicine. Chest 1992;101:1644–55.
+
+[25] Maier S, Traeger T, Entleutner M, Westerholt A, Kleist B, Huser N, et al. Cecal
+ligation and puncture versus colon ascendens stent peritonitis: two distinct
+animal models for polymicrobial sepsis. Shock 2004;21:505–11.
+
+[26] Hubbard WJ, Choudhry M, Schwacha MG, Kerby JD, Rue III LW, Bland KI, et al.
+Cecal ligation and puncture. Shock 2005;24:52–7.
+
+[27] Wang P, Chaudry IH. A single hit model of polymicrobial sepsis: cecal ligation
+and puncture. Sepsis 1998;2:227–33.
+
+[28] Damas P, Ledoux D, Nys M, Vrindts Y, De Groote D, Franchimont P, et al.
+Cytokine serum level during sepsis in human IL-6 as a marker of severity. Ann
+Surg 1992;215:356–62.
+
+[29] Ho E, Bray TM. Antioxidants, NF-jB activation, and diabetogenesis. Proc Soc
+Exp Biol Med 1999;222:205–13.
+
+[30] Ramnath RD, Ng SW, Guglielmotti A, Bhatia M. Role of MCP-1 in endotoxemia
+and sepsis. Int Immunopharmacol 2008;8:810–8.
+
+[31] Yang S, Hu S, Hsieh Y, Choudhry MA, RueIII LW, Balnd KI, et al. Mechanism of
+IL-6-mediated cardiac dysfunction following trauma-hemorrhage. J Mol Cell
+Cardiol 2006;40:570–9.
+
+[32] Ritter C, Andrades ME, Reinke A, Menna-Barreto S, Moreira JF, Dal-Pizzol F.
+Treatment with N-acetylcysteine plus deferoxamine protects rats against
+oxidative stress and improves survival in sepsis. Crit Care Med
+2004;32:342–9.
+
+[33] Galley HF, Howdle PD, Walker BE, Webster NR. The effects of intravenous
+antioxidants in patients with septic shock. Free Radic Biol Med
+1997;23:768–74.
+
+[34] Spapen H, Zhang H, Demanet C, Vleminckx W, Vincent JL, Huyghens L. Does N-
+acetyl-L-cysteine influence cytokine response during early human septic
+shock? Chest 1998;113:1616–24.
+
+[35] Konukoglu D, Iynem H, Ziylan E. Antioxidant status in experimental
+peritonitis: effects of alpha tocopherol and taurolin. Pharmacol Res
+1999;39:247–51.
+
+
+	Anti-inflammatory effect of aldose reductase inhibition in murine  polymicrobial sepsis
+	Introduction
+	Materials and methods
+	Materials
+	Cecim ligation and puncture procedure
+	Measurement of cytokines in plasma
+	Measurement of cytokines and chemokines in heart
+	Western blot analysis
+	Tissue factor assay
+	Statistical analysis
+
+	Results
+	Prevention of CLP-induced increase in plasma and peritoneal cytokines by AR inhibition
+	Prevention of CLP-induced increase in tissue cytokines by AR inhibition
+	Prevention of CLP-induced activation of plasma tissue factor by AR inhibition
+
+	Discussion
+	Acknowledgments
+	References

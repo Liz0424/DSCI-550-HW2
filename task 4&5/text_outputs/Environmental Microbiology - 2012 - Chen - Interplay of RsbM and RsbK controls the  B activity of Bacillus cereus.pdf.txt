@@ -1,0 +1,1314 @@
+Interplay of RsbM and RsbK controls the σB activity of Bacillus cereus
+
+
+Interplay of RsbM and RsbK controls the sB activity of
+Bacillus cereusemi_2788 2788..2799
+
+Lei-Chin Chen,1† Jung-Chi Chen,2† Jwu-Ching Shu,3
+
+Chien-Yen Chen,4 Ssu-Ching Chen,5 Shu-Hwa Chen,6
+
+Chun-Yen Lin,7 Chi-Yu Lu8 and Chien-Cheng Chen2*
+1Department of Nutrition, I-Shou University, no. 8, Yida
+Rd., Jiaosu Village, Yanchao District, Kaohsiung 82445,
+Taiwan.
+2Department of Biotechnology, National Kaohsiung
+Normal University, 62 Shenjhong Rd., Yanchao District,
+Kaohsiung 82444, Taiwan.
+3Department of Medical Biotechnology and Laboratory
+Science, Chang Gung University, Wen-Hwa 1st Road,
+Kwei-Shan, Tao-Yuan County 333, Taiwan.
+4Department of Earth and Environmental Sciences,
+National Chung Cheng University, 168 University Road,
+Min-Hsiung, Chiayi 621, Taiwan.
+5Department of Life Sciences, National Central
+University, no. 300, Jhongda Rd., Jhongli City, Taoyuan
+32001, Taiwan.
+6Computational Biology Research Center, Advanced
+Industrial Science and Technology, Japan.
+7Institute of Information Science, Academia Sinica,
+Taipei, Taiwan.
+8Department of Biochemistry, College of Medicine,
+Kaohsiung Medical University, Kaohsiung 80708,
+Taiwan.
+
+Summary
+
+The alternative transcription factor sB of Bacillus
+cereus controls the expression of a number of
+genes that respond to environmental stress. Four
+proteins encoded in the sigB gene cluster, including
+RsbV, RsbW, RsbY (RsbU) and RsbK, are known to
+be essential in the sB-mediated stress response. In
+the context of stress, the hybrid sensor kinase RsbK
+is thought to phosphorylate the response regulator
+RsbY, a PP2C serine phosphatase, leading to the
+dephosphorylation of the phosphorylated RsbV. The
+unphosphorylated RsbV then sequesters the sB
+
+antagonist, RsbW, ultimately liberating sB. The gene
+arrangement reveals an open reading frame, bc1007,
+flanked immediately downstream by rsbK within the
+
+sigB gene cluster. However, little is known about the
+function of bc1007. In this study, the deletion of
+bc1007 resulted in high constitutive sB expression
+independent of environmental stimuli, indicating that
+bc1007 plays a role in sB regulation. A bacterial two-
+hybrid analysis demonstrated that BC1007 interacts
+directly with RsbK, and autoradiographic studies
+revealed a specific C14-methyl transfer from the
+radiolabelled S-adenosylmethionine to RsbK when
+RsbK was incubated with purified BC1007. Our data
+suggest that BC1007 (RsbM) negatively regulates
+sB activity by methylating RsbK. Additionally,
+mutagenic substitution was employed to modify 12
+predicted methylation residues in RsbK. Certain
+RsbK mutants were able to rescue sB activation in a
+rsbK-deleted bacterial strain, but RsbKE439A failed to
+activate sB, and RsbKE446A only moderately induced
+sB. These results suggest that Glu439 is the pre-
+ferred methylation site and that Glu446 is potentially
+a minor methylation site. Gene arrays of the rsbK
+orthologues and the neighbouring rsbM orthologues
+are found in a wide range of bacteria. The regulation
+of sigma factors through metylation of RsbK-like
+sensor kinases appears to be widespread in the
+microbial world.
+
+Introduction
+
+Bacillus cereus is a gram-positive, facultatively anaerobic,
+spore-forming bacterium that produces a large number of
+virulence factors that can either cause food-borne ill-
+nesses with emetic and diarrhoeal symptoms or promote
+opportunistic infections (Agata et al., 1996; Ehling-Schulz
+et al., 2004; Schoeni and Wong, 2005). In the context of
+food processing or host immune pressure, the bacterial
+stress response is a major determinant of bacterial cell
+survival and growth (Mihaljevic et al., 2007; Zotta et al.,
+2008). A range of alternative bacterial transcription factors
+with distinct promoter specificities can confer resistance
+to multiple stressors by controlling the transcription of
+different regulons (Missiakas and Raina, 1998; Gruber
+and Gross, 2003; Kazmierczak et al., 2005). The alterna-
+tive transcription factor sB of B. cereus governs the tran-
+scription of sB-dependent genes and enables the cells to
+counteract fluctuations in temperature, pH or osmolarity
+(Price, 2002; Hecker et al., 2007).
+
+Received 8 November, 2011; revised 27 April, 2012; accepted 27
+April, 2012. *For correspondence. E-mail cheng@nknu.edu.tw; Tel.
+(+886) 7 7172930; Fax (+886) 7 6051353. †Equal contributors.
+
+bs_bs_banner
+
+Environmental Microbiology (2012) 14(10), 2788–2799 doi:10.1111/j.1462-2920.2012.02788.x
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd
+
+mailto:cheng@nknu.edu.tw
+
+
+sB is regulated by a partner-switching mechanism that
+has been extensively studied in Bacillus subtilis. RsbV
+and RsbW comprise the basic core proteins of sB regula-
+tion, and they participate in protein–protein interactions
+and/or the mechanisms of serine/threonine phosphoryla-
+tion. In unstressed cells, sB is kept inactive by sequestra-
+tion in a protein complex with the anti-sigma factor RsbW,
+which prevents sB from associating with the core RNA
+polymerase (Alper et al., 1996; Voelker et al., 1996;
+Delumeau et al., 2002). RsbW is a bi-functional protein
+that also acts as a kinase and can phosphorylate the
+anti-anti-sigma factor RsbV. Phosphorylated RsbV does
+not have the capability to sequester RsbW. When under
+conditions of stress, two serine/threonine protein phos-
+phatases, RsbP and RsbU, catalyse the dephosphoryla-
+tion of phosphorylated RsbV, and the unphosphorylated
+RsbV then forms an alternative complex with RsbW,
+thereby allowing sB to bind to RNA polymerase.
+
+In contrast to the regulatory strategy of partner-
+switching mechanisms, the two-component signal trans-
+duction system (TCS) is a common regulation module in
+bacteria for environmental adaptation, such as the induc-
+tion of virulence factors, the formation of biofilms, the
+initiation of sporulation, chemotaxis, quorum sensing, and
+the utilization of nutrients (Hoch and Silhavy, 1995; Stock
+et al., 2000; Galperin, 2006). Typical TCSs are comprised
+of a sensor and a response regulator (RR). Upon receiv-
+ing environmental stimuli, the sensor initiates autophos-
+phorylation of a conserved histidine residue in the H-box
+and transfers the phosphate to the downstream RR by
+direct phosphoryl transfer or through a more complex,
+multi-step His-Asp-His-Asp transfer via the histidine-
+containing phosphotransferase (Hpt) protein (Hoch and
+Silhavy, 1995; Stock et al., 2000; Bijlsma and Groisman,
+2003). In most cases, the phosphorylation of the RR
+receiver (REC) domain can modulate the function of the
+coupled output domain (Hoch, 2000; Thomas et al.,
+2008), thus modifying DNA binding or other regulatory
+functions. The reversible methylation of specific glutamate
+residues in the cytoplasmic domains of chemoreceptors
+is known to control bacterial chemotaxis through a TCS
+signalling route (Wadhams and Armitage, 2004). Two
+competing enzymes control the receptor methylation
+status: CheR, a methyltransferase, and CheB, a
+methylesterase/deamidase.
+
+In B. cereus, RsbY, which is homologous to RsbU and
+RsbP in B. subtilis, is required for sB activation. RsbY
+contains a PP2C-type protein phosphatase domain in its
+C-terminal region, it presumably hydrolyses phosphory-
+lated RsbV. The N-terminal domain of RsbY is homolo-
+gous to the CheY-like REC domains of TCSs (van Schaik
+et al., 2005). Based on domain analysis and genome
+context, de Been and co-workers proposed a model in
+which RsbK is a hybrid sensor kinase that controls RsbY
+
+phosphatase activity via the phosphorylation of the
+N-terminal REC domain of RsbY (de Been et al., 2010).
+Therefore, sB activity of B. cereus is likely regulated by a
+partner-switching mechanism associated with specific
+TCSs. In the present study, we reveal bc1007 to be
+flanked downstream by rsbK, encoding a CheR-type
+methyltransferase that is capable of methylating RsbK
+and functions as a negative regulator of sB. The probable
+methylation sites of RsbK were further assessed by
+residue substitution.
+
+Results
+
+Investigation of the role of BC1007 in sB activation
+
+The sigB gene cluster of B. cereus strain ATCC 14579
+encodes an open reading frame, bc1007, flanking rsbY
+and rsbK, and the consecutive rsbK and bc1007 comprise
+an operon (Fig. 1A). A previous study suggested that
+RsbK and RsbY form a TCS in which RsbK transfers a
+phosphoryl group to RsbY (de Been et al., 2010). BC1007
+is supposed to encode a methyl-accepting chemotaxis
+protein (MCP) methyltransferase (de Been et al., 2011).
+However, the function of BC1007 has not yet been dem-
+onstrated. To determine whether BC1007 is involved in sB
+
+regulation, the bc1007 deletion strain KNU701 was gen-
+erated in this study (Fig. 1B). The deletion of bc1007 did
+not affect cell morphology or cell growth compared with
+the wild-type strain (data not shown). To further under-
+stand the function of bc1007, KNU701 was exposed to
+42°C temperatures and analysed by immunoblot for the
+detection of the sB, Dps-like bacterioferritin (BC1005), and
+EF-TU (translation elongation factor, a housekeeping
+protein used as an internal control) proteins. Interestingly,
+in contrast to a wild-type strain, the heat stress did not
+influence sB activity due to the high basal level in the
+mutant (Fig. 2A). This pattern of sB expression was vali-
+dated by a similar effect of the Dps-like bacterioferritin
+(BC1005), a member of the sB-dependent regulon
+(Fig. 2A). In the complementary strain KNU703 harbour-
+ing pHT304-rsbK-bc1007 (Fig. 1C), sB activity was similar
+to that observed in the wild-type control but not in the
+mock control strain KNU702 (Fig. 2A). This result indi-
+cated that BC1007 directly or indirectly influences sB
+
+activity. As sB is known to induce the transcription of
+genes important in the response to stress, we performed
+a time-course experiment to examine the effect of
+BC1007 on cell survival when cells were exposed to lethal
+temperatures. Both wild-type and KNU701 strains were
+subjected to heat shock with a gradually increased tem-
+perature from 30°C to 50°C, the lethal temperature, and
+cell viability was determined by plate count. Consistent
+with the sB levels detected with the immunoblot (Fig. 2A),
+the KNU701 strain demonstrated relatively higher survival
+
+Methylation controls the sB activity of Bacillus cereus 2789
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+
+rates when compared with the wild-type strain, particularly
+from 10 to 25 min (Fig. 2B).
+
+Analysis of the interactions between RsbY, BC1007 and
+RsbK using the bacterial two-hybrid assay
+
+According to the gene arrangements, our result indicated
+that protein–protein interactions may be occurring
+between the neighbouring gene products RsbY, BC1007
+and RsbK. Thus, the bacterial two-hybrid system was
+employed to examine this potential interaction (Fig. 3A).
+Full-length rsbY and rsbK were first inserted into the
+expression vectors pKT-25 and pUT-18 respectively, and
+the constructs were then co-transformed into Escherichia
+coli BTH101. Colony growth on selective plates indicated
+a significant interaction between RsbK and RsbY
+
+(Fig. 3B). Using a similar method, a positive phenotype on
+selective media also indicated a significant interaction
+between RsbK and BC1007, but BC1007 had no apparent
+interaction with RsbY (Fig. 3B). Previously, the expression
+of a C-terminal REC domain-truncated rsbK moderately
+increased sB levels in the rsbK deletion strain (de Been
+et al., 2010). Therefore, we attempted to investigate
+whether the REC-truncated RsbK interacted with RsbY.
+However, the combination of RsbY and the REC-
+truncated RsbK did not exhibit a positive colony pheno-
+type on MacConkey and LB selection plates (Fig. 3B), but
+blue colonies grown on M63 selection medium were
+present, indicating that the loss of the REC domain dimin-
+
+Fig. 1. Deletion of bc1007 and rsbK.
+A. Schematic diagram of the genetic organization of the sigB
+cluster.
+B. Construction of the bc1007 and rsbK knockout mutants. The
+bc1007 was replaced with a spectinomycin resistance cassette with
+the integration vector pMAD. Similarly, the rsbK gene was disrupted
+in-frame by the insertion of the spectinomycin resistance cassette.
+The constructed plasmid was introduced into Bacillus cereus via
+electroporation for allelic exchange. The restriction sites and the
+inserted DNA length are indicated.
+C. Construction of the complementary plasmid
+pHT304-rsbK-bc1007. The DNA fragment, including the partial
+bc1009 and rsbK-bc1007, was inserted into the vector pHT304.
+The restriction sites are indicated.
+
+Fig. 2. Effects of bc1007 deletion on sB levels and heat shock
+protection.
+A. sB expression as detected by immunoblotting. Cultures of
+Bacillus cereus and the bc1007 deletion strain KNU701 were grown
+to the mid-exponential growth phase at 30°C and then exposed to
+a mild heat shock (42°C). The extracted cellular proteins at the
+indicated time points were subjected to Western blotting. Similarly,
+the KNU701 strain containing either the empty vector (pHP304) or
+the complementation plasmid (pHT304-rsbK-bc1007) was exposed
+to a mild heat shock (42°C), and protein expression was detected
+by Western blot.
+B. The protective heat shock response. Cultures of Bacillus cereus
+(circles) and the derivative KNU701 strain (squares) were grown to
+the mid-exponential growth phase at 30°C and killed at 50°C. The
+averages of three independent experiments are shown. The error
+bars indicate standard deviations.
+
+2790 L-C. Chen et al.
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+
+ished the protein interaction between RsbK and RsbY.
+Our data reveal that RsbK interacts directly not only with
+RsbY but also with BC1007.
+
+Methylation of RsbK by BC1007 in vitro
+
+The results of the two-hybrid analysis indicated that RsbK
+interacts with BC1007, but the nature of the interaction
+remains unknown. We cloned both the intact rsbK gene
+and rsbK-bc1007 individually into the expression vector
+pET21b to overexpress His-tagged RsbK (RsbK-His6) or
+His6-tagged BC1007 (BC1007-His6) to determine whether
+RsbK is the target protein for BC1007. The protein levels
+of purified BC1007 and overexpressed His-tagged RsbK
+of E. coli cell lysate were resolved by SDS-PAGE, in
+which RsbK-His6 (Fig. 4A, lanes 2 and 3) and two other
+protein bands representing BC1007-His6 and its degraded
+derivative BC1007-His6 (Fig. 4A, lanes 1 and 3) were
+visualized. The presence of each protein was confirmed
+by Western blot using anti-His6 monoclonal antibody, and
+RsbK-His6 was further verified by mass spectrometry
+(data not shown). To conduct RsbK methylation in vitro,
+cell lysates derived from His-tagged RsbK overexpression
+in E. coli (Fig. 4A) were incubated with the purified
+
+BC1007-His6 in the presence of C14-methyl-labelled
+S-adenosylmethionine (SAM) and subjected to autorad-
+iography. As a control, C14-methyl SAM was also incu-
+bated individually with the His-tagged RsbK cell lysate
+(Fig. 4B, lane 2) and the purified BC1007-His6 (Fig. 4B,
+lane 1). A radiolabelled signal clearly appeared at the
+molecular weight corresponding to RsbK when the puri-
+fied BC1007-His6 was mixed with the His-tagged RsbK
+cell lysate (Fig. 4B, lane 3). This signal could not be attrib-
+uted to endogenous E. coli methyltransferases because
+no signal was observed in the control reactions (Fig. 4B,
+lane 2). The result demonstrated that BC1007 is able to
+specifically transfer the methyl group(s) from SAM to
+RsbK.
+
+Identification of putative methylation sites by
+site-directed mutagenesis
+
+Although our data demonstrated that RsbK can be methy-
+lated by BC1007 in vitro, it is still unclear which residue(s)
+in RsbK is/are methylated. Recently, a systematic analysis
+suggested that potential methylation substrates have con-
+served glutamate and glutamine residues at the ‘b’ and ‘c’
+positions of the ‘a-b-c-d-e-f-g’ coiled-coil heptad repeat
+
+Fig. 3. Bacterial two-hybrid analyses of the
+interactions between RsbY, BC1007 and
+RsbK.
+A. Combinations of constructed plasmids for
+the bacterial two-hybrid analysis. Full-length
+rsbY, bc1007, rsbK and C-terminal truncated
+rsbK were individually inserted into pUT18 or
+pKT25. The diagram showed various pairs of
+pUT18- and pKT25-derived plasmids.
+B. Protein–protein interactions analysed by
+the bacterial two-hybrid system. Escherichia
+coli BTH101 cells containing various
+combinations of constructed plasmids were
+propagated on indicator plates. T+, pUT18-zip
+and pKT25-zip (positive controls); T-, pUC18
+and pKT25 vectors (negative controls). (a)
+MacConkey/maltose; (b) LB/X-Gal; (c)
+M63/maltose X-Gal; (d) Different gene
+combinations are denoted.
+
+Methylation controls the sB activity of Bacillus cereus 2791
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+
+(Terwilliger et al., 1986; Nowlin et al., 1987; Le Moual and
+Koshland, 1996; Perez et al., 2006). The presence of six
+methylation consensus sequences from Glu431 to Thr472 in
+RsbK has been proposed, indicating 12 putative methyla-
+tion sites at conserved glutamate and glutamine residues
+(Fig. 5A) (de Been et al., 2011). We studied the function of
+these putative RsbK methylation sites by constructing 24
+RsbK methylation point mutants (rsbKm) (Table S2) where
+a methylatable glutamate residue was replaced with either
+an aspartate or an alanine residue. These substitutions
+were used in other bacteria to mimic unmethylated and
+methylated glutamates respectively. The aspartate resi-
+dues, which cannot be methylated, maintain the negative
+charge of a glutamate residue, whereas the naturally
+charged alanine residues, similar to methyl esterified
+glutamates, cause less perturbation to the predicted
+a-helix (Nowlin et al., 1988; Park et al., 1990; Shapiro and
+Koshland, 1994).
+
+The intact operon rsbKm-bc1007 was then cloned into
+the low-copy vector pHT304, and the resulting plasmid
+pHT304-rsbKm-bc1007 was introduced into the rsbK dele-
+tion strain (KNU802). Subsequently, sB levels were analy-
+sed by Western blot in each strain after 42°C exposure. sB
+
+activation was abolished in KNU802 compared with the
+wild-type strain (Fig. 5B). However, sB activation was
+restored when KNU802 was complemented with the
+pHT304-rsbK-bc1007 plasmid. Similarly, restoration of sB
+
+activity was observed when KNU802 harboured any of the
+plasmids expressing various RsbK methylation mutations,
+except for RsbKE439A, and lower expression levels of sB
+
+were observed when complemented with RsbKE446A
+(Fig. 5B). These data indicated that Glu439 might be a
+preferential methylation site and Glu446 a potential sec-
+ondary site for methylation. Our data demonstrated
+that alanyl substitution on Glu439 or Glu446 significantly
+impaired sB induction in the KNU802 strain. Therefore, we
+expected that aspartyl substitution, mimicking demethyla-
+tion of these residues, would result in relatively high levels
+of sB even in the absence of stress. However, only basal
+levels of sB were detected prior to 42°C exposure, and the
+sB induction profile under heat stress was comparable to
+that of the wild-type. These results imply that the lack of
+methylation at any of these residues is insufficient to
+cause sB activation.
+
+Discussion
+
+Multiple studies have demonstrated the roles of rsbV,
+rsbW, sigB, rsbY and rsbK in sB regulation in B. cereus
+(van Schaik et al., 2004; van Schaik et al., 2005; de Been
+et al., 2010). In addition to these regulatory proteins, the
+sigB gene cluster also encodes a dps-like bacterioferritin
+(bc1005), dispensable for sB activity (Wang et al., 2009),
+as well as bc1007 (Fig. 1A). In the present study, we
+performed a genetic deletion study of bc1007 using
+recombinant DNA methods and revealed that bc1007
+deletion constitutively induced high levels of sB irrespec-
+tive of heat stress, leading to increased viability relative to
+the wild-type strain upon lethal heat exposure (Figs 1B
+and 2A). These results signify the participation of BC1007
+
+Fig. 4. Methylation of RsbK by purified BC1007 in vitro.
+A. The overexpressed His-tagged RsbK of the Escherichia coli cell lysate and purified His-tagged BC1007 were used in the methylation assay.
+Proteins were resolved on 12% SDS-PAGE followed by Coomassie blue staining. RsbK-His6 and BC1007-His6 are indicated by arrows;
+purified BC1007-His6 isolated from E. coli BL21 (lDE3) overexpressed with pET21b-rsbK-bc1007 (lane 1); 100 mg of cell lysate derived from
+His-tagged RsbK overexpression in E. coli (lane 2); a mixture of purified BC1007 and cell lysates derived from His-tagged RsbK
+overexpression in E. coli (lane 3).
+B. In vitro methylation. The methylation reaction was conducted by the addition of [14C]SAM into purified BC1007 (lane 1), cell lysates derived
+from His-tagged RsbK overexpression in E. coli (lane 2) or the mixture of purified BC1007 and cell lysates derived from His-tagged RsbK
+overexpression in E. coli (lane 3), and the gel was subjected to autoradiography. Radiolabelled RsbK is indicated by an arrow.
+
+2792 L-C. Chen et al.
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+
+in sB regulation, but it may be argued that the high level of
+sB expression could be caused either by bc1007 deletion
+or due to an unexpected polarity. However, the high con-
+stitutive sB activity was restored in KNU703 after the intro-
+duction of the complementary plasmid pHT304-rsbK-
+bc1007 (Figs 1C and 2A), and any interference of the
+rsbY or rsbK genes flanking bc1007 should inactivate sB
+
+(van Schaik et al., 2005; de Been et al., 2010). Thus, the
+high constitutive expression of sB is simply a conse-
+quence of the bc1007 knockout.
+
+We were interested in understanding how BC1007
+regulates sB activity. The bc1007 and rsbK genes have
+been shown to be transcribed by a sA-dependent pro-
+moter immediately upstream of rsbK, generating a poly-
+cistronic mRNA (Fig. 1A). The architectural complexity of
+the functional domains indicate that RsbK acts as a mul-
+tiple hybrid sensor kinase, presumably regulating RsbY
+through a TCS signalling pathway in response to external
+and internal changes (de Been et al., 2011). BC1007 has
+been proposed to display MCP methyltransferase activity
+(de Been et al., 2011). In the original genome sequence of
+
+B. cereus ATCC 14579 (Ivanova et al., 2003), the product
+of bc1007 was annotated as a chemotaxis protein
+methyltransferase (http://www.ncbi.nlm.nih.gov/gene/
+1203356) with 28% and 29% identity with E. coli CheR
+(GI:145523) and B. subtilis CheR (GI:143805) respec-
+tively. BC1007 contains a conserved N-terminal all
+alpha domain from Asn19 to Gly73 and a C-terminal SAM
+binding domain from Asn85 to Arg263, based on the protein
+domain information extracted from Pfam (Punta et al.,
+2012, http://pfam.sanger.ac.uk/protein/Q81H19). There-
+fore, BC1007 potentially regulates sB through direct inter-
+action with RsbK. This assumption is supported by two
+lines of evidence: (i) the bacterial two-hybrid analysis
+showed that BC1007 only interacted with RsbK and not
+with RsbY (Fig. 3) or other regulators in the sigB cluster
+(data not shown), and (ii) autoradiography showed that
+the C14-methyl group(s) was specifically transferred from
+radiolabelled SAM to RsbK when RsbK was incubated
+with BC1007 (Fig. 4). Collectively, we conclude that
+BC1007 is the cognate methyltransferase of RsbK and
+functions as a negative regulator of sB.
+
+Fig. 5. Effects of RsbK mutants on sB activity.
+A. Predicted methylation sites in RsbK. The
+heptad repeat regions of methylation
+consensus sequences are underlined.
+Predicted methylation sites are indicated by
+bold letters, and the box denotes the second
+residue of the methylation pair. Numbers
+depict amino acid positions in RsbK.
+B. The influence of RsbK mutant expression
+on sB activation. The plasmid
+pTH304-rsbKm-bc1007 was constructed, and
+rsbKm represents the residue substitution on
+the predicted methylation site in RsbK:
+glutamate/glutamine with alanine mimics
+methylation, and glutamate/glutamine with
+aspartate mimics demethylation. The
+constructed plasmids were transformed
+separately into the Bacillus cereus strain
+KNU802, and the resulting strains were
+heated to 42°C for the indicated time periods.
+Cellular extracts were subjected to Western
+blot analysis.
+
+Methylation controls the sB activity of Bacillus cereus 2793
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+http://www.ncbi.nlm.nih.gov/gene/1203356
+http://www.ncbi.nlm.nih.gov/gene/1203356
+http://pfam.sanger.ac.uk/protein/Q81H19
+
+
+We employed site-directed mutagenesis to determine
+which residue(s) out of 12 putative methylation sites was
+potentially methyl-modified under environmental stress.
+As shown in Fig. 5B, most of the RsbK mutants were
+capable of inducing sB expression (similar to the wild-
+type RsbK), but with RsbKE439A, sB levels remained low,
+suggesting that the Glu439 residue might be the prefer-
+ential methylation site critical for sB control in vivo. In
+contrast, alanyl substitution on Glu446 resulted in only
+minimal sB repression. This attenuated sB activation due
+to RsbKE446A could be explained by two hypotheses.
+First, the residue substitution is not exactly the same
+mechanistically as a methylated glutamyl residue,
+although alanyl replacement eliminates the negative
+charge of Glu446. Second, the residue change on Glu446
+
+may neutralize the negative charge, creating a structural
+constraint and thereby interfering with proper sB inhibi-
+tion due to the close proximity of the Glu439 methylation
+site. This explanation is plausible because methylation
+sites have been reported to be spaced evenly at seven-
+residue intervals on the same face of the a-helix where
+they are accessible to the methyltransferase (Terwilliger
+et al., 1986). Alanyl substitutions on Glu439 and Glu446
+
+inhibited sB to different extents, but the expression of
+RsbKE439D and RsbKE446D, which remain the predicted
+methylatable Glu446 and Glu439 respectively, rescued sB
+
+induction, similar to that observed in the wild-type strain
+(Fig. 5B). These results suggest that methylation of any
+of the methylatable sites may be sufficient to repress sB,
+whereas methylation of one or more residues in RsbK
+may occur in vivo. This pattern may reflect a subtle
+methylation pattern in RsbK that fine tunes the level of
+sB induction in response to various stimulation strengths
+or distinct environmental stressors. In accordance with
+this postulation, a previous study has shown B. cereus
+treated with 2.5% NaCl to demonstrate a weak level of
+sB activation compared with the bacteria receiving the
+42°C heat stress treatment (de Been et al., 2010).
+Although site-directed mutagenesis was employed at the
+speculated methylatable positions in this study, substan-
+tial techniques such as mass spectrometry need to be
+used to reflect the in vivo methylation of wild-type RsbK
+under physiological conditions because mutagenization
+not only eliminates the putative methylatable residue but
+also modifies the BC1007 recognition sequence.
+
+Methylation of MCPs in bacterial TCSs is often asso-
+ciated with sensory adaptation to diverse environmental
+stimuli (Kirby, 2009). In E. coli, chemotaxis is mediated
+by methylation, producing the increased kinase activity of
+the MCP-associated CheA (Surette and Stock, 1996;
+Glekas et al., 2011). Modulation of CheA activity through
+the methylation of MCPs at given sites differentially regu-
+lates chemotaxis in B. subtilis (Glekas et al., 2011) and
+cellular development in Myxococcus xanthus (Scott
+
+et al., 2008). Similar protein interactions have been
+mechanistically linked to diverse cellular functions,
+including intracellular levels of cyclic di-GMP, growth,
+biofilm formation and cell development via functionally
+and spatially distinct signalling pathways (D’Argenio
+et al., 2002; Kirby and Zusman, 2003; Berleman and
+Bauer, 2005; Tran et al., 2008). We demonstrate here for
+the first time the successful activation of an alternative
+transcription factor to be governed by BC1007, a CheR-
+type methylatransferase. Although bc1007 encodes a
+CheR-type methylatransferase, bc1007 is not relevant to
+chemotaxis because deletion of bc1007 did not impair
+the bacteria’s motility compared with the wild-type strain
+(data not shown). Notably, multiple homologues of asso-
+ciated methyltransferases (CheR) and methylesterases
+(CheB) are found in other bacteria (Falke et al., 1997;
+Martin et al., 2001; Kanungpean et al., 2011), but full
+genome searches revealed no CheB homologues that
+could be responsible for demethylation in B. cereus. The
+mechanism of the relief of BC1007-mediated inhibition
+remains unknown. Homodimers are known to be func-
+tional units in a few chemoreceptors and histidine
+kinases, and the HAMP domain signalling mechanisms
+are likely intimately tied to this structural organization
+(Parkinson, 2010). It would be interesting to know
+whether RsbK forms a functional dimer as RsbK contains
+a cytoplasmic HAMP domain. If so, is it possible that the
+methyl group(s) of RsbK constitute(s) steric hindrances
+destabilizing RsbK dimerization? In addition, in the
+BC1007 deletion mutant, all RsbK methylation sites are
+expected to be demethylated. As shown in Fig. 2A, this
+demethylation leads to constitutive sB activation even
+when there is no stress. Therefore, one may assume that
+under non-stress conditions, a certain degree of RsbK
+methylation keeps sB levels in check.
+
+A previous study using genetic approaches suggested
+that RsbK activates RsbY via either direct phosphoryl
+transfer from the HK domain of RsbK to the REC domain
+of RsbY or a multi-step phosphotransfer route in which
+RsbK first transfers phosphoryl from its HK domain to its
+own REC domain, after which phosphoryl is transferred to
+the RsbY REC domain via a third phosphotransferase
+protein (de Been et al., 2010). Our bacterial two-hybrid
+results demonstrated a strong interaction between full-
+length RsbK and RsbY (Fig. 1B and C), indicating that the
+sB signalling pathway can be mediated by direct phospho-
+transfer. Additionally, the RR-truncated RsbK retained a
+weak interaction with RsbY, which may explain why the
+expression of the RR-truncated RsbK elevated sB expres-
+sion in the rsbK deletion strain but never reached the
+maximum level (de Been et al., 2010). Our results indi-
+cated that the REC domain is required for maintaining
+RsbK in a proper conformation that allows RsbK interac-
+tion with RsbY. Previously, the phosphorylation state
+
+2794 L-C. Chen et al.
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+
+(D827) of the REC domain in RsbK has been proposed to
+modulate the efficiency of phosphorelay (de Been et al.,
+2010). Similar regulatory mechanisms have been shown
+in other organisms, such as ArcB in E. coli (Iuchi, 1993)
+and VsrB in Pseudomonas solanacearum (Huang et al.,
+1993). A recent study suggested that the phosphorylation
+of the C-terminal RR domains of VirA functions as an
+activator to increase phosphotransfer from VirA to VirG in
+Agrobacterium tumefaciens (Wise et al., 2010). The role
+of the phosphorylation of D827 in the REC domain
+requires further investigation.
+
+Gene arrays of the rsbK orthologues and the neigh-
+bouring rsbY and bc1007 orthologues were not restricted
+to members of the B. cereus group but found in a wide
+range of bacteria, suggesting that the RsbK-M-Y signal-
+ling is a common regulatory strategy in bacteria (de Been
+et al., 2011). In this study, two heptad segments enclose
+RsbK potential methylation residue Glu439 and Glu446 may
+play critical roles for sB control. We use sequence logo
+(Crooks et al., 2004; http://weblogo.threeplusone.com/) to
+describe the conserved pattern of these two heptads.
+Homologue sequences were constructed from the
+members in KEGG (Kyoto Encyclopedia of Genes and
+Genomes) SSDB (Sequence Similarity DataBase) (Kane-
+hisa et al., 2012) RsbK gene clusters, which are summa-
+rized according to the orthologous relationship by both
+sequence similarity and genome organization among
+1490 Bacterial genomes, 118 Archaeal genomes, and
+171 Eukaryotic genomes (in March 2012). In the highly
+conserved orthologue gene cluster set, 127 RsbK-like
+sequences are found in 10 bacteria phyla (Table S3) to
+have BC1007 homologues as a close neighbour and
+these two genes are arranged in the same orientation.
+No orthologue was found in Archaea and Eukaryotes.
+Although some sequences from Cyanobacteria,
+Deinococcus-Thermus and Deltaproteobacteria show
+poor alignment, all of these sequences retain the perfect
+leucine residue repeat (one leucine per seven residues)
+(Fig. S1A). As shown in the sequence logo (Fig. S1B),
+residue composition of the ‘c’ position of potential methy-
+lation site (e.g. Glu439) is highly conserved, and the overall
+composition of first heptad (Glu439 enclosed heptad) is
+more conserved than the second heptad containing
+Glu446.
+
+In summary, our results indicate that the methylation
+of RsbK by a CheR-like methyltransferase BC1007
+(renamed RsbM: Regulator of sigmaB Methyltransferase)
+could inhibit sB activation in the absence of stress. When
+a stress signal occurs, the activated RsbK propagates the
+signal to downstream regulators (RsbY, RsbV, RsbW) to
+release and activate sB (Fig. 6). This finding expands our
+understanding of the common RsbK-M-Y module that
+controls a diverse array of signalling networks, particularly
+those containing sB-like stress factors.
+
+Experimental procedures
+
+Bacterial strains and plasmids
+
+The genotypes and sources of the bacterial strains and plas-
+mids used in this study are listed in Table S1. Bacillus cereus
+(ATCC 14579) was grown in brain heart infusion (BHI)
+medium at 30°C, and E. coli was cultured in Luria-Bertani
+(LB) medium at 37°C. The E. coli strains DH5-a, XL-1 blue
+and BL21 (lDE3) were used for plasmid manipulation and
+IPTG-induced expression. The growth of the cultures was
+monitored by measuring the optical density at 600 nm
+(OD600). The antibiotic selection used for cloning and mutant
+screening was performed with ampicillin (50 mg ml-1), eryth-
+romycin (3 mg ml-1), and spectinomycin (100 mg ml-1), as
+required.
+
+Fig. 6. Models for sB activation in Bacillus cereus. In the absence
+of stress, sB is maintained inactive in a complex with its anti-sigma
+factor RsbW, which also inactivates RsbV by phosphorylation
+through its kinase activity. RsbM (BC1007) methylates RsbK on
+residues Glu439 and Glu446 and thereby inhibits sB activity. If
+stimulated by specific stress signals, RsbK is activated, and the
+phosphate directly transferred from the H-box of RsbK to the REC
+domain of RsbY or indirectly transferred through a multi-step
+phosphotransfer route in which RsbK first transfers phosphoryl from
+its HK domain to its own REC domain, after which phosphoryl is
+transferred to the REC domain of RsbY via a third
+histidine-containing phosphotransferase (Hpt) protein (de Been
+et al., 2010). This action enhances the phosphatase activity of
+RsbY to hydrolyse RsbV-P. The RsbW : sB complex is disrupted the
+dephosphorylated RsbV because RsbW forms an alternative
+complex with RsbV (dashed arrows). Free sB can now interact with
+RNA polymerase and induce direct transcription of the
+SigB-dependent general stress response genes.
+
+Methylation controls the sB activity of Bacillus cereus 2795
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+http://weblogo.threeplusone.com/
+
+
+Bacterial two-hybrid assay
+
+Bacterial two-hybrid analysis of protein interactions was per-
+formed as previously described (Karimova et al., 1998). To
+construct recombinant plasmids for use in bacterial two-
+hybrid analysis, rsbY, bc1007, rsbK and C-terminal truncated
+rsbK were amplified by PCR using specific oligonucleotide
+primers (Table S2). The amplicons, bc1007, rsbK and
+C-terminal truncated rsbK, were individually cloned in-frame
+into the multiple cloning site of pUT18. The amplicons, rsbY
+and bc1007, were cloned into pKT25 individually. Comple-
+mentation of protein pairs (Fig. 3) was indicated by blue
+colony growth on LB plates containing X-gal, by blue colony
+growth on M63-defined medium/maltose containing 0.5 mM
+IPTG and 40 mg ml-1 X-gal or by red colony growth on
+MacConkey-maltose agar. Both media contained ampicillin
+and kanamycin to select for the inserted plasmids. The plates
+were incubated at 30°C for a maximum of 40 h. The pKT25-
+zip and pUT18-zip plasmids were used as positive controls
+for protein interaction, and the empty vectors pKT25 and
+pUT18 were used as negative controls.
+
+Construction of bc1007 and rsbK null strains
+
+Gene deletion of bc1007 and rsbK was performed as
+previously described (Arnaud et al., 2004). To produce the
+pMAD-Dbc1007 plasmid, two DNA fragments of 800 bp and
+1041 bp, corresponding to the regions located directly
+upstream and downstream of bc1007 respectively, were
+amplified by PCR using B. cereus genomic DNA as the tem-
+plate. Using restriction enzymes, these DNA fragments were
+cloned into the pMAD vector on either side of a DNA fragment
+(1221 bp) that was amplified by PCR from pDG1728. Simi-
+larly, a 739 bp DNA fragment, beginning 424 bp upstream of
+rsbK and continuing through 315 bp of the 5′ coding region,
+and an additional 1411 bp DNA fragment, beginning at
+447 bp of the 3′ end and ending 964 bp downstream of rsbK,
+were amplified from B. cereus genomic DNA. To generate
+pMAD-DrsbK, the coding region of the spectinomycin resis-
+tance gene (750 bp) was inserted in-frame into the above
+DNA fragments. Oligonucleotide primers used are shown in
+Table S2, and the plasmid map is indicated in Fig. 1B. Both
+the pMAD-Dbc1007 and pMAD-DrsbK plasmids were intro-
+duced into B. cereus by electroporation at 1.7 kV in 1 cm
+electrocuvettes (Eppendorf). Transformants were obtained
+after culturing for 2 days at 30°C on BHI plates containing
+spectinomycin, erythromycin, and X-gal. A pool of individual
+transformants was used to inoculate a culture of BHI medium
+without antibiotics, and this culture was then incubated at
+40°C until the stationary phase of growth was reached. Two
+additional growth cycles were performed by diluting the sta-
+tionary phase culture into fresh media, and single colonies
+were isolated by plating dilutions of the culture overnight onto
+BHI plates containing X-gal and spectinomycin. Several white
+colonies were also isolated to verify the erythromycin-
+sensitive phenotype. DNA was purified from several clones
+and analysed by PCR using oligonucleotides that hybridized
+outside of the inserts to verify the presence of the deletion
+and the insertion of the spectinomycin resistance gene. Gene
+deletion was also confirmed by Southern blot. The bc1007
+and rsbK deletion mutant strains were named KNU701 and
+KNU802 respectively.
+
+Construction of pHT304-rsbK-bc1007 and
+pHT304-rsbKm-bc1007
+
+A DNA fragment (2255 bp) containing a partial sequence
+from bc1009 and internal to rsbK with the endogenous
+BamHI site was amplified by PCR from the genomic DNA of
+B. cereus using the Restore-up-SmaI-F and Restore-up-
+BamHI-R primers (Table S2). Another DNA fragment
+(1782 bp), which included the rest of rsbK and full-length
+bc1007, was amplified with the Restore-do-BamHI-F and
+Restore-do-PstI-R primers (Table S2). Both DNA fragments
+were then inserted into pHT304 to generate pHT304-rsbK-
+bc1007 (Fig. 1C). Complementation of the bc1007 mutation
+found in strain KNU701 was performed by introduction into
+the plasmid pHT304-rsbK-bc1007, thus generating strain
+KNU703. The plasmid control (mock) strain KNU702 was
+generated by introducing the pHT304 plasmid into the
+KNU701 strain.
+
+Site-directed mutagenesis was performed as previously
+described (Ho et al., 1989; Kanoksilapatham et al., 2007),
+with slight modifications to generate the vector carrying the
+mutagenic rsbK, pHT304-rsbKm-bc1007. A standard PCR
+reaction (50 ml) was conducted in Phusion™ GC buffer con-
+taining pHT304-rsbK-bc1007 (30 ng) as the template and 1 U
+Phusion™ high-fidelity DNA polymerase (NEB) in 3% DMSO
+using the primer pairs listed in Table S2. The PCR product
+was digested with the DpnI restriction enzyme to cleave the
+methylated pHT304-rsbK-bc1007 template and then trans-
+formed into the E. coli XL-1 blue strain. The mutagenized
+plasmid was extracted, and the mutations were confirmed by
+DNA sequencing.
+
+Construction of pET21b-rsbK and
+pET21b-rsbK-bc1007-6xHis
+
+The entire rsbK coding region was PCR amplified from the
+genomic DNA of B. cereus using the primers pET21b-rsbK-
+NdeI-F and pET21b-rsbK-XhoI-R. The PCR product was
+digested by NdeI and XhoI and cloned into the plasmid
+pET21b to generate the plasmid pET21b-rsbK (Table S1). In
+addition, the full-length reading frame of the rsbK-bc1007
+operon with the deletion of the stop codon was cloned into the
+expression vector pET21b to construct pET21b-rsbK-
+bc1007-6xHis (Table S1). For this purpose, the DNA frag-
+ment from the first codon of rsbK to the region containing the
+only intrinsic BamHI restriction site of rsbK and another DNA
+fragment from the intrinsic BamHI restriction site to the ter-
+minator of bc1007, were amplified with primer pairs with
+restriction sites introduced (Table S2). Subsequently, the two
+PCR products were digested with NdeI/BamHI and BamHI/
+XhoI respectively, and inserted into pET21b.
+
+Western blot
+
+Bacillus cereus and the engineered derivatives were grown in
+BHI broth at 30°C with aeration until an OD600 of 0.5 was
+reached. They were then incubated at 42°C for 10, 20 and
+30 min. The cells were pelleted by centrifugation and imme-
+diately frozen in liquid nitrogen. The cells were subsequently
+disrupted by sonication. Cell extracts (30 mg) were separated
+
+2796 L-C. Chen et al.
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+
+by SDS-PAGE and transferred onto nitrocellulose mem-
+branes. The membranes were probed with 1:5000 dilutions of
+anti-sB, anti-Dps-like bacterioferritin (BC1005), and anti-
+EF-TU (BC0129) polyclonal antisera in PBS-Tween at room
+temperature for 1 h with gentle agitation. The membranes
+were then incubated with a secondary antibody (HRP-
+conjugated goat anti-rabbit IgG). For the detection of His-
+tagged RsbK expression in E. coli, the membranes were
+blotted with a 1:2000 dilution of an anti-His tag monoclonal
+antibody followed by incubation with a secondary antibody
+(HRP-conjugated goat anti-mouse IgG). Enhanced chemilu-
+minescence detection reagents were added to develop the
+images.
+
+Cell viability experiments
+
+Wild-type B. cereus and KNU701 strains were cultured until
+an OD600 of 0.5 was reached, and the cells were exposed to
+a lethal temperature of 50°C by shifting the whole cell culture
+flask from a 30°C to a 50°C water bath, causing a gradual
+increase in the temperature. Samples from each bacterial
+culture (100 ml) were taken at the indicated time points (0, 5,
+10, 15, 20, 25 and 30 min), streaked onto BHI agar plates at
+the appropriate dilutions and incubated overnight at 30°C.
+Cell survival was assessed by counting the colony number
+and cell viability for each time point. The results were calcu-
+lated from at least three independent experiments.
+
+Protein overexpression and purification
+
+For the purification of BC1007, E. coli BL21 (lDE3) cells
+were transformed with pET21b-rsbK-bc1007. Transformed
+cells were inoculated in 250 ml of LB medium containing
+50 mg ml-1 ampicillin and grown at 37°C with vigorous
+shaking. At an OD600 of 0.6, protein expression was induced
+for 3 h by adding IPTG (isopropyl-b-D-thiogalactopyranoside)
+to a final concentration of 0.5 mM. Subsequently, the culture
+was chilled over ice, and the cells were harvested. The
+recombinant His6-fused BC1007 protein was then purified.
+Briefly, harvested cells were suspended in 30 ml of cell lysis
+buffer [50 mM Tris–HCl (pH 8.5), 10 mM EDTA, 5 mM DTT
+and 1 mM phenylmethanesulfonylfluoride] and sonicated.
+Soluble proteins were separated from the cell debris by cen-
+trifugation at 15 000 g for 30 min at 4°C, and the supernatant
+was passed through a 0.22 mm filter (Millipore) and loaded
+onto a nickel column (GE Healthcare). Bound proteins were
+eluted according to the manufacturer’s instruction.
+
+In vitro methylation assay
+
+For the overproduction of RsbK, E. coli BL21 (lDE3) cells
+were transformed with pET21b-rsbK. As described previ-
+ously, the cells were harvested by centrifugation at 6000 g for
+10 min at 4°C after IPTG induction, washed with cold PBS
+and then re-suspended with methylation buffer [50 mM
+Hepes (pH 8.0), 0.01% (v/v) NP-40, 10 mM NaCl, 1 mM DTT,
+1 mM PMSF]. The collected cells were disrupted by sonica-
+tion to prepare whole cell lysates, and 100 mg of each cell
+lysate was incubated with purified recombinant BC1007
+protein in 45 ml of methylation buffer supplemented with
+
+500 nCi of S-adenosyl-L-(methyl-14C) methionine (14C-SAM;
+61 mCi mmol-1, GE Healthcare) (radioactive methylation) for
+1 h at room temperature. The reactions were stopped by
+adding 3 ¥ 10% SDS-PAGE sample buffer [187.5 mM Tris-
+HCl, 6% (w/v) SDS, 10% glycerol, 0.03% (w/v) bromophenol
+blue, 1.25 M DTT, pH 6.8] followed by heating at 95°C for
+10 min. The samples were analysed by 12% SDS-PAGE and
+stained with Coomassie blue. The gel was treated with
+Amplify Fluorographic Reagent (GE Healthcare) for 30 min,
+according to the manufacturer’s instruction, and dried by
+vacuum. The radioactivity was visualized by exposing the gel
+to an X-ray film at -80°C for 1 week.
+
+Analysis of conservation of putative methylation sites
+in RsbK-like proteins
+
+To further describe the conserved pattern of the putative
+RsbK methylation sites, we collect B. cererus RsbK ortho-
+logue from KEGG SSDB (Kanehisa et al., 2012) for conclud-
+ing the consensus signature. In order to avoid the bias of
+concluding methylation site consensus pattern from an over-
+representative species with multiple RsbK sequences in the
+dataset, one sequence was picked for a single species
+regardless of strain diversity. Totally 79 sequences from Pro-
+teobacteria (48 seqs), Firmicutes (15 seqs), Actinobacteria
+(two seqs), Spirochaetes (two seqs), Bacteroidetes (nine
+seqs), Cyanobacteria (one seq) and Deinococcus-Thermus
+(two seqs), were used in this study (Table S3). Peptide
+sequence segments corresponding to the T421-K495 were
+identified by multiple sequence alignment (msa) using by
+Parallel PRRN in GenomeNet (Gotoh, 1995) and extended to
+include 10 more residues in N′ end. The final msa for the
+methylation sites are performed by ClustalW (Larkin et al.,
+2007) with ‘slow/accurate algorithm’ and ‘iterate each
+alignment steps’. The sequence logo of potential methylation
+sites of RsbK family members are constructed from msa
+alignment by WebLogo 3.2 (Crooks et al., 2004, http://
+weblogo.threeplusone.com/) with a colour scheme to show
+the chemistry property of residues. Both the signature of
+Firmicutes sequences and of all 10 phyla sequences were
+concluded.
+
+Acknowledgements
+
+We gratefully acknowledge Michel Débarbouillé (Pasteur
+Institute, Paris, France) for kindly providing pMAD. The
+plasmid pHT304 is kindly given by Didier Lereclus (INRA/La
+Miniere, France). This work was supported by a grant of the
+National Science Council of Taiwan (NSC 99–2320-B-017-
+001-MY3).
+
+References
+
+Agata, N., Ohta, M., and Mori, M. (1996) Production of an
+emetic toxin, cereulide, is associated with a specific class
+of Bacillus cereus. Curr Microbiol 33: 67–69.
+
+Alper, S., Dufour, A., Garsin, D.A., Duncan, L., and Losick, R.
+(1996) Role of adenosine nucleotides in the regulation of a
+stress-response transcription factor in Bacillus subtilis.
+J Mol Biol 260: 165–177.
+
+Methylation controls the sB activity of Bacillus cereus 2797
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+http://weblogo.threeplusone.com/
+http://weblogo.threeplusone.com/
+
+
+Arnaud, M., Chastanet, A., and Debarbouille, M. (2004) New
+vector for efficient allelic replacement in naturally nontrans-
+formable, low-GC-content, gram-positive bacteria. Appl
+Environ Microbiol 70: 6887–6891.
+
+de Been, M., Tempelaars, M.H., van Schaik, W., Moezelaar,
+R., Siezen, R.J., and Abee, T. (2010) A novel hybrid kinase
+is essential for regulating the sB-mediated stress response
+of Bacillus cereus. Environ Microbiol 12: 730–745.
+
+de Been, M., Francke, C., Siezen, R.J., and Abee, T. (2011)
+Novel sB regulation modules of Gram-positive bacteria
+involve the use of complex hybrid histidine kinases. Micro-
+biology 157: 3–12.
+
+Berleman, J.E., and Bauer, C.E. (2005) Involvement of a
+Che-like signal transduction cascade in regulating cyst cell
+development in Rhodospirillum centenum. Mol Microbiol
+56: 1457–1466.
+
+Bijlsma, J.J.E., and Groisman, E.A. (2003) Making informed
+decisions: regulatory interactions between two-component
+systems. Trends Microbiol 11: 359–366.
+
+Crooks, G.E., Hon, G., Chandonia, J.-M., and Brenner, S.E.
+(2004) WebLogo: a sequence logo generator. Genome
+Res 14: 1188–1190.
+
+D’Argenio, D.A., Calfee, M.W., Rainey, P.B., and Pesci, E.C.
+(2002) Autolysis and autoaggregation in Pseudomonas
+aeruginosa colony morphology mutants. J Bacteriol 184:
+6481–6289.
+
+Delumeau, O., Lewis, R.J., and Yudkin, M.D. (2002)
+Protein-protein interactions that regulate the energy stress
+activation of sB in Bacillus subtilis. J Bacteriol 184: 5583–
+5589.
+
+Ehling-Schulz, M., Fricker, M., and Scherer, S. (2004) Bacil-
+lus cereus, the causative agent of an emetic type of food-
+borne illness. Mol Nutr Food Res 48: 479–487.
+
+Falke, J.J., Bass, R.B., Butler, S.L., Chervitz, S.A., and
+Danielson, M.A. (1997) The two-component signaling
+pathway of bacterial chemotaxis: a molecular view of signal
+transduction by receptors, kinases, and adaptation
+enzymes. Annu Rev Cell Dev Biol 13: 457–512.
+
+Galperin, M.Y. (2006) Structural classification of bacterial
+response regulators: diversity of output domains and
+domain combinations. J Bacteriol 188: 4169–4182.
+
+Glekas, G.D., Cates, J.R., Cohen, T.M., Rao, C.V., and Ordal,
+G.W. (2011) Site-specific methylation in Bacillus subtilis
+chemotaxis: effect of covalent modifications to the chemo-
+taxis receptor McpB. Microbiology 157: 56–65.
+
+Gotoh, O. (1995) A weighting system and algorithm for align-
+ing many phylogenetically related sequences. Comput
+Appl Biosci 11: 543–551.
+
+Gruber, T.M., and Gross, C.A. (2003) Multiple sigma subunits
+and the partitioning of bacterial transcription space. Annu
+Rev Microbiol 57: 441–466.
+
+Hecker, M., Pané-Farré, J., and Völker, U. (2007) SigB-
+dependent general stress response in Bacillus subtilis and
+related gram-positive bacteria. Annu Rev Microbiol 61:
+215–236.
+
+Ho, S.N., Hunt, H.D., Horton, R.M., Pullen, J.K., and Pease,
+L.R. (1989) Site-directed mutagenesis by overlap exten-
+sion using the polymerase chain reaction. Gene 77: 51–59.
+
+Hoch, A.L., and Silhavy, T.J. (1995) Two-Component Signal
+Transduction. Washington, DC, USA: American Society for
+Microbiology Press.
+
+Hoch, J.A. (2000) Two-component and phosphorelay signal
+transduction. Curr Opin Microbiol 3: 165–170.
+
+Huang, J., Denny, T.P., and Schell, M.A. (1993) vsrB, a regu-
+lator of virulence genes of Pseudomonas solanacearum, is
+homologous to sensors of the two-component regulator
+family. J Bacteriol 175: 6169–6178.
+
+Iuchi, S. (1993) Phosphorylation/dephosphorylation of the
+receiver module at the conserved aspartate residue con-
+trols transphosphorylation activity of histidine kinase in
+sensor protein ArcB of Escherichia coli. J Biol Chem 268:
+23972–23980.
+
+Ivanova, N., Sorokin, A., Anderson, I., Galleron, N., Cande-
+lon, B., Kapatral, V., et al. (2003) Genome sequence of
+Bacillus cereus and comparative analysis with Bacillus
+anthracis. Nature 423: 87–91.
+
+Kanehisa, M., Goto, S., Sato, Y., Furumichi, M., and Tanabe,
+M. (2012) KEGG for integration and interpretation of large-
+scale molecular data sets. Nucleic Acids Res 40: D109–
+D114.
+
+Kanoksilapatham, W., Gonzalez, J., and Robb, F. (2007)
+Directed-mutagenesis and deletion generated through an
+improved overlapping-extension PCR based procedure.
+Silpakorn U Science & Tech J 1: 7–12.
+
+Kanungpean, D., Kakuda, T., and Takai, S. (2011) Participa-
+tion of CheR and CheB in the chemosensory response of
+Campylobacter jejuni. Microbiology 157: 1279–1289.
+
+Karimova, G., Pidoux, J., Ullmann, A., and Ladant, D. (1998)
+A bacterial two-hybrid system based on a reconstituted
+signal transduction pathway. Proc Natl Acad Sci USA 95:
+5752–5756.
+
+Kazmierczak, M.J., Wiedmann, M., and Boor, K.J. (2005)
+Alternative sigma factors and their roles in bacterial viru-
+lence. Microbiol Mol Biol Rev 69: 527–543.
+
+Kirby, J.R. (2009) Chemotaxis-like regulatory systems:
+unique roles in diverse bacteria. Annu Rev Microbiol 63:
+45–59.
+
+Kirby, J.R., and Zusman, D.R. (2003) Chemosensory regu-
+lation of developmental gene expression in Myxococcus
+xanthus. Proc Natl Acad Sci USA 100: 2008–2013.
+
+Larkin, M.A., Blackshields, G., Brown, N.P., Chenna, R.,
+McGettigan, P.A., McWilliam, H., et al. (2007) Clustal W
+and Clustal X version 2.0. Bioinformatics 23: 2947–
+2948.
+
+Le Moual, H., and Koshland, J.D.E. (1996) Molecular evolu-
+tion of the c-terminal cytoplasmic domain of a superfamily
+of bacterial receptors involved in taxis. J Mol Biol 261:
+568–585.
+
+Martin, A.C., Wadhams, G.H., Shah, D.S.H., Porter, S.L.,
+Mantotta, J.C., Craig, T.J., et al. (2001) CheR- and CheB-
+dependent chemosensory adaptation system of rhodo-
+bacter sphaeroides. J Bacteriol 183: 7135–7144.
+
+Mihaljevic, R.R., Sikic, M., Klancnik, A., Brumini, G., Mozina,
+S.S., and Abram, M. (2007) Environmental stress factors
+affecting survival and virulence of Campylobacter jejuni.
+Microb Pathog 43: 120–125.
+
+Missiakas, D., and Raina, S. (1998) The extracytoplasmic
+function sigma factors: role and regulation. Mol Microbiol
+28: 1059–1066.
+
+Nowlin, D.M., Bollinger, J., and Hazelbauer, G.L. (1987) Sites
+of covalent modification in Trg, a sensory transducer of
+Escherichia coli. J Biol Chem 262: 6039–6045.
+
+2798 L-C. Chen et al.
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+
+Nowlin, D.M., Bollinger, J., and Hazelbauer, G.L. (1988) Site-
+directed mutations altering methyl-accepting residues of a
+sensory transducer protein. Proteins 3: 102–112.
+
+Park, C., Dutton, D.P., and Hazelbauer, G.L. (1990) Effects of
+glutamines and glutamates at sites of covalent modification
+of a methyl-accepting transducer. J Bacteriol 172: 7179–
+7187.
+
+Parkinson, J.S. (2010) Signaling mechanisms of HAMP
+domains in chemoreceptors and sensor kinases. Annu Rev
+Microbiol 64: 101–122.
+
+Perez, E., Zheng, H., and Stock, A.M. (2006) Identification of
+methylation sites in thermotoga maritima chemotaxis
+receptors. J Bacteriol 188: 4093–4100.
+
+Price, C.W. (2002) General stress response. In Bacillus
+Subtilis and Its Closest Relatives: From Genes to Cells.
+Sonenshein, A.L., Hoch, J.A., and Losick, R. (eds). Wash-
+ington, DC, USA: ASM Press, pp. 369–384.
+
+Punta, M., Coggill, P.C., Eberhardt, R.Y., Mistry, J., Tate, J.,
+Boursnell, C., et al. (2012) The Pfam protein families data-
+base. Nucleic Acids Res 40: D290–D301.
+
+van Schaik, W., Tempelaars, M.H., Wouters, J.A., de Vos,
+W.M., and Abee, T. (2004) The Alternative sigma factor sB
+of Bacillus cereus: response to stress and role in heat
+adaptation. J Bacteriol 186: 316–325.
+
+van Schaik, W., Tempelaars, M.H., Zwietering, M.H., de Vos,
+W.M., and Abee, T. (2005) Analysis of the role of RsbV,
+RsbW, and RsbY in regulating sB activity in Bacillus cereus.
+J Bacteriol 187: 5846–5851.
+
+Schoeni, J.L., and Wong, A.C. (2005) Bacillus cereus food
+poisoning and its toxins. J Food Prot 68: 636–648.
+
+Scott, A.E., Simon, E., Park, S.K., Andrews, P., and Zusman,
+D.R. (2008) Site-specific receptor methylation of FrzCD in
+Myxococcus xanthus is controlled by a tetra-trico peptide
+repeat (TPR) containing regulatory domain of the FrzF
+methyltransferase. Mol Microbiol 69: 724–735.
+
+Shapiro, M.J., and Koshland, D.E. (1994) Mutagenic studies
+of the interaction between the aspartate receptor and
+methyltransferase from Escherichia coli. J Biol Chem 269:
+11054–11059.
+
+Stock, A.M., Robinson, V.L., and Goudreau, P.N. (2000) Two-
+component signal transduction. Annu Rev Biochem 69:
+183–215.
+
+Surette, M.G., and Stock, J.B. (1996) Role of a-helical coiled-
+coil interactions in receptor dimerization, signaling, and
+adaptation during bacterial chemotaxis. J Biol Chem 271:
+17966–17973.
+
+Terwilliger, T.C., Wang, J.Y., and Koshland, D.E. (1986)
+Surface structure recognized for covalent modification of
+the aspartate receptor in chemotaxis. Proc Natl Acad Sci
+USA 83: 6707–6710.
+
+Thomas, S.A., Brewster, J.A., and Bourret, R.B. (2008) Two
+variable active site residues modulate response regulator
+phosphoryl group stability. Mol Microbiol 69: 453–465.
+
+Tran, H., Krushkal, J., Antommattei, F., Lovley, D., and Weis,
+R. (2008) Comparative genomics of Geobacter chemotaxis
+genes reveals diverse signaling function. BMC Genomics
+9: 471.
+
+Voelker, U., Voelker, A., and Haldenwang, W.G. (1996) Reac-
+tivation of the Bacillus subtilis anti-sigma B antagonist,
+RsbV, by stress- or starvation-induced phosphatase activi-
+ties. J Bacteriol 178: 5456–5463.
+
+Wadhams, G.H., and Armitage, J.P. (2004) Making sense of
+it all: bacterial chemotaxis. Nat Rev Mol Cell Biol 5: 1024–
+1037.
+
+Wang, S.W., Chen, C.Y., Tseng, J.T., Liang, S.H., Chen, S.C.,
+Hsieh, C., et al. (2009) orf4 of the Bacillus cereus sigB
+gene cluster encodes a general stress-inducible Dps-like
+bacterioferritin. J Bacteriol 191: 4522–4533.
+
+Wise, A.A., Fang, F., Lin, Y.-H., He, F., Lynn, D.G., and
+Binns, A.N. (2010) The receiver domain of hybrid histi-
+dine kinase VirA: an enhancing factor for vir gene expres-
+sion in Agrobacterium tumefaciens. J Bacteriol 192:
+1534–1542.
+
+Zotta, T., Ricciardi, A., Ciocia, F., Rossano, R., and Parente,
+E. (2008) Diversity of stress responses in dairy thermo-
+philic streptococci. Int J Food Microbiol 124: 34–42.
+
+Supporting information
+
+Additional Supporting Information may be found in the online
+version of this article:
+
+Fig. S1. Conservation of potential methylation sites among
+RsbK family members.
+A. Multiple sequence alignment of the sequence segment
+containing potential methylation sites of 79 RsbK ortho-
+logue. The alignment score for each aligned residue
+column were displayed as histogram in below. Position of
+the two heptad segments involved in sB regulation
+are marked by a black solid line and a grey double line
+respectively.
+B. Sequence signature of the two successive heptad contain-
+ing potentially methylated residue Glu439 and Glu446. As indi-
+cated in the msa score histogram, these two heptads are high
+score aligned block. Logo text colour scheme are used to
+indicate the biochemical property of residues.
+Table S1. Bacterial strains and plasmids.
+Table S2. Oligonucleotides used in this study.
+Table S3. Summary of RsbK family on the basis of sequence
+homology and gene organization.
+
+Please note: Wiley-Blackwell are not responsible for the
+content or functionality of any supporting materials supplied
+by the authors. Any queries (other than missing material)
+should be directed to the corresponding author for the
+article.
+
+Methylation controls the sB activity of Bacillus cereus 2799
+
+© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd, Environmental Microbiology, 14, 2788–2799
+
+
+	emi_2788 2788..2799

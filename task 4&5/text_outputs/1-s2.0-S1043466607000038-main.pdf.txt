@@ -1,0 +1,917 @@
+doi:10.1016/j.cyto.2007.01.002
+
+
+www.elsevier.com/locate/issn/10434666
+
+Cytokine 36 (2006) 245–253
+Time-dependent onset of Interferon-a2b-induced apoptosis
+in isolated hepatocytes from preneoplastic rat livers
+
+Marı́a de Luján Alvarez, Ariel D. Quiroga, Marı́a Teresa Ronco, Juan Pablo Parody,
+J. Elena Ochoa, Juan A. Monti, Cristina E. Carnovale, Marı́a Cristina Carrillo *
+
+Instituto de Fisiologı́a Experimental, Consejo Nacional de Investigaciones Cientı́ficas y Técnicas (CONICET),
+
+Facultad de Ciencias Bioquı́micas y Farmacéuticas, Universidad Nacional de Rosario, Suipacha 570, 2000 Rosario, Argentina
+
+Received 1 August 2006; received in revised form 14 December 2006; accepted 16 January 2007
+Abstract
+
+We have already demonstrated that interferon alfa-2b (IFN-a2b) induces apoptosis in isolated hepatocytes from preneoplastic rat
+livers via the secretion of transforming growth factor b1 (TGF-b1), and this process is accompanied by caspase-3 activation. The aim
+of this study was to further investigate the mechanism of this activation. Isolated hepatocytes from preneoplastic livers induced DNA
+fragmentation in response to IFN-a2b, which was completely blocked when anti-TGF-b1 was added to the culture media. IFN-a2b med-
+iated radical oxygen species (ROS) production that preceded the loss of mitochondrial transmembrane potential (DW), release of cyto-
+chrome c, and activation of caspase-3. Bax levels increased in a time-dependent fashion, and Bcl-xL was down-regulated in the early
+hours of IFN-a2b treatment. The delayed translocation of Bid into the mitochondria was in concordance with late caspase-8 activation.
+In conclusion, endogenous TGF-b1 secreted under IFN-a2b stimulus seems to induce cytochrome c release through a mechanism related
+to Bcl-2 family members and loss of mitochondrial DW. Bax protein could be responsible of the release of cytochrome c during the initial
+hours of IFN-a2b-induced apoptosis via TGF-b1. Activated Bid by caspases could amplificate the mitochondrial events, enhancing the
+release of cytochrome c.
+� 2007 Elsevier Ltd. All rights reserved.
+
+Keywords: Preneoplastic rat hepatocyte; TGF-b1; Caspase; Bcl-2 family protein; Cytochrome c
+1. Introduction
+
+Interferon alfa (IFN-a) belongs to the IFN family of cyto-
+kines that elicit a pleiotropic biological action. They have
+antiviral, antiproliferative, and immunomodulatory effects.
+In oncology, IFN-a is used for the treatment of a number
+1043-4666/$ - see front matter � 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.cyto.2007.01.002
+
+Abbreviations: IFN-a2b, interferon alfa-2b; TGF-b1, transforming gro-
+wth factor b1; ROS, radical oxygen species; DW, transmembrane potential;
+DEN, diethylnitrosamine; 2-AAF, 2-acetylaminofluorene; DCFH-DA,
+2 0,70-dichlorofluorescin diacetate; TMRM, tetramethylrhodamine methyl
+ester.
+
+* Corresponding author. Fax: +54 341 4399473.
+E-mail addresses: mcarrill@fbioyf.unr.edu.ar, carrillo@ifise.gov.ar
+
+(M.C. Carrillo).
+of solid tumors and hematological malignancies [1].
+However, the benefit derived from IFN-a treatment of hepa-
+tocarcinoma remains controversial [2]. In this regard, it has
+been stated that IFN-a applied in the early stages of tumor
+evolution could have a very important clinical effect, whereas
+its activity in advanced stages would be minimal [3]. We have
+previously shown that IFN-a2b induces apoptosis in isolated
+hepatocytes from preneoplastic rat livers [4]. The apoptotic
+effect of IFN-a2b was mediated by the production of
+TGF-b1 from hepatocytes, due to the fact that when anti-
+TGF-b1 was added to the culture media, IFN-a2b-induced
+apoptosis was completely blocked.
+
+Apoptosis, or programmed cell death, is an essential
+physiologic process required for normal development and
+maintenance of liver homeostasis. However, apoptosis is
+
+mailto:mcarrill@fbioyf.unr.edu.ar
+mailto:carrillo@ifise.gov.ar
+
+
+246 M.L. Alvarez et al. / Cytokine 36 (2006) 245–253
+also involved in pathologic conditions, including liver
+regression, physical and chemical liver injury, viral hepa-
+titis, and liver carcinogenesis [5]. The aspartate-specific-
+cysteine-protease (caspase) cascade is now believed to be
+the main pathway by which cellular death is orchestrated
+[6]. There are two pathways by which caspase activation is
+triggered: the extrinsic and the intrinsic. Both pathways
+converge on the activation of caspase-3. This caspase is
+ultimately responsible for the majority of the effects [7].
+The extrinsic pathway is activated by the engagement of
+death receptors on the cell surface. Caspase-8 is the key
+initiator caspase in the death-receptor pathway [8]. The
+intrinsic pathway or non-receptor-mediated apoptosis is
+triggered by various extracellular and intracellular stress-
+es, such as growth factor withdrawal, hypoxia, DNA
+damage, and oncogene induction. Signals that are trans-
+duced in response to these stresses result in the permeabi-
+lization of the outer mitochondrial membrane, release of
+cytochrome c and other pro-apoptotic molecules, forma-
+tion of the apoptosome, and caspase activation [9].
+Among these processes, only the permeabilization step is
+regulated, and several members of the Bcl-2 family are
+involved in this regulation. The anti-apoptotic proteins
+Bcl-2 and Bcl-xL can stop the march towards apoptotic
+death by preventing cytochrome c release [10], whereas
+translocation of pro-apoptotic proteins (Bax and Bid) to
+the mitochondria can induce the release of cytochrome c
+contained in the intermembrane space. Once cytochrome
+c is released, the downstream cascade of caspase activa-
+tion is irreversible [11].
+
+The endogenous transforming growth factor b1 (TGF-
+b1) is an important physiological mediator for apoptosis
+in both normal and neoplastic liver [12]. It has been
+reported that TGF-b1 plays an important role as an
+inducer of apoptosis in a variety of cells, including pri-
+mary hepatocytes [13], fetal rat hepatocytes [14], and
+hepatoma cell lines [15–17]. Although the mechanisms
+by which TGF-b1 induces apoptosis in hepatocytes have
+not been fully elucidated, it is well established that TGF-
+b1 mediates radical oxygen species (ROS) production
+that contributes to the down-regulation of Bcl-xL, the
+release of cytochrome c, and the activation of at least
+caspases-2, -3, -8, and -9 [14–19]. However, the involve-
+ment of Bcl-2, Bax, and Bcl-xL proteins in TGF-b1-in-
+duced apoptosis has not been completely established.
+TGF-b1 decreased the anti-apoptotic protein Bcl-xL in
+diverse hepatoma cell lines [16,20] whereas in other hep-
+atoma cells no changes in Bax or Bcl-xL were observed
+[17]. On the other hand, overexpression of Bcl-2 blocked
+induction of apoptosis by TGF-b1 in human hepatoma
+cells [21].
+
+In the current study, we wished to further investigate the
+mechanism of caspase activation during IFN-a2b-induced
+apoptosis via TGF-b1. For this purpose, experiments were
+performed to characterize the time-dependent effects of
+IFN-a2b via TGF-b1 on hepatocytes from preneoplastic
+livers.
+2. Materials and methods
+
+2.1. Chemicals
+
+Diethylnitrosamine (DEN), 2-acetylaminofluorene (2-
+AAF), 2 0,7 0-dichlorofluorescin diacetate (DCFH-DA),
+and collagenase were obtained from Sigma Chemical Co.
+IFN-a2b was kindly provided by BioSidus Laboratory
+(Buenos Aires, Argentina). Anti-caspase-3 (L-18), anti-cas-
+pase-8 (H-134), anti-cytochrome c, anti-Bax, anti-Bcl-xL,
+anti-Bid, and secondary antibodies were obtained from
+Santa Cruz Biotechnology. The fluorogenic substrates for
+caspase-3 N-acetyl-Asp-Glu-Val-Asp-AMC (Ac-DEVD-
+AMC) and for caspase-8 N-acetyl-Ile-Glu-Thr-Asp-AMC
+(Ac-IETD-AMC) were purchased from Alexis Co. Fluores-
+cent probe tetramethylrhodamine methyl ester (TMRM)
+was from Fluka. All other chemicals were of the highest
+grade commercially available.
+
+2.2. Animals and treatment
+
+Adult male Wistar rats (330–380 g) were maintained in a
+room at constant temperature with a 12 h light–dark cycle,
+with free access to food and water. The experimental pro-
+tocol was performed according to the ‘‘Guide for the Care
+and Use of Laboratory Animals’’ (National Institutes of
+Health, publication no. 25–28, revised 1996). The animals
+were subjected to a two-phase model of rat hepatocarcino-
+genesis, for details see Ref. [22]. The initiation stage was
+performed by the administration of two i.p. necrogenic
+doses of DEN (150 mg/kg body weight) 2 weeks apart.
+One week after the last injection of DEN, the rats received
+20 mg/kg body weight of 2-AAF by gavage for four
+consecutive days per week during 3 weeks.
+
+2.3. Cell isolation and culture
+
+Hepatocytes were isolated by collagenase perfusion and
+mechanical disruption as described previously [23]. A hepa-
+tocyte-enriched population from the entire liver containing
+both preneoplastic hepatocytes plus hepatocytes from the
+surrounding non-preneoplastic liver tissue was obtained
+by centrifugation twice at 40 g [24]. To remove residual
+adherent cells from the hepatocytes, the suspension was
+incubated twice for 20 min in plastic dishes and the hepato-
+cytes were transferred on culture plates.
+
+Cells were cultured at 37 �C in a humidified atmosphere
+of 5% CO2 in RPMI medium with L-glutamine supple-
+mented with 10% FCS, penicillin (100 U/mL), and strepto-
+mycin (100 lg/mL). Two hours later, the medium was
+changed to fresh medium supplemented with 0.2% FCS,
+and cells were treated with 105 U/mL IFN-a2b or left
+untreated. This dose of IFN-a2b induced in vitro a similar
+increment of hepatocytes apoptosis than the one observed
+in vivo, when rats with preneoplasia received IFN-a2b at
+therapeutic doses [22]. Cells were cultured at different
+times: 1, 4, 7, 20, and 24 h.
+
+
+
+M.L. Alvarez et al. / Cytokine 36 (2006) 245–253 247
+The viability of all cell suspensions used, checked by
+Trypan blue exclusion, was between 85% and 95%.
+
+2.4. TGF-b1 assay
+
+Hepatocyte-conditioned media were collected at the dif-
+ferent times and TGF-b1 was quantitated using an ELISA
+test (R&D Systems).
+
+2.5. Analysis of apoptosis by DNA fragmentation
+
+Hepatocytes cultured at different times were scrapped off
+and centrifuged, lysed with 5 mmol/L Tris/HCl (pH 8.0),
+20 mmol/L EDTA, 0.5% Triton X-100, and stored at
+4 �C for 15 min. Intact nuclei were eliminated by centrifu-
+gation and the supernatant was centrifuged at 15,000g for
+30 min at 4 �C. DNA in the supernatant was purified as
+described previously [25]. Cytosolic DNA was subjected
+to 10% PAGE. The gel was incubated for 30 min with
+0.5 lg/mL ethidium bromide and visualized under trans-
+mitted ultraviolet light by using the BioChemi System.
+
+2.6. Analysis of apoptosis by annexin V staining
+
+Apoptosis was investigated using the FITC-Annexin V
+Apoptosis Kit (BD Biosciences). Cultured hepatocytes
+were stained according to the manufacturer’s suggestions.
+Then cells were washed, fixed, and viewed under fluores-
+cence microscope. Apoptotic cells were counted by examin-
+ing >1000 cells/dish and expressed per 100 hepatocytes.
+
+2.7. Measurement of intracellular ROS
+
+Formation of ROS was determined as previously
+described [26,27], with slight modifications. Cells cultured
+at different times were loaded with 5 lM DCFH-DA for
+20 min at 37 �C with 5% CO2. Fluorescence was measured
+on a Shimadzu Spectrofluorophotometer RF-5301 PC
+(excitation wavelength 488 nm, emission wavelength
+525 nm).
+
+2.8. Preparation of mitochondria-enriched fractions and
+
+cytosolic extracts
+
+Hepatocytes were scrapped off the plates, and centri-
+fuged, washed, and resuspended in 300 mmol/L sucrose
+with protease inhibitors. Cells were disrupted by sonication
+and incubated at 4 �C for 15 min and lysates were centri-
+fuged at 1000g. Mitochondrial and cytosolic fractions were
+then produced as described by de Duve et al. [28]. Proteins
+were quantified according to Lowry et al. [29]. Enrichment
+of each cytosolic and mitochondrial fractions was deter-
+mined by the measurement of specific activities of succinate
+cytochrome c reductase (mitochondrial marker) and lactate
+dehydrogenase (cytosolic marker) [30]. The specific activity
+of lactate dehydrogenase in cytosol was 9 ± 2-fold higher
+than in the mitochondrial fraction, whereas the specific
+activity of succinate cytochrome c reductase in mitochon-
+dria was 17 ± 2-fold higher than in cytosol.
+
+2.9. Analysis of caspases-3 and -8 activities
+
+Caspases-3 and -8 activities were evaluated by measur-
+ing the proteolytic cleavage of their fluorogenic substrates
+Ac-DEVD-AMC and Ac-IETD-AMC, respectively,
+according to the manufacturer’s suggestions. Briefly, cyto-
+solic extract (50 lg of protein) was added into reaction
+buffer containing 20 mmol/L Hepes (pH 7.5), 10% glycerol,
+2 mmol/L DTT, and 200 lmol/L caspase substrate. The
+reaction mixture was incubated at 37 �C for 1 h. After that
+time, enzymatic activity was measured in a luminescence
+spectrometer (Aminco-Bowman Series 2) (excitation
+wavelength 380 nm, emission wavelength 460 nm).
+
+2.10. Western blot analysis
+
+Procaspases-3 and -8 were detected in cytosolic extracts
+(20 lg per lane), cytochrome c was analyzed in mitochon-
+drial and cytosolic fractions (5 lg protein/condition).
+Bax, Bcl-xL, and Bid were explored in mitochondria-en-
+riched fractions (30 lg protein for Bax and Bcl-xL, and
+15 lg for Bid). Samples were resolved by SDS–PAGE
+and electroblotted onto polyvinyl difluoride membranes.
+Immunoblots were blocked and incubated overnight at
+4 �C with the primary antibody (1:500). Finally, they were
+incubated with peroxidase-conjugated secondary antibody
+(1:5000) and bands were detected by ECL detection system
+(Amersham Pharmacia Biotech). The immunoreactive
+bands were quantified using the Gel-Pro Analyzer (Media
+Cybernetics) software. In all Western blotting analysis,
+the uniformity of protein loading was checked using
+Ponceau S.
+
+2.11. Analysis of mitochondrial transmembrane potential
+
+To examine mitochondrial DW, cultured hepatocytes
+were loaded with TMRM, a membrane-permeable cationic
+fluorophore that accumulates in mitochondria in propor-
+tion to their DW [31]. DW was determined by using a ratio
+fluorescence approach [32].
+
+2.12. Statistical analysis
+
+The results were expressed as means ± SE. Significance
+in differences was tested by one-way ANOVA, followed
+by Tukey test. Differences were considered significant when
+the p value was < 0.05.
+
+3. Results
+
+3.1. Secretion of TGF-b1 to the culture media
+
+Cultured hepatocytes from preneoplastic rat livers did
+not show increased levels of secreted TGF-b1 when they
+
+
+
+Fig. 1. Release of TGF-b1 (pg/mL) by cultured hepatocytes without
+(white bars) and with (gray bars) IFN-a2b addition. Data are expressed as
+means ± SE. *p < 0.05 vs. unstimulated hepatocytes from each corre-
+sponding studied time.
+
+Table 1
+Effect of IFN-a2b on hepatocytes apoptosis determined by annexin V
+staining
+
+Hours Percentage of apoptotic hepatocytes
+
+Without
+IFN-a2b
+
+With
+IFN-a2b
+
+With IFN-a2b
+plus anti-TGF-b1
+
+1 8.4 ± 0.9 9.1 ± 0.5 8.2 ± 1.3
+4 8.9 ± 0.6 8.9 ± 0.7 8.8 ± 0.7
+7 9.3 ± 0.2 8.8 ± 0.5 9.8 ± 0.2
+
+20 9.3 ± 0.3 14.3 ± 1.4* 10.7 ± 1.9
+24 9.1 ± 0.4 21.2 ± 0.1* 9.1 ± 0.3
+
+Results are expressed as means ± SE from three independent experiments
+with duplicate dishes for each point.
+
+*
+p < 0.05 vs. unstimulated cells from each period of time.
+
+248 M.L. Alvarez et al. / Cytokine 36 (2006) 245–253
+were stimulated with IFN-a2b at 1 and 4 h of culture.
+However, IFN-a2b presence in the culture media induced
+a twofold increase of TGF-b1 secretion at 7 h of culture.
+TGF-b1 levels continued significantly increased at 20 and
+24 h of culture (Fig. 1).
+
+3.2. DNA fragmentation analysis
+
+According to other authors [25], only cytosolic, frag-
+mented DNA was isolated, due to the fact that in total
+DNA isolation experiments it was difficult to observe the
+typical oligosomal ladder.
+
+A representative time dependence study of the cell death
+process is shown in Fig. 2a. Cultured hepatocytes did not
+show DNA ladder after 1 and 4 h of IFN-a2b stimulus.
+A very small amount of low molecular weight DNA frag-
+mentation was first observed at 7 h of incubation with
+IFN-a2b, and continuously increased for the next studied
+hours, reaching a maximum at 24 h of culture. In contrast,
+fragmented DNA was not observed in cultured cells that
+were left untreated at all studied times (data not shown).
+Fig. 2. Effect of IFN-a2b on DNA fragmentation. Hepatocytes from
+preneoplastic livers were incubated for 1, 4, 7, 20, and 24 h without (not
+shown) and with IFN-a2b (a), and also with IFN-a2b plus anti-TGF-b1
+(b). Cells were lysed and subjected to cytoplasmic DNA extraction.
+Purified low molecular weight DNA was electrophoresed on 10%
+polyacrylamide gel and visualized by ultraviolet fluorescence by staining
+with ethidium bromide. A representative experiment is shown.
+In addition, experiments were performed with IFN-a2b
+plus anti-TGF-b1 to demonstrate whether the DNA frag-
+mentation observed in IFN-a2b-treated cells is mediated
+by the production of TGF-b1 from hepatocytes. When
+anti-TGF-b1 was added to the culture media, no DNA
+cleavage was detected (Fig. 2b).
+
+3.3. Annexin V staining analysis
+
+Table 1 shows the percentage of apoptotic hepatocytes
+by annexin V staining at the different hours of culture.
+The percentage of apoptotic cells in IFN-a2b-treated cul-
+tures significantly increased over unstimulated cultures at
+20 and 24 h. When anti-TGF-b1 was added to the culture
+media, no increase in the percentage of apoptotic hepato-
+cytes could be detected.
+
+3.4. ROS production analysis
+
+It has been described that TGF-b1-induced apoptosis in
+rat fetal hepatocytes is mediated by ROS production [25].
+In this work, we examined whether the generation of
+ROS is involved in the IFN-a2b-induced apoptotic cell
+death of hepatocytes from rat preneoplastic livers. For this
+purpose, we used DCFH-DA, an oxidation-sensitive fluo-
+rescent probe [27]. Cells were incubated at different times
+(0.5, 1, 1.5, 2, 3, 4, 7, 20, and 24 h) with or without IFN-
+a2b. Hepatocytes stimulated with this cytokine showed a
+maximum increase in ROS production at 1 h of culture
+(Fig. 3). After this time, ROS decreased, returning to con-
+trol values. The presence of anti-TGF-b1 did not affect the
+peak of ROS observed at 1 h of culture.
+
+3.5. Caspases-3 and -8 activation analysis
+
+In this work, time-course experiments to analyse the
+activities of caspases-3 and -8, and the expressions of
+procaspases-3 and -8 following IFN-a2b treatment were
+performed. These procaspases are converted into active
+subunits during the course of activation [16]. Thus,
+decreases in densities of procaspase-3 or -8 bands indicate
+activation of the respective caspase.
+
+
+
+Fig. 3. IFN-a2b induction of intracellular reactive oxygen species content.
+Hepatocytes from preneoplastic livers were cultured for different times
+(0.5, 1, 1.5, 3, 4, 7, 20, and 24 h) in the absence or presence of IFN-a2b.
+The production of ROS was analyzed as described in Section 2. Results
+from IFN-a2b- (black circles) and IFN-a2b plus anti-TGF-b1- (white
+circles) treated hepatocytes are expressed as percentages of control
+(untreated) cells and are means ± SE from at least four independent
+experiments. *p < 0.05 vs. untreated cells.
+
+M.L. Alvarez et al. / Cytokine 36 (2006) 245–253 249
+Figs. 4a and b show that caspase-3 like and caspase-8
+activities significantly increased at 24 h of culture under
+IFN-a2b stimulus (40% and 85%, respectively, compared
+with untreated cells). Before this time, no increase in casp-
+ases-3 and -8 activities could be detected. According to
+these results, procaspase-3 and procaspase-8 levels signifi-
+cantly decreased after 24 h of IFN-a2b treatment (Figs.
+4c and d). Besides, immunoblotting studies showed that
+Fig. 4. Time course analysis of caspase-3 and caspase-8 activation during IFN
+course analysis of (a) caspase-3 and (b) caspase-8 activities. Cells were incubate
+time (1, 4, 7, 20, and 24 h), and caspases-3 and -8 activities were assayed. Resu
+experiments with duplicate dishes for each point. *p < 0.05 vs. unstimulated cell
+procaspase-8 levels. Hepatocytes were untreated (�) or treated (+) with IFN-
+procaspase-3 levels started to diminish at 20 h of culture
+in presence of IFN-a2b, whereas procaspase-8 levels start-
+ed to decrease at 7 h of stimulation with IFN-a2b,
+although these decreases were not statistically significant.
+On the other hand, no changes in procaspase-3 or
+procaspase-8 protein levels were observed in unstimulated
+cultured hepatocytes from preneoplastic livers (Figs. 4c
+and d).
+
+These data showed that caspases-3 and -8 were pro-
+cessed and activated during IFN-a2b-induced apoptosis
+via TGF-b1. However, there was no clear evidence if one
+caspase is being activated before the other.
+3.6. Release of cytochrome c and mitochondrial
+
+transmembrane potential analysis
+
+We studied the intracellular distribution of cytochrome
+c in IFN-a2b-stimulated hepatocytes from preneoplastic
+livers. As early as 4 h after treating with IFN-a2b, there
+was a significant increase in the cytochrome c content of
+the cytosol and its levels increased over time, reaching a
+maximum at 20 h. At the same time, cytochrome c content
+decreased in the mitochondria. These results showed that
+the release of the cytochrome c was an early cellular
+response to TGF-b1 (Figs. 5a and b).
+
+The disruption of mitochondrial transmembrane poten-
+tial (DW) has been defined as an early irreversible stage of
+apoptosis, preceding caspase-3 activation [10]. In agree-
+ment with results previously reported for adult and fetal
+rat hepatocytes [33,34], in this work we presented evidence
+that the loss of mitochondrial DW was coincident with the
+-a2b-induced apoptosis in hepatocytes from rat preneoplastic livers. Time
+d without (white bars) or with (gray bars) IFN-a2b for different periods of
+lts are expressed as percent values as means ± SE from three independent
+
+s from each period of time. Time course analysis of (c) procaspase-3 and (d)
+a2b and procaspases-3 and -8 expressions were studied by Western blot.
+
+
+
+Fig. 5. Time course analysis of the release of cytochrome c from
+mitochondria to cytosol during IFN-a2b-induced apoptosis in hepatocytes
+from preneoplastic livers. Mitochondria were separated from cytosol and
+cytochrome c content was analyzed by Western blot as described in
+Section 2. (a) Cytochrome c levels in cytosolic and mitochondrial fractions
+were expressed as percentages of control (untreated) cells, as means ± SE
+of four independent experiments. *p < 0.05 vs. control cells. (b) A
+representative experiment of a Western blot is shown. (c) Time course
+analysis of mitochondrial transmembrane potential changes. Cells were
+incubated without or with IFN-a2b during 1, 4, 7, 20, and 24 h, and
+TMRM fluorescence was measured. Results are expressed as percentages
+of control (untreated) cells as means ± SE from three independent
+experiments. *p< 0.05 vs. control cells.
+
+250 M.L. Alvarez et al. / Cytokine 36 (2006) 245–253
+release of cytochrome c from mitochondria to cytosol
+(Fig. 5c).
+
+3.7. Analysis of the Bcl-2 family proteins expression
+
+The Bcl-2 family of proteins is related to the mitochon-
+drial changes during apoptosis. Bax and Bcl-xL involve-
+ment in TGF-b1-induced programmed cell death is
+controversial [16,17,20]. So, we analyzed Bax and Bcl-xL
+mitochondrial content in hepatocytes from preneoplastic
+livers. Results showed that the levels of Bax increased in
+mitochondria of hepatocytes after 4 h of IFN-a2b treat-
+ment (30% compared with untreated cells) and augmented
+in a time-dependent manner, reaching a maximum at 20 h
+of culture (95% of increase with respect to unstimulated
+cells) (Fig. 6a). It is well known that IFN-a induces apop-
+tosis in different tumor cell lines through the activation of
+pro-apoptotic Bax [35], so we have included Bax activation
+studies in cultured cells treated with IFN-a2b and anti-
+TGF-b1 in order to discard a possible induction of Bax
+by IFN-a2b itself. The results indicated that the presence
+of anti-TGF-b1 in the culture media of IFN-a2b-stimulated
+hepatocytes completely blocked the increase of mitochon-
+drial Bax protein levels at the studied times (data not
+Fig. 6. Role of Bcl-2 family proteins in IFN-a2b-induced apoptosis of
+hepatocytes from preneoplastic livers. (a) Kinetic study of Bax and Bcl-xL
+mitochondrial levels, analyzed by Western blot. Densitometric analyses
+were performed in at least four independent experiments. Data are
+expressed as percentages of control (untreated) cells and are means ± SE.
+*p < 0.05 vs. control cells. (b) A representative experiment of a Western
+blot analysis of Bax, Bcl-xL, and Bid protein levels in mitochondria
+fractions is shown.
+
+
+
+M.L. Alvarez et al. / Cytokine 36 (2006) 245–253 251
+shown). So, Bax up-regulation in IFN-a2b-treated cells is
+mediated by the TGF-b1 secreted from hepatocytes.
+
+On the other hand, Bcl-xL mitochondrial content was
+decreased in IFN-a2b-stimulated cells already at 1 h of
+treatment (30% compared with untreated cells), and reached
+a diminution of 50% at 7 h (Fig. 6a). This down-regulation of
+Bcl-xL in the early hours of apoptosis, although no signifi-
+cant during the time-course study, is in agreement with pre-
+vious reports [14,16]. Moreover, Bax/Bcl-xL expression ratio
+was calculated from the densitometric analysis of Western
+blots; the ratio clearly increased during the studied times:
+1.5 ± 0.1, 1.6 ± 0.2, 2.7 ± 0.3, 3.5 ± 0.4, and 3.3 ± 0.3, at
+1, 4, 7, 20, and 24 h, respectively.
+
+We also examined the mitochondrial levels of pro-apop-
+totic protein Bid. Caspase-8-mediated cleavage of Bid
+greatly increases its pro-death activity and results in trans-
+location to mitochondria, where promotes cytochrome c
+release [35]. Fig. 6b shows that truncated Bid increased in
+mitochondria after 20 h of culture. As expected, this
+delayed translocation of Bid protein was in concordance
+with a late caspase-8 activation.
+
+4. Discussion
+
+Dysregulation of apoptosis has been implicated in
+numerous pathological conditions, including cancer, auto-
+immune disorders, viral infections, and others [5,7]. Efforts
+aimed at treating these diseases by manipulating cell suicide
+would seem to have great potential, although they are at a
+relatively early stage.
+
+In a previous work [4], we showed that IFN-a2b-in-
+duced production of TGF-b1 by hepatocytes from preneo-
+plastic livers is involved in the apoptotic elimination of
+preneoplastic foci. In vitro studies revealed enhanced apop-
+tosis of IFN-a2b-treated hepatocytes at 24 h of culture,
+and this effect was mediated by hepatocytic TGF-b1.
+Therefore, we investigated the mechanisms of IFN-a2b-in-
+duced apoptosis via TGF-b1 in isolated hepatocytes from
+preneoplastic rat livers by exploring some critical factors
+involved in the apoptotic pathway.
+
+The present work was made on a mixed population of
+hepatocytes (preneoplastic plus surrounding cells).
+Although we were unable to separate both populations,
+the study of the apoptotic phenomenon induced by IFN-
+a2b in the whole preneoplastic liver is of great interest, due
+to the fact that patients with liver diseases treated with this
+cytokine, such as chronic hepatitis B or C, may already have
+small, clinically undetectable preneoplastic foci during
+therapy.
+
+The induction of apoptosis by IFN-a2b was determined
+by annexin V staining. As previously reported [4], the per-
+centage of apoptotic hepatocytes in IFN-a2b-treated cul-
+tures increased twofold over unstimulated cultures at
+24 h. The same increase was also observed at 20 h of
+IFN-a2b stimulus. In accordance, the analysis of DNA
+fragmentation showed a maximal increase of cytosolic
+DNA at 24 h of culture. The addition of anti-TGF-b1
+blocked hepatocytes apoptosis, with no increase in DNA
+fragmentation and percentages of apoptotic hepatocytes,
+similar to those in unstimulated cultures.
+
+Reactive oxygen intermediates, such as hydrogen perox-
+ides or oxygen radicals, are integral control elements in the
+cell’s decision to enter apoptosis. IFN-a2b-mediated apop-
+tosis via TGF-b1 in hepatocytes from preneoplastic livers
+was preceded by an enhancement of ROS production. An
+early ROS production induced by TGF-b1 has been previ-
+ously described in fetal rat hepatocytes [14,34]. However, in
+the present study the maximum increase in ROS at 1 h after
+IFN-a2b treatment was not coincident with the highest
+concentration of TGF-b1 in conditioned media detected
+after 7 h of treatment. Moreover, the peak of ROS at 1 h
+was not affected by the presence of anti-TGF-b1 in the cul-
+ture media. In consequence, the increase of ROS might be
+mediated by IFN-a2b but not by TGF-b1. It has been
+shown that IFN-c induces ROS generation via upregula-
+tion of NADPH oxidase, a ROS-producing system [37].
+The same mechanism has been described to be activated
+by IFN-a in human neutrophils [38]. So, it is possible that
+in our model IFN-a2b could be raising ROS levels by
+NADPH oxidase induction. Moreover, further work with
+scavengers of reactive species is in process to provide
+direct evidence that the generation of ROS is involved in
+the IFN-a2b-induced apoptosis.
+
+In the current study, we observed that caspases-3 and -
+8 were activated in IFN-a2b-treated hepatocytes from pre-
+neoplastic livers. Previous studies have indicated that acti-
+vation of caspase-8 precedes the activation of caspase-3 in
+TGF-b1-induced apoptosis in hepatoma cells [16]. Howev-
+er, we were unable to define an ordered and sequential
+processing of individual caspases. On the other hand,
+Scaffidi et al. [39] previously reported that in some types
+of cells such as liver cells there is a minimal amount of
+receptor-activated caspase-8 and probably insufficient to
+induce downstream effector caspase cleavage. This low
+caspase-8 activity is thought not to be usually detected
+but to be enough to cleave Bid. Truncated Bid then trans-
+locates to the mitochondria where initiates mitochondria-
+dependent apoptotic signals including cytochrome c
+release and efficient activation of both caspases-8 and -3.
+In view of the fact that procaspase-8 levels started to
+decrease at 7 h of IFN-a2b treatment, we studied Bid pro-
+tein mitochondrial levels. The delayed translocation of Bid
+to the mitochondria (after 20 h of culture, see Fig. 6b)
+allowed us to ascertain that the mechanism postulated
+by Scaffidi et al. [39] is unlikely to contribute significantly
+to the apoptotic effect of IFN-a2b on hepatocytes from
+preneoplastic livers.
+
+In the present study, Bax increased in a time-dependent
+fashion, and Bcl-xL was down-regulated in the early hours
+of IFN-a2b treatment. Therefore, the relative ratio
+increased during the studied times, clearly favoring the
+apoptotic process. It has been reported that TGF-b1 can
+down-regulate Bcl-xL protein levels in some hepatoma cells
+[16,20] and fetal rat hepatocytes [18] without affecting Bax
+
+
+
+252 M.L. Alvarez et al. / Cytokine 36 (2006) 245–253
+expression. Therefore, to our knowledge, this is the first
+study where TGF-b1 induced mitochondrial Bax overex-
+pression in hepatic cells.
+
+We have also shown that cytochrome c is early released
+into the cytoplasm in the time course of TGF-b1-induced
+apoptosis (Fig. 5). This suggested that an apoptosome-
+like-caspase-activation mechanism could be involved. The
+exact mechanism by which cytochrome c is released from
+the mitochondria during the apoptosis has not been eluci-
+dated. Current ideas suggest that Bcl-2 or Bcl-xL prevent
+the release of cytochrome c and, therefore, suppress apop-
+tosis, whereas Bax and cleaved Bid promotes cytochrome c
+release and apoptotic cell death [9,40]. In our study, the
+release of cytochrome c into the cytosol was coincident
+with the increase of Bax protein levels in mitochondria.
+These data are in good agreement with previous observa-
+tions that Bax protein can directly induce the release of
+cytochrome c, without apparent requirement for caspases
+[41]. On the other hand, it has been reported that Bid is
+a much more potent cytochrome c-releasing factor than
+Bax [36]. In accordance with this, the maximal levels of
+cytochrome c found in cytosol at 20 h were corresponded
+with augmented levels of Bid protein in mitochondria.
+
+In conclusion, IFN-a2b treatment of hepatocytes from
+preneoplastic rat livers produced an increase in ROS and
+TGF-b1 secretion. This growth factor seems to induce cyto-
+chrome c release through a mechanism related to Bcl-2
+family members. Bax protein could be responsible of the
+release of cytochrome c during the initial hours of IFN-
+a2b-induced apoptosis via TGF-b1, whereas at later times
+(after 20 h of culture) activation of Bid by caspases could
+amplificate the mitochondrial events, enhancing the release
+of cytochrome c.
+Acknowledgments
+
+This work was supported by Research Grant PICT 05-
+11107 (M.C. Carrillo) from Agencia Nacional de Promo-
+ción Cientı́fica y Tecnológica (ANPCyT), by Beca ‘‘Ramón
+Carrillo-Arturo Oñativia 2004’’ from Ministerio de Salud
+de la Nación (M.L. Alvarez), and by Consejo Nacional
+de Investigaciones Cientı́ficas y Técnicas (CONICET, PIP
+No. 03018).
+References
+
+[1] Jonasch E, Haluska FG. Interferon in oncological practice: review of
+interferon biology, clinical applications and toxicities. Oncologist
+2001;6:34–55.
+
+[2] Llovet J, Sala M, Castells L, Suarez Y, Vilana R, Bianchi L, et al.
+Randomized controlled trial of interferon treatment for advanced
+hepatocellular carcinoma. Hepatology 2000;31:54–8.
+
+[3] Gutterman JU. Cytokine therapeutics: lessons from interferon alpha.
+Proc Natl Acad Sci USA 1994;91:1198–205.
+
+[4] Alvarez ML, Ronco MT, Ochoa JE, Monti JA, Carnovale CE, Pisani
+GB, et al. Interferon a-induced apoptosis on rat preneoplastic liver is
+mediated by hepatocytic Transforming Growth Factor b1. Hepatol-
+ogy 2004;40:394–402.
+[5] Zörnig M, Hueber A-O, Baum W, Evan G. Apoptosis regulators and
+their role in tumorigenesis. Biochim Biophys Acta 2001;1151:F1–37.
+
+[6] Zimmermann KC, Green DR. How cells die: apoptosis pathways. J
+Allergy Clin Immunol 2001;108:S99–103.
+
+[7] Okada H, Mak TW. Pathways of apoptotic and non-apoptotic death
+in tumour cells. Nat Rev Cancer 2004;4:592–603.
+
+[8] Krammer PH. CD95’s deadly mission in the immune system. Nature
+2000;407:789–95.
+
+[9] Green DR, Reed JC. Mitochondria and apoptosis. Science
+1998;281:1309–12.
+
+[10] Yang J, Liu X, Bhalla K, Kim CN, Ibrado AM, Cai J, et al.
+Prevention of apoptosis by Bcl-2: release of cytochrome c from
+mitochondria blocked. Science 1997;275:1129–32.
+
+[11] Goldstein JC, Waterhouse NJ, Juin P, Evan GI, Green DR. The
+coordinate release of cytochrome c during apoptosis is rapid,
+complete and kinetically invariant. Nature Cell Biol
+2000;2:156–62.
+
+[12] Thorgeirsson SS, Teramoto T, Factor VM. Dysregulation of apop-
+tosis in hepatocellular carcinoma. Semin Liver Dis 1998;18:115–22.
+
+[13] Oberhammer F, Pavelka M, Sharma S, Tiefenbacher R, Purchio TA,
+Bursch W, et al. Induction of apoptosis in cultured hepatocytes and
+in regressing liver by transforming growth factor-b1. Proc Natl Acad
+Sci USA 1992;89:5408–12.
+
+[14] Herrera B, Fernández M, Álvarez AM, Roncero C, Benito M, Gil J,
+et al. Activation of caspases occurs downstream from radical oxygen
+species production, Bcl-xL down-regulation, and early cytochrome c
+release in apoptosis induced by transforming growth factor b in rat
+fetal hepatocytes. Hepatology 2001;34:548–56.
+
+[15] Choi K-S, Lim IK, Brady JN, Kim S-J. ICE-like protease (caspase) is
+involved in transforming growth factor b1-mediated apoptosis in
+FaO rat hepatoma cell line. Hepatology 1998;27:415–21.
+
+[16] Shima Y, Nakao K, Nakashima T, Kawakami A, Nakata K,
+Hamasaki K, et al. Activation of caspase-8 in transforming growth
+factor-b-induced apoptosis in human hepatoma cells. Hepatology
+1999;30:1215–22.
+
+[17] Freathy C, Brown DG, Roberts RA, Cain K. Transforming growth
+factor-b1-induces apoptosis in rat FaO hepatoma cells via cyto-
+chrome c release and oligomerization of apaf-1 to form a 700-kd
+apoptosome caspase-processing complex. Hepatology
+2000;32:750–60.
+
+[18] Fabregat I, Herrera B, Fernández M, Álvarez AM, Sánchez A,
+Roncero C, Ventura JJ, et al. Epidermal growth factor impairs the
+cytochrome c/caspase-3 apoptotic pathway induced by transforming
+growth factor b in rat fetal hepatocytes via a phosphoinositide 3-
+kinase-dependent pathway. Hepatology 2000;32:528–35.
+
+[19] Inayat-Hussain SH, Couet C, Cohen GM, Cain K. Processing/
+activation of CPP32-like proteases is involved in transforming growth
+factor beta1-induced apoptosis in rat hepatocytes. Hepatology
+1997;25:1516–26.
+
+[20] Yamamoto M, Fukuda K, Miura N, Suzuki R, Kido T, Komatsu Y.
+Inhibition by dexamethasone of transforming growth factor
+b1-induced apoptosis in rat hepatoma cells: a possible association
+with Bcl-xL induction. Hepatology 1998;27:959–66.
+
+[21] Huang YL, Chou CK. Bcl-2 blocks apoptotic signal of transforming
+growth factor-beta in human hepatoma cells. J Biomed Sci
+1998;5:185–91.
+
+[22] Alvarez ML, Cerliani JP, Monti J, Carnovale C, Ronco MT,
+Pisani G, et al. The in vivo apoptotic effect of Interferon alfa-2b on
+rat preneoplastic liver involves Bax protein. Hepatology
+2002;35:824–33.
+
+[23] Seglen PO. Preparation of rat liver cells. 3. Enzymatic requirement
+for tissue dispersion. Exp Cell Res 1973;82:391–8.
+
+[24] Hortelano S, Dewez B, Genaro AM, Diaz-Guerra MJM, Bosca L.
+Nitric oxide is released in regenerating liver after partial hepatectomy.
+Hepatology 1995;21:776–86.
+
+[25] Sánchez A, Álvarez AM, Benito M, Fabregat I. Apoptosis induced by
+transforming growth factor-b in fetal hepatocyte primary cultures.
+J Biol Chem 1996;271:7416–22.
+
+
+
+M.L. Alvarez et al. / Cytokine 36 (2006) 245–253 253
+[26] Dreiem A, Myhre O, Fonnum F. Relationship between lipophilicity
+of C6-10 hydrocarbon solvents and their ROS-inducing potency in
+rat cerebellar granule cells. Neurotoxicology 2002;23:701–9.
+
+[27] LeBel CP, Ischiropoulos H, Bondy SC. Evaluation of the
+probe 2 0,7 0-dichlorofluorescin as an indicator of reactive oxygen
+species formation and oxidative stress. Chem Res Toxicol
+1992;5:227–31.
+
+[28] de Duve C, Pressman BC, Gianetto R, Wattiaux R, Appelmans F.
+Tissue fractionation studies. Intracellular distribution patterns of
+enzymes in rat liver tissue. Biochem J 1955;60:604–17.
+
+[29] Lowry OH, Rosembrough NJ, Farr AL, Randall RJ. Protein
+measurements with the Folin-phenol reagent. J Biol Chem
+1951;193:265–75.
+
+[30] Enzymic subcellular markers. Appendix II. In: Findlay JBC, Evans
+WH, editors. Biological membranes. A practical approach, Oxford:
+IRL Press; 1987, p. 285–6.
+
+[31] Ehrenberg B, Montana V, Wei M-D, Wuskell JP, Loew LM.
+Membrane potential can be determined in individual cells from the
+nernstian distribution of cationic dyes. Biophys J 1988;53:785–94.
+
+[32] Scaduto RC, Grotyohann LW. Measurement of mitochondrial
+membrane potential using fluorescent rhodamine derivatives. Bio-
+phys J 1999;76:469–77.
+
+[33] Rodrigues CM, Ma X, Linehan-Stieers C, Fan G, Kren BT, Steer CJ.
+Ursodeoxycholic acid prevents cytochrome c release in apoptosis by
+inhibiting mitochondria membrane depolarisation and channel for-
+mation. Cell Death Differ 1999;6:842–54.
+
+[34] Herrera B, Alvarez AM, Sánchez A, Fernández M, Roncero C,
+Benito M, et al. Reactive oxigen species (ROS) mediates the
+mitochondrial-dependent apoptosis induced by transforming growth
+factor b in fetal hepatocytes. FASEB J 2001;15:741–51.
+
+[35] Panaretakis T, Pokrovskaja K, Shoshan MC, Grander D. Interferon-
+alpha-induced apoptosis in U266 cells is associated with activation of
+the proapoptotic Bcl-2 family members Bak and Bax. Oncogene
+2003;22:4543–56.
+
+[36] Luo X, Budihardjo I, Zou H, Slaughter C, Wang X. Bid, a Bcl-2
+interacting protein, mediates cytochrome c release from mitochondria
+in response to activation of cell surface death receptors. Cell
+1998;94:481–90.
+
+[37] Kuwano Y, Kawahara T, Yamamoto H, Teshima-Kondo S, Tom-
+inaga K, Masuda K, et al. Interferon-gamma activates transcription
+of NADPH oxidase 1 gene and upregulates production of superoxide
+anion by human large intestinal epithelial cells. Am J Physiol Cell
+Physiol 2006;290:C433–43.
+
+[38] Koie T, Suzuki K, Kudo S, Yamada M, Liu Q, Nakaji S, et al. The
+effects of interferon-alpha on oxigen radical production by human
+neutrophils. Nippon Eiseigaku Zasshi 1998;53:536–44.
+
+[39] Scaffidi C, Fulda S, Srinivasan A, Friesen C, Feng L, Tomaselli KJ,
+et al. Two CD95 (APO-1/Fas) signalling pathways. EMBO J
+1998;17:1675–87.
+
+[40] Desagher S, Osen-Sand A, Nichols A, Eskes R, Montessuit S, Lauper
+S, et al. Bid-induced conformational change of Bax is responsible for
+mitochondrial cytochrome c release during apoptosis. J Cell Biol
+1999;144:891–901.
+
+[41] Jürgensneier JM, Xie Z, Deveraux Q, Ellerby L, Bredesen D, Reed
+JC. Bax directly induces release of cytochrome c from isolated
+mitochondria. Proc Natl Acad Sci USA 1998;95:4997–5002.
+
+
+	Time-dependent onset of Interferon- alpha 2b-induced apoptosis in isolated hepatocytes from preneoplastic rat livers
+	Introduction
+	Materials and methods
+	Chemicals
+	Animals and treatment
+	Cell isolation and culture
+	TGF- beta 1 assay
+	Analysis of apoptosis by DNA fragmentation
+	Analysis of apoptosis by annexin V staining
+	Measurement of intracellular ROS
+	Preparation of mitochondria-enriched fractions and cytosolic extracts
+	Analysis of caspases-3 and -8 activities
+	Western blot analysis
+	Analysis of mitochondrial transmembrane potential
+	Statistical analysis
+
+	Results
+	Secretion of TGF- beta 1 to the culture media
+	DNA fragmentation analysis
+	Annexin V staining analysis
+	ROS production analysis
+	Caspases-3 and -8 activation analysis
+	Release of cytochrome c and mitochondrial transmembrane potential analysis
+	Analysis of the Bcl-2 family proteins expression
+
+	Discussion
+	Acknowledgments
+	References

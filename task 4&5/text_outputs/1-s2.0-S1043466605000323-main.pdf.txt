@@ -1,0 +1,1379 @@
+doi:10.1016/j.cyto.2004.12.015
+
+
+Cytokine 30 (2005) 328e338
+
+www.elsevier.com/locate/issn/10434666
+cDNA cloning and functional analysis of goose interleukin-2
+
+Ji-Yong Zhou*
+,1
+, Ji-Gang Chen
+
+1
+, Jin-Yong Wang, Jian-Xiang Wu, Hui Gong
+
+Laboratory of Virology and Immunology, Institute of Preventive Veterinary Medicine, College of Animal Sciences, Zhejiang University,
+
+268 Kaixuan Road, Hangzhou, Zhejiang Province 310029, PR China
+
+Received 16 November 2004; received in revised form 16 December 2004; accepted 21 December 2004
+
+Abstract
+
+cDNA encoding goose IL-2 (GoIL-2) was cloned from Con A-stimulated goose splenic mononuclear cells (SMC)
+using oligonucleotide primers based on the conserved sequence of duck (DuIL-2), chicken (ChIL-2) and turkey IL-2s (TuIL-2).
+
+The GoIL-2 cDNA is 718 nt long, which contains an open reading frame (ORF) of 423 base pairs encoding a protein of 141 aa. The
+GoIL-2 shows, respectively, 79%, 82e85%, and 91e92% identities with TuIL-2, ChIL-2 and DuIL-2 in cDNA, and also
+shows, respectively, 63%, 63e64%, and 82e85% identities with TuIL-2, ChIL-2 and DuIL-2 in amino acid sequence. Recombinant
+GoIL-2 (rGoIL-2) protein expressed in Escherichia coli has an approximate molecular weight of 18 kDa. The rGoIL-2 has biological
+effect on goose and duck as well as chicken lymphocytes in a dose-dependent manner, though the effect on duck and chicken
+lymphocytes has been found to be relatively weak. In addition, rGoIL-2 also strengthens goose immune responses induced by
+
+vaccinating the inactivated oil emulsion vaccine against avian influenza virus. The monoclonal antibodies (mAb) to rGoIL-2
+recognized the binding epitopes of nature GoIL-2 protein expressed in vero cells. Antiserum and mAb 5B10 to rGoIL-2 can inhibit
+the biological activity of rGoIL-2 and endogenous GoIL-2. The results, at the first time, indicated that goose IL-2 reserves species-
+specialties in the biological functions and can be used as a potential immunoadjuvant for goose vaccination and immunotherapeutic
+
+purposes. Finally, the mAbs to rGoIL-2 also provide a useful tool for further immunobiological studies of IL-2 in avian immune
+systems.
+� 2005 Elsevier Ltd. All rights reserved.
+
+Keywords: Goose; Interleukin-2; Biological activity; Monoclonal antibody; Epitope
+1. Introduction
+
+IL-2 is a glycoprotein produced principally by
+activated T cells and some B cells and a cytokine that
+regulates lymphocyte function. IL-2 controls the ampli-
+fication of native T cells by initially stimulating growth
+following antigen activation, and also has effects on NK
+cells, monocytes/macrophages and neutrophils [1e4].
+IL-2 has been developed as an immunotherapeutic agent
+in chronic microbial infection and cancer, and as an
+enhancing agent in vaccine [5e7]. Previous reports also
+
+* Corresponding author. Tel.: C86 571 8697 1698; fax: C86 571
+
+8697 1821.
+
+E-mail address: jyzhou@zju.edu.cn (J.-Y. Zhou).
+1
+The first two authors contributed equally to this work.
+1043-4666/$ - see front matter � 2005 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.cyto.2004.12.015
+found that IL-2 exerts its effects by binding to the high
+affinity IL-2 receptors (IL-2R) present on those cells
+[8]. IL-2R is composed of three distinct subunits:
+IL-2Ra, IL-2Rb and IL-2Rg which are encoded, re-
+spectively, by distinct and structurally unrelated genes
+[9]. Resting T cells express low levels of IL-2Ra-subunit
+(Tac antigen) that binds to IL-2 with a low affinity.
+IL-2Rb-subunit alone or in combination with a or g
+produce a receptor with intermediate affinity, and the
+g-subunit alone does not bind IL-2, while a receptor
+comprised of three subunits offers the highest affinity for
+IL-2 [8].
+
+Up to now, in addition to human IL-2, IL-2 genes for
+more than 30 animal species also have been cloned and
+identified [10]. Recently, IL-2 gene for chicken (ChIL-2)
+and turkey (TuIL-2) have been cloned and sequenced
+
+mailto:jyzhou@zju.edu.cn
+http://www.elsevier.com/locate/issn/10434666
+
+
+329J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+successfully [11e13]. The ChIL-2 gene is mapped to
+chromosome 4, linked to annexin V with synteny with
+mouse chromosome 3 and human chromosome 4 [12].
+Our previous study revealed that some variations exist in
+the open reading frame (ORF) of ChIL-2 from different
+chicken breeds [14]. The cDNAcoding forChIL-2 protein
+was introduced into several prokaryotic and eukaryotic
+expression systems to produce biologically active re-
+combinant cytokines [13,15,16]. ChIL-2 plays an impor-
+tant role as an immunoregulatory molecule identical to
+mammalian IL-2 and has been shown to stimulate T
+lymphoblast cells, increase the proportion of both CD4
+
+C
+
+andCD8
+C
+peripheral bloodT cells [17], enhanceNK cells
+
+activity and vaccine response to Eimeria parasites [18],
+and strengthen the protective immunity against infectious
+bursal disease virus [19], indicating that ChIL-2 has
+practical importance in potentially enhancing immune
+responses to vaccines and infectious agents in poultry.
+Furthermore, mAbs to ChIL-2 have also been produced,
+and used to study the biological activities of ChIL-2
+[20,21]. Comparatively, little work has been performed on
+avian IL-2s and their receptors. Only a mAb designated
+INN-CH-16 can react with a 48e50 kDa antigen ex-
+pressed on activated chicken T lymphocytes and inhibited
+the proliferation of Con A-stimulated blasts in response
+to supernatants of stimulated chicken T cells. These
+features led to the hypothesis that INN-CH-16 may
+recognize the ChIL-2R [22,23].
+
+As for waterfowl cytokines in 1997, Bertram et al.
+[24] found lymphokines released by duck peripheral
+blood lymphocytes and splenocytes stimulated with
+PHA, which was of similar functional homology to
+ChIL-2 in maintaining the lymphocyte proliferation.
+Recently, the cloning and functional characterization of
+duck IL-2 have been reported [25e27]. However, no
+information was available on the goose cytokines.
+Hereby, the goal of the present study was to molecularly
+clone the cDNA fragment of goose IL-2 (GoIL-2), to
+express the GoIL-2 open reading frame in vitro
+expression system, to prepare mAbs to GoIL-2, and to
+detect the bioactivity of the recombinant GoIL-2
+(rGoIL-2) protein in vitro and in vivo.
+
+2. Results
+
+2.1. Molecular cloning and analysis of goose
+IL-2 cDNA
+
+The mRNA was isolated from goose SMC stimulated
+with 10 mg/ml Con A at 0, 1, 2, 4, 8, 12, 14, 16, 18, 24, 48
+and 72 h. GoIL-2 cDNA fragment was amplified by RT-
+PCR using these mRNAs as templates. An approxi-
+mately 0.8 kb DNA fragment, in size, was amplified
+from nine of the 12 mRNAs (Fig. 1). The sequencing
+results revealed that cDNA fragment of GoIL-2 was
+718 nt in length (GenBank accession no. AY392557).
+GoIL-2 cDNA fragment encodes a polypeptide of 141
+amino acid residues with a predicted molecular mass of
+16.29 kDa. Analysis of the signal peptide revealed that
+there was a potential cleavage site between amino acid
+residues 21 and 22 (arrow in Fig. 2). The predicted signal
+peptide of GoIL-2 was similar in size to that of
+mammalian animals (20 aa) and other birds (22 aa).
+
+The deduced amino acid sequence of GoIL-2 was
+compared with those of the several avian andmammalian
+species. The alignment analysis showed that GoIL-2
+shared 85% identity to DuIL-2 (GenBank accession
+no. AY193713), 63% to ChIL-2 (GenBank accession no.
+AF294321), 64% to TuIL-2 (GenBank accession
+no. AJ007463), 9% to human IL-2 (GenBank accession
+no. U25676), and 7e20% to other mammalian IL-2s. As
+shown in Fig. 2, in IL-2 sequences of the compared avian
+species, there are 78 conserved amino acid residues
+including three cysteine residues (position 63, 70 and
+119), indicating that there is at least one di-sulfate bond in
+the molecules. However, Lys
+
+48
+andAsn
+
+80
+are present only
+
+in GoIL-2 amino acid sequence. Thr
+34,45,114
+
+, Lys
+73,105
+
+,
+Ile
+
+75,110
+, Asp
+
+86,90
+, Glu
+
+104
+and Arg
+
+132
+are the conserved
+
+amino acid residues in goose and duck IL-2s, but are
+variable in chicken and turkey IL-2s. On the contrary,
+four amino acid residues (Ala
+
+14
+, Ile
+
+42
+, His
+
+51
+and Leu
+
+131
+)
+
+were conserved in chicken and turkey IL-2s, but were
+variable in goose and duck IL-2s. Phylogenetic analysis
+(Fig. 3) shows further that the avian IL-2s were
+subdivided into two monophyletic lineages. The goose
+and duck IL-2s formed a monophyletic group distinct
+from ChIL-2 and TuIL-2, confirming the similarity
+between duck and goose IL-2s.
+
+2.2. Expression and purification of the
+His-GoIL-2 fusion protein
+
+The gene fragment encoding GoIL-2 protein (without
+signal peptide) was cloned into the pBAD/His B
+expression vector, where the araB promoter is controlled
+by arabinose. After induction with 0.2% L-(C)-arabinose
+and resolved in a SDS-PAGE, the expressed recombinant
+GoIL-2 with an approximatemolecular weight of 18 kDa
+
+N
+eg
+
+at
+iv
+
+e
+
+8h1h 16
+h
+
+2h 48
+h
+
+M 72
+h
+
+14
+h
+
+4h 12
+h
+
+24
+h 
+
+0h 18
+h
+
+0.8kb 
+
+Fig. 1. RT-PCR amplification of GoIL-2 mRNA extracted from goose
+
+SMC harvested 0, 1, 2, 4, 8, 12, 14, 16, 18, 24, 48 and 72 h after Con A
+
+stimulation.
+
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+
+
+330 J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+1 . . . . . . . . 10 . . . . . . . . . 20 . . . . . . . . . 30 . . . . . . . . . 40
+
+- M C K V L I F S C L S V V M L M T T A Y G A P L S - E K N D T L T T L I K D L
+
+- M C K V L I F S C L S V L M L M T T A Y G A P L S - E K D N T L T T L I K D L
+
+M M C K V L I F G C I S V A M L M T T A Y G A S L S S E K W K T L Q T L I K D L
+
+M M C K V L I F S C I S V A L L M T T A Y G A S L S P E K L E I L P A L I K D L
+
+. . . . . . . . . 50 . . . . . . . . . 60 . . . . . . . . . 70 . . . . . . . . . 80
+
+E K L G T S M K K I N L E L Y T P N E K Q E C S W Q T L Q C Y L K E I V T L E N
+
+E N L G T S M N G I D L E L Y T P N D T K E C S W Q T L Q C Y L K E I V T L E K
+
+E I L E N I K N K I H L E L Y T P T E T Q E C T Q Q T L Q C Y L G E V V T L K K
+
+E I L E E S K N K I H V V L Y T P N E I K E C S Q Q T L Q C Y L E E M V M L K K
+
+. . . . . . . . . 90 . . . . . . . . . 100 . . . . . . . . 110 . . . . . . . . 120
+
+E I E D E D E I E D E N V F S V R N I E K N L Q K L T D L I P P G T G C K I C E
+
+E I E D E D E I E D E N V S S V R N I K M N L Q K L M D L I P P R T G C N I C E
+
+E T E D D T E I K E E F V T A I Q N I E K N L K S L T G L N H T G S E C K I C E
+
+E I E D E P E I K N E F K N A L Q N I K K N L H R L K D L S P T G G E C K I C E
+
+. . . . . . . . . 130 . . . . . . . . 140 . . . . . . . . 150 . . . . . . . . 160
+
+A N D K K E F P E F H R E L T N F L R S M L K
+
+A N A K N - F P E F R R E L T N F L R S M L K
+
+A N N K K K F P D F L H E L T N F V R Y L Q K
+
+A N D K K N F P D F L Q Q L T N F V R Y L Q K
+
+goose 
+
+chicken 
+
+duck 
+
+turkey 
+
+goose 
+
+chicken 
+
+duck 
+
+turkey 
+
+goose 
+
+chicken 
+
+duck 
+
+turkey 
+
+goose 
+
+chicken 
+
+duck 
+
+turkey 
+
+Fig. 2. Comparison of the predicted amino acid sequences of goose, chicken, duck and turkey IL-2s. The arrow indicates the predicted cleavage site of
+
+the signal peptide sequence. The dark shadow reveals the conserved amino acid residues in all the four poultry IL-2s. The lighter shadow shows the
+
+semi-conserved amino acid residues.
+0
+511.9
+
+100200300400500
+
+human
+gibbon
+mangabey
+monkey
+macaque
+baboon
+mouse
+rat
+gerbil
+rabbit
+guinea pig
+cat
+seal
+canis
+horse
+pig
+whale
+yak
+bovine
+water buffalo
+deer
+turkey
+chicken
+goose
+duck            
+
+Fig. 3. Phylogenetic tree of IL-2 amino acid sequences of several
+
+mammalian and non-mammalian species. The numbers of the staff
+
+gauge indicate the evolution distance of different species. GenBank
+
+accession numbers of the compared sequences are as follows: human
+
+IL-2 (U25676); gibbon IL-2 (K02292); mangabey IL-2 (U19846);
+
+monkey IL-2 (D63352); macaque IL-2 (U19852); baboon IL-2
+
+(U88365); mouse IL-2 (K02292); rat IL-2 (M22899); gerbil IL-2
+
+(X68779); rabbit IL-2 (AF068057); guinea pig IL-2 (AB010093); cat
+
+IL-2 (L19402); seal IL-2 (AF072871); canis IL-2 (D30710); horse IL-2
+
+(X69393); pig IL-2 (X58428); whale IL-2 (AF009570); yak IL-2
+
+(AY294019); bovine IL-2 (M13204); buffalo IL-2 (AF363786); deer
+
+IL-2 (U14682); turkey IL-2 (AJ007463); chicken IL-2 (AF483600);
+
+duck IL-2 (AY193713).
+was readily observed (Fig. 4, lane 3). In Western blot
+analysis, this band could also be recognized by anti-X-
+press� mAb, mAbs (5H6 and 5F6) to DuIL-2 (Fig. 4,
+lanes 6e8), but was not recognized by mAbs (2B3, 4G12
+and 1H4) to DuIL-2 (Fig. 4, lanes 9e11), mAbs (1A12,
+4A3, 3E7 and 4E1) to ChIL-2 (Fig. 4, lanes 12e15), mAb
+to mouse (Fig. 4, lane 16) and human (Fig. 4, lane 17) IL-
+2s. In contrast, no such bandwas detected in the lysates of
+the bacterial cells containing only pBAD/His B (Fig. 4,
+lane 2). In addition, the band of His-GoIL-2 protein
+
+116.0
+66.2
+
+45.0
+35.0
+
+25.0
+
+18.4
+
+14.4
+
+1 2 3 54 M kDa 7 8 9 106 12 13 1411 15 16 17
+
+Fig. 4. Analysis of His-GoIL-2 fusion protein expressed in E. coli LMG
+
+194 strain. Lane 1 is extracts of positive control bacteria transfected
+
+with pBAD/His/LacZ. Lane 2 shows extracts of negative control
+
+bacteria containing pBAD/His B vector. Lane 3 indicates extracts of
+
+bacteria containing pBAD-GoIL-2. Lane 4 represents His-GoIL-2
+
+fusion protein purified under native conditions. Lane 5 reveals His-
+
+GoIL-2 fusion protein purified under denaturing conditions. Lane M is
+
+a molecular weight standard. Lanes 6e8 represent rGoIL-2 protein
+recognized by anti-X-press mAb, anti-DuIL-2 mAbs 5H6 and 5F6 to
+
+DuIL-2. Lanes 9e17 are rGoIL-2 protein which cannot react with
+
+mAbs 2B3, 4G12 and 1H4 to DuIL-2, anti-ChIL-2 mAbs (1A12, 4A3,
+
+3E7 and 4E1), anti-mouse IL-2 mAb and anti-human IL-2 mAb.
+
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+http://www.cbs.dtu.dk./services/.
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+
+
+331J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+purified from the sonicated bacterial cells under native
+(Fig. 4, lane 4) and denaturing (Fig. 4, lane 5) conditions
+also can be observed.
+
+2.3. Production and identification of
+mAbs specific for GoIL-2
+
+Following immunization with rGoIL-2 protein puri-
+fied under denaturing conditions as an immunogen, five
+murine hybridoma clones were identified to produce
+mAbs (3B2, 5B10, 3C4, 5D4 and 2F7). Data in Table 1
+showed that all these mAbs recognized rGoIL-2 by
+ELISA and Western blot assays. The mAbs did not
+react with 6!Histamine, rChIL-2 or with rDuIL-2.
+Isotype of the five mAbs was found to be all IgG1 and k
+chain. Rabbit antiserum against rGoIL-2 produced as
+described in Section 4.4 could also specifically react with
+rGoIL-2, but do not react with any protein in the cell
+lysate of Escherichia coli LMG194 strain transformed
+with empty pBAD/His B (data not shown).
+
+2.4. Eukaryotic expression of GoIL-2
+
+In order to express the GoIL-2 protein in the
+eukaryotic cells, pEGFP-GoIL-2 plasmid was trans-
+fected into vero cells. As shown in Fig. 5b, the EGFP-
+GoIL-2 expressed in vero cells as early as 3 h after
+transfection. In immunocytochemical staining, the
+acetone-fixed pEGFP-GoIL-2-transfected vero cells
+were detected, respectively, by five mAbs to rGoIL-2
+(Fig. 5deh), while no signal was observed in vero cells
+transfected with pEGFP-c2 vector (Fig. 5c), demon-
+strating that these mAbs hold the epitopes of GoIL-2
+protein expressed in vero cells.
+
+2.5. In vitro bioactivity of goose IL-2
+
+The concentration of the E. coli-derived soluble
+rGoIL-2 in the protein preparation was 0.656 mg/ml.
+The biological activity of E. coli-derived rGoIL-2 and
+endogenous GoIL-2 was tested by in vitro proliferation
+of goose, duck and chicken spleen cells. Goose
+(5! 106 cells/well), duck (5! 106 cells/well) and chicken
+(5! 106 cells/well) spleen cells were cultured in the
+presence of either rGoIL-2, irrelevant protein control,
+RPMI-1640eFCS or the supernatants from Con A-
+stimulated SMC in a series of 2-fold dilutions. Data in
+Fig. 6A showed that 1.6 ng rGoIL-2/well can significantly
+stimulate in vitro proliferation of goose lymphocytes,
+while rGoIL-2 was 6.3 ng/well for duck lymphocytes
+and 25 ng/well for chicken lymphocytes. These results
+indicated that the stimulation effect of rGoIL-2 on both
+chicken and duck lymphocytes was weak. On the other
+hand, 0.8 ng/well rChIL-2 was needed in the proliferation
+assay of chicken lymphocytes and 12.5 ng rChIL-2/well
+for duck lymphocytes and 6.3 ng rChIL-2/well for goose
+lymphocytes (Fig. 6B). 6.3 ng/well rDuIL-2 induces
+significantly in vitro proliferation of duck lymphocytes
+Fig. 5. GoIL-2 expressed in vero cells (!110). (a) (fluorescence) and (c) (immunocytochemical staining) are vero cells transfected with pEGFP-c2
+
+vector alone. (b) Indicates GFP-GoIL-2 expressed in vero cells 3 h after transfection (fluorescence). (d)e(h) (immunocytochemical staining) are
+
+GoIL-2 protein in vero cells recognized by mAbs 3B2, 5B10, 3C4, 5D4 and 2F7 to rGoIL-2, respectively.
+
+
+
+332 J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+Table 1
+
+Characteritics of anti-rGoIL-2 mAbs
+
+MAbs Isotype Indirect ELISA Immunoblotting Neutralization
+
+6!His rChIL-2 rDuIL-2 rGoIL-2 rChIL-2 rDuIL-2 rGoIL-2
+
+3B2 IgG1, k e e e C e e C e
+
+5B10 IgG1, k e e e C e e C C
+
+3C4 IgG1, k e e e C e e C e
+5D4 IgG1, k e e e C e e C e
+
+2F7 IgG1, k e e e C e e C e
+
+‘‘C’’ indicates positive; ‘‘e’’ shows negative.
+while 12.5 ng rDuIL-2/well is needed for goose lympho-
+cytes and 12.5 ng rDuIL-2/well for chicken lymphocytes
+(Fig. 6C). Neither the protein control from E. coli
+LMG194 strain transfected with pBAD/His B vector
+alone, nor the RPMI-1640eFCS could stimulate the
+proliferation of activated goose, duck and chicken
+lymphocytes.
+
+2.6. Ability of mAbs to neutralize the biological
+activity of recombinant and endogenous IL-2
+
+Five mAbs and one pAb to rGoIL-2 were tested for
+their ability to neutralize the biological function of the
+recombinant and endogenous GoIL-2 as measured by
+the inhibition of Con A-stimulated lymphocyte pro-
+liferation. Only mAb 5B10 and pAb exhibited neutral-
+izing activity in a dose-dependent manner (Fig. 7). mAb
+5B10 neutralized 85% of the lymphocyte-stimulating
+activity of rGoIL-2 and 80% for endogenous GoIL-2.
+The inhibiting effect of pAb on the activity of rGoIL-2
+and endogenous GoIL-2 was found to be 100%.
+
+2.7. In vivo immune response to AIV vaccine induced
+by rGoIL-2
+
+Following the intramuscular inoculations with the
+rGoIL-2 and the inactivated oil emulsion AIV vaccine,
+blood samples were collected at specified times and the
+serum HI antibody to AIV was measured. As shown in
+Table 2, in gooses injected intramuscularly with both
+rGoIL-2 protein (300 ng or 350 ng per goose, respec-
+tively) and AIV vaccine 2 weeks after immunization, the
+average titers of HI antibodies to AIV reached 6.3e6.4
+log 2, while the average titers of HI antibody to AIV
+were 5.2e5.3 log 2 in gooses only vaccinated with AIV
+vaccine or with both 250 ng rGoIL-2 and AIV vaccine.
+The results clearly showed that 300 ng rGoIL-2 per
+goose strengthened in vivo immune responses induced
+by the inactivated oil emulsion AIV vaccine.
+
+3. Discussion
+
+Up to date, information about goose IL-2 has not
+been available. Recently, the cloning and functional
+characterization of chicken, turkey and duck IL-2s have
+been reported [11e15,17,25e27]. The amino acid identity
+amongst these avian IL-2s was up to 58e73%. In this
+report, the goose IL-2 cDNA was cloned by RT-PCR
+using primers based on the highly conserved regions
+among chicken, turkey and duck IL-2s. We found that
+GoIL-2mRNAwas undetectable usingRT-PCR in goose
+SMC 1 h and 72 h after Con A stimulation, but was
+detected in all samples from 2 h to 48 h after stimulation,
+showing that GoIL-2 expression began 1 h after stimula-
+tion and stopped 72 h after stimulation. Sundick et al. [11]
+detected the ChIL-2 mRNA 5 h after stimulation with
+ConA. Inmitogen-stimulatedmouse spleen cells, the IL-2
+gene is only transiently expressed with maximal mRNA
+steady state levels between 6e14 h post-stimulation [28].
+IL-2 mRNA expression of northern elephant seal peaked
+in the first 8 h following Con A stimulation [29].
+
+Whether rGoIL-2 protein expressed in E. coli pos-
+sessed a biological function, we measured the bioactivity
+of GoIL-2 protein using in vitro lymphocyte proliferation
+and in vivo immune responses of AIV vaccine vaccina-
+tion. As little as 1.6 ng/well of rGoIL-2 could significantly
+stimulate in vitro proliferation of goose lymphocytes
+while 6.3 ng rGoIL-2/well was needed for duck lympho-
+cytes and 25 ng rGoIL-2/well for chicken lymphocytes
+were need (Fig. 6A). In addition, after each goose was
+intramuscularly vaccinated with a dose of 300e350 ng
+rGoIL-2, the vaccinated gooses reveal strengthening
+immune responses to AIV vaccine immunization. These
+data suggested that rGoIL-2 had biological effects,
+though the effect on duck and chicken lymphocytes was
+relatively weak. These evidences mentioned above led
+to sufficient support that functional similarity existed
+between goose and duck as well as chicken IL-2
+molecules. Furthermore, these results implied that the
+rGoIL-2 was an important immunoregulatory molecule
+well-studied in chicken and mammalian counterparts
+[30e33]. Similarly, an in vitro proliferation of chicken,
+duck and goose lymphocytes induced byChIL-2 aswell as
+DuIL-2 was similar to that of GoIL-2 (Fig. 6B and C).
+The result further demonstrated that the effect of
+rGoIL-2, rChIL-2 and rDuIL-2 was dose dependent
+and certain species-specialties existed. Previous reports
+showed that there was certain species-characteristic
+
+
+
+333J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+
+
+
+334 J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+Fig. 7. Neutralizing activity of anti-IL-2 Abs in goose IL-2 lymphocyte proliferation assay induced by rGoIL-2 and supernatant of 24 h Con A-
+
+stimulated goose SMC. Concentration of mAb 5B10 used was 30 ng/ml, and that of polyclonal antibody was 3 mg/ml. Non-immunized rabbit serum
+
+and mAb to spike protein of IBV [40] were used as negative controls. Cells without addition of any antibody were used as background control. Values
+
+are expressed as mean countsG standard error.
+between IL-2 from cells of various species [34e38]. The
+proliferative response of human lymphocytes to recombi-
+nant porcine IL-2 was only 50% of that seen with
+recombinant HuIL-2 [38]. Recombinant ovine IL-2 was
+able to stimulate the proliferation of bovine lymphocytes
+but not porcine lymphocytes. It was not surprising that
+there was 97% amino acid identity between the ovine and
+bovine proteins while the amino acid identity between
+ovine and porcine IL-2 was 73%. Both ovine and bovine
+IL-2 amino acid residues involved in the binding to the
+human equivalents of the IL-2Ra (p55) and IL-2Rb (p75)
+subunits showed further that both these two domains of
+the ligand were entirely conserved [34,38]. Comparison of
+the ovine and porcine IL-2 amino acid sequences revealed
+that six of the 25 residues involved in binding to the IL-
+2Ra (p55) were different. As for the IL-2Rb (p75) binding
+domain, five of the 10 amino acid residues were different.
+Hence, the amino acid residues in the two receptor
+binding domains were less conserved between ovine and
+porcine IL-2 compared with the ovine and bovine IL-2
+[39].
+
+In our study, five mAbs specific for rGoIL-2
+were produced. Anti-GoIL-2 mAbs do not recognize
+rDuIL-2 and rChIL-2 proteins. While the E. coli-derived
+rGoIL-2 could be recognized by mAbs 5H6 and 5F6
+to rDuIL-2, indicating that five anti-GoIL-2 mAbs
+recognized a conserved epitope in the duck and chicken
+molecules. And mAbs 5H6 and 5F6 to rDuIL-2
+recognized conserved epitopes in duck and goose
+molecules. Furthermore, all mAb to E. coli-derived
+GoIL-2 reacted specifically with EGFP-GoIL-2 protein
+expressed in vero cells, evincing that the five mAbs
+remained the binding epitopes of nature GoIL-2.
+However, in neutralizing assay, only one of the five mAbs
+(mAb 5B10) was able to neutralize the activity of rGoIL-2
+and endogenous GoIL-2 in Con A-induced lymphocyte
+proliferation assay, indicating that only mAb 5B10 reacts
+with the functional domain of GoIL-2 protein.
+
+4. Materials and methods
+
+4.1. Animals
+
+The embryonated eggs of Eastern Zhejiang White
+goose (Xiangshan institute of Eastern Zhejiang White
+goose, China) and Muscovy duck (Yuyao Shennong
+poultry Co. Ltd., Zhejiang, China) were hatched at our
+laboratory, and reared in a special room with unlimited
+access to feed and water and used at 30 days. Thirty day-
+old specific-pathogen-free (SPF) Leghorn chickens were
+obtained from Beijing Merial Vital Laboratory Animal
+Technology Co. Ltd., Beijing, China. Four week-old
+BALB/c mice were purchased from Shanghai Labora-
+tory Animal Center, Chinese Academy of Sciences,
+Shanghai, China. New Zealand white rabbits (NZW
+Fig. 6. Lymphocyte proliferation was induced by goose, chicken and duck IL-2s. (A) Effect of rGoIL-2 on chicken, duck and goose lymphocytes
+
+under different concentrations. (B) Effect of rChIL-2 on chicken, duck and goose lymphocytes under different concentrations. (C) Effect of rDuIL-2
+
+on chicken, duck and goose lymphocytes under different concentrations. Cells without addition of any protein and protein preparation from bacteria
+
+transformed with empty pBAD/His B vector were used as negative controls. Supernatants from chicken, duck and goose splenocytes stimulated for
+
+24 h with Con A were used as positive controls. The proliferation values are dose-responsive to rChIL-2, rDuIL-2 or rGoIL-2 produced from
+
+prokaryotic system.
+
+
+
+335J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+rabbit) were purchased from Laboratory Animal Center
+of Zhejiang Academy of Medicine, Zhejiang, China. All
+laboratory animals and animal subjects used in this
+study have been approved by the scientific ethical
+committee of the Zhejiang University.
+
+4.2. RNA isolation, RT-PCR and sequencing
+
+Goose splenicmononuclear cells (SMC)were prepared
+as previously described by Zhou et al. [14]. SMC
+stimulated with Con A for 0, 1, 2, 4, 8, 12, 14, 16, 18, 24,
+48 and 72 h were harvested, respectively. Total cellular
+mRNA was extracted with Trizol reagent (Gibco BRL,
+Gaithersburg, MD). Primers were designed according to
+the conserved cDNA sequence for DuIL-2, ChIL-2 and
+TuIL-2 (GenBank accession no. AF294323, AF017645
+and AJ007463, respectively). Sense primer (5#-AATAC-
+TAGCACAGACAACCAG-3#) corresponded nt posi-
+tions 59e81. Antisense primer (5#-TTACTGAAAGAT-
+TTATTAAATATCATCTA-3#) was complementary to
+nt positions 798e824. The cDNAs were synthesized from
+total cellular RNA using the antisense primer. PCR was
+conducted with sense and antisense primers under the
+conditions consisting of 30 cycles of denaturation at
+95 �C for 1 min, primer annealing at 45 �C for 45 s and
+DNA extension at 72 �C for 2 min. The final DNA
+extension was carried out at 72 �C for 10 min. RT-PCR
+products were detected in 1% agarose gel. RT-PCR
+product was sequenced. The predicted amino acid
+sequence of GoIL-2 protein was compared with that of
+avian and mammalian IL-2s from GenBank using
+DNASTAR 5.0 software (DNASTAR Inc., Madison,
+WI, USA). Putative Signal peptide of GoIL-2 protein
+was determined using prediction servers at http://
+www.cbs.dtu.dk./services/.
+
+4.3. Expression and purification of recombinant
+GoIL-2
+
+Based on the cDNA sequence of the above-men-
+tioned GoIL-2, the GoIL-2 ORF without the putative
+signal peptide sequence was obtained by PCR using the
+upstream primer 5#-GCGAATTCGCACCTCTATCA-
+
+Table 2
+
+Goose anti-AIV (H9N2) HI antibody response induced by rGoIL-2
+
+Group Animal
+
+No.
+
+rGoIL-2 dose
+
+(ng/goose)
+
+Serum HI titer
+
+(log 2)
+a
+
+1st
+
+week
+
+2nd
+
+week
+
+3rd
+
+week
+
+4th
+
+week
+
+Vaccine 10 250 0 5.2 5.6 6.6
+
+10 300 0 6.3 6.7 7.7
+
+10 350 0 6.4 6.9 8.2
+
+10 ! 0 5.3 5.8 6.5
+
+Control 10 ! 0 0 0 0
+
+a
+HI titer was geometry mean titer.
+GAGAA-3# containing the EcoRI site and the down-
+stream primer 5#-GCAAGCTTTTATTTTAGCATA-
+GATCT-3# containing the HindIII site. Following
+digestion with EcoRI and HindIII, the PCR product
+was subcloned into the vector pBAD/His B (Invitrogen,
+Carlsbad, CA) for expression as a His-tagged protein,
+named as pBAD-GoIL-2. The pBAD-GoIL-2 plasmid
+was transformed into competent E. coli LMG194 cells
+(Invitrogen) and the transformants were screened on LB
+plates for ampicillin resistance. Plasmid DNA from
+resistant colonies was identified and sequenced to
+determine the size and orientation of the insert. His-
+GoIL-2 expression was induced by the manufacturer’s
+protocols, and checked by SDS-PAGE as described
+previously by Zhou et al. [40]. For the purification of
+the soluble recombinant His-GoIL-2 (rGoIL-2), the
+bacterial pellet was suspended in buffer B (100 mM
+NaH2PO4, 10 mM TriseCl, 8 M urea, pH 8.0) and lysed
+thoroughly by sonication on ice. The lysate was
+centrifuged at 10,000! g for 20 min at room tempera-
+ture (RT). Then the supernatant was collected and
+applied to a nickel column (Qiagen) to purify histidine-
+tagged proteins according to the manufacturer’s in-
+structions. The concentration of the purified rGoIL-2
+was determined spectroscopically at 595 nm using a
+protein assay kit based on the Bradford reagent (Biorad,
+Hercules, CA). Western blot analysis of the expressed
+rGoIL-2 protein was checked as previously described by
+Zhou et al. [40] with anti-X-press� mAb (Invitrogen),
+anti-human IL-2 mAb (Bender Medsystem Gmbh,
+Austria), and anti-DuIL-2 mAbs [26], anti-mouse
+IL-2 mAb (R&D systems Inc., U.S.A), anti-ChIL-2
+mAbs [41].
+
+To prepare native soluble His-GoIL-2 for prolifera-
+tion assay, the bacterial pellet was washed with PBS (pH
+7.2) for three times and resuspended in lysis buffer
+(50 mM NaH2PO4, pH 8.0, 300 mM NaCl, 10 mM
+imidazole) at 2e5 ml per gram wet weight with 0.01%
+Triton-X 100, frozen in liquid nitrogen, thawed entirely
+under 37 �C water bath and sonicated on ice for three
+30 s pulses with intervening 20 s pauses. The lysed cells
+were centrifuged at 10,000! g for 20 min at 4 �C. The
+rGoIL-2 was purified under native conditions from the
+resulting supernatant by the above-mentioned nickel
+column. The purified rGoIL-2 was dialyzed against PBS,
+concentrated using the PEG 6000. Polymixin B Sephar-
+ose (Sigma, St. Louis, MO) was used to remove LPS
+from the purified proteins. The bacterial protein from
+E. coli LMG194 strain transformed with empty pBAD/
+His B vector were prepared and used as protein control.
+
+4.4. Production and characterization of monoclonal
+and polyclonal antibodies to GoIL-2
+
+MAbs specific for rGoIL-2 were obtained by immu-
+nizingmice with purified rGoIL-2 as described previously
+
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+www.ncbi.nlm.nih.gov
+http://www.cbs.dtu.dk./services/
+http://www.cbs.dtu.dk./services/
+
+
+336 J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+[26,40]. Briefly, the spleen cells isolated from immunized
+mice were fused with the sp2/0 myeloma cells by standard
+methods. Hybridoma supernatants were screened for
+specific binding to rGoIL-2 by the indirect ELISA as
+described earlier [19], using 6!His, cell lysate of E. coli
+LMG194, rDuIL-2 [26], rChIL-2 [41] and rGoIL-2 as
+antigens. Hybridomas secreting mAbs to GoIL-2 were
+isolated and cloned by limiting dilution for acites
+production. The isotypes of the mAbs were determined
+using a commercial kit (Southern Biotechnology Asso-
+ciates, Inc., Birmingham, AL 35260, USA). Western blot
+analysis of mAbs to rGoIL-2 was screened as the above-
+mentioned method.
+
+Anti-rGoIL-2 rabbit polyclonal antibody (pAb) was
+generated by bi-weekly immunization of NZW rabbits
+with rGoIL-2-CFA emulsion (100 mg of rGoIL-2 per
+rabbit). Immunized rabbits were bled 14 days after last
+injection and the serum was collected.
+
+4.5. Preparation of endogenous GoIL-2 protein
+
+The suspensions of the goose SMC were prepared as
+the method mentioned above. Goose SMC were diluted
+to 1! 107 cells/ml in RPMI-1640 containing 10% FCS
+and 10 mg/ml Con A, and incubated at 40 �C in 5% CO2
+for 0, 4, 8, 12, 24, 48,72 and 96 h. At each time point,
+the residual Con A was moved by incubating with 0.1 M
+a-methyl-D-mannoside (Sigma Chemical Co., St. Louis,
+USA) for 30 min and the supernatant was harvested by
+centrifugation at 10,000! g for 10 min at 4 �C.
+
+4.6. Antigen (Ag)-capture ELISA for GoIL-2
+
+For quantification of rGoIL-2 expressed in E. coli
+and endogenous GoIL-2 in supernatants from Con A-
+stimulated SMC, an Ag-capture ELISA was developed
+with certain modifications as described previously [20].
+Briefly mAbs and pAb to GoIL-2 were purified by fast
+protein liquid chromatography (AmershamePharmacia
+Biotech, Piscataway, NJ), and rGoIL-2 purified under
+denaturing conditions was used as a reference protein.
+Ninety-six-well flat-bottom plates (NUNC, Denmark)
+were coated with mAb (10 mg/ml, 100 ml/well) to GoIL-2
+in 0.1 M carbonate buffer, pH 9.6 at 37 �C for 1 h
+followed at 4 �C overnight. Each well was blocked with
+200 ml PBS containing 3% BSA for 1 h at RT followed
+by three washes with 0.05 M PBST (PBS containing
+0.01% Tween 20). One hundred microlitres of culture
+supernatant from Con A-stimulated SMC or protein
+preparations containing rGoIL-2 was added to each well
+and incubated for 4 h at RT. pAb to rGoIL-2 (100 ml/
+well) in PBSe0.1% BSA was added and incubated for
+1 h at RT after five washes. After incubation with HRP-
+labeled goat anti-rabbit IgG (Kirkegaard & Perry
+Laboratories, Inc., Maryland, USA) for 30 min at RT.
+Peroxidase activity was detected by adding 100 ml/well
+of o-phenylenediamine (0.4 mg/ml in 0.05 M PBS, pH
+5.0) substrate (Sigma) incubated for 15 min, and re-
+action was stopped by the addition of 50 ml of 2 M
+sulfate acid. Reactions were monitored by an automated
+microtiter plate reader at 490 nm.
+
+4.7. Construction of eukaryotic expression vector,
+transfection and immunocytochemical staining
+
+The GoIL-2 ORF with the signal peptide sequence
+was amplified by PCR using the upstream primer
+5#-GCGAATTCATGATGTGCAAAGTACTGATC3-#
+containing the EcoRI site and downstream primer
+5#-TTGGATCCTTTTTGCAGATATCTCAC-3# con-
+taining the BamHI site. The PCR product was subcloned
+into the pEGFP-c2 plasmid (BD Biosciences Clontech,
+Palo Alto, CA) according to the manufacturer’s instruc-
+tions. The resulting plasmid pEGFP-GoIL-2 was trans-
+fected into the vero cells which had been seeded into
+24-well plates (1! 105 cells/well) using a commercially
+available lipofectamine 2000 (2.5 mg/ml, Invitrogen,
+Carlsbad, CA) in Opti-MEM medium (Gibco). The cells
+were examinedunder an inverted fluorescencemicroscope
+3 h post-transfection. Then the cells were fixed with 80%
+cold acetone at �20 �C. After washing three times with
+PBS, the cells were blocked for 1 h at 37 �Cwith 5% skim
+milk and 0.1%Triton-X 100 in PBST. The cells were then
+incubated with the mAbs to rGoIL-2 diluted in PBST
+containing 2% skim milk for 1 h at 37 �C. Washed three
+times with PBST, the cells were incubated for 1 h at 37 �C
+with HRP-labeled goat anti-mouse IgG (Kirkegaard &
+Perry Laboratories). Color development was carried out
+with 9-aminoethyl carbazole (Sigma) and hydrogen
+peroxide in 0.05 M sodium acetate buffer (pH 5.0). The
+cell expressed GoIL-2 was stained reddish-brown in this
+assay.
+
+4.8. Bioassay and neutralization
+
+Lymphocyte proliferation induced by rGoIL-2 was
+detected by MTT test [42]. Briefly, SMC from the
+chickens, ducks and gooses were, respectively, sus-
+pended at 1! 107 cells/ml in RPMI-1640eFCS con-
+taining 10 mg/ml Con A, and incubated at 40 �C in 5%
+CO2 for 24 h. SMC stimulated by Con A for 24 h were
+incubated in RPMI-1640 medium containing 0.1 M
+a-methyl-D-mannoside (Sigma) at 40 �C for 30 min.
+The cells were applied to Histopaque-1077 (Sigma) and
+live cells were selected after centrifugation. The enriched
+viable cell population was resuspended in RPMI-1640
+containing 10% FCS and cultured at 5! 106 cells/ml
+with the supernatant containing endogenous GoIL-2 as
+well as rGoIL-2 proteins in triplicates in 96-well micro-
+titer plates (100 ml/well, Costar, Corning, NY, USA).
+The cells containing RPMI-1640eFCS and protein
+control from E. coli LMG194 strain transformed with
+
+
+
+337J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+pBAD/His B vector alone were used as negative controls.
+After incubation at 40 �C for 48 h, 20 ml MTT (5 mg/ml)
+was added to each well and reacted for 4 h. One hundred
+microlitres of lysis buffer (10% SDSe0.01 mol/l HCl)
+was added to each well. Plates were incubated for 20 h at
+40 �C under 5% CO2 and OD value was measured at
+570 nm. ODGoIL-2/ODnegative value of 1.5 or above was
+defined as the positive criteria for the biological activity
+of rGoIL-2.
+
+Neutralizing capacity of mAbs and pAb to rGoIL-2
+was screened in 96-well plates as describedpreviouslywith
+modifications [43]. Briefly, by fixing rGoIL-2 with anti-
+bodies in different concentrations, His-GoIL-2 (1.6 ng/
+well) and supernatant of Con A-stimulated goose SMC
+(100 ml/well) was mixed, respectively, with an equal
+volume of serial 10-fold dilutions of mAbs or pAb and
+incubated for 1 h at 37 �C. One hundred microlitres of
+cells (5! 106 cells/ml) stimulated by ConA for 24 h were
+added to each well. Non-immunized rabbit serum and
+mAb to spike protein of IBV [40] were used as negative
+controls. Cultures were incubated for 48 h at 40 �C and
+cell proliferation was measured as above. The percent
+neutralizing ability of monoclonal and polyclonal anti-
+bodies against rGoIL-2 was calculated with the formula
+as described by Zhou et al. [27].
+
+4.9. Goose immunization and antibody detection
+
+Forty-five day-old Eastern Zhejiang white gooses were
+divided into five groups, with 10 gooses per group. After
+Group 1, Group 2 and Group 3 gooses were each
+intramuscularly and, respectively, injected with a dose
+of 250 ng, 300 ng and 350 ng rGoIL-2, all gooses were
+immunized intramuscularly with the commercial inacti-
+vated oil emulsion vaccine against avian influenza virus
+according to the manufacture’s instruction at once [AIV
+(H9N2), Harbin Veterinary Research Institute, Chinese
+Academy of Agricultural Sciences, Harbin, China].
+Gooses in Group 4 only were each intramuscularly
+vaccinated with the inactivated AIV oil emulsion vaccine
+(H9N2), while gooses in the 5th Group were each
+intramuscularly immunized with the oil adjuvant as
+a control. Under the same feeding condition, blood
+samples were collected via wing vein puncture at 1, 2, 3
+and 4 weeks after immunization. The hemagglutinin-
+inhibition (HI) antibody titer against AIV was measured
+by the HI assay according to the manufacture’s in-
+struction (Harbin Veterinary Research Institute, Chinese
+Academy of Agricultural Sciences, Harbin, China).
+
+Acknowledgements
+
+This work was funded by Zhejiang Provincial Nature
+Science Foundation of China (Grant No. R303145) and
+National Natural Science Foundation of China (Grant
+No. 30230270). We thank Dr. Qi-Jun Chen (Microbi-
+ology and Tumor Biology Center, Karolinska Institute,
+Sweden) for critical suggestions and comments.
+
+References
+
+[1] Swain SL. Lymphokines and the immune response: the central
+
+role of interleukin-2. Curr Opin Immunol 1991;3:304e10.
+
+[2] Ferrante A. Activation of neutrophils by interleukins-1 and -2 and
+
+tumor necrosis factors. Immunol Ser 1992;57:417e36.
+
+[3] Whittington R, Faulds D. Interleukin-2. A review of its
+
+pharmacological properties and therapeutic use in patients with
+
+cancer. Drugs 1993;46:446e514.
+
+[4] Espinoza-Delgado I, Bosco MC, Musso T, Gusella GL,
+
+Longo DL, Varesio L. Interleukin-2 and human monocyte
+
+activation. J Leukoc Biol 1995;57:13e9.
+
+[5] HazamaM, Mayumi-Aono A, Asakawa N, Kuroda S, Hinuma S,
+
+Fujisawa Y. Adjuvant-independent enhanced immune responses
+
+to recombinant herpes simplex virus type 1 glycoprotein D by
+
+fusion with biologically active interleukin-2. Vaccine 1993;
+
+11:629e36.
+
+[6] Rosenberg SA. Progress in human tumour immunology and
+
+immunotherapy. Nature 2001;411:380e4.
+
+[7] Nakao M, Hazama M, Mayumi-Aono A, Hinuma S, Fujisawa Y.
+
+Immunotherapy of acute and recurrent herpes simplex virus type
+
+2 infection with an adjuvant-free form of recombinant glycopro-
+
+tein D-interleukin-2 fusion protein. J Infect Dis 1994;169:787e91.
+
+[8] Waldmann TA. The IL-2/IL-2 receptor system: a target for
+
+rational immune intervention. Immunol Today 1993;14:264e70.
+[9] Eicher DM, Damjanovich S, Waldmann TA. Oligomerization of
+
+IL-2Ralpha. Cytokine 2002;17:82e90.
+
+[10] Zelus D, Robinson-Rechavi M, Delacre M, Auriault C, Laudet V.
+
+Fast evolution of interleukin-2 in mammals and positive selection
+
+in ruminants. J Mol Evol 2000;51:234e44.
+
+[11] Sundick RS, Gill-Dixon C. A cloned chicken lymphokine
+
+homologous to both mammalian IL-2 and IL-15. J Immunol
+
+1997;159:720e5.
+[12] Kaiser P, Mariani P. Promoter sequence, exon: intron structure,
+
+and synteny of genetic location show that a chicken cytokine with
+
+T-cell proliferative activity is IL2 and not IL15. Immunogenetics
+
+1999;49:26e35.
+
+[13] Lawson S, Rothwell L, Kaiser P. Turkey and chicken interleukin-2
+
+cross-react in vitro proliferation assays despite limited amino acid
+
+sequence identity. J Interferon Cytokine Res 2000;20:161e70.
+[14] Zhou JY, Chen JG, Wang JY, Kwang J. Cloning and genetic
+
+evolution analysis of chIL-2 gene of Chinese local breeds. Prog
+
+Biochem Biophys 2003;30:384e9.
+
+[15] Stepaniak JA, Shuster JE, Hu W, Sundick RS. Production and in
+
+vitro characterization of recombinant chicken interleukin-2.
+
+J Interferon Cytokine Res 1999;19:515e26.
+
+[16] Zhou JY, Chen JG, Wang JY, Zhang DY, Zheng XJ. Expression
+
+of chicken interleukin-2 gene in Pichia methanolica. J Zhejiang
+
+Univ (Agric Life Sci) 2003;29:419e23.
+
+[17] Hilton LS, Bean AG, Kimpton WG, Lowenthal JW. Interleukin-2
+
+directly induces activation and proliferation of chicken T cells in
+
+vivo. J Interferon Cytokin Res 2002;22:755e63.
+
+[18] Lillehoj HS, Choi KD, Jenkins MC, Vakharia VN, Song KD,
+
+Han JY, et al. A recombinant Eimeria protein inducing
+
+interferon-gamma production: comparison of different gene
+
+expression systems and immunization strategies for vaccination
+
+against coccidiosis. Avian Dis 2000;44:379e89.
+
+[19] Hulse DJ, Romero CH. Partial protection against infectious
+
+bursal disease virus through DNA-mediated vaccination with the
+
+
+
+338 J.-Y. Zhou et al. / Cytokine 30 (2005) 328e338
+VP2 capsid protein and chicken IL-2 genes. Vaccine 2004;22:
+
+1249e59.
+
+[20] Rothwell L, Hamblin A, Kaiser P. Production and character-
+
+isation of monoclonal antibodies specific for chicken interleukin-2.
+
+Vet Immunol Immunopathol 2001;83:149e60.
+
+[21] Miyamoto T, Lillehoj HS, Sohn EJ, Min W. Production and
+
+characterization of monoclonal antibodies detecting chicken
+
+interleukin-2 and the development of an antigen capture enzyme-
+
+linked immunosorbent assay. Vet Immunol Immunopathol
+
+2001;80:245e57.
+
+[22] Hala K, Schauenstein K, Neu N, Kromer G, Wolf H, Bock G,
+
+et al. A monoclonal antibody reacting with a membrane de-
+
+terminant expressed on activated chicken T lymphocytes. Eur J
+
+Immunol 1986;16:1331e6.
+
+[23] Schauenstein K, Kromer G, Hala K, Bock G, Wick G. Chicken-
+
+activated-T-lymphocyte- antigen (CATLA) recognized by mono-
+
+clonal antibody INN-CH 16 represents the IL-2 receptor. Dev
+
+Comp Immunol 1988;12:823e31.
+
+[24] Bertram EM, Jilbert AR, Kotlarski I. An homologous in vitro
+
+assay to detect lymphokines released by PHA-activated duck
+
+peripheral blood lymphocytes and spleen cells. Vet Immunol
+
+Immunopathol 1997;56:163e74.
+
+[25] Wang JY, Zhou JY, Chen JG, Zhang ZH. Cloning and evolution
+
+analysis of a duck lymphokine gene homologous to chicken IL-2.
+
+Chin J Vet Sci 2003;23:545e7.
+
+[26] Gong H, Wu JX, Wang JY, Chen JG, Zhou JY. Production and
+
+characterization of monoclonal antibody to duck IL-2. J Zhejiang
+
+Univ (Agric Life Sci) 2004;30:169e72.
+
+[27] Zhou JY, Wang JY, Chen JG, Wu JX, Gong H, Teng QY, et al.
+
+Cloning, in vitro expression and bioactivity of duck interleukin-2.
+
+Mol Immunol 2005;42:589e98.
+
+[28] Swoboda R, Wecker E, Schimpl A. Regulation of IL 2 expression
+
+in mitogen-activated murine T lymphocytes. Immunobiology
+
+1987;174:300e12.
+[29] Shoda LK, Brown WC, Rice-Ficht AC. Sequence and character-
+
+ization of phocine interleukin 2. J Wildl Dis 1998;34:81e90.
+
+[30] Schat KA, Calnek BW, Weinstock D. Cultured avian lympho-
+
+cytes with natural killer cell activity. Prog Clin Biol Res
+
+1987;238:157e69.
+
+[31] Lillehoj HS, Kang SY, Keller L, Sevoian M. Eimeria tenella and
+
+E. acervulina: lymphokines secreted by an avian T cell lymphoma
+or by sporozoite-stimulated immune T lymphocytes protect
+
+chickens against avian coccidiosis. Exp Parasitol 1989;69:54e64.
+
+[32] Corbel C, Thomas JL. Establishment of an IL-2-dependent,
+
+antigen nonspecific chicken T-cell line. Dev Comp Immunol
+
+1990;14:439e46.
+
+[33] Choi KD, Lillehoj HS. Role of chicken IL-2 on gammadelta
+
+T-cells and Eimeria acervulina-induced changes in intestinal IL-2
+
+mRNA expression and gammadelta T-cells. Vet Immunol
+
+Immunopathol 2000;73:309e21.
+
+[34] Goodall JC, Emery DC, Bailey M, English LS, Hall L. cDNA
+
+cloning of porcine interleukin 2 by polymerase chain reaction.
+
+Biochim Biophys Acta 1991;1089:257e8.
+[35] Taniguchi T, Matsui H, Fujita T, Takaoka C, Kashima N,
+
+Yoshimoto R, et al. Structure and expression of a cloned cDNA
+
+for human interleukin-2. Nature 1983;302:305e10.
+[36] English LS, Binns RM, Licence ST. Characterization of pig T cell
+
+growth factor and its species-restricted activity on human, mouse
+
+and sheep cells. Vet Immunol Immunopathol 1985;9:59e69.
+
+[37] Denyer MS, Martin S, Wardley RC. Cross reactions between
+
+porcine, bovine and ovine interleukin-2 preparations. Res Vet Sci
+
+1987;42:252e4.
+
+[38] Seow HF, Mucha MJ, Hurst L, Rothel JS, Wood PR. Expression
+
+of ovine interleukin-2 cDNA in Escherichia coli. Vet Immunol
+
+Immunopathol 1997;56:107e17.
+
+[39] Collins RA, Tayton HK, Gelder KI, Britton P, Oldham G.
+
+Cloning and expression of bovine and porcine interleukin-2 in
+
+baculovirus and analysis of species cross-reactivity. Vet Immunol
+
+Immunopathol 1994;40:313e24.
+
+[40] Zhou JY, Cheng LQ, Zheng XJ, Wu JX, Shang SB, Wang JY,
+
+et al. Generation of the transgenic potato expressing full-length
+
+spike protein of infectious bronchitis virus. J Biotechnol
+
+2004;111:121e30.
+
+[41] Li ZK, Gong H, Chen JG, Zhou JY. Production and
+
+characterization of monoclonal antibody to recombinant chicken
+
+IL-2. J Zhejiang Univ (Agric Life Sci) 2004;30:541e4.
+
+[42] Mosmann T. Rapid colorimetric assay for cellular growth and
+
+survival: application to proliferation and cytotoxicity assays.
+
+J Immunol Methods 1983;65:55e63.
+[43] Zhou JY, Wu JX, Cheng LQ, Zheng XJ, Gong H, Shang SB, et al.
+
+Expression of immunogenic S1 glycoprotein of infectious
+
+bronchitis virus in transgenic potatoes. J Virol 2003;77:9090e3.
+
+
+	cDNA cloning and functional analysis of goose interleukin-2
+	Introduction
+	Results
+	Molecular cloning and analysis of goose IL-2 cDNA
+	Expression and purification of the His-GoIL-2 fusion protein
+	Production and identification of mAbs specific for GoIL-2
+	Eukaryotic expression of GoIL-2
+	In vitro bioactivity of goose IL-2
+	Ability of mAbs to neutralize the biological activity of recombinant and endogenous IL-2
+	In vivo immune response to AIV vaccine induced by rGoIL-2
+
+	Discussion
+	Materials and methods
+	Animals
+	RNA isolation, RT-PCR and sequencing
+	Expression and purification of recombinant GoIL-2
+	Production and characterization of monoclonal and polyclonal antibodies to GoIL-2
+	Preparation of endogenous GoIL-2 protein
+	Antigen (Ag)-capture ELISA for GoIL-2
+	Construction of eukaryotic expression vector, transfection and immunocytochemical staining
+	Bioassay and neutralization
+	Goose immunization and antibody detection
+
+	Acknowledgements
+	References

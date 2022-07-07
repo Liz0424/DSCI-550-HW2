@@ -1,0 +1,5447 @@
+S1 Table. SLC12A3 mutations identified in patients with Gitelman syndrome. 
+
+ 
+
+Patient 
+
+No. 
+Nationality Nucleotide change Predicted protein change Reference 
+
+Homo (n=212): Europe (n=122) + North America (n=3) + Asia (n=87) 
+
+1 Japan 
+c. 804_805ins 
+
+ATTGGCGTGGTCTCGGTC 
+NA [1] 
+
+2 Japan c. 2573T>A p. Leu858His [2] 
+
+3 Japan c. 2891G>A p. Arg964Gln [2] 
+
+4 Japan c. 179C>T p. Thr60Met [2] 
+
+5 Japan c. 805_806ins18 
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+[2] 
+
+6 Japan c. 2573T>A p. Leu858His [2] 
+
+7 Japan c. 1262G>T p. Cys421Phe [2] 
+
+8 Japan c. 539C>A p. Thr180Lys [2] 
+
+9 Japan c. 539C>A p. Thr180Lys [2] 
+
+10 Japan c. 539C>A p. Thr180Lys [2] 
+
+11 Japan c. 2573T>A p. Leu858His [2] 
+
+12 Japan c. 3052C>T p. Arg1018* [2] 
+
+13 Japan c. 1868T>C p. Leu623Pro [2] 
+
+14 Japan c. 539C>A p. Thr180Lys [2] 
+
+15 Japan c. 1664C>T p. Ser555Leu [2] 
+
+16 Japan c. 1844C>T p. Ser615Leu [2] 
+
+17 Japan c. 2891G>A p. Arg964Gln [2] 
+
+18 Japan c. 2573T>A p. Leu858His [2] 
+
+19 Japan c. 2573T>A p. Leu858His [2] 
+
+20 Japan c. 805_806ins18 
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+[2] 
+
+21 Japan c. 805_806ins18 
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+[2] 
+
+22 Japan c. 805_806ins18 
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+[2] 
+
+23 Japan c. 3052C>T p. Arg1018* [2] 
+
+24 Japan c. 805_806ins18 
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+[2] 
+
+25 Japan c. 1271G>A p. Gly424Asp [2] 
+
+26 Japan c. 1930delC p. Gln644Serfs*28 [2] 
+
+27 Japan c. 2191G>A p. Gly731Arg [2] 
+
+28 Japan c. 2573T>A p. Leu858His [2] 
+
+29 Japan c. 2573T>A p. Leu858His [2] 
+
+30 Japan c. 2573T>A p. Leu858His [2] 
+
+31 Japan c. 2927G>T p. Ser976Phe [2] 
+
+32 Japan c. 2573T>A p. Leu858His [2] 
+
+
+
+33 Japan c. 3052C>T p. Arg1018* [2] 
+
+34 Japan c. 2573T>A p. Leu858His [2] 
+
+35 Japan c. 1336-2A > T p. T446LfsX6 [3] 
+
+36 Japan c. 2573T>A p. Leu858His [4] 
+
+37 Japan NA p. Thr180Lys [5] 
+
+38 Japan c. 788 ins18bp In frame insertion [6] 
+
+39 Japan c. 2552T>A p. Leu849His [7] 
+
+40 Japan c. CGG>CAG p. Arg955Gln [8] 
+
+41 Japan c. CGG>CAG p. Arg955Gln [8] 
+
+42 Japan c. CGG>CAG p. Arg955Gln [8] 
+
+43 China c. 2039delG p. Gly680Asp [9] 
+
+44 China c. 1562_1564delTCA p. 522delIle [10] 
+
+45 China c. 841T>C p. Trp281Arg [11] 
+
+46 China c. 1196G>C p. Arg399Pro [12] 
+
+47 China c. 2099T>C p. Leu700Pro [13] 
+
+48 China c. 2099T>C p. Leu700Pro [13] 
+
+49 China c. 2687 G>A p. Arg896Gln [14] 
+
+50 China NA NA [15] 
+
+51 China NA p. Asp486Asn [16] 
+
+52 China c. 179C>T p. Thr60Met [16] 
+
+53 China c. 179C>T p. Thr60Met [16] 
+
+54 China c. 179C>T p. Thr60Met [17] 
+
+55 China c. 488C>T p. Thr163Met [18] 
+
+56 China c. 488C>T p. Thr163Met [18] 
+
+57 China c. 488C>T p. Thr163Met [18] 
+
+58 China c. C2129A  p. Ser710Term [19] 
+
+59 China c. C2129A  p. Ser710Term [19] 
+
+60 China NA p. Arg655His [20] 
+
+61 China c. 179C>T p. Thr60Met [20] 
+
+62 China c. 179C>T p. Thr60Met [20] 
+
+63 China c. 185C>T  p. Thr60Met [21] 
+
+64 China c. 1970G>A p. Arg655His [21] 
+
+65 China c. 1163A>G p. Tyr386Cys [21] 
+
+66 China c. 185C>T  p. Thr60Met [22] 
+
+67 China c. 185C>T  p. Thr60Met [22] 
+
+68 China c. 185C>T  p. Thr60Met [22] 
+
+69 China c. 1456G>A p. Asp486Asn [23] 
+
+70 China c. 179C>T p. Thr60Met [23] 
+
+71 China c. 179C>T p. Thr60Met [23] 
+
+72 China 
+
+c. 48C>A p. Cys16X 
+
+[23] c. 602G>A p. Gly201Asp 
+
+c. 391G>A p. Glu131Lys 
+
+73 Korea c. 179C>T p. Thr60Met [24] 
+
+
+
+74 Korea c. 1216A>C p. Asn406His [25] 
+
+75 Korea c. 1216A>C p. Asn406His [25] 
+
+76 Korea c. 1706C>T p. Ala569Val [25] 
+
+77 Korea c. 2099T>C p. Leu700Pro [25] 
+
+78 Korea c. 2359C>T p. Gln787* [25] 
+
+79 Korea c. 2738G>A p. Arg913Gln [25] 
+
+80 Korea c. 2927C>T p. Ser976Phe [25] 
+
+81 Korea c. 2927C>T p. Ser976Phe [26] 
+
+82 Korea NA p. Gln95del [26] 
+
+83 Korea NA p. Ser967Phe [27] 
+
+84 Romania c. 1805_1806delAT p. Tyr602Cysfs*31 [28] 
+
+85 Romania c. 2660+1G>A NA [28] 
+
+86 UK 
+c. 2878_2879ins 
+
+AGGGGTGCACCCTG 
+p. Val960Glufs*12 [29] 
+
+87 UK c. 2221G>A p. Gly741Arg [29] 
+
+88 UK c. 1195C>T p. Arg399Cys [30] 
+
+89 UK c. 2221G>A p. Gly741Arg [30] 
+
+90 UK c. 2221G>A p. Gly741Arg [30] 
+
+91 UK c. 2687G>A p. Arg896Gln [31] 
+
+92 UK c. 2221G>A p. Gly741Arg [32] 
+
+93 UK c. CCC>CTC p. Pro349Leu [8] 
+
+94 UK c. CCC>CTC p. Pro349Leu [8] 
+
+95 CA c. 533C>T p. Ser178Leu [33] 
+
+96 CA c. 533C>T p. Ser178Leu [33] 
+
+97 CA c. 1704C>A p. Pro560His [34] 
+
+98 Sri Lanka c. 1276A>T p. Asn426Tyr [35] 
+
+99 Turkey c. 1145C>T p. Thr382Met [36] 
+
+100 Turkey c. 602-16G>A SP [37] 
+
+101 France c. 2221G>A p. Gly741Arg [38] 
+
+102 France c. 2221G>A p. Gly741Arg [38] 
+
+103 France c. 1180+1G>T SP [38] 
+
+104 France c. 1180+1G>T SP [38] 
+
+105 France c. 1180+1G>T SP [39] 
+
+106 France c. 1180+1G>T SP [39] 
+
+107 France c. 1925G>A p. Arg642His [39] 
+
+108 Italy c. 1095+1G>A NA [40] 
+
+109 Italy c. 1196_1202dup7bp p. Ser402X [41] 
+
+110 Italy c. 1196_1202dup7bp p. Ser402X [41] 
+
+111 Italy c. 1196_1202dup7bp p. Ser402X [41] 
+
+112 Italy c. 1180+1G>T SP [42] 
+
+113 Italy c. 531-2A>G SP [43] 
+
+114 Italy c. 2897A>G p. Arg958Gly [43] 
+
+115 Italy c. 539T>C p. Trp172Arg [43] 
+
+
+
+116 Italy c. 1949C>G p. Arg642Gly [43] 
+
+117 Italy c. 2736G>A p. Arg904Gln [44] 
+
+118 Italy c. 45_46del2-bp Complete loss of TSC-protein [45] 
+
+119 Italy c. 45_46del2-bp Complete loss of TSC-protein [45] 
+
+120 Italy NA p. Asp62Asn [45] 
+
+121 Greece c. 2538G>A p. W844stop [46] 
+
+122 Spain c. 361G>T p. Glu121Ter [47] 
+
+123 Spain c. 1939G>A p. Val647Met [48] 
+
+124 Spain c. 1939G>A p. Val647Met [48] 
+
+125 Spain c. 1939G>A p. Val647Met [48] 
+
+126 Spain c. 1939G>A p. Val647Met [48] 
+
+127 Spain c. 1939G>A p. Val647Met [48] 
+
+128 Spain c. 1939G>A p. Val647Met [48] 
+
+129 Spain c. 1925G>A p. Arg642His [49] 
+
+130 Spain c. 1925G>A p. Arg642His [49] 
+
+131 Spain 
+G to A transition at position +1 of 
+
+the donor splice site 
+NA [50] 
+
+132 Spain intron 9 +1 G>T NA [51] 
+
+133 Spain intron 9 +1 G>T NA [51] 
+
+134 Spain intron 9 +1 G>T NA [51] 
+
+135 Spain intron 9 +1 G>T NA [51] 
+
+136 Spain intron 9 +1 G>T NA [51] 
+
+137 Spain intron 9 +1 G>T NA [51] 
+
+138 Spain intron 9 +1 G>T NA [51] 
+
+139 Spain intron 9 +1 G>T NA [51] 
+
+140 Spain intron 9 +1 G>T NA [51] 
+
+141 Spain intron 9 +1 G>T NA [51] 
+
+142 Spain intron 9 +1 G>T NA [51] 
+
+143 Spain intron 9 +1 G>T NA [51] 
+
+144 Spain intron 9 +1 G>T NA [51] 
+
+145 Spain intron 9 +1 G>T NA [51] 
+
+146 Spain intron 9 +1 G>T NA [51] 
+
+147 Spain intron 9 +1 G>T NA [51] 
+
+148 Spain intron 9 +1 G>T NA [51] 
+
+149 Spain intron 9 +1 G>T NA [51] 
+
+150 Spain intron 9 +1 G>T NA [51] 
+
+151 Spain intron 9 +1 G>T NA [51] 
+
+152 Spain c. CTT>CCT p. Leu850Pro [8] 
+
+153 Spain c. CTT>CCT p. Leu850Pro [8] 
+
+154 Spain c. CTT>CCT p. Leu850Pro [8] 
+
+155 Netherlands c. 602-16G>A SP [52] 
+
+156 Netherlands 
+c. 1420C>T p. Thr465Thr 
+
+[34] 
+c. 669T>C p. Leu215Pro 
+
+
+
+c. 2736G>A p. Arg904Gln 
+
+c. 2881+1G>T SP 
+
+157 Netherlands 
+c. 1971C>G p. Thr649Arg 
+
+[34] 
+c. 701G>A p. Ala226Thr 
+
+158 Netherlands c. 2927C >T p. Arg968Stop [34] 
+
+159 Netherlands 
+c. 2927C>T p. Arg968Stop 
+
+[34] 
+c. 2780C>T p. Arg919Cys 
+
+160 Belgium NA p. Arg399Cys [53] 
+
+161 India 
+c. 2879_2883+9 
+
+ins14bp 
+p. Val 960 Glu fsx12 [54] 
+
+162 Germany NA p. Val647Met [55] 
+
+163 Germany NA p. Val647Met [55] 
+
+164 Germany c. 260_263insCC 
+
+frameshift Pro79 
+
+introducing stop 35 codons 
+
+downstream 
+
+[34] 
+
+165 Germany c. 1988C>T p. Arg655Cys [34] 
+
+166 Sweden c. 2859+1G>T SP [56] 
+
+167 Sweden c.2667+1T>G SP [56] 
+
+168 Sweden c.2859+1G>T SP [56] 
+
+169 Sweden c. 1569-1G>A SP [56] 
+
+170 Sweden c. 695G>A p. Gly230Asp [56] 
+
+171 Sweden c.2859+1G>T SP [56] 
+
+172 
+Czech 
+
+Republic 
+c. 1315G>A p. Gly439Ser [57] 
+
+173 
+Czech 
+
+Republic 
+c. 790G>C p. Gly264Arg [57] 
+
+174 Portugal c. 650C>T p. Arg209Trp [34] 
+
+175 Europe1 c. 1925G>A p. Arg642His [58] 
+
+176 Europe1 c. 514T>C p. Trp172Arg [58] 
+
+177 Europe1 c. 2883+1G>T SP [58] 
+
+178 Europe1 c. 2089_2095del p. Thr697fs [58] 
+
+179 Europe1 c. 3053G>A p. Arg1018Gln [58] 
+
+180 Europe1 c. 2965G>A p. Gly989Arg [58] 
+
+181 Europe1 c. 2981G>A p. Cys994Tyr [58] 
+
+182 Europe1 c. 1195C>T p. Arg399Cys [58] 
+
+183 Europe1 c. 2089_2095del p. Thr697fs [58] 
+
+184 Europe1 c. 1196_1202dup p. Ser402X [58] 
+
+185 Europe1 c. 1180+1G>T SP [58] 
+
+186 Europe1 c. 815T>C p. Leu272Pro [58] 
+
+187 Europe1 c. 1387G>A p. Gly463Arg [58] 
+
+188 Europe1 c. 237_238dup p. Arg80fs [58] 
+
+189 Europe1 c. 506-1G>A SP [58] 
+
+190 Europe1 c. 602-?_852+?dell p. Gly502fs [58] 
+
+
+
+191 Europe1 c. 488C>T p. Thr163Met [58] 
+
+192 Europe1 c. 1928C>T p. Pro643Leu [58] 
+
+193 Europe1 c. 2572C>T p. Leu858Phe [58] 
+
+194 Europe1 c. 1096-1G>A SP [58] 
+
+195 Europe1 c. 2089_2095del p. Thr697fs [58] 
+
+196 Europe1 c. 2883+1G>T SP [58] 
+
+197 Europe1 c. 910A>C p. Thr304Pro [58] 
+
+198 Europe1 c. 815T>C p. Leu272Pro [58] 
+
+199 Europe1 c. 2883+1G>T SP [58] 
+
+200 Europe1 c. 2548G>C p. Gly850Arg [58] 
+
+201 Europe1 c. 247C>T p. Arg83Trp [58] 
+
+202 Europe1 c. 1928C>T p. Pro643Leu [58] 
+
+203 Europe1 c. 2981G>A p. Cys994Tyr [58] 
+
+204 Europe1 c. 1315G>A p. Gly439Ser [58] 
+
+205 Europe1 c. 1939G>A p. Val647Met [58] 
+
+206 Europe1 c. 815T>C p. Leu272Pro [58] 
+
+207 Europe1 c. 815T>C p. Leu272Pro [58] 
+
+208 Europe1 c. 815T>C p. Leu272Pro [58] 
+
+209 Europe1 c. 1679C>G p. Pro560Arg [58] 
+
+210 Europe1 c. 2221G>A p. Gly741Arg [58] 
+
+211 Europe1 c. 3053G>A p. Arg1018Cys [58] 
+
+212 Europe1 c. 2221G>A p. Gly741Arg [58] 
+
+Co-homo (n=6): Europe (n=3) + Asia (n=3) 
+
+213 China 
+
+c. C2782T p. Arg928Cys 
+
+[19] c. C1395T p. Thr465Thr 
+
+c. A366G p. Ala122Ala 
+
+214 China 
+NA p. Thr60Met 
+
+[20] 
+NA p. Arg655His 
+
+215 China 
+c. 179C>T p. Thr60Met 
+
+[23] 
+c. 1964G>A p. Arg655His 
+
+216 
+Czech 
+
+Republic 
+
+c. 1315G>A p. Gly439Ser 
+[57] 
+
+c. 2711G>A p. Arg904Gln 
+
+217 
+Czech 
+
+Republic 
+
+c. 791G>C p. Gly264Ala 
+[57] 
+
+c. 2711G>A p. Arg904Gln 
+
+218 Europe1 
+c. 575T>C p. Ile192Thr 
+
+[58] 
+c. 1698_1700del p. Asn566del 
+
+Hetero (n=131): Europe (n=57) + North America (n=11) + Asia (n=63) 
+
+219 China c. 2582G>A p. Arg861His [59] 
+
+220 China NA p. Asn359Lys [60, 61] 
+
+221 China c. 2816G>A p. Trp939X [62] 
+
+222 China c.486_490delinsA p. Thr163fs [62] 
+
+223 China c. 836T>G p. Met279Arg [63] 
+
+224 China c. 545C>A p. Thr180Lys [64] 
+
+
+
+225 China c. 1844C>T p. Ser615Leu [16] 
+
+226 China NA p. Asp486Asn [16] 
+
+227 China NA 
+p. Gly196Val 
+
+R959frameshift 
+[16] 
+
+228 China 
+c. 486-490del 
+
+TACGGinsA 
+p. 162frameshift [65] 
+
+229 China NA p. Leu858His [17] 
+
+230 China NA p. Leu671Pro [17] 
+
+231 China c. C2782T p. Arg928Cys [19] 
+
+232 China c. C2782T p. Arg928Cys [19] 
+
+233 China c. C2782T p. Arg928Cys [19] 
+
+234 China c. C2782T p. Arg928Cys [19] 
+
+235 China c. C2782T p. Arg928Cys [19] 
+
+236 China c. C2782T p. Arg928Cys [19] 
+
+237 China c. C2782T p. Arg928Cys [19] 
+
+238 China c. C2782T p. Arg928Cys [19] 
+
+239 China c. C2129A p. Ser710Term [19] 
+
+240 China c. C2129A p. Ser710Term [19] 
+
+241 China c. C2129A p. Ser710Term [19] 
+
+242 China c. C2129A p. Ser710Term [19] 
+
+243 China c. C2129A p. Ser710Term [19] 
+
+244 China c. C2129A p. Ser710Term [19] 
+
+245 China c. C2129A p. Ser710Term [19] 
+
+246 China NA p. Asn566Lys [20] 
+
+247 China c. 185C>T p. Thr60Met [21] 
+
+248 China c. 2761C>T p. Arg919Cys [21] 
+
+249 China c. 1462G>A p. Asp486Asn [21] 
+
+250 China IVS16-2A>G SP [21] 
+
+251 China c. 185C>T p. Thr60Met [22] 
+
+252 China c. 1844C>T p. Ser615Leu [23] 
+
+253 China c.1456G>A p. Asp486Asn [23] 
+
+254 China c. 1698C>A p. Asn566Lys [23] 
+
+255 China c. 1456G>A p. Asp486Asn [23] 
+
+256 China c. 1964G>T p. Arg655Leu [23] 
+
+257 China c. 2738G>A p. Arg913Gln [23] 
+
+258 China c. 2738G>A p. Arg913Gln [23] 
+
+259 China c. 2782C>T p. Arg928Cys [23] 
+
+260 China c. 1456G>A p. Asp486Asn [23] 
+
+261 China c. 2782C>T p. Arg928Cys [23] 
+
+262 China c. 1456G>A p. Asp486Asn [23] 
+
+263 China 
+c. 806 insTTGGCGT 
+
+GGTCTCGGTCA 
+p. 269 ins IGVVSV [23] 
+
+264 Korea c. 2716C>T p. Pro906Ser [66] 
+
+
+
+265 Korea c. 961C>T p. Arg321Trp [25] 
+
+266 Korea c. 964+1G>T NA [25] 
+
+267 Korea c. 1077C>G p. Asn359Lys [25] 
+
+268 Korea c. 1667C>T p. Pro556Leu [25] 
+
+269 Korea c. 1732G > A p. Val578Met [25] 
+
+270 Korea c. 2369-4G>A NA [25] 
+
+271 Korea c. 2660+1delG NA [25] 
+
+272 Korea c. 539C>A p. Thr180Lys [25] 
+
+273 Korea c. 781C>T p. Arg261Cys [67] 
+
+274 Korea c. 781C>T p. Arg261Cys [67] 
+
+275 Korea NA p. Thr180Lys [26] 
+
+276 Korea c. 2666+1delG NA [26] 
+
+277 Korea NA p. Gln95del [26] 
+
+278 Japan c. 3052C>T p. Arg1018X [68] 
+
+279 Japan c. 545C>A p. Thr180Lys [69] 
+
+280 Japan c. 1712C>T p. Ala569Val [70] 
+
+281 Japan c. 1A>T p. Met1Leu [71] 
+
+282 Italy c. 1415G>A p. Ala464Thr [43] 
+
+283 Italy c. 2579C>T p. Arg852Cys [43] 
+
+284 Italy c. 2979G>A p. Cys985Tyr [43] 
+
+285 Italy 
+c. 2144_2158delGCC 
+
+TTCTACTCGGATinsTG 
+p. Ala707fsX729 [43] 
+
+286 Italy c. 1413G>A p. Gly463Glu [43] 
+
+287 Italy c. 1413G>A p. Gly463Glu [43] 
+
+288 Italy c. 513C>T p. Thr163Met [43] 
+
+289 Italy c. 513C>T p. Thr163Met [43] 
+
+290 Italy c. 1869C>G p. Ser615Trp [43] 
+
+291 Italy NA p. Cys13Thr [45] 
+
+292 Italy c. 263insCC NA [45] 
+
+293 Italy c. 263insCC NA [45] 
+
+294 Italy NA p. Arg209Trp [45] 
+
+295 Italy NA p. Leu542Pro [45] 
+
+296 Italy c. 2320del1bp NA [45] 
+
+297 Germany NA p. Asp486Asn [55] 
+
+298 Germany c. 807G>A p. Arg261His [34] 
+
+299 Germany c. 1950G>A 
+p. Arg642His 
+
+or SP 
+[34] 
+
+300 Germany c. 2574>C p. Leu850Pro [34] 
+
+301 France c. 1390G>A p. Ala464Thr [39] 
+
+302 France c. 2782C>T p. Arg928Cys [39] 
+
+303 France c. 791G>C p. Gly264Ala [39] 
+
+304 France c. 791G>C p. Gly264Ala [39] 
+
+305 France c. 791G>C p. Gly264Ala [39] 
+
+
+
+306 France c. 791G>C p. Gly264Ala [39] 
+
+307 France c. 2327/2328delA 
+
+truncated SLC12A3 
+
+protein, frameshift 
+
+Phe767 introducing stop at 6 
+
+codons downstream 
+
+[34] 
+
+308 Sweden c. 2987G>A p. Cys994Tyr [56] 
+
+309 
+Czech 
+
+Republic 
+c. 1315G>A p. Gly439Ser [57] 
+
+310 
+Czech 
+
+Republic 
+c. 238ins.CC Pro79fsX35 [57] 
+
+311 
+Czech 
+
+Republic 
+c. 238ins.CC Pro79fsX35 [57] 
+
+312 
+Czech 
+
+Republic 
+c. 2711G>A p. Arg904Gln [57] 
+
+313 Ca c. 260_263insCC 
+
+frameshift Pro79 
+
+introducing stop 35 codons 
+
+downstream 
+
+[34] 
+
+314 Ca c. 1862G>A p. Gly613Ser [34] 
+
+315 Ca c. GAC>AAC p. Asp486Asn [8] 
+
+316 United States c. CGC>CAC p. Arg655His [8] 
+
+317 United States c. CGC>CTC p. Arg653Leu [8] 
+
+318 United States c. CGC>CTC p. Arg653Leu [8] 
+
+319 United States c. GGT>GTT 5’ SP [8] 
+
+320 United States c. GGT>GTT 5’ SP [8] 
+
+321 United States c. GGT>GTT 5’ SP [8] 
+
+322 United States c. GGT>GTT 5’ SP [8] 
+
+323 United States c. GGT>GTT 5’ SP [8] 
+
+324 Spain c. GCG>GTG p. Ala588Val [8] 
+
+325 Europe1 c. 815T>C p. Leu272Pro [58] 
+
+326 Europe1 c. 2883+1G>T SP [58] 
+
+327 Europe1 c. 2883+1G>T SP [58] 
+
+328 Europe1 c. 775G>A p. Asp259Asn [58] 
+
+329 Europe1 c. 1387G>A p. Gly463Arg [58] 
+
+330 Europe1 c. 1024G>T p. Gly342X [58] 
+
+331 Europe1 c. 2186G>T p. Gly729Val [58] 
+
+332 Europe1 c. 2883+1G>T SP [58] 
+
+333 Europe1 c. 1335+1G>C SP [58] 
+
+334 Europe1 c. 1196_1202dup p. Ser402X [58] 
+
+335 Europe1 c. 911C>T p. Thr304Met [58] 
+
+336 Europe1 c. 2531G>A p. Trp844X [58] 
+
+337 Europe1 c. 2883+1G>T SP [58] 
+
+338 Europe1 c. 2252C>T p. Pro751Leu [58] 
+
+339 Europe1 c. 237_238dup p. Arg80fs [58] 
+
+
+
+340 Europe1 c. 815T>C p. Leu272Pro [58] 
+
+341 Europe1 c. 2221G>A p. Gly741Arg [58] 
+
+342 Europe1 c. 2221G>A p. Gly741Arg [58] 
+
+343 Europe1 c. 2164C>T p. Gln722X [58] 
+
+344 Europe1 c. 1196_1202dup p. Ser402X [58] 
+
+345 Europe1 c. 2830C>T p. Arg944Trp [58] 
+
+346 Europe1 c. 2884-6G>A SP [58] 
+
+347 Europe1 c. 2497T>A p. Ser833Thr [58] 
+
+348 Europe1 c. 1568-4G>A SP [58] 
+
+349 Europe1 c. 403C>T p. Arg135Cys [58] 
+
+Co-hetero (n=590):  
+
+Europe (n=261) + North America (n=7) + Asia (n=316) + Oceania (n=1) + Africa (n=5) 
+
+350 China 
+c. 473G>A p. Arg158Gln 
+
+[72] 
+c. 602-16G>A SP 
+
+351 China 
+c. 1456G>A p. Asp486Asn 
+
+[72] 
+c. 965-1G>A SP 
+
+352 China 
+c. 911C>T p. Thr304Met 
+
+[72] 
+c. 506-1G>A SP 
+
+353 China 
+c. 1567G>A p. Ala523Thr 
+
+[73] 
+c. 2542G>A p. Asp523Asn 
+
+354 China 
+c. 911C > T p. Thr304Met 
+
+[62] 
+c. 2099T > C p. Leu700Pro 
+
+355 China 
+c. 1456G > A p. Asp486Asn 
+
+[62] 
+c. 2633+1G>A SP 
+
+356 China 
+c. 1456G>A p. Asp486Asn 
+
+[62] 
+c. 2633+1G > A SP 
+
+357 China 
+c. 486_490delinsA p. Thr163fs 
+
+[62] 
+c. 1456G>A p. Asp486Asn 
+
+358 China 
+
+c. 805_806ins 
+
+TTGGCGTG 
+
+GTCTCGGTCA 
+
+p. Thr269fs 
+[62] 
+
+c. 1288T>G p. Cys430Gly 
+
+359 China 
+c.473G>A p. Arg158Gln 
+
+[62] 
+c.634G > A p. Gly212Ser 
+
+360 China 
+c. 234delG p. E78fs 
+
+[62] 
+c. 179C > T p. Thr60Met 
+
+361 China 
+c. 234delG p. E78fs 
+
+[62] 
+c. 179C>T p. Thr60Met 
+
+362 China 
+c. 486_490delinsA p. Thr163fs 
+
+[62] 
+c. 1925G>A p. Arg642His 
+
+363 China 
+c. 486_490delinsA p. Thr163fs 
+
+[62] 
+c. 1925G>A p. Arg642His 
+
+364 China c. 179C>T p. Thr60Met [62] 
+
+
+
+c. 506-1G>A SP 
+
+365 China 
+c. 179C>T p. Thr60Met 
+
+[62] 
+c. 506-1G>A SP 
+
+366 China 
+c. 506-1G>A SP 
+
+[62] 
+c. 2129C>T p. Ser710T 
+
+367 China 
+c. 506-1G> A SP 
+
+[62] 
+c. 1077C>G p. Asn359Lys 
+
+368 China 
+
+c. 486_490delinsA p. Thr163fs 
+
+[62] 
+c. 965-1 _969 
+
+delinsACCGAAA 
+p. fs 
+
+c. 976_977delGT p. Val326fs 
+
+369 China 
+c. 1919A>G p. Asn640Ser 
+
+[74] 
+c. 2522A>G p. Asp841Gly 
+
+370 China 
+c. 2842delT NA 
+
+[75] 
+c. 1569_1586del NA 
+
+371 China 
+
+NA p. Thr60Met 
+
+[76] NA p. Thr163Met 
+
+NA p. Arg871His 
+
+372 China 
+
+NA p. Arg83Gln 
+
+[76] NA p. Thr163Met 
+
+NA p. Arg871His 
+
+373 China 
+
+NA p. Arg83Gln 
+
+[76] NA p. Thr163Met 
+
+NA p. Arg871His 
+
+374 China 
+NA p. Thr60Met 
+
+[76] 
+NA p. Arg83Gln 
+
+375 China 
+
+NA p. Thr60Met 
+
+[76] NA p. Thr163Met 
+
+NA p. Arg871His 
+
+376 China 
+NA p. Arg83Gln 
+
+[76] 
+NA p. Gly362Ser 
+
+377 China 
+NA p. Gly729Val 
+
+[76] 
+NA p. Gly439Ser 
+
+378 China 
+NA p. Thr60Met 
+
+[76] 
+NA p. Arg83Gln 
+
+379 China 
+
+c. 1456G>A p. Asp486Asn 
+
+[77] 
+c. 2102_2107 (delACAAGA) 
+
+p. 701_702 
+
+delAsnLys 
+
+380 China 
+c. 179C>T p. Thr60Met 
+
+[78] 
+c. 1456G>A p. Asp486Asn 
+
+381 China 
+NA p. Gly439Ser 
+
+[16] 
+NA p. Ser615Leu 
+
+382 China NA p. Arg399Cys [16] 
+
+
+
+NA p. Asp486Asn 
+
+383 China 
+
+NA p. Trp151Ter 
+
+[16] NA p. Ala370Pro 
+
+NA p. Gly800Arg 
+
+384 China 
+NA p. Gln131Lys 
+
+[16] 
+NA p. Gly201Asp 
+
+385 China 
+NA p. Val169Ile 
+
+[16] 
+NA p. Leu170Gln 
+
+386 China 
+NA p. Tyr70Cys 
+
+[16] 
+NA p. Arg861Cys 
+
+387 China 
+NA p. Leu215Pro 
+
+[16] 
+NA p. Trp844Ter 
+
+388 China 
+NA p. 809frameshift 
+
+[16] 
+NA p. Arg913Gln 
+
+389 China 
+NA p. Val677Met 
+
+[16] 
+NA p. Ser976Phe 
+
+390 China 
+NA p. Leu700Val 
+
+[16] 
+NA p. Arg913Gln 
+
+391 China 
+NA p. Thr428Ile 
+
+[16] 
+NA p. Asp486Asn 
+
+392 China 
+c. 179C>T p. Thr60Met 
+
+[65] 
+c. 506-1G>A SP 
+
+393 China 
+c. 179C>T p. Thr60Met 
+
+[65] 
+c. 506-1G>A SP 
+
+394 China 
+c. 506-1G>A SP 
+
+[65] 
+c. 2129C>T NA 
+
+395 China 
+c. 506-1G>A SP 
+
+[65] 
+c. 1077C>G p. Asn359Lys 
+
+396 China 
+
+c. 486-490del 
+
+TACGGinsA 
+p. 162frameshift 
+
+[65] c. 965-1_969 
+
+delgCGGAC 
+
+insACCGA and c. 976-977delGT 
+
+NA 
+
+397 China 
+NA p. Asn359Lys 
+
+[17] 
+NA p. Asp486Asn 
+
+398 China 
+NA p. Asn359Lys 
+
+[17] 
+c. 493-496delACGG NA 
+
+399 China 
+NA p. Asp486Asn 
+
+[17] 
+NA p. Arg928Cys 
+
+400 China 
+
+c. 179C>T p. Thr60Met 
+
+[79] 
+c. 366A>G p. Ala122Ala 
+
+965-1_976g_I7E8_ 
+
+cggacatttttg 
+
+p. 965-1_976 
+
+del13ins12 
+
+
+
+to a_I7E8_ccgaaaatttt 
+
+401 China 
+
+c. 179C>T p. Thr60Met 
+
+[79] 
+
+c. 366A>G p. Ala122Ala 
+
+965-1_976g_I7E8_ 
+
+cggacatttttg 
+
+to a_I7E8_ccgaaaatttt 
+
+p. 965-1_976 
+
+del13ins12 
+
+402 China 
+
+c. 366A>G p. Ala122Ala 
+
+[79] 
+965-1_976g_I7E8_ 
+
+cggacatttttg 
+
+to a_I7E8_ccgaaaatttt 
+
+p. 965-1_976 
+
+del13ins12 
+
+403 China 
+c. 179C>T p. Thr60Met 
+
+[79] 
+c. 366A>G p. Ala122Ala 
+
+404 China 
+c. 179C>T p. Thr60Met 
+
+[79] 
+c. 366A>G p. Ala122Ala 
+
+405 China 
+c. 179C>T p. Thr60Met 
+
+[79] 
+c. 366A>G p. Ala122Ala 
+
+406 China 
+
+c. 1077C>G p. Asn359Lys 
+
+[79] c. 1145C>T p. Thr382Met 
+
+c. 2738G>A p. Arg913Gln 
+
+407 China 
+c. 1077C>G p. Asn359Lys 
+
+[79] 
+c. 2738G>A p. Arg913Gln 
+
+408 China 
+c. 1077C>G p. Asn359Lys 
+
+[79] 
+c. 2738G>A p. Arg913Gln 
+
+409 China 
+c. 1077C>G p. Asn359Lys 
+
+[79] 
+c. 2738G>A p. Arg913Gln 
+
+410 China 
+c. 179C>T p. Thr60Met 
+
+[80] 
+c. 234delG p. E78fs 
+
+411 China 
+
+c. 486-490del 
+
+TACGGinsA 
+p. 162frameshift 
+
+[80] 
+
+c. 1925G>A p. Arg642His 
+
+412 China 
+
+c. 486-490del 
+
+TACGGinsA 
+p. 162frameshift 
+
+[80] 
+
+c. 1925G>A p. Arg642His 
+
+413 China 
+NA p. Thr163Met 
+
+[81] 
+NA p. Thr649Met 
+
+414 China 
+NA p. Thr649Met 
+
+[81] 
+c. 2069delA NA 
+
+415 China 
+NA p. Asn442Lys 
+
+[82] 
+c. IVS6-1G>A NA 
+
+416 China 
+c. 2135C>A NA 
+
+[83] 
+c. 2881-2delAG NA 
+
+417 China 
+c. 2135C>A NA 
+
+[83] 
+c. 2881-2delAG NA 
+
+
+
+418 China 
+c. 2135C>A NA 
+
+[83] 
+c. 2881-2delAG NA 
+
+419 China 
+c. 2135C>A NA 
+
+[83] 
+c. 2881-2delAG NA 
+
+420 China 
+c. 2135C>A NA 
+
+[83] 
+c. 2881-2delAG NA 
+
+421 China 
+c. C494T p. Thr163Met 
+
+[84] 
+c. C1284G p. Asn426Lys 
+
+422 China 
+NA p. Arg913Gln 
+
+[20] 
+c. 1670-8C>T NA 
+
+423 China 
+NA p. Arg913Gln 
+
+[20] 
+c. 1670-8C>T NA 
+
+424 China 
+
+c. 185C>T p. Thr60Met 
+
+[21] c. 492_496del 
+
+TACGGinsA 
+p. 162Frameshift 
+
+425 China 
+c. 1022C>T p. Thr339Ile 
+
+[21] 
+c. 1083C>G p. Asn359Lys 
+
+426 China 
+c. 1083C>G p. Asn359Lys 
+
+[21] 
+c. 1322G>T p. Gly439Val 
+
+427 China 
+c. 185C>T p. Thr60Met 
+
+[21] 
+c. 2717G>A p. Arg904Gln 
+
+428 China 
+
+IVS7-1G>A 
+
+g. 7427_7438delins 
+
+CCGAAAATTTT 
+
+SP 
+[21] 
+
+c. 2717G>A p. Arg904Gln 
+
+429 China 
+
+IVS7-1G>A 
+
+g. 7427_7438delins 
+
+CCGAAAATTTT 
+
+SP 
+[21] 
+
+c. 1268G>T p. Cys421Phe 
+
+430 China 
+c. 593G>T p. Gly196Val 
+
+[22] 
+c. 1322G>T p. Gly439Val 
+
+431 China 
+
+c. 1294T>G p. Cys430Gly 
+
+[22] c. 346_353del 
+
+ACTGATGG 
+114 frameshift 
+
+432 China 
+
+c. 185C>T p. Thr60Met 
+
+[22] c. 346_353del 
+
+ACTGATGG 
+114 frameshift 
+
+433 China 
+c. 185C>T p. Thr60Met 
+
+[22] 
+c. 1294T>G p. Cys430Gly 
+
+434 China 
+c. 185C>T p. Thr60Met 
+
+[22] 
+c. 1384delG 460 frameshift 
+
+435 China 
+c. 1322G>T p. Gly439Val 
+
+[22] 
+c. 2883_2884delAG 959 frameshift 
+
+
+
+436 China 
+c. 1718T>G p. Leu571Pro 
+
+[22] 
+c. 2969insGCT p. 997insCys 
+
+437 China 
+c. 1718T>G p. Leu571Pro 
+
+[22] 
+c. 2969insGCT p. 997insCys 
+
+438 China 
+c. 185C>T p. Thr60Met 
+
+[22] 
+c. 1462G>A p. Asp486Asn 
+
+439 China 
+c. 644T>C p. Leu215Pro 
+
+[23] 
+c. 2532G>A p. Trp844X 
+
+440 China 
+c. 1315G>A p. Gly439Ser 
+
+[23] 
+c. 1844C>T p. Ser615Leu 
+
+441 China 
+
+c. 452G>A p. Trp151X 
+
+[23] c. 2398G>A p. Gly800Arg 
+
+c. 1108G>C p. Ala370Pro 
+
+442 China 
+
+c. 2454_2461del 
+
+CAAGGCCC 
+p. 819frameshift 
+
+[23] 
+
+c. 2738G>A Arg913Gln 
+
+443 China 
+
+c. 486-490del 
+
+TACGGinsA 
+p. 162frameshift 
+
+[23] 
+c. 1288T>G p. Cys430Gly 
+
+c. 1975G>A p. Val659Met 
+
+444 China 
+c. 1283C>T p. Thr428Ile 
+
+[23] 
+c. 1456G>A p. Asp486Asn 
+
+445 China 
+c. 2877_2878delAG p. Arg959fs 
+
+[23] 
+c. 587G>T p. Gly196Val 
+
+446 China 
+c. 179C>T p. Thr60Met 
+
+[23] 
+c. 1602A>C p. Asn534Lys 
+
+447 China 
+c. 248G>A p. Arg83Gln 
+
+[23] 
+c. 2782C>T p. Arg928Cys 
+
+448 China 
+
+c. 1456G>A p. Asp486Asn 
+
+[23] c. 806 insTTGGCGT 
+
+GGTCTCGGTCA 
+p. 269 ins IGVVSV 
+
+449 China 
+c. 1456G>A p. Asp486Asn 
+
+[23] 
+c. 1195C>T p. Arg399Cys 
+
+450 China 
+c. 2927C>T p. Ser976Phe 
+
+[23] 
+c. 2029G>A p. Val677Met 
+
+451 China 
+c. 506-1G>A SP 
+
+[23] 
+c. 496G>A p. Leu170Gln 
+
+452 China 
+c. 209A>G p. Tyr70Cys 
+
+[23] 
+c. 2581C>T p. Arg861Cys 
+
+453 China 
+c. 2098C>G p. Leu700Val 
+
+[23] 
+c. 2738G>A p. Arg913Gln 
+
+454 China 
+c. 1946C>T p. Thr649Met 
+
+[23] 
+c. 1909C>T p. His637Tyr 
+
+
+
+455 China 
+c. 2782C>T p. Arg928Cys 
+
+[23] 
+c. 1924C>T p. Arg642Cys 
+
+456 China 
+c. 1077C>G p. Asn359Lys 
+
+[23] 
+c. 1850A>G p. Gln617Arg 
+
+457 China 
+c. 1315G>A p. Gly439Ser 
+
+[23] 
+c. 1924C>T p. Arg642Cys 
+
+458 China 
+c. 2582G>A p. Arg861His 
+
+[23] 
+c. 1698C>A p. Asn566Lys 
+
+459 China 
+c. 539C>A p. Thr180Lys 
+
+[23] 
+c. 179C>T p. Thr60Met 
+
+460 China 
+
+c. 815T>C p. Leu272Pro 
+
+[23] c. 965-1_976delins 
+
+ACCGAAAATTTT 
+SP 
+
+461 China 
+
+Intron 7 as –1 G>A and exon 8 nt 
+
++1 to +12 delCGGACATTT 
+
+TTGinsCCGAAAATTTT 
+
+NA 
+[85] 
+
+c. 185C>T p. Thr60Met 
+
+462 China 
+c. 676G>A p. Ala226Thr 
+
+Our study 
+c. 179C>A p. Thr60Met 
+
+463 China 
+
+c. 509T>A p. Leu170Gln 
+
+Our study c. 179C>T p. Thr60Met 
+
+c. 421G>A p. Gly141Arg 
+
+464 Japan 
+c. 1732G>A p. Val578Met 
+
+[86] 
+c. 2537_38delTT p. 846fs 
+
+465 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+466 Japan 
+c. 1195C>T p. Arg399Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+467 Japan 
+c. 1257_1259dup p. Ala420dup 
+
+[2] 
+c. 1868T>C p. Leu623Pro 
+
+468 Japan 
+c. 2029G>A p. Val677Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+469 Japan 
+
+c. 805_806ins18 
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+[2] 
+
+c. 1196_1202dup 
+
+GTGATGC 
+p. Ser402* 
+
+470 Japan 
+c. 1195C>T p. Arg399Cys 
+
+[2] 
+c. 1670-1G>T IVS13 as G-T -1 
+
+471 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 3052C>T p. Arg1018* 
+
+472 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[2] 
+c. 2503C>T p. Gln835* 
+
+
+
+473 Japan 
+c. 179C>T p. Thr60Met 
+
+[2] 
+c. 2029G>A p. Val677Met 
+
+474 Japan 
+c. 139delC p. His47Thrfs*67 
+
+[2] 
+c. 1924C>T p. Arg642Cys 
+
+475 Japan 
+c. 2221G>A p. Gly741Arg 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+476 Japan 
+c. 1195C>T p. Arg399Cys 
+
+[2] 
+c. 1924C>T p. Arg642Cys 
+
+477 Japan 
+c. 1195C>T p. Arg399Cys 
+
+[2] 
+c. 1924C>T p. Arg642Cys 
+
+478 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 863T>C p. Leu288Pro 
+
+479 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 1732G>A p. Val578Met 
+
+480 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2891G>A p. Arg964Gln 
+
+481 Japan 
+c. 1706C>T p. Ala569Val 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+482 Japan 
+c. 139delC p. His47Thrfs*67 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+483 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 1868T>C p. Leu623Pro 
+
+484 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2747+2T>A IVS23+2T>A 
+
+485 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2747+2T>A IVS23+2T>A 
+
+486 Japan 
+c. 817dupG p. Ala273Glyfs*38 
+
+[2] 
+c. 1670-191C>T Cryptic exon insertion 
+
+487 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[2] 
+c. 2548+253C>T Cryptic exon insertion 
+
+488 Japan 
+c. 179C>T p. Thr60Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+489 Japan 
+c. 1045C>T p. Pro349Ser 
+
+[2] 
+c. 1706C>T p. Ala569Val 
+
+490 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 3053G>A p. Arg1018Gln 
+
+491 Japan 
+c. 960C>G p. Tyr320* 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+492 Japan 
+c. 1100C>T p. Pro367Leu 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+493 Japan 
+c. 1732G>A p. Val578Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+
+
+494 Japan 
+c. 1844C>T p. Ser615Leu 
+
+[2] 
+c. 2537_2538delTT p. Phe846* 
+
+495 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+496 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2877_2878delAG p. Arg959Serfs*11 
+
+497 Japan 
+c. 488C>T p. Thr163Met 
+
+[2] 
+c. 1939delG p. Val647Cysfs*25 
+
+498 Japan 
+c. 1195C>T p. Arg399Cys 
+
+[2] 
+c. 2891G>A p. Arg964Gln 
+
+499 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 1195C>T p. Arg399Cys 
+
+500 Japan 
+
+c. 179C>T p. Thr60Met 
+
+[2] 
+c. 1670-1G>Ｔ IVS13 as G-T -1 
+
+501 Japan 
+
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+
+502 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 1924C>T p. Arg642Cys 
+
+503 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+504 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+505 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2029G>A p. Val677Met 
+
+506 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+507 Japan 
+
+c. 179C>T p. Thr60Met 
+
+[2] 
+c. 1670-1G>Ｔ IVS13 as G-T -1 
+
+508 Japan 
+c. 488C>T p. Thr163Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+509 Japan 
+c. 179C>T p. Thr60Met 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+510 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+511 Japan 
+c. 1706C>T p. Ala569Val 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+512 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+513 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[2] 
+c. 1963C>T p. Arg655Cys 
+
+
+
+514 Japan 
+c. 506-1G>A SP 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+515 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c.1924C>T p. Arg642Cys 
+
+516 Japan 
+c. 1216A>C p. Asn406His 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+517 Japan 
+c. 817dupG p. Ala273Glyfs*38 
+
+[2] 
+c. 1924C>T p. Arg642Cys 
+
+518 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[2] 
+c. 1930delC p. Gln644Serfs*28 
+
+519 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[2] 
+c. 1930delC p. Gln644Serfs*28 
+
+520 Japan 
+c. 488C>T p. Thr163Met 
+
+[2] 
+c. 1963C>T p. Arg655Cys 
+
+521 Japan 
+c. 505+5g>c IVS3 ds G-A +5 
+
+[2] 
+c. 1868T>C p. Leu623Pro 
+
+522 Japan 
+c. 178A>G p. Thr60Ala 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+523 Japan 
+c. 178A>G p. Thr60Ala 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+524 Japan 
+c. 664_666delATT p. Ile222del 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+525 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+526 Japan 
+c. 2537_2538delTT p. Phe846* 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+527 Japan 
+c. 2537_2538delTT p. Phe846* 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+528 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+529 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 1963C>T p. Arg655Cys 
+
+530 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 1963C>T p. Arg655Cys 
+
+531 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+532 Japan 
+c. 1930delC p. Gln644Serfs*28 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+533 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 1930delC p. Gln644Serfs*28 
+
+534 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 1049C>T p. Ser350Leu 
+
+535 Japan c. 1963C>T p. Arg655Cys [2] 
+
+
+
+c. 2927C>T p. Ser976Phe 
+
+536 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 668delT p. Phe223Serfs*79 
+
+537 Japan 
+c. 1670-1G>T IVS13G>T 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+538 Japan 
+c. 179C>T p. Thr60Met 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+539 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 3052C>T p. Arg1018* 
+
+540 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 3052C>T p. Arg1018* 
+
+541 Japan 
+c. 817dupG p. Ala273Glyfs*38 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+542 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+543 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3053G>A p. Arg1018Gln 
+
+544 Japan 
+c. 664_666delATT* p. Ile222del 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+545 Japan 
+c. 1732G>A p. Val578Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+546 Japan 
+c. 1A>T p. Met1Leu 
+
+[2] 
+c. 1868T>C p. Leu623Pro 
+
+547 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+548 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 1930delC p. Gln644Serfs*28 
+
+549 Japan 
+c. 1278C>A* p. Asn426Lys 
+
+[2] 
+c. 1930delC p. Gln644Serfs*28 
+
+550 Japan 
+c. 488C>T p. Thr163Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+551 Japan 
+c. 1844C>T p. Ser615Leu 
+
+[2] 
+c. 1930delC p. Gln644Serfs*28 
+
+552 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 1868T>C p. Leu623Pro 
+
+553 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2891G>A p. Arg964Gln 
+
+554 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+555 Japan c. 1289G>A p. Cys430Tyr [2] 
+
+
+
+c. 2573T>A p. Leu858His 
+
+556 Japan 
+c. 247C>T p. Arg83Trp 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+557 Japan 
+c. 2537_2538delTT p. Phe846* 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+558 Japan 
+c. 2029G>A p. Val677Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+559 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+560 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2686C>T* p. Arg896* 
+
+561 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+562 Japan 
+c. 626G>C* p. Arg209Pro 
+
+[2] 
+c. 2029G>A p. Val677Met 
+
+563 Japan 
+c. 1925G>A p. Arg642His 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+564 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2891G>A p. Arg964Gln 
+
+565 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+566 Japan 
+c. 1732G>A p. Val578Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+567 Japan 
+c. 704C>T* p. Thr235Met 
+
+[2] 
+c. 1709C>T p. Ala570Val 
+
+568 Japan 
+
+c. 1201_1210del 
+
+CCTCTGGGG 
+
+p. Ala401_Gly 
+
+403del [2] 
+
+c. 2891G>A p. Arg964Gln 
+
+569 Japan 
+c. 911C>T p. Thr304Met 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+570 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 1289G>A p. Cys430Tyr 
+
+571 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 1289G>A p. Cys430Tyr 
+
+572 Japan 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro [2] 
+
+c. 1826-1G>A IVS14-1G>A 
+
+573 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+574 Japan 
+c. 1456G>A p. Asp486Asn 
+
+[2] 
+c. 1868T>C p. Leu623Pro 
+
+
+
+575 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2686C>T p. Arg896* 
+
+576 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+577 Japan 
+c. 1A>T p. Met1Leu 
+
+[2] 
+c. 179C>T p. Thr60Met 
+
+578 Japan 
+c. 2537_2538delTT p. Phe846* 
+
+[2] 
+c. 1923C>G p. Tyr641* 
+
+579 Japan 
+c. 1077C>G p. Asn359Lys 
+
+[2] 
+c. 1709C>T p. Ala570Val 
+
+580 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+581 Japan 
+c. 2891G>A p. Arg964Gln 
+
+[2] 
+Exon 9-18 Duplication NA 
+
+582 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+Exon 7-8 Deletion NA 
+
+583 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 3053G>A p. Arg1018Gln 
+
+584 Japan 
+c. 1930delC p. Gln644Serfs*28 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+585 Japan 
+c. 1963C>T p. Arg655Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+586 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+587 Japan 
+c. 539C>T p. Thr180Lys 
+
+[2] 
+c. 1698C>A p. Asn566Lys 
+
+588 Japan 
+c. 179C>T p. Thr60Met 
+
+[2] 
+c. 2099T>C p. Leu700pro 
+
+589 Japan 
+c. 1924C>T p. Arg642Cys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+590 Japan 
+c. 238delC p. Arg80Glyfs*34 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+591 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 2891G>A p. Arg964Gln 
+
+592 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 1868T>C p. Leu623Pro 
+
+593 Japan 
+c. 1669+297T>G Cryptic exon insertion 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+594 Japan 
+c. 1897dupG p. E633Gfs56 
+
+[2] 
+c. 1924C>T p. Arg642Cys 
+
+595 Japan 
+c. 1456G>A p. Asp486Asn 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+596 Japan c. 179C>T p. Thr60met [2] 
+
+
+
+c. 2573T>A p. Leu858His 
+
+597 Japan 
+c. 1100C>T p. Pro367Leu 
+
+[2] 
+c. 1924C>T p. Arg642Cys 
+
+598 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+599 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 1868T>C p. Leu623Pro 
+
+600 Japan 
+c. 539C>A p. Thr180Lys 
+
+[2] 
+c. 2891G>A p. Arg964Gln 
+
+601 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3052C>T p. Arg1018* 
+
+602 Japan 
+c. 1924C>T p. Leu642Pro 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+603 Japan 
+c. 1924C>T p. Leu642Pro 
+
+[2] 
+c. 2573T>A p. Leu858His 
+
+604 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[2] 
+c. 2927C>T p. Ser976Phe 
+
+605 Japan 
+c. 1195C>T p. Arg399Cys 
+
+[2] 
+c. 2573A>C p. Leu858His 
+
+606 Japan 
+c. 2573T>A p. Leu858His 
+
+[2] 
+c. 3053G>A p. Arg1018Gln 
+
+607 Japan 
+c. 788_805dup 
+
+p. Ile263_Val 
+
+268dup [2] 
+
+c. 1132G>A p. Ala378Thr 
+
+608 Japan 
+c. 1163C>A p. Ala388Asp 
+
+[2] 
+c. 2573A>C p. Leu858His 
+
+609 Japan 
+c. 139delc p. His47Thrfs*67 
+
+[2] 
+c. 2660+1G>A NA 
+
+610 Japan 
+c.1163C>A p. Ala388Asp 
+
+[2] 
+c.2573A>C p. Leu858His 
+
+611 Japan 
+
+c.539C>A p. Thr180Lys 
+
+[2] 
+c. 805_806ins18 
+
+p. Thr269delinsAsn 
+
+TrpArgGlyLeuGlyPro 
+
+612 Japan 
+c.248G>A p. Arg83Gln 
+
+[2] 
+c. 2537_2538delTT p. Phe846* 
+
+613 Japan 
+c.2573T>A p. Leu858His 
+
+[2] 
+c.2891G>A p. Arg964Gln 
+
+614 Japan 
+c.2573T>A p. Leu858His 
+
+[2] 
+c.2891G>A p. Arg964Gln 
+
+615 Japan 
+c.1930delC p. Gln644Serfs*28 
+
+[2] 
+c.1948G>C p. Gly650Arg 
+
+616 Japan 
+c.539C>A p. Thr180Lys 
+
+[2] 
+c.1923C>G p. Tyr641 
+
+
+
+617 Japan 
+c. 1925G>A p. Arg642His 
+
+[87, 88] 
+c. 1924C>T p. Arg642Cys 
+
+618 Japan 
+c. 1868T>C p. Leu623Pro 
+
+[89] 
+c. 2543-2544del TT NA 
+
+619 Japan 
+c. 1315G>A p. Gly439Ser 
+
+[89] 
+c. 1664C>T p. Ser555Leu 
+
+620 Japan 
+NA p. Thr180Lys 
+
+[90] 
+NA p. Leu858His 
+
+621 Japan 
+c. 2927C>T p. Ser976Phe 
+
+[91] 
+c. 1567+297T>G NA 
+
+622 Japan 
+c. 539C>A p. Thr180Lys 
+
+[92] 
+c. 1844C>T p. Ser615Leu 
+
+623 Japan 
+NA p. Arg655Cys 
+
+[93] 
+NA p. Arg955Gln 
+
+624 Japan 
+NA p. Thr180Lys 
+
+[94] 
+c. 2552T>A p. Leu849His 
+
+625 Japan 
+NA p. Thr180Lys 
+
+[95] 
+NA p. Val677Met 
+
+626 Japan 
+NA p. Thr180Lys 
+
+[95] 
+NA p. Leu849Met 
+
+627 Japan 
+c. 539C>A p. Thr180Lys 
+
+[6] 
+c. 1732G>A p. Val578Met 
+
+628 Japan 
+c. 1045C>T p. Pro349Ser 
+
+[6] 
+c. 1706C>T p. Ala569Val 
+
+629 Japan 
+c. 2552T>A p. Leu849His 
+
+[96] 
+c. 2561G>A p. Arg852His 
+
+630 Japan 
+c. 1732G>A p. Val578Met 
+
+[97] 
+c. 2573T>A p. Leu858His 
+
+631 Japan 
+c. 2552T>A p. Leu849His 
+
+[7] 
+NA p. Arg852His 
+
+632 Japan 
+NA p. Arg261Cys 
+
+[98] 
+NA p. Leu623Pro 
+
+633 Japan 
+
+c. 185C>T p. Thr60Met 
+
+[70] 
+c. 1181_1186+20del26 
+
+Deletion of exon 9 and 
+
+frameshift at exon 10 
+
+634 Japan 
+c. 1811_1812delAT Frameshift 
+
+[70] 
+c. 2552T>A p. Leu849His 
+
+635 Japan 
+c. 1811_1812delAT Frameshift 
+
+[70] 
+c. 1930C>T p. Arg642Cys 
+
+636 Japan 
+c. 1930C>T p. Arg642Cys 
+
+[70] 
+c. 2552T>A p. Leu849His 
+
+637 Japan 
+c. 7A>T p. Met1Leu 
+
+[70] 
+c. IVS16+1G>A Additional 32 amino acids 
+
+
+
+638 Japan 
+c. 7A>T p. Met1Leu 
+
+[70] 
+c. IVS16+1G>A Additional 32 amino acids 
+
+639 Japan 
+c. 1932delC Frameshift 
+
+[70] 
+c. 2552T>A p. Leu849His 
+
+640 Japan 
+c. 731_732 delTG NA 
+
+[99] 
+c. 2543_2544delTT NA 
+
+641 Japan 
+NA p. Leu623Pro 
+
+[99] 
+In-frame 18 base insertion  NA 
+
+642 UK 
+c. 2221G>A p. Gly741Arg 
+
+[29] 
+c. 3002C>A p. Ala1001Asp 
+
+643 UK 
+c. 1202C>A p. Ala401Asp 
+
+[29] 
+c. 2965 p. Gly989Arg 
+
+644 UK 
+c. 2221G>A p. Gly741Arg 
+
+[29] 
+c. 3052C>T p. Arg1018* 
+
+645 UK 
+c. 626G>A p. Arg209Gln 
+
+[29] 
+c. 1577A>G p. Asn526Ser 
+
+646 UK 
+c. 626G>A p. Arg209Gln 
+
+[29] 
+c. 1577A>G p. Asn526Ser 
+
+647 UK 
+c. 647G>A p. Gly216Glu 
+
+[29] 
+c. 2221G>A p. Gly741Arg 
+
+648 UK 
+c. 424G>T p. Val142Leu 
+
+[29] 
+c. 2952-?_*1+?del NA 
+
+649 UK 
+c. 506-1G>A SP 
+
+[29] 
+c. 1180 + 1G>T SP 
+
+650 UK 
+c. 1664C>T p. Ser555Leu 
+
+[30] 
+Exon deleted p. Thr985X 
+
+651 UK 
+
+c. 1196_1202dup 
+
+GTGATGC 
+p. Ser402X 
+
+[30] 
+
+c. 2576T>C p. Leu859Pro 
+
+652 UK 
+c. 363G>C p. Glu121Asp 
+
+[30] 
+c. 626G>A p. Arg209Gln 
+
+653 UK 
+c. 1763C>T p. Ala588Val 
+
+[30] 
+c. 2893C>T p. Gln965X 
+
+654 UK 
+c. 497C>T p. Ala166Val 
+
+[30] 
+c. 2576T>C p. Leu859Pro 
+
+655 UK 
+c. 2221G>A p. Gly741Arg 
+
+[30] 
+c. 2981G>A p. Cys994Tyr 
+
+656 UK 
+c. 1825+1delG Intron 14 5′ SP 
+
+[30] 
+c. 2981G>A p. Cys994Tyr 
+
+657 UK 
+c. 961C>T p. Arg321Trp 
+
+[30] 
+c. 2221G>A p. Gly741Arg 
+
+658 UK 
+c. 911C>T p. Thr304Met 
+
+[30] 
+c. 2883+1G>T Intron 24 5′ SP 
+
+
+
+659 UK 
+
+c. 1963C>T p. Arg655Cys 
+
+[30] c. 2990_2993 
+
+dupCGCT 
+p. Leu998fsc 
+
+660 UK 
+c. 1664C>T p. Ser555Leu 
+
+[30] 
+c. 2221G>A p. Gly741Arg 
+
+661 UK 
+c. 2221G>A p. Gly741Arg 
+
+[30] 
+c. 2883+1G>T Intron 24 5′ SP 
+
+662 UK 
+c. 2996A>G p. Tyr999Cys 
+
+[30] 
+c. 3089A>G p. Gln1030Arg 
+
+663 UK 
+c. 1145C>T p. Thr382Met 
+
+[30] 
+c. 2221G>A p. Gly741Arg 
+
+664 UK 
+c. 710G>A p. Gly237Asp 
+
+[30] 
+c. 2576T>C p. Leu859Pro 
+
+665 UK 
+c. 1196G>T p. Arg399Leu 
+
+[30] 
+c. 1825+1G>T Intron 14 5′ SP 
+
+666 UK 
+c. 1196G>T p. Arg399Leu 
+
+[30] 
+c. 1825+1G>T Intron 14 5′ SP 
+
+667 UK 
+c. 539-543delCGGTG p. Thr180fs 
+
+[30] 
+c. 2883+1G>T Intron 24 5′ SP 
+
+668 UK 
+c. 1390G>A p. Ala464Thr 
+
+[30] 
+c. 2576T>C p. Leu859Pro 
+
+669 UK 
+c. 2221G>A p. Gly741Arg 
+
+[30] 
+c. 3053G>C p. Arg1018Pro 
+
+670 UK 
+
+c. 506-1G>A SP 
+
+[30] c. 2089_2095del 
+
+ACCAAGT 
+p. Thr697fs 
+
+671 UK 
+c. 1763C>T p. Ala588Val 
+
+[30] 
+c. 2576T>C p. Leu859Pro 
+
+672 UK 
+c. 1258G>A p. Ala420Thr 
+
+[30] 
+c. 2947G>A p. Val983Ile 
+
+673 UK 
+c.1061_1062dupTC p. Leu355fs 
+
+[30] 
+c. 2965G>A p. Gly989Arg 
+
+674 UK 
+c. 1315G>A p. Gly439Ser 
+
+[30] 
+c. 2221G>A p. Gly741Arg 
+
+675 UK 
+c. 2221G>A p. Gly741Arg 
+
+[30] 
+c. 2981G>A p. Cys994Tyr 
+
+676 UK 
+c. 2037+1G>A Intron 16 5′ SP 
+
+[30] 
+c. 3053G>A p. Arg1018Gln 
+
+677 UK 
+Exons deleted Probable loss 
+
+[30] 
+c. 2221G>A p. Gly741Arg 
+
+678 UK 
+c. 626G>A p. Arg209Gln 
+
+[30] 
+c. 1763C>A p. Ala588Glu 
+
+679 UK c. 2581C>T p. Arg861Cys [30] 
+
+
+
+c. 2723T>C p. Ile908Thr 
+
+680 UK 
+c. 1351T>A p. Ser451Thr 
+
+[30] 
+c. 2221G>A p. Gly741Arg 
+
+681 UK 
+c. 1315G>A p. Gly439Ser 
+
+[30] 
+c. 2883+1G>T Intron 24 5′ SP 
+
+682 UK 
+c. 626G>A p. Arg209Gln 
+
+[30] 
+c. 2981G>A p. Cys994Tyr 
+
+683 UK 
+NA p. Arg209Gln 
+
+[100] 
+NA p. Ser615Leu 
+
+684 UK 
+c. IVS24+1: G>T NA 
+
+[101] 
+NA p. Gly439Ser 
+
+685 France 
+c. 2581C>T p. Arg861Cys 
+
+[38] 
+c. 3077C>T p. Thr1026lle 
+
+686 France 
+c. 644T>C p. Leu215Pro 
+
+[38] 
+c. 1315G>A p. Gly439Ser 
+
+687 France 
+c. 1262G>A p. Cys421Tyr 
+
+[38] 
+c. 2221G>A p. Gly741Arg 
+
+688 France 
+c. 1262G>A p. Cys421Tyr 
+
+[38] 
+c. 2221G>A p. Gly741Arg 
+
+689 France 
+c. 1196_1202dup p. Ser402X 
+
+[102] 
+c. 2747 + 1G > A SP 
+
+690 France 
+
+c. 1805_1806del p. Tyr602CysfsX31 
+
+[102] c. 2660 + 1G > A SP 
+
+c. 2747 + 1G > A SP 
+
+691 France 
+
+c. 1805_1806del p. Tyr602CysfsX31 
+
+[102] c. 2660 + 1G > A SP 
+
+c. 2747 + 1G > A SP 
+
+692 France 
+
+c. 1805_1806del p. Tyr602CysfsX31 
+
+[102] c. 2660 + 1G > A SP 
+
+c. 2747 + 1G > A SP 
+
+693 France 
+
+c. 1196_1202dup p. Ser402X 
+
+[102] c. 1805_1806del p. Tyr602CysfsX31 
+
+c. 2660 + 1G > A SP 
+
+694 France 
+c. 911C>T p. Thr304Met 
+
+[103] 
+c. 1315G>A p. Gly439Ser 
+
+695 France 
+c. 2221G>A p. Gly741Arg 
+
+[104] 
+c. 247C>T p. Arg83Trp 
+
+696 France 
+c. 2221G>A p. Gly741Arg 
+
+[104] 
+c. 247C>T p. Arg83Trp 
+
+697 France 
+c. 1484T> p. Phe495Ser 
+
+[39] 
+c. 2221G>A p. Gly741Arg 
+
+698 France 
+c. 1840T>C p. Ser614Pro 
+
+[39] 
+c. 1390G>A p. Ala464Thr 
+
+
+
+699 France 
+c. 679A>G p. Asn227Asp 
+
+[39] 
+c. 1664C>T p. Ser555Leu 
+
+700 France 
+c. 1390G>A p. Ala464Thr 
+
+[39] 
+c. 2221G>A p. Gly741Arg 
+
+701 France 
+c. 160C>T p. Arg54Cys 
+
+[39] 
+c. 2782C>T p. Arg928Cys 
+
+702 France 
+c. 2747+1G>C NA 
+
+[39] 
+c. 2883+1G>T SP 
+
+703 France 
+c. 2576T>C p. Leu859Pro 
+
+[39] 
+c. 2581C>T p. Arg861Cys 
+
+704 France 
+c. 1928C>T p. Pro643Leu 
+
+[39] 
+c. 964+1G>T NA 
+
+705 France 
+c. 1145C>T p. Thr382Met 
+
+[39] 
+c. 2807_2810dup p. Thr938GlyfsX17 
+
+706 France 
+c. 2883+1G>T SP 
+
+[39] 
+c. 2981G>A p. Cys994Tyr 
+
+707 France 
+c. 2120C>T p. Ala707Val 
+
+[39] 
+c. 1145C>T p. Thr382Met 
+
+708 France 
+c. 910A>C p. Thr304Pro 
+
+[39] 
+c. 2120C>T p. Ala707Val 
+
+709 France 
+c. 2310+2T>G SP 
+
+[34] 
+c. 2167C>T p. Ala714Ala 
+
+710 France 
+
+c. 2579C>T p. Arg852Cys 
+
+[34] c. 2736G>A p. Arg904Gln 
+
+c. 1909G>A p. Ser628Ser 
+
+711 Korea 
+c. 179C>T p. Thr60Met 
+
+[25] 
+c. 1216A>C p. Asn406His 
+
+712 Korea 
+c. 268C>T p. His90Tyr 
+
+[25] 
+c. 1216A>C p. Asn406His 
+
+713 Korea 
+c. 433C>T p. Arg145Cys 
+
+[25, 105] 
+c. 1174A>C p. Thr392Pro 
+
+714 Korea 
+c. 433C>T p. Arg145Cys 
+
+[25, 105] 
+c. 1174A>C p. Thr392Pro 
+
+715 Korea 
+c. 506-1G>A SP 
+
+[25] 
+c. 1456G>A p. Asp486Asn 
+
+716 Korea 
+c. 536T>A p. Val179Asp 
+
+[25] 
+c. 1762delG p. Ala588fs*23 
+
+717 Korea 
+c. 784_785ins13 p. Ile262Rfs 
+
+[25] 
+c. 1456G>A p. Asp486Asn 
+
+718 Korea 
+c. 964+1G>A NA 
+
+[25] 
+c. 1216A>C p. Asn406His 
+
+719 Korea 
+c. 964+1G>T NA 
+
+[25] 
+c. 1844C>T p. Ser615Leu 
+
+
+
+720 Korea 
+c. 964+1G>A NA 
+
+[25] 
+c. 2927C>T p. Ser976Phe 
+
+721 Korea 
+c. 1897_1898insG p. Glu633Gfs*56 
+
+[25] 
+c. 3052C>T p. Arg1018* 
+
+722 Korea 
+c. 1924C>T p. Arg642Cys 
+
+[25] 
+c. 2243C>T p. Ser748Leu 
+
+723 Korea 
+c. 1924C>T p. Arg642Cys 
+
+[25] 
+c. 2243C>T p. Ser748Leu 
+
+724 Korea 
+c. 1924C>T p. Arg642Cys 
+
+[25] 
+c. 2573T>A p. Leu858His 
+
+725 Korea 
+c. 2542G>A p. Asp848Asn 
+
+[25] 
+c. 2963T>C p. Ile988Thr 
+
+726 Korea 
+c. 2573T>A p. Leu858His 
+
+[25] 
+c. 2927C>T p. Ser976Phe 
+
+727 Korea 
+c. 494A>T p. Gln165Leu 
+
+[106] 
+c. 1868T>C p. Leu623Pro 
+
+728 Korea 
+NA p. Asp848Asn 
+
+[26] 
+NA p. Ile988Thr 
+
+729 Korea 
+NA p. Asp839Asn 
+
+[27] 
+NA p. Ile979Thr 
+
+730 Korea 
+
+c. 372A>G p. Ala122Ala 
+
+[107] 
+
+c. 545C>A p. Thr180lys 
+
+c. 1092T>G p. Gly362Gly 
+
+c. 1222A>C p. Asn406His 
+
+c. 1715C>T p. Ala570Val 
+
+731 Korea 
+
+c. 372A>G p. Ala122Ala 
+
+[107] 
+
+c. 545C>A p. Thr180Lys 
+
+c. +5th, ins A   5’ SP 
+
+c. 1715C>T p. Ala570Val 
+
+c. 2631C>T p. Gly866Gly 
+
+732 Philippines 
+c. GCA>ACA p. Ala728Thr 
+
+[8] 
+c. GGC>TGC p. Gly496Cys 
+
+733 CA 
+NA p. Pro643Leu 
+
+[33] 
+NA p. Gly741Arg 
+
+734 CA 
+
+c. 473G>A p. Arg158Gln 
+
+[108] 
+c. 631_642del 
+
+p. Arg211_ 
+
+Glu214del 
+
+735 United States 
+c. 2246G>A p. Gly741Arg 
+
+[34] 
+c. 2881+1G>T SP 
+
+736 United States 
+c. TGC>CGC p. Cys421Arg 
+
+[8] 
+c. CGG>TGG p. Arg209Trp 
+
+737 United States 
+c. TGC>CGC p. Cys421Arg 
+
+[8] 
+c. CGG>TGG p. Arg209Trp 
+
+
+
+738 United States 
+c. TGC>CGC p. Cys421Arg 
+
+[8] 
+c. CGG>TGG p. Arg209Trp 
+
+739 United States 
+c. TGC>CGC p. Cys421Arg 
+
+[8] 
+c. CAG>CAT 3’ SP 
+
+740 Portugal 
+c. 602–16G>A NA 
+
+[109] 
+c. 2221G>A p. Gly741Arg 
+
+741 South Africa 
+exon 13+69A>G p. Ser546Gly 
+
+[110] 
+c. 1930insAGCCCC NA 
+
+742 South Africa 
+exon 13+69A>G p. Ser546Gly 
+
+[110] 
+c. 1930insAGCCCC NA 
+
+743 South Africa 
+exon 13+69A>G p. Ser546Gly 
+
+[110] 
+c. 1930insAGCCCC NA 
+
+744 South Africa 
+exon 13+69A>G p. Ser546Gly 
+
+[110] 
+c. 1930insAGCCCC NA 
+
+745 South Africa 
+exon 13+69A>G p. Ser546Gly 
+
+[110] 
+c. 1930insAGCCCC NA 
+
+746 Italy 
+c. 2581C>T p. Arg861Cys 
+
+[111] 
+c. 283delC p. Gln95ArgfsX19 
+
+747 Italy 
+
+c. 2581C>T p. Arg861Cys 
+
+[111] c. 283delC p. Gln95ArgfsX19 
+
+c. 2738 G>A p. Arg913Gln 
+
+748 Italy 
+c. 1925G>A p. Arg642His 
+
+[112] 
+c.1181G>A p. Gly394Asp 
+
+749 Italy 
+c. 1925G>A p. Arg642His 
+
+[112] 
+c.1181G>A p. Gly394Asp 
+
+750 Italy 
+c. 269A > C p. His90Pro 
+
+[113] 
+c. 1205C > A p. Ser402Tyr 
+
+751 Italy 
+NA p. Gly439Ser 
+
+[114] 
+NA p. Arg1018Term 
+
+752 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 1924C>G p. Arg642Gly 
+
+753 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 20_21delCA p. Thr7fs 
+
+754 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 1175C>T p. Thr392Ile 
+
+755 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 2981G>A p. Cys994Tyr 
+
+756 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 2542G>T p. Asp848Tyr 
+
+757 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 433C>A p. Arg145Ser 
+
+758 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 1424C>G p. Ser475Cys 
+
+
+
+759 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+? ? 
+
+760 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 248G>A p. Arg83Gln 
+
+761 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 1881C>G p. Tyr627X 
+
+762 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[41] 
+c. 2981G>A p. Cys994Tyr 
+
+763 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[115] 
+c. 1424C>G p. Ser475Cys 
+
+764 Italy 
+c. 1196_1202dup7bp p. Ser402X 
+
+[115] 
+c. 1424C>G p. Ser475Cys 
+
+765 Italy 
+c. 1175C>T p. Thr392Ile 
+
+[115] 
+c. 1844C>T p. Ser615Leu 
+
+766 Italy 
+c. 1175C>T p. Thr392Ile 
+
+[115] 
+c. 1844C>T p. Ser615Leu 
+
+767 Italy 
+c. 1413G>A p. Gly463Glu 
+
+[43] 
+c. 1869C>T p. Ser615Leu 
+
+768 Italy 
+c. 2780C>T p. Arg919Cys 
+
+[43] 
+c. 2979C>T p. Cys985Tyr 
+
+769 Italy 
+c. 650C>T p. Arg209Trp 
+
+[43] 
+c. 2054G>A p. Val677Met 
+
+770 Italy 
+c. 539T>C p. Trp172Arg 
+
+[43] 
+c. 650C>T p. Arg209Trp 
+
+771 Italy 
+c. 498G>A p. Arg158Gln 
+
+[43] 
+2114_2120delACCAAGT p. Thr697fsX698 
+
+772 Italy 
+c. 539T>C p. Trp172Arg 
+
+[43] 
+c. 1146G>T p. Gly374Val 
+
+773 Italy 
+c. 1950G>A p. Arg642His 
+
+[43] 
+c. 2579C>A p. Arg852Ser 
+
+774 Italy 
+c. 972G>T p. Gly316Val 
+
+[43] 
+c. 1949C>G p. Arg642Gly 
+
+775 Italy 
+NA p. Arg209Trp 
+
+[45] 
+NA p. Gly186Asp 
+
+776 Italy 
+NA p. Pro349Leu 
+
+[45] 
+NA p. Lys478Glu 
+
+777 Italy 
+c. 2216_2217del2-bp NA 
+
+[45] 
+NA p. Gly439Ser 
+
+778 Italy 
+c. 1228insGTGATGC NA 
+
+[45] 
+NA p. Gly731Arg 
+
+779 Cyprus 
+NA p. Met581Lys 
+
+[116] 
+NA E9_E14dup 
+
+780 Cyprus NA p. Met581Lys [116] 
+
+
+
+NA E9_E14dup 
+
+781 Spain 
+c. 1939G>A p. Val647Met 
+
+[48] 
+Intron 9 +1G>T NA 
+
+782 Netherlands 
+c. 815T>C p. Leu272Pro 
+
+[52] 
+c. 1670C>T NA 
+
+783 Netherlands 
+c. 815T>C p. Leu272Pro 
+
+[52] 
+c. 1315G>A p. Gly439Ser 
+
+784 Netherlands 
+
+c. 2246G>A p. Gly741Arg 
+
+[34] c. 2780C>T p. Arg919Cys 
+
+c. 2927C>T p. Arg968Stop 
+
+785 Netherlands 
+c. 2246G>A p. Gly741Arg 
+
+[34] 
+c. 2927C>T p. Arg968Stop 
+
+786 Netherlands 
+c. CGA>TGA p. Arg968stop 
+
+[8] 
+c. GGG>AGG p. Gly741Arg 
+
+787 Netherlands 
+c. CGA>TGA p. Arg968stop 
+
+[8] 
+c. GGG>AGG p. Gly741Arg 
+
+788 Netherlands 
+c. CGA>TGA p. Arg968stop 
+
+[8] 
+c. GGG>AGG p. Gly741Arg 
+
+789 Poland 
+c. 35_36insA p. D12EfsX17 
+
+[117] 
+c. 1095+5G>A p. IVS8+5G>A 
+
+790 
+Czech 
+
+Republic 
+
+c. 2576T>C p. Leu859Pro 
+[118] 
+
+c. 2929C>T p. Arg977X 
+
+791 
+Czech 
+
+Republic 
+
+c. 1315G>A p. Gly439Ser 
+[57] 
+
+c. 2213T>G p. Leu738Arg 
+
+792 
+Czech 
+
+Republic 
+
+c. 1315G>A p. Gly439Ser 
+[57] 
+
+c. 2213T>G p. Leu738Arg 
+
+793 
+Czech 
+
+Republic 
+
+c. 480ins.C Pro160fsX97 
+
+[57] 
+c. 741+1G>A 
+
+Exon/intron 
+
+boundary change 
+
+794 
+Czech 
+
+Republic 
+
+c. 1315G>A p. Gly439Ser 
+[57] 
+
+c. 1202insGTGATGC p. Ala401fs2X 
+
+795 
+Czech 
+
+Republic 
+
+c. 1261T>C p. Cys421Arg 
+[57] 
+
+c. 2221G>A p. Gly741Arg 
+
+796 
+Czech 
+
+Republic 
+
+c. 2221G>A p. Gly741Arg 
+[57] 
+
+c. 2549T>C p. Leu850Pro 
+
+797 
+Czech 
+
+Republic 
+
+c. 2221G>A p. Gly741Arg 
+[57] 
+
+c. 2549T>C p. Leu850Pro 
+
+798 
+Czech 
+
+Republic 
+
+c. 1315G>A p. Gly439Ser 
+
+[57] c. 1664C>T p. Ser555Leu 
+
+c. 2711G>A p. Arg904Gln 
+
+799 Australia 
+c. 2186G>T p. Gly729Val 
+
+[119] 
+c. 2872A>T NA 
+
+800 Germany c. 738T>G NA [120] 
+
+
+
+c. 741G>A NA 
+
+801 Germany 
+NA p. Ser555Leu 
+
+[55] 
+NA p. Leu859Pro 
+
+802 Germany 
+NA p. Ala356Val 
+
+[55] 
+NA p. Gly439Ser 
+
+803 Germany 
+
+c. 966C>T p. Ser314Phe 
+
+[121] 
+c. 1635_46 
+
+del TCTGCTCCTATG 
+
+ins AACAACTTCCT 
+
+NA 
+
+804 Germany 
+c. 1230C>T p. Ser402Phe 
+
+[121] 
+c. 650C>T p. Arg209Trp 
+
+805 Germany 
+c. 2238T>G p. Leu738Arg 
+
+[34] 
+c. 2246G>A p. Gly741Arg 
+
+806 Belgium 
+c. 1664C>T p. Ser555Leu 
+
+[122] 
+c. 2633+1G>C r. 2521_2634del 
+
+807 Denmark 
+c. 1606 T>C p. Phe536Leu 
+
+[123] 
+c. 2221 G>A p. Gly741Arg 
+
+808 Sweden 
+
+c. 935A>C p. Thr304Pro 
+
+[124] c. 2207G>A p. Ala728Thr 
+
+c. 2216G>A p. Gly731Arg 
+
+809 Sweden 
+
+c. 935A>C p. Thr304Pro 
+
+[124] c. 2207G>A p. Ala728Thr 
+
+c. 2216G>A p. Gly731Arg 
+
+810 Sweden 
+c. 1340G>A p. Gly439Ser 
+
+[124] 
+c. 2246G>A p. Gly741Arg 
+
+811 Sweden 
+c. 2246G>A p. Gly741Arg 
+
+[124] 
+c. 2745insAGCA NA 
+
+812 Sweden 
+c. 1934C>T p. Pro643Leu 
+
+[56] 
+c. 834_835insG Sequence shift 
+
+813 Sweden 
+c. 1931G>A p. Arg642Gln 
+
+[56] 
+c. 463G>A p. Vall53Met 
+
+814 Sweden 
+c. 520T>C p. Trp172Arg 
+
+[56] 
+c. 2859+1G>T SP 
+
+815 Sweden 
+c. 1321G>C p. Gly439Ser 
+
+[56] 
+c. 2227G>A p. Gly741Arg 
+
+816 Sweden 
+c. 1321G>C p. Gly439Ser 
+
+[56] 
+c. 2227G>A p. Gly741Arg 
+
+817 Sweden 
+c. 1321G>C p. Gly439Ser 
+
+[56] 
+c. 2227G>A p. Gly741Arg 
+
+818 Sweden 
+c. 2192G>T p. Gly729Val 
+
+[56] 
+c. 2859+1G>T SP 
+
+819 Sweden 
+c. 2897G>A p. Arg964Gln 
+
+[56] 
+c. 1321G>C p. Gly439Ser 
+
+
+
+820 Sweden 
+c. 2035G>C p. Val677Leu 
+
+[56] 
+c. 211OA p. His69Asn 
+
+821 Sweden 
+c. 2035G>C p. Val677Leu 
+
+[56] 
+c. 211OA p. His69Asn 
+
+822 Sweden 
+c. 2035G>A p. Val677Met 
+
+[56] 
+c. 2192G>T p. Gly729Val 
+
+823 Sweden 
+c. 2192G>T p. Gly729Val 
+
+[56] 
+c. 2897G>A p. Arg964Gln 
+
+824 Sweden 
+
+c.2114_2120del 
+
+TGAAACCA 
+Sequence shift 
+
+[56] 
+
+c. 2192G>T p. Gly729Val 
+
+825 Sweden 
+c. 2897G>A p. Arg964Gln 
+
+[56] 
+c. 2859+1G>T SP 
+
+826 Sweden 
+c. 1321G>C p. Gly439Ser 
+
+[56] 
+c. 2227G>A p. Gly741Arg 
+
+827 Sweden 
+c. 1321G>C p. Gly439Ser 
+
+[56] 
+c. 2227G>A p. Gly741Arg 
+
+828 Sweden 
+c. 208G>A p. Glu68Lys 
+
+[56] 
+c. 440G>A p. Arg145His 
+
+829 Sweden 
+c. 2035G>A p. Val677Met 
+
+[56] 
+c. 1031G>C p. Gly342Ala 
+
+830 Sweden 
+c. 1321G>C p. Gly439Ser 
+
+[56] 
+c. 2227G>A p. Gly741Arg 
+
+831 Sweden 
+c. 2632G>A p. Glv876Ser 
+
+[56] 
+C. 1569-1G>A SP 
+
+832 Sweden 
+c. 2192G>T p. Gly729Aal 
+
+[56] 
+c. 2227G>A p. Gly741Arg 
+
+833 Sweden 
+c. 2192G>T p. Gly729Val 
+
+[56] 
+c.2859+1G>T SP 
+
+834 Sweden 
+c. CCTTCA>CCA p. ProSer561Pro 
+
+[8] 
+c. GGC>GTC p. Gly630Val 
+
+835 Sweden 
+c. CCTTCA>CCA p. ProSer561Pro 
+
+[8] 
+c. GGC>GTC p. Gly630Val 
+
+836 Sweden 
+c. CCTTCA>CCA p. ProSer561Pro 
+
+[8] 
+c. GGC>GTC p. Gly630Val 
+
+837 Sweden 
+c. CCTTCA>CCA p. ProSer561Pro 
+
+[8] 
+c. GGC>GTC p. Gly630Val 
+
+838 Israel 
+NA p. Pro643Leu 
+
+[125] 
+NA p. Trp1002Cys 
+
+839 Israel 
+NA p. Pro643Leu 
+
+[125] 
+NA p. Trp1002Cys 
+
+840 Europe1 
+c. 1175C>T p. Thr392Ile 
+
+[58] 
+c. 2965G>A p. Gly989Arg 
+
+
+
+841 Europe1 
+c. 2576T>C p. Leu859Pro 
+
+[58] 
+c. 2883+1G>T SP 
+
+842 Europe1 
+c. 581C>T p. Thr194Ile 
+
+[58] 
+c. 2899A>G p. Arg967Gly 
+
+843 Europe1 
+c. 1465T>C p. Tyr489His 
+
+[58] 
+c. 1567G>A p. Ala523Thr 
+
+844 Europe1 
+c. 1121G>A p. Gly374Glu 
+
+[58] 
+c. 1335+1G>A SP 
+
+845 Europe1 
+c. 248G>A p. Arg83Gln 
+
+[58] 
+c. 433C>T p. Arg145Cys 
+
+846 Europe1 
+c. 2883+1G>T SP 
+
+[58] 
+c. 2179-?_2285+?del p. Ala727X 
+
+847 Europe1 
+c. 704C>G p. Thr235Arg 
+
+[58] 
+c. 1145C>T p. Thr382Met 
+
+848 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 1145C>T p. Thr382Met 
+
+849 Europe1 
+c. 1924C>T p. Arg642Cys 
+
+[58] 
+c. 2368+5G>A SP 
+
+850 Europe1 
+c. 1315G>A p. Gly439Ser 
+
+[58] 
+c. 2965G>A p. Gly989Arg 
+
+851 Europe1 
+c. 741+1G>A SP 
+
+[58] 
+c. 2687G>A p. Arg896Gln 
+
+852 Europe1 
+c. 2581C>T p. Arg861Cys 
+
+[58] 
+c. 2981G>A p. Cys994Tyr 
+
+853 Europe1 
+c. 1925G>A p. Arg642His 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+854 Europe1 
+c. 1925G>A p. Arg642His 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+855 Europe1 
+c. 1606T>C p. Phe536Leu 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+856 Europe1 
+c. -66_23del 
+
+Probably no protein is produced, 
+
+because the start codon is 
+
+deleted. 
+[58] 
+
+c. 1180+1G>T SP 
+
+857 Europe1 
+c. 1196_1202dup p. Ser402X 
+
+[58] 
+c. 2965G>A p. Gly989Arg 
+
+858 Europe1 
+c. 938C>T p. Ala313Val 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+859 Europe1 
+
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+Deletion of exons 1 to 6 
+
+Probably no protein is produced, 
+
+because the start codon is 
+
+deleted. 
+
+860 Europe1 c. 363G>C p. Glu121Asp [58] 
+
+
+
+c. 602-16G>A SP 
+
+861 Europe1 
+c. 1636A>G p. Ser546Gly 
+
+[58] 
+c. 1925G>A p. Arg642His 
+
+862 Europe1 
+c. 1664C>T p. Ser555Leu 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+863 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2965G>A p. Gly989Arg 
+
+864 Europe1 
+c. 457G>A p. Val153Met 
+
+[58] 
+c. 1925G>A p. Arg642His 
+
+865 Europe1 
+
+c. 2929C>T p. Arg977X 
+
+[58] 
+c. 2748-?_2951+?deli 
+
+p. Lys918_Thr 
+
+985del 
+
+866 Europe1 
+c. 514T>C p. Trp172Arg 
+
+[58] 
+c. 1664C>T p. Ser555Leu 
+
+867 Europe1 
+c. 2883+1G>T SP 
+
+[58] 
+c. 1196_1202dup p. Ser402X 
+
+868 Europe1 
+
+c. 2687G>A p. Arg896Gln 
+
+[58] 
+Deletion of exons 1 to 6 
+
+Probably no protein is produced, 
+
+because the start codon is 
+
+deleted. 
+
+869 Europe1 
+c. 2687G>A p. Arg896Gln 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+870 Europe1 
+c. 2660+1G>C SP 
+
+[58] 
+c. 2891G>A p. Arg964Gln 
+
+871 Europe1 
+c. 1924C>G p. Arg642Gly 
+
+[58] 
+c. 2642T>C p. Met881Thr 
+
+872 Europe1 
+c. 1325A>G p. Asn442Ser 
+
+[58] 
+c. 2869A>T p. Lys957X 
+
+873 Europe1 
+c. 247C>T p. Arg83Trp 
+
+[58] 
+c. 2204C>G p. Pro735Arg 
+
+874 Europe1 
+c. 626G>A p. Arg209Gln 
+
+[58] 
+c. 2186G>T p. Gly729Val 
+
+875 Europe1 
+c. 1928C>T p. Pro643Leu 
+
+[58] 
+c. 2186G>T p. Gly729Val 
+
+876 Europe1 
+c. 2037+4A>G SP 
+
+[58] 
+c. 2883+1G>T SP 
+
+877 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2891G>A p. Arg964Gln 
+
+878 Europe1 
+c. 2965G>A p. Gly989Arg 
+
+[58] 
+c. 3089A>G p. Gln1030Arg 
+
+879 Europe1 
+c. 1387G>A p. Gly463Arg 
+
+[58] 
+c. 2581C>T p. Arg861Cys 
+
+880 Europe1 c. 1315G>A p. Gly439Ser [58] 
+
+
+
+c. 2883+1G>T SP 
+
+881 Europe1 
+c. 1424C>G p. Ser475Cys 
+
+[58] 
+c. 1925G>A p. Arg642His 
+
+882 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2581C>T p. Arg861Cys 
+
+883 Europe1 
+c. 179C>T p. Thr60Met 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+884 Europe1 
+
+c. 1669+5G>T SP 
+
+[58] c.2952-?_3077+?del 
+
+Deletion of exon 26 
+p. Ile984fs 
+
+885 Europe1 
+c. 473G>T p. Arg158Leu 
+
+[58] 
+c. 1180+1G>T SP 
+
+886 Europe1 
+c. 247C>T p. Arg83Trp 
+
+[58] 
+c. 514T>C p. Trp172Arg 
+
+887 Europe1 
+c. 2186G>T p. Gly729Val 
+
+[58] 
+c. 3052C>T p. Arg1018X 
+
+888 Europe1 
+c. 2883+1G>T SP 
+
+[58] 
+c. 2965G>A p. Gly989Arg 
+
+889 Europe1 
+c. 470T>C p. Leu157Pro 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+890 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2981G>A p. Cys994Tyr 
+
+891 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 2883+1G>T SP 
+
+892 Europe1 
+c. 450T>G p. Ile150Met 
+
+[58] 
+c. 2883+1G>T SP 
+
+893 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2883+1G>T SP 
+
+894 Europe1 
+
+c. 1519C>T p. Arg507Cys 
+
+[58] c. 506-?_852+? 
+
+Deletion of exons 4 to 6 
+p. Val169fs 
+
+895 Europe1 
+c. 2542G>A p. Asp848Asn 
+
+[58] 
+c. 2965G>A p. Gly989Arg 
+
+896 Europe1 
+c. 910A>C p. Thr304Pro 
+
+[58] 
+c. 2883+1G>T SP 
+
+897 Europe1 
+c. 961C>T p. Arg321Trp 
+
+[58] 
+c. 1844C>T p. Ser615Leu 
+
+898 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 248G>A p. Arg83Gln 
+
+899 Europe1 
+c. 1964G>A p. Arg655His 
+
+[58] 
+c. 3053G>A p. Arg1018Gln 
+
+900 Europe1 
+c. 1175C>T p. Thr392Ile 
+
+[58] 
+c. 1325A>G p. Asn442Ser 
+
+
+
+901 Europe1 
+c. 2576T>C p. Leu859Pro 
+
+[58] 
+c. 3053G>A p. Arg1018Gln 
+
+902 Europe1 
+c. 1000C>T p. Arg334Trp 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+903 Europe1 
+c. 184G>C p. Asp62His 
+
+[58] 
+c. 237_238dup p. Arg80fs 
+
+904 Europe1 
+c. 533C>T p. Ser178Leu 
+
+[58] 
+c. 2827C>T p. Arg943Trp 
+
+905 Europe1 
+c. 505+5G>A SP 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+906 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 3052C>T p. Arg1018X 
+
+907 Europe1 
+c. 965-1_976delins12 p. Asp323fs 
+
+[58] 
+c. 2532G>A p. Trp844X 
+
+908 Europe1 
+c. 1664C>T p. Ser555Leu 
+
+[58] 
+c. 2883+1G>T SP 
+
+909 Europe1 
+c. 2883+1G>T SP 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+910 Europe1 
+c. 2883+1G>T SP 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+911 Europe1 
+c. 2877_2878del p. Arg959fs 
+
+[58] 
+c. 2929C>T p. Arg977X 
+
+912 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2981G>A p. Cys994Tyr 
+
+913 Europe1 
+c. 2965G>A p. Gly989Arg 
+
+[58] 
+c. 1195C>T p. Arg399Cys 
+
+914 Europe1 
+c. 1956del p. Asn653fs 
+
+[58] 
+c. 626G>A p. Arg209Gln 
+
+915 Europe1 
+c. 2883+1G>T SP 
+
+[58] 
+c. 1601A>G p. Asn534Ser 
+
+916 Europe1 
+c. 247C>T p. Arg83Trp 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+917 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 1844C>T p. Ser615Leu 
+
+918 Europe1 
+c. 497C>T p. Ala166Val 
+
+[58] 
+c. 2981G>A p. Cys994Tyr 
+
+919 Europe1 
+c. 1924C>T p. Arg642Cys 
+
+[58] 
+c. 2965G>A p. Gly989Arg 
+
+920 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 363G>C p. Glu121Asp 
+
+921 Europe1 
+c. 2576T>C p. Leu859Pro 
+
+[58] 
+c. 2221G>A p. Gly741Arg 
+
+922 Europe1 c. 506-1G>A SP [58] 
+
+
+
+c. 505+5G>A SP 
+
+923 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 2883+1G>T SP 
+
+924 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 1664C>T p. Ser555Leu 
+
+925 Europe1 
+c. 2089_2095del p. Thr697fs 
+
+[58] 
+c. 947G>T p. Gly316Val 
+
+926 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2821G>T p. Glu941X 
+
+927 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 2929C>T p. Arg977X 
+
+928 Europe1 
+c. 2204C>G p. Pro735Arg 
+
+[58] 
+c. 602-16G>A SP 
+
+929 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 817dup p. Ala273fs 
+
+930 Europe1 
+c. 1390G>A p. Ala464Thr 
+
+[58] 
+c. 2548+1G>T SP 
+
+931 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 1335+1G>T SP 
+
+932 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2981G>A p. Cys994Tyr 
+
+933 Europe1 
+c. 1298_1308delinsTG 
+
+p. Gln433_Cys436 
+
+delinsLeu [58] 
+
+c. 815T>C p. Leu272Pro 
+
+934 Europe1 
+c. 2611C>T p. Arg871Cys 
+
+[58] 
+c. 247C>T p. Arg83Trp 
+
+935 Europe1 
+c. 2115_2139dup 
+
+p. Lys706_Ile 
+
+713dup [58] 
+
+c. 2883+1G>T SP 
+
+936 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 2883+1G>T SP 
+
+937 Europe1 
+c. 2221G>A p. Gly741Arg 
+
+[58] 
+c. 2883+1G>A SP 
+
+938 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 1274G>A p. Trp425X 
+
+939 Europe1 
+c. 815T>C p. Leu272Pro 
+
+[58] 
+c. 1664C>T p. Ser555Leu 
+
+ 
+
+Abbreviations and note: Homo = Homozygosity; Hetero = Heterozygosity; Co-hetero = Compound 
+
+heterozygosity; Co-homo = Compound homozygosity; SP = splicing mutation; del = deletion; ins = insertion; NA: 
+
+Not available; Europe1 = Most were from Netherlands, others from Belgium, Sweden and Italy. GenBank 
+
+accession number NM_000339.3 is used as a reference sequence. Intron sequences can be found in 
+
+NT_010498.15. 
+
+
+
+ 
+
+【References】 
+
+ 
+
+1. Chinen, T., et al., A case of Gitelman syndrome: our experience with a patient treated 
+
+in clinical practice on a local island. J Rural Med, 2019. 14(2): p. 258-262. 
+
+2. Fujimura, J., et al., Clinical and Genetic Characteristics in Patients With Gitelman 
+
+Syndrome. Kidney Int Rep, 2019. 4(1): p. 119-125. 
+
+3. Mishima, E., et al., Inherited, not acquired, Gitelman syndrome in a patient with 
+
+Sjogren's syndrome: importance of genetic testing to distinguish the two forms. CEN 
+
+Case Rep, 2017. 6(2): p. 180-184. 
+
+4. Imashuku, S., et al., Concurrence of thyrotoxicosis and Gitelman's 
+
+syndrome-associated hypokalemia-induced periodic paralysis. Pediatr Rep, 2012. 
+
+4(2): p. e18. 
+
+5. Iwasaki, Y., et al., Two adjacent mutations on chromosome 16 discovered in a patient 
+
+presenting with generalized convulsions after influenza A virus infection. Intern Med, 
+
+2011. 50(19): p. 2179-83. 
+
+6. Nozu, K., et al., The pharmacological characteristics of molecular-based inherited 
+
+salt-losing tubulopathies. J Clin Endocrinol Metab, 2010. 95(12): p. E511-8. 
+
+7. Aoi, N., et al., Two novel genotypes of the thiazide-sensitive Na-Cl cotransporter 
+
+(SLC12A3) gene in patients with Gitelman's syndrome. Endocrine, 2007. 31(2): p. 
+
+149-53. 
+
+8. Simon, D.B., et al., Gitelman's variant of Bartter's syndrome, inherited hypokalaemic 
+
+alkalosis, is caused by mutations in the thiazide-sensitive Na-Cl cotransporter. Nat 
+
+
+
+Genet, 1996. 12(1): p. 24-30. 
+
+9. Yang, W., et al., A novel SLC12A3 homozygous c2039delG mutation in Gitelman 
+
+syndrome with hypocalcemia. BMC Nephrol, 2018. 19(1): p. 362. 
+
+10. Zhou, H., et al., Complicated Gitelman syndrome and autoimmune thyroid disease: a 
+
+case report with a new homozygous mutation in the SLC12A3 gene and literature 
+
+review. BMC Endocr Disord, 2018. 18(1): p. 82. 
+
+11. Chen, Q., et al., A case of hypokalemia and proteinuria with a new mutation in the 
+
+SLC12A3 Gene. BMC Nephrol, 2018. 19(1): p. 275. 
+
+12. Xia, M.F., et al., Hypokalemia, hypomagnesemia, hypocalciuria, and recurrent tetany: 
+
+Gitelman syndrome in a Chinese pedigree and literature review. Clin Case Rep, 2017. 
+
+5(5): p. 578-586. 
+
+13. Zhang, Y., et al., A novel homozygous mutation in the solute carrier family 12 member 
+
+3 gene in a Chinese family with Gitelman syndrome. Braz J Med Biol Res, 2016. 
+
+49(11): p. e5261. 
+
+14. Pan, B., et al., Schizophrenia-like psychosis and gitelman syndrome: a case report 
+
+and literature review. Springerplus, 2016. 5(1): p. 875. 
+
+15. Wu, W.F. and M. Pan, The outcome of two pregnancies in a patient with Gitelman 
+
+syndrome: case report and review of the literature. J Matern Fetal Neonatal Med, 2019: 
+
+p. 1-3. 
+
+16. Jiang, L., et al., Normomagnesemic Gitelman Syndrome Patients Exhibit a Stronger 
+
+Reaction to Thiazide Than Hypomagnesemic Patients. Endocr Pract, 2015. 21(9): p. 
+
+1017-25. 
+
+
+
+17. Miao, M., et al., Clinical and genetic analyses of Chinese patients with Gitelman 
+
+syndrome. Genet Mol Res, 2016. 15(2). 
+
+18. Lu, Q., et al., A novel SLC12A3 gene homozygous mutation of Gitelman syndrome in 
+
+an Asian pedigree and literature review. J Endocrinol Invest, 2016. 39(3): p. 333-40. 
+
+19. Luo, J., et al., A pedigree analysis of two homozygous mutant Gitelman syndrome 
+
+cases. Endocr J, 2015. 62(1): p. 29-36. 
+
+20. Jiang, L., et al., Clinical severity of Gitelman syndrome determined by serum 
+
+magnesium. Am J Nephrol, 2014. 39(4): p. 357-66. 
+
+21. Qin, L., et al., Identification of five novel variants in the thiazide-sensitive NaCl 
+
+co-transporter gene in Chinese patients with Gitelman syndrome. Nephrology 
+
+(Carlton), 2009. 14(1): p. 52-8. 
+
+22. Shao, L., et al., Novel SLC12A3 mutations in Chinese patients with Gitelman's 
+
+syndrome. Nephron Physiol, 2008. 108(3): p. p29-36. 
+
+23. Peng, X., et al., Increased urinary prostaglandin E2 metabolite: A potential therapeutic 
+
+target of Gitelman syndrome. PLoS One, 2017. 12(7): p. e0180811. 
+
+24. Kim, Y., et al., A Pedigree with c.179 Cytosine to Threonine Missense Mutation of 
+
+SLC12A3 Gene Presenting Gitelman's Syndrome. Electrolyte Blood Press, 2016. 
+
+14(1): p. 16-9. 
+
+25. Lee, J.W., et al., Mutations in SLC12A3 and CLCNKB and Their Correlation with 
+
+Clinical Phenotype in Patients with Gitelman and Gitelman-like Syndrome. J Korean 
+
+Med Sci, 2016. 31(1): p. 47-54. 
+
+26. Joo, K.W., et al., Reduced urinary excretion of thiazide-sensitive Na-Cl cotransporter 
+
+
+
+in Gitelman syndrome: preliminary data. Am J Kidney Dis, 2007. 50(5): p. 765-73. 
+
+27. Jang, H.R., et al., From bench to bedside: diagnosis of Gitelman's syndrome -- defect 
+
+of sodium-chloride cotransporter in renal tissue. Kidney Int, 2006. 70(4): p. 813-7. 
+
+28. Gug, C., A. Mihaescu, and I. Mozos, Two mutations in the thiazide-sensitive NaCl 
+
+co-transporter gene in a Romanian Gitelman syndrome patient: case report. Ther Clin 
+
+Risk Manag, 2018. 14: p. 149-155. 
+
+29. Walsh, P.R., et al., Clinical and diagnostic features of Bartter and Gitelman syndromes. 
+
+Clin Kidney J, 2018. 11(3): p. 302-309. 
+
+30. Berry, M.R., C. Robinson, and F.E. Karet Frankl, Unexpected clinical sequelae of 
+
+Gitelman syndrome: hypertension in adulthood is common and females have higher 
+
+potassium requirements. Nephrol Dial Transplant, 2013. 28(6): p. 1533-42. 
+
+31. Gama, R.M., et al., Acute pseudogout - Measure serum magnesium. Ann Clin 
+
+Biochem, 2019. 56(3): p. 411-414. 
+
+32. Stewart, D., et al., Transplantation of a Gitelman Syndrome Kidney Ameliorates 
+
+Hypertension: A Case Report. Am J Kidney Dis, 2019. 73(3): p. 421-424. 
+
+33. Zahed, H., et al., Potential Role of Genomic Sequencing in the Early Diagnosis of 
+
+Treatable Genetic Conditions. J Pediatr, 2017. 189: p. 222-226 e1. 
+
+34. Lemmink, H.H., et al., Novel mutations in the thiazide-sensitive NaCl cotransporter 
+
+gene in patients with Gitelman syndrome with predominant localization to the 
+
+C-terminal domain. Kidney Int, 1998. 54(3): p. 720-30. 
+
+35. Subasinghe, C.J., et al., Novel mutation in the SLC12A3 gene in a Sri Lankan family 
+
+with Gitelman syndrome & coexistent diabetes: a case report. BMC Nephrol, 2017. 
+
+
+
+18(1): p. 140. 
+
+36. Baldane, S., et al., Hypokalemic paralysis due to thyrotoxicosis accompanied by 
+
+Gitelman's syndrome. Indian J Nephrol, 2015. 25(2): p. 103-5. 
+
+37. Atmis, B., et al., Concomitance of Familial Mediterranean Fever and Gitelman 
+
+syndrome in an adolescent. Turk J Pediatr, 2019. 61(3): p. 444-448. 
+
+38. Favre, G.A., et al., Localization of tubular adaptation to renal sodium loss in Gitelman 
+
+syndrome. Clin J Am Soc Nephrol, 2012. 7(3): p. 472-8. 
+
+39. Balavoine, A.S., et al., Phenotype-genotype correlation and follow-up in adult patients 
+
+with hypokalaemia of renal origin suggesting Gitelman syndrome. Eur J Endocrinol, 
+
+2011. 165(4): p. 665-73. 
+
+40. Biagioni, M., et al., Diabetic ketoacidosis complicated with previously unknown 
+
+Gitelman syndrome in a Tunisian child. Diabetes Care, 2011. 34(6): p. e107. 
+
+41. Syren, M.L., et al., The mutation c.1196_1202dup7bp (p.Ser402X) in the SLC12A3 
+
+gene clusters in Italian Gitelman syndrome patients and reflects the presence of a 
+
+common ancestor. Nephrol Dial Transplant, 2011. 26(2): p. 557-61. 
+
+42. Conti, G., et al., Hypokalaemia and failure to thrive: report of a misleading onset. J 
+
+Paediatr Child Health, 2010. 46(5): p. 276-7. 
+
+43. Syren, M.L., et al., Identification of fifteen novel mutations in the SLC12A3 gene 
+
+encoding the Na-Cl Co-transporter in Italian patients with Gitelman syndrome. Hum 
+
+Mutat, 2002. 20(1): p. 78. 
+
+44. Bonfante, L., et al., Chronic renal failure, end-stage renal disease, and peritoneal 
+
+dialysis in Gitelman's syndrome. Am J Kidney Dis, 2001. 38(1): p. 165-8. 
+
+
+
+45. Mastroianni, N., et al., Novel molecular variants of the Na-Cl cotransporter gene are 
+
+responsible for Gitelman syndrome. Am J Hum Genet, 1996. 59(5): p. 1019-26. 
+
+46. Galli-Tsinopoulou, A., et al., Gitelman syndrome: first report of genetically established 
+
+diagnosis in Greece. Hippokratia, 2010. 14(1): p. 42-4. 
+
+47. Roca-Argente, L., et al., Novel nonsense mutation in the SLC12A3 gene in a Spanish 
+
+case of Gitelman syndrome. Nefrologia, 2019. 39(1): p. 108-109. 
+
+48. Gil-Pena, H., et al., A new SLC12A3 founder mutation (p.Val647Met) in Gitelman's 
+
+syndrome patients of Roma ancestry. Nefrologia, 2017. 37(4): p. 423-428. 
+
+49. Coto, E., et al., Clinical and analytical findings in Gitelman's syndrome associated with 
+
+homozygosity for the c.1925 G>A SLC12A3 mutation. Am J Nephrol, 2009. 30(3): p. 
+
+218-21. 
+
+50. Garcia Nieto, V., et al., [Chondrocalcinosis and hypomagnesaemia in a patient with a 
+
+new mutation in the gene of the thiazide-sensitive Na-Cl cotransporter]. Nefrologia, 
+
+2003. 23(6): p. 504-9. 
+
+51. Coto, E., et al., A new mutation (intron 9 +1 G>T) in the SLC12A3 gene is linked to 
+
+Gitelman syndrome in Gypsies. Kidney Int, 2004. 65(1): p. 25-9. 
+
+52. Bech, A.P., et al., Thiazide Responsiveness Testing in Patients With Renal 
+
+Magnesium Wasting and Correlation With Genetic Analysis: A Diagnostic Test Study. 
+
+Am J Kidney Dis, 2016. 68(1): p. 168-70. 
+
+53. Demoulin, N., et al., Gitelman syndrome and glomerular proteinuria: a link between 
+
+loss of sodium-chloride cotransporter and podocyte dysfunction? Nephrol Dial 
+
+Transplant, 2014. 29 Suppl 4: p. iv117-20. 
+
+
+
+54. Sinha, A., et al., Gitelman syndrome: novel mutation and long-term follow-up. Clin Exp 
+
+Nephrol, 2012. 16(2): p. 306-9. 
+
+55. Schmidt, H., et al., Clinical, biochemical and molecular genetic data in five children 
+
+with Gitelman's syndrome. Horm Metab Res, 2001. 33(6): p. 354-7. 
+
+56. Fava, C., et al., Novel mutations in the SLC12A3 gene causing Gitelman's syndrome 
+
+in Swedes. DNA Seq, 2007. 18(5): p. 395-9. 
+
+57. Urbanova, M., et al., Genetic analysis of Gitelman syndrome patients from the Czech 
+
+Republic and Slovakia--three novel mutations found. Kidney Blood Press Res, 2006. 
+
+29(6): p. 360-5. 
+
+58. Glaudemans, B., et al., Novel NCC mutants and functional analysis in a new cohort of 
+
+patients with Gitelman syndrome. Eur J Hum Genet, 2012. 20(3): p. 263-70. 
+
+59. Wang, C.L., Novel heterozygous missense mutation of SLC12A3 gene in Gitelman 
+
+syndrome: A case report. World J Clin Cases, 2019. 7(12): p. 1522-1528. 
+
+60. Kong, Y., et al., Digenetic inheritance of SLC12A3 and CLCNKB genes in a Chinese 
+
+girl with Gitelman syndrome. BMC Pediatr, 2019. 19(1): p. 114. 
+
+61. Kong, Y., et al., Correction to: Digenic inheritance of SLC12A3 and CLCNKB genes in 
+
+a Chinese girl with Gitelman syndrome. BMC Pediatr, 2019. 19(1): p. 324. 
+
+62. Zhong, F., et al., Characteristics and Follow-Up of 13 pedigrees with Gitelman 
+
+syndrome. J Endocrinol Invest, 2019. 42(6): p. 653-665. 
+
+63. Lu, Q., et al., Consideration of the diagnosis of hypertension accompanied with 
+
+hypokalaemia: monism or dualism? J Int Med Res, 2018. 46(7): p. 2944-2953. 
+
+64. Gu, X., et al., Acquired Gitelman syndrome in a primary Sjogren syndrome patient with 
+
+
+
+a SLC12A3 heterozygous mutation: A case report and literature review. Nephrology 
+
+(Carlton), 2017. 22(8): p. 652-655. 
+
+65. Shi, R.R., et al., [Clinical and genetic characteristics of Gitelman syndrome in 5 
+
+pedigrees]. Zhonghua Nei Ke Za Zhi, 2017. 56(2): p. 104-111. 
+
+66. Lee, M., et al., HELLP syndrome in a pregnant patient with Gitelman syndrome. 
+
+Kidney Res Clin Pract, 2017. 36(1): p. 95-99. 
+
+67. Lee, J.H., J. Lee, and J.S. Han, Gitelman's syndrome with vomiting manifested by 
+
+severe metabolic alkalosis and progressive renal insufficiency. Tohoku J Exp Med, 
+
+2013. 231(3): p. 165-9. 
+
+68. Kusuda, T., et al., Acquired Gitelman Syndrome in an Anti-SSA Antibody-positive 
+
+Patient with a SLC12A3 Heterozygous Mutation. Intern Med, 2016. 55(21): p. 
+
+3201-3204. 
+
+69. Nakamura, A., et al., A rare case of Gitelman's syndrome presenting with 
+
+hypocalcemia and osteopenia. J Endocrinol Invest, 2005. 28(5): p. 464-8. 
+
+70. Maki, N., et al., Four novel mutations in the thiazide-sensitive Na-Cl co-transporter 
+
+gene in Japanese patients with Gitelman's syndrome. Nephrol Dial Transplant, 2004. 
+
+19(7): p. 1761-6. 
+
+71. Aoki, K., et al., A novel initial codon mutation of the thiazide-sensitive Na-Cl 
+
+cotransporter gene in a Japanese patient with Gitelman's syndrome. Endocr J, 2008. 
+
+55(3): p. 557-60. 
+
+72. Huang, K., et al., Gitelman syndrome combined with growth hormone deficiency: 
+
+Three cases report. Medicine (Baltimore), 2019. 98(40): p. e17244. 
+
+
+
+73. Yang, L.Y., et al., Liquorice-induced severe hypokalemic rhabdomyolysis with 
+
+Gitelman syndrome and diabetes: A case report. World J Clin Cases, 2019. 7(10): p. 
+
+1200-1205. 
+
+74. Chen, Y., et al., A novel compound heterozygous variant of the SLC12A3 gene in 
+
+Gitelman syndrome pedigree. BMC Med Genet, 2018. 19(1): p. 17. 
+
+75. Wang, X., et al., A novel compound heterozygous mutation of SLC12A3 gene in a 
+
+Chinese pedigree with Gitelman syndrome. Endocrine, 2020. 67(3): p. 673-677. 
+
+76. Zeng, Y., et al., Genetic Analysis of SLC12A3 Gene in Chinese Patients with Gitelman 
+
+Syndrome. Med Sci Monit, 2019. 25: p. 5942-5952. 
+
+77. Liu, S., et al., A Novel Compound Heterozygous Variant of Slc12a3 Gene in a 
+
+Pedigree with Gitelman Syndrome Co-Existent with Thyroid Dysfunction. Endocr Pract, 
+
+2018. 24(10): p. 889-893. 
+
+78. Huang, J., et al., [A case of Gitelman syndrome with physical retardation]. Zhong Nan 
+
+Da Xue Xue Bao Yi Xue Ban, 2017. 42(10): p. 1236-1238. 
+
+79. Luo, J.W., et al., Analysis of mutations of two Gitelman syndrome family SLC12A3 
+
+genes and proposed treatments using Chinese medicine. Chin J Integr Med, 2017. 
+
+23(6): p. 461-468. 
+
+80. Li, C., et al., Identification of two novel mutations in SLC12A3 gene in two Chinese 
+
+pedigrees with Gitelman syndrome and review of literature. Clin Endocrinol (Oxf), 
+
+2015. 83(6): p. 985-93. 
+
+81. Sung, C.C., Y.S. Chen, and S.H. Lin, Family paralysis. Lancet, 2011. 377(9762): p. 
+
+352. 
+
+
+
+82. Chan, C.F., et al., Gitelman's syndrome: report of one case. Acta Paediatr Taiwan, 
+
+2008. 49(1): p. 31-4. 
+
+83. Lin, S.H., et al., Intrafamilial phenotype variability in patients with Gitelman syndrome 
+
+having the same mutations in their thiazide-sensitive sodium/chloride cotransporter. 
+
+Am J Kidney Dis, 2004. 43(2): p. 304-12. 
+
+84. Cheng, N.L., et al., Novel thiazide-sensitive Na-Cl cotransporter mutation in a Chinese 
+
+patient with Gitelman's syndrome presenting as hypokalaemic paralysis. Nephrol Dial 
+
+Transplant, 2003. 18(5): p. 1005-8. 
+
+85. Shao, L., et al., A novel SLC12A3 splicing mutation skipping of two exons and 
+
+preliminary screening for alternative splice variants in human kidney. Am J Nephrol, 
+
+2008. 28(6): p. 900-7. 
+
+86. Miya, A., et al., Gitelman's syndrome with hyperphosphatemia, effectively responding 
+
+to single oral magnesium oxide administration: A case report. Medicine (Baltimore), 
+
+2019. 98(28): p. e16408. 
+
+87. Makino, S., et al., Corrigendum to "Gitelman Syndrome in a School Boy Who 
+
+Presented with Generalized Convulsion and Had a R642H/R642W Mutation in the 
+
+SLC12A3 Gene". Case Rep Pediatr, 2015. 2015: p. 853523. 
+
+88. Makino, S., et al., Gitelman Syndrome in a School Boy Who Presented with 
+
+Generalized Convulsion and Had a R642H/R642W Mutation in the SLC12A3 Gene. 
+
+Case Rep Pediatr, 2014. 2014: p. 279389. 
+
+89. Tajima, T., et al., Two Japanese patients with gitelman syndrome. Clin Pediatr 
+
+Endocrinol, 2006. 15(4): p. 137-42. 
+
+
+
+90. Oba, T., et al., A Case of Gitelman Syndrome that Was Difficult to Distinguish from 
+
+Hypokalemic Periodic Paralysis Caused by Graves' Disease. J Nippon Med Sch, 2019. 
+
+86(5): p. 301-306. 
+
+91. Nozu, K., et al., Cryptic exon activation in SLC12A3 in Gitelman syndrome. J Hum 
+
+Genet, 2017. 62(2): p. 335-337. 
+
+92. Ueda, K., et al., A novel compound heterozygous mutation of Gitelman's syndrome in 
+
+Japan, as diagnosed by an extraordinary response of the fractional excretion rate of 
+
+chloride in the trichlormethiazide loading test. Intern Med, 2012. 51(12): p. 1549-53. 
+
+93. Ito, Y., et al., Eplerenone improved hypokalemia in a patient with Gitelman's syndrome. 
+
+Intern Med, 2012. 51(1): p. 83-6. 
+
+94. Tsutsui, H., et al., A case of Gitelman syndrome associated with idiopathic intracranial 
+
+hypertension. Intern Med, 2011. 50(14): p. 1493-6. 
+
+95. Yagi, H., et al., Inheritance of an autosomal recessive disorder, Gitelman's syndrome, 
+
+across two generations in one family. Intern Med, 2011. 50(11): p. 1211-4. 
+
+96. Nakayama, T., et al., [Establishment of genetic testing for Gitelman's syndrome]. 
+
+Rinsho Byori, 2010. 58(2): p. 156-61. 
+
+97. Kumagai, H., S. Matsumoto, and K. Nozu, Hypokalemic rhabdomyolysis in a child with 
+
+Gitelman's syndrome. Pediatr Nephrol, 2010. 25(5): p. 953-5. 
+
+98. Eto, K., et al., A case of Gitelman's syndrome with decreased angiotensin II-forming 
+
+activity. Hypertens Res, 2006. 29(7): p. 545-9. 
+
+99. Tajima, T., et al., Two novel mutations of thiazide-sensitive Na-Cl cotrans porter (TSC) 
+
+gene in two sporadic Japanese patients with Gitelman syndrome. Endocr J, 2002. 
+
+
+
+49(1): p. 91-6. 
+
+100. Iqbal, Z., P. Mead, and J.A. Sayer, Case Report: Cervical chondrocalcinosis as a 
+
+complication of Gitelman syndrome. F1000Res, 2016. 5: p. 875. 
+
+101. Phillips, D.R., et al., A serum potassium level above 10 mmol/l in a patient 
+
+predisposed to hypokalemia. Nat Clin Pract Nephrol, 2006. 2(6): p. 340-6; quiz 347. 
+
+102. de La Faille, R., et al., A pseudo-dominant form of Gitelman's syndrome. NDT Plus, 
+
+2011. 4(6): p. 386-9. 
+
+103. Bouchireb, K., et al., Fanconi syndrome and severe polyuria: an uncommon 
+
+clinicobiological presentation of a Gitelman syndrome. BMC Pediatr, 2014. 14: p. 201. 
+
+104. Murienne, B., P. Pointet, and G. Beaune, [Gitelman syndrome: a crucial role of 
+
+laboratory medicine for the diagnosis]. Ann Biol Clin (Paris), 2013. 71(2): p. 235-9. 
+
+105. Han, J.S., Erratum: Mutations in SLC12A3 and CLCNKB and Their Correlation with 
+
+Clinical Phenotype in Patients with Gitelman and Gitelman-like Syndrome. J Korean 
+
+Med Sci, 2016. 31(5): p. 827. 
+
+106. Min, S.R., et al., Gitelman syndrome combined with complete growth hormone 
+
+deficiency. Ann Pediatr Endocrinol Metab, 2013. 18(1): p. 36-9. 
+
+107. Yoo, T.H., et al., Identification of novel mutations in Na-Cl cotransporter gene in a 
+
+Korean patient with atypical Gitelman's syndrome. Am J Kidney Dis, 2003. 42(6): p. 
+
+E11-6. 
+
+108. Larkins, N., et al., A severe phenotype of Gitelman syndrome with increased 
+
+prostaglandin excretion and favorable response to indomethacin. Clin Kidney J, 2014. 
+
+7(3): p. 306-10. 
+
+
+
+109. Rego, T., et al., Gitelman syndrome and primary hyperparathyroidism: a rare 
+
+association. BMJ Case Rep, 2018. 2018. 
+
+110. van der Merwe, P.D., et al., Gitelman syndrome in a South African family presenting 
+
+with hypokalaemia and unusual food cravings. BMC Nephrol, 2017. 18(1): p. 38. 
+
+111. Grillone, T., et al., New SLC12A3 disease causative mutation of Gitelman's syndrome. 
+
+World J Nephrol, 2016. 5(6): p. 551-555. 
+
+112. Ravarotto, V., et al., Gitelman's Syndrome: characterization of a novel c.1181G>A 
+
+point mutation and functional classification of the known mutations. Hypertens Res, 
+
+2018. 41(8): p. 578-588. 
+
+113. Brugnara, M., et al., Type III Bartter-like syndrome in an infant boy with Gitelman 
+
+syndrome and autosomal dominant familial neurohypophyseal diabetes insipidus. J 
+
+Pediatr Endocrinol Metab, 2014. 27(9-10): p. 971-5. 
+
+114. Brambilla, G., et al., It is never too late for a genetic disease: a case of a 79-year-old 
+
+man with persistent hypokalemia. J Nephrol, 2013. 26(3): p. 594-8. 
+
+115. Tammaro, F., et al., Early appearance of hypokalemia in Gitelman syndrome. Pediatr 
+
+Nephrol, 2010. 25(10): p. 2179-82. 
+
+116. Fanis, P., et al., A novel heterozygous duplication of the SLC12A3 gene in two 
+
+Gitelman syndrome pedigrees: indicating a founder effect. J Genet, 2019. 98. 
+
+117. Wolyniec, W., et al., A case report of Gitelman syndrome resulting from two novel 
+
+mutations in SLC12A3 gene. Nefrologia, 2016. 36(3): p. 304-9. 
+
+118. Skalova, S., et al., Gitelman syndrome as a cause of psychomotor retardation in a 
+
+toddler. Arab J Nephrol Transplant, 2013. 6(1): p. 37-9. 
+
+
+
+119. Morton, A., B. Panitz, and A. Bush, Eplerenone for gitelman syndrome in pregnancy. 
+
+Nephrology (Carlton), 2011. 16(3): p. 349. 
+
+120. Kitterer, D., et al., [Salt appetite, cramps and palpitations in a 21-year old medical 
+
+secretary]. Internist (Berl), 2011. 52(10): p. 1238-42. 
+
+121. Reissinger, A., et al., Novel NCCT gene mutations as a cause of Gitelman's syndrome 
+
+and a systematic review of mutant and polymorphic NCCT alleles. Kidney Blood Press 
+
+Res, 2002. 25(6): p. 354-62. 
+
+122. Godefroid, N., et al., A novel splicing mutation in SLC12A3 associated with Gitelman 
+
+syndrome and idiopathic intracranial hypertension. Am J Kidney Dis, 2006. 48(5): p. 
+
+e73-9. 
+
+123. Ring, T., et al., Reevaluation of the criteria for the clinical diagnosis of Gitelman 
+
+syndrome. Pediatr Nephrol, 2002. 17(8): p. 612-6. 
+
+124. Melander, O., et al., Genetic variants of thiazide-sensitive NaCl-cotransporter in 
+
+Gitelman's syndrome and primary hypertension. Hypertension, 2000. 36(3): p. 389-94. 
+
+125. Nakhoul, F., et al., Gitelman's syndrome: a pathophysiological and clinical update. 
+
+Endocrine, 2012. 41(1): p. 53-7.

@@ -1,0 +1,1655 @@
+doi:10.1016/j.jaut.2004.10.003
+
+
+Journal of Autoimmunity 24 (2005) 69e78
+
+www.elsevier.com/locate/issn/08968411
+Differential regulation of Cu, Zn- and Mn-superoxide
+dismutases by retinoic acid in normal and psoriatic
+
+human fibroblasts
+
+Pascale Gerbaud
+a
+, Loı̈c Petzold
+
+a
+, Patrice Thérond
+
+b
+, Wayne B. Anderson
+
+c
+,
+
+Danièle Evain-Brion
+a
+, Françoise Raynaud
+
+d,*
+
+a
+INSERM U 427, Faculté des Sciences Pharmaceutiques et Biologiques de Paris, Université René Descartes, Paris V,
+
+4 avenue de l’Observatoire, 75270 Paris Cedex 06, France
+b
+Service de Biochimie, Hôpital Bicêtre, 71 rue du Général Leclerc, 94 275 Le Kremlin Bicêtre Cedex, France
+
+c
+Laboratory of Cellular Oncology, National Cancer Institute, National Institutes of Health, Bethesda, MA 20892, USA
+
+d
+CNRS UPR 9045, Institut André Lwoff, 7, rue Guy Moquet, BP 8-94 801Villejuif, France
+
+Received 23 July 2004; revised 15 October 2004; accepted 18 October 2004
+
+Abstract
+
+Superoxide dismutases’ (SODs) expression is altered in several diseases including Alzheimer, atherosclerosis, cancer and
+psoriasis. Previously, we reported a marked increase in Mn-SOD and Cu,Zn-SOD functional activity in human dermal psoriatic
+fibroblasts. As retinoic acid (RA) has been used in the treatment of psoriasis and a mechanism for its beneficial effects is not
+
+understood, we investigated the effects of RA on SOD mRNA and protein expression levels in human normal and psoriatic
+fibroblasts. Prior to RA exposure, Cu,Zn-SOD protein and mRNA levels were similar in normal compared to psoriatic fibroblasts
+while Mn-SOD protein and mRNA levels were increased in psoriatic cells. However, in contrast to normal fibroblasts, exposure of
+
+psoriatic fibroblasts to 1 mM RA down-regulated Mn-SOD mRNA, and also decreased Mn-SOD activity by w80% with no change
+in Mn-SOD protein levels. In contrast, Cu,Zn-SOD protein and enzymatic activity were modestly reduced by RA treatment in both
+normal and psoriatic fibroblasts. Furthermore, RA treatment of psoriatic fibroblasts also caused a decrease in Cu,Zn-SOD steady-
+
+state mRNA levels. These results indicate that RA can serve as a regulatory agent to down-regulate the steady-state levels of both
+Mn-SOD and Cu,Zn-SOD in psoriatic cells. These findings offer a new model for the antiinflammatory activity of RA when used in
+the treatment of psoriasis.
+
+� 2004 Elsevier Ltd. All rights reserved.
+
+Keywords: Psoriasis; Superoxide dismutases; Free radicals; Fibroblasts; Retinoic acid
+Abbreviations: CRABPII, Cellular Retinoic Acid Binding Protein
+
+II; GAPDH, D-Glyceraldehyde-3-Phosphate Dehydrogenase; PDGF,
+
+Platelet Derived Growth Factor; PKA, Protein Kinase A; RA,
+
+Retinoic Acid; ROS, Reactive Oxygen Species; SOD, Superoxide
+
+Dismutase.
+
+* Corresponding author. Tel.: C33 1 48 59 34 29; fax: C33 1 48 59
+
+34 34.
+
+E-mail address: raynaud@vjf.cnrs.fr (F. Raynaud).
+0896-8411/$ - see front matter � 2004 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jaut.2004.10.003
+1. Introduction
+
+Studies to define the role of superoxide radicals (O2
+c�)
+
+in both physiological and pathological processes are an
+area of active investigation. Reactive oxygen species
+(ROS), including hydrogen peroxide (H2O2), superoxide
+radicals and hydroxyl radicals are generated in cells in
+response to stimulation by various hormones, growth
+factors and cytokines [1], such as PDGF [2,3]. The
+
+mailto:raynaud@vjf.cnrs.fr
+http://www.elsevier.com/locate/issn/08968411
+
+
+70 P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+oxygen radicals generated appear to act as second
+messengers in transmembrane signaling pathways and
+modulate cellular functions such as cell proliferation,
+differentiation, and apoptosis [3]. Oxidative regulation
+of several key enzymes involved in cellular signal
+transduction, including protein kinases, has been de-
+scribed [4].
+
+Oxidants also have been implicated in a number of
+pathological disorders, including Alzheimer disease,
+psoriasis, aging, atherosclerosis, and cancer [5e8]. The
+primary cellular defenses against damage that can be
+caused by O2
+
+c� and by its reactive progeny are the
+superoxide dismutases (SODs). Mammalian cells have
+a mitochondrial Mn-SOD, a cytoplasmic Cu,Zn-SOD
+(also found in peroxysomes) and an extracellular SOD
+which is a Cu,Zn-SOD that is immunologically distinct
+from the classical Cu,Zn-SOD [9]. These metalloen-
+zymes act to dismute toxic superoxide radicals to oxygen
+and H2O2[9e11]. Catalase, along with peroxidases such
+as glutathione peroxide, in turn catalyze the decompo-
+sition of H2O2 to water and oxygen. Studies have been
+ongoing for a number of years in our laboratories on the
+synergism between retinoic acid and cyclic AMP that
+regulates cell growth and differentiation [12]. In the
+course of these studies, it was established that cyclic
+AMP-dependent protein kinase (PKA) activity, as well
+as 8-azido-[
+
+32
+P] cAMP binding to the RI and RII
+
+regulatory subunits, are decreased in cells of psoriatic
+patients compared to cells of normal subjects [13]. More
+recent studies determined that exposure of normal
+human dermal fibroblasts to H2O2 and to other oxygen
+free radical generating systems decreased both PKA
+activity and cyclic AMP binding to RI and RII, to levels
+similar to those observed with psoriatic fibroblasts [14].
+Treatment of psoriatic fibroblasts with free radical
+scavenging agents restored the ability of RI and RII to
+bind cyclic AMP toward normal levels. We also showed
+that SOD activity, particularly that of the mitochondrial
+enzyme, Mn-SOD, was elevated in fibroblasts prepared
+from a psoriatic patient [15]. These results suggested
+that oxidative modification may serve as a mechanism to
+alter PKA in human cells, and that an altered oxidative
+state may be responsible for the decrease in PKA
+activity and cyclic AMP binding in cells from psoriatic
+patients.
+
+Retinoic acid derivatives have been used with some
+success in the therapeutic treatment of psoriasis even
+though the mechanism of retinoid action responsible for
+this beneficial effect was not known [16,17]. Previously,
+we established that the treatment of psoriatic fibroblasts
+with retinoic acid and with other retinoids, such as 13-
+cis-retinoic acid and arotinoid induced an increase in the
+oxidatively modified PKA activity back towards normal
+levels [13]. Again however, the mechanism by which
+retinoic acid acted to increase PKA activity in psoriatic
+cells remained to be elucidated. Thus, the present studies
+were carried out to determine if retinoic acid treatment
+might differentially regulate antioxidant enzyme activi-
+ties in normal and psoriatic fibroblasts. To address this
+question Mn-SOD and Cu,Zn-SOD functional activi-
+ties, as well as Mn-SOD and Cu,Zn-SOD mRNA levels
+and protein levels, were determined in cells in the
+presence and absence of retinoic acid. Retinoid treat-
+ment of psoriatic fibroblasts was observed to signifi-
+cantly decrease both Mn-SOD activity and steady-state
+mRNA levels as well as both Cu,Zn-SOD expression
+and enzymatic activity.
+
+2. Materials and methods
+
+2.1. Experimental reagents
+
+Retinoic acid (RA) and actinomycin D (ActD) were
+obtained from Sigma (Saint Louis, MI, USA) and
+cycloheximide was purchased from Calbiochem (La
+Jolla, CA, USA). ActD was dissolved in dimethylsulf-
+oxide (Me2SO). RA was dissolved in 100% ethanol and
+cycloheximide in double distilled water (ddH2O).
+DMEM with L-glutamine, sodium pyruvate, fetal
+bovine serum and antibiotics were obtained from
+Invitrogen. The antibody to b-actin was an anti-mouse
+monoclonal antibody purchased from Sigma. The rabbit
+anti-human Mn-SOD antibody and the goat anti-
+human Cu,Zn-SOD antibody were gifts of Dr
+N. Taniguchi, Osaka, Japan. The horseradish peroxi-
+dase-labelled secondary antibody was obtained from
+Jackson Immunoresearch. Protein assay reagents and
+polyvinylidene difluoride membranes were purchased
+from Bio-Rad (Marnes la Coquette, France).
+
+2.2. Cells
+
+Human fibroblasts were isolated from seven normal
+and seven untreated adult psoriatic patients (Psoriasis
+vulgaris in flare for approximately 3 months) by
+enzymatic digestion of small pieces (4 mm) of lesional
+and non-lesional buttock and abdominal skin punch
+biopsies as previously described [14,18]. These Caucasian
+subjects were age- and sex-matched. This study was
+approved by the ethical committee of the Hôpital Cochin
+(Paris). The patients had received no systemic therapy
+such as corticosteroids, antimitotic drugs, retinoids for
+at least a year before the study; no systemic anti-
+inflammatory drugs for at least two weeks before the
+biopsy; no local corticosteroids, ultraviolet light, or oral
+psoralen for at least three months before the assay. The
+severity of the disease was determined by mean psoriatic
+area and severity index (PASI)score, as described by
+Frederiksson and Peterssonn [45]. The PASI score for
+the 10 patients were 22.54G0.47 (Range 12.8e34.1).
+Cells were grown as previously described [14] and used
+
+
+
+71P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+subconfluent (10
+6
+cells/dish) at the fifth passage. All data
+
+were obtained with cells propagated for the same number
+of passages (fifth passage) under identical culture
+conditions. For each donor the different assays were
+performed on the same cell extracts prepared from cells
+arising from the same cell seeding.
+
+2.3. Preparation of cellular fractions
+
+Fibroblasts were washed three times with ice cold
+phosphate buffered saline and harvested by scraping
+into ice cold buffer (0.25 M sucrose, 1 mM MgCl2,
+20 mM Tris, pH 7.4) with a cell scraper with anti-
+proteolytics. The cells were recovered by centrifugation
+at 1000g for 5 min and the cell pellet was then frozen at
+�80 �C. For antioxidant enzyme activity measurements,
+the control and psoriatic cell pellets were disrupted by
+sonication in 500 ml of 10 mM sodium phosphate buffer,
+pH 7, (whole cell lysates), and the same cellular sample
+was used to assay each of the indicated activities within
+the same experiment.
+
+2.4. Superoxide dismutase (SOD) activities
+
+As previously described [15], xanthineexanthine
+oxidase was used to generate an O2
+
+c� flux and the
+reduction of 2-(4-iodophenyl)-3-(4-nitrophenol)-5 phe-
+nyltetrazolium chloride (INT) to red formazan by O2
+
+c�
+
+was followed at 505 nm, 30 �C. Each assay tube
+contained 50 mM (3-[cyclohexylamino]-1-propane-sul-
+fonic acid) (CAPS) buffer, pH 10.2, for determination of
+Cu,Zn-SOD activity [19], or 50 mM phosphate buffer,
+pH 7.8, for determination of total SOD activity [20],
+along with 1 mM EDTA, 25 mM INT, 50 mM xanthine,
+1 U/ml catalase, 0.05 mM bathocuproin disulfonate
+disodium salt (BCS), 0.13 mg/ml bovine serum albumin
+(BSA), and enough xanthine oxidase to achieve the
+required 100% of non-inhibition. BCS and BSA were
+added to inhibit non-enzymatic scavenging of O2
+
+c�. Mn-
+SOD activity was determined by adding cyanide (2 mM)
+to the assay mixture at pH 7.8 to inhibit Cu,Zn-SOD
+activity, or was determined by subtracting the Cu,Zn-
+SOD activity determined at pH 10.2 from the total SOD
+activity measured at pH 7.8. The two methods gave
+similar values (data not shown). All data are expressed
+in units of SOD activity per mg of protein.
+
+2.5. Western blot analysis
+
+Cell pellets were prepared as described above. Then
+cell lysates were prepared, protein levels were de-
+termined and the lysates were then heated for 5 min at
+95 �C in Laemmli sample buffer and analysed by
+electrophoresis on 15% polyacrylamide gels (10 mg/
+sample). Proteins were electrotransferred to nitrocellu-
+lose and Western blots were performed as described in
+the Supersignal kit (Pierce, Bezons, France). The SOD
+proteins were detected with a rabbit anti-human Mn-
+SOD antibody and a goat anti-human Cu,Zn-SOD
+antibody, both diluted 1000-fold (gift of Dr Taniguchi
+N., Osaka, Japan).
+
+2.6. Actinomycin D treatment
+
+To determine the stability of Cu,Zn- and Mn-SOD
+mRNA, with or without retinoic acid (1 mM), the three
+different types (normal, non-lesional and lesional
+psoriatic) of human fibroblast primary cultures were
+untreated or treated for 48 h with 1 mM RA, and then
+10 mg/ml ActD was added. Cells were collected, and
+total RNA was isolated at the indicated time points.
+
+2.7. Cycloheximide treatment
+
+To inhibit protein synthesis, cells were incubated with
+10 mg/ml cycloheximide, with or without retinoic acid
+treatment (1 mM) for 48 h. To determine the turn over of
+Cu,Zn- and Mn-SOD protein, cells were collected from
+the three different types of human fibroblasts primary
+cultures at the indicated time for western blot analysis.
+
+2.8. RNA isolation and real time RT-PCR
+
+Total RNA was extracted with RNA-Plus (Qbiogene,
+Illkirch, France) from normal (N, Normal Skin),
+lesional (LP, Lesional Psoriatic Skin) and non-lesional
+(nLP, non-Lesional Psoriatic Skin) cultured fibroblasts,
+and 1 mg of each sample was reverse-transcribed into
+cDNA using a first-strand cDNA-synthesis kit (Amer-
+sham Pharmacia Biotech, Uppsala, Sweden).
+
+Real-time quantitative PCR was conducted with the
+TaqMan system (Perkin-Elmer Applied Biosystems) for
+the Cu,Zn-SOD and Mn-SOD steady state mRNA
+levels with or without RA treatment or the LightCycler
+system for the Cu,Zn-SOD and Mn-SOD mRNA
+stability (Roche Diagnostics, Mannheim, Germany)
+using the DNA-binding dye SYBR Green for the
+detection of PCR products according to the manufac-
+turer’s instructions. Quantitative PCR was performed in
+a total volume of 20 ml in the presence of 2 ml of cDNA,
+2 ml of 10! LightCycler DNA Master SYBR Green I,
+1.25 mM MgCl2, 25 pmol of both primers. After de-
+naturation at 95 �C for 10 min, the samples underwent
+40 cycles of amplification (15 s at 95 �C; 5 s at 60 �C and
+8 s at 72 �C). Sense and antisense primers were re-
+spectively: 5#-GGC GAC CTG GAA GTC CAA CT-3#
+and 5#-CCA TCA GCA CCA CAG CCT TC-3# for PO;
+5#-CTG AAG GCC TGC ATG GAT TC-3# and 5#-
+CCA AGT CTC CAA CAT GCC TCT C-3# for Cu,Zn-
+SOD; 5#-CGT GAC TTT GGT TCC TTT GAC A-3#
+and 5#-AAG TGT CCC CGT TCC TTA TTG A-3# for
+Mn-SOD. Experiments were performed with duplicates
+
+
+
+72 P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+for each point, and all results were normalized to P0
+(RPLP0, human acidic ribosomal phosphoprotein)
+cDNA detected in the same sample.
+
+2.9. Analysis of statistical significance
+
+Data were analysed by the ANOVA test.
+
+3. Results
+
+3.1. Retinoic acid treatment of psoriatic fibroblasts
+decreased SOD enzymatic activities
+
+In agreement with our previous findings [15], both
+non-lesional (nLP) and lesional (LP) psoriatic fibroblasts
+exhibit significantly higher levels of Mn-SOD and
+Cu,Zn-SOD activities compared to normal (N) fibro-
+blasts (Table 1). Treatment with 1 mM RA for 4 days
+decreased the Cu,Zn-SOD activity determined in all
+three cell types by 18% ( p! 0.005), 26% ( p! 0.005),
+and 23% ( p! 0.025) for normal, nLP, and LP
+fibroblasts, respectively. Interestingly, the Mn-SOD
+activity was dramatically decreased by 1 mM RA
+treatment for 4 days in psoriatic fibroblasts and returned
+to levels equivalent to that in normal firbroblasts (83%
+and 78% decrease in nLP and LP psoriatic fibroblasts,
+respectively, p! 0.005), whereas RA had no effect on
+Mn-SOD activity in normal fibroblasts (Table 1).
+
+3.2. Time dependency of decreased SOD enzymatic
+activities upon retinoic acid treatment
+
+The effects of treating cells with RA for increasing
+periods of time on Cu,Zn-SOD (panel A) and Mn-SOD
+(panel B) activities are depicted in Fig. 1. RA treatment
+of nLP, LP and normal fibroblasts showed only a slight
+effect on Cu,Zn-SOD activity through 3 h. However,
+a decrease in Cu,Zn-SOD activity was observed in all
+three cell types at 96 h of treatment with RA, which was
+maximal at 18 h (Fig. 1A). Importantly, RA had little
+effect on the low basal level Mn-SOD activity present in
+normal fibroblasts through 96 h of treatment, while
+treatment of both nLP and LP psoriatic fibroblasts with
+RA for 3 h resulted in a dramatic decrease in Mn-SOD
+activity (Fig. 1B). This decrease in Mn-SOD activity in
+response to RA treatment of psoriatic fibroblasts was
+maintained through 96 h. At this time, the Mn-SOD
+activity of psoriatic cells was similar to its basal level
+determined in normal fibroblasts.
+
+3.3. Retinoic acid effects on Cu,Zn-SOD
+and Mn-SOD protein levels
+
+The protein levels of Cu,Zn-SOD and Mn-SOD
+present in control and RA-treated cells were analysed by
+western blot and densitometric scanning of the auto-
+radiographs (Fig. 2). Exposure to RA was found to
+reduce the level of Cu,Zn-SOD protein in both normal
+and psoriatic fibroblasts from 18 h through 96 h of
+treatment (Fig. 2A). In contrast, no alteration in the
+level of Mn-SOD protein was observed in any of the cell
+types through 96 h of treatment with RA (Fig. 2B).
+
+In another set of experiments, cells were treated for
+18 h and 96 h. While the Mn-SOD protein level was not
+changed by RA treatment of either normal or psoriatic
+fibroblasts (Fig. 2D), RA treatment did result in
+decreased levels of Cu,Zn-SOD protein in all three
+different human primary cell types (nZ 4 of each
+primary cultures, Fig. 2C). Thus, in comparison with
+untreated cells, the mean valuesG SEM of Cu,Zn-SOD
+protein levels were decreased by 17%G 4 ( p! 0.02),
+19%G 2 ( p! 0.05) and 27%G 8 ( p! 0.03) in nor-
+mal, nLP and LP RA-treated cells, respectively.
+
+3.4. Analysis of Mn-SOD steady-state mRNA levels
+
+Next, the Cu,Zn-SOD and Mn-SOD mRNA levels in
+all three primary cell types were determined using real
+time reverse transcription-polymerase chain reaction
+Table 1
+
+Down-regulation of Cu,Zn-SOD and Mn-SOD activities by retinoic acid in cultured fibroblasts isolated from skin of normal subjects and from
+
+lesional and non-lesional psoriatic patients
+
+SOD activities
+
+Fibroblasts Treatment Mn-SOD (mU/mg prot) Cu,Zn-SOD (mU/mg prot)
+
+Normal 0 72.3G 5.3 (59e102) 231.9G 16.0 (180e306)
+
+(nZ 7) RA 96 h 74.7G 6.1 (57e104) 191.9G 8.4 (159e222)
+Non-Lesional Psoriatic 0 233.7G 22.3 (143e300) 364.4G 22.0 (293e443.5)
+
+(nZ 7) RA 96 h 38.8G 4.8 (29e61) 270.0G 26.6 (192e338.5)
+Lesional Psoriatic 0 267.0G 19.7 (220e320) 363.6G 26.4 (275e452)
+
+(nZ 7) RA 96 h 57.6G 9.7 (40e82) 279.7G 6.9 (260e300)
+
+Data are expressed as the meanG SEM of triplicate determinations carried out with 7 primary cultures of Normal, non-Lesional Psoriatic, and
+Lesional Psoriatic human fibroblasts with and without treatment by 1 mM RA for 4 days. The range of experimental values is shown in parenthesis.
+
+nZ number of different primary cultures tested.
+
+
+
+73P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+(real time RT-PCR) (Fig. 3). To normalize the cDNA
+concentration in all samples, a housekeeping gene (P0)
+was amplified in the same experiment along with the
+Mn-SOD and Cu,Zn-SOD genes. Normalization of the
+results were obtained by establishing the ratio of Mn-
+SOD/P0 and Cu,Zn-SOD/P0 [21]. The steady-state level
+of Cu,Zn-SOD mRNA was not statistically different in
+psoriatic fibroblasts obtained from non-lesional (nLP,
+nZ 4, meanGSEM, 4.85 AUG 1.34) and lesional skin
+(LP, nZ 5, meanGSEM, 3.56 AUG 0.57) compared to
+normal fibroblasts (N, nZ 4, meanGSEM,
+4.22 AUG 0.44) (Fig. 3A, open bars). Conversely, the
+
+S
+O
+
+D
+ a
+
+ct
+iv
+
+it
+ie
+
+s 
+(m
+
+U
+/m
+
+g 
+pr
+
+ot
+)
+
+RA time course (hours) RA time course (hours)
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+0.50 1 3 6 18 96 0.50 1 3 6 18 96
+
+A
+
+LP
+
+nLP
+N
+
+Cu,Zn-SOD Mn-SOD
+B
+
+LP
+nLP
+N
+
+Fig. 1. Time course of retinoic acid (RA) (1 mM) treatment of Normal
+
+(N), non-Lesional Psoriatic (nLP) and Lesional Psoriatic (LP)
+
+fibroblasts on Cu,Zn-SOD (panel A) and Mn-SOD (panel B) activity.
+
+SOD activities were determined as described in Section 2. Data are
+
+presented as meanG SEM (nZ 6). Each sample was assayed in
+triplicate in two separate experiments.
+steady-state level of Mn-SOD was increased by 7 fold
+( p! 0.001) and 48 fold ( p! 0.001), respectively, in
+untreated nLP (nZ 4, meanGSEM, 9.85 AUG 0.88)
+and LP (nZ 4, meanGSEM, 68.42 AUG 7.0) psoriatic
+fibroblasts compared to normal cells (N, nZ 4, mean -
+GSEM, 1.47 AUG 0.27) (Fig. 4, open bars).
+
+3.5. Effects of retinoic acid treatment on
+Cu,Zn-SOD and Mn-SOD steady-state
+mRNA levels
+
+Given our finding that psoriatic fibroblasts had
+significantly higher levels of Mn-SOD mRNA, we next
+determined the effects of RA on both Cu,Zn-SOD and
+Mn-SOD mRNA. As determined by real time RT-PCR,
+the steady-state levels of Cu,Zn-SOD mRNA found in
+psoriatic cells were significantly decreased in response to
+RA treatment for 96 h (nLP 0Z 4.85 AUG 1.339, nLP
+RAZ 3.07 AUG 0.21, p! 0.03 nZ 4; LP 0Z 3.56
+AUG 0.57, LP RAZ 2.52 AUG 0.44, p! 0.015
+nZ 5; N 0Z 4.22 AUG 0.44, N RAZ 3.27G 0.85
+nZ 4). As presented in Fig. 3B, our analysis showed
+that the Mn-SOD mRNA levels present in normal
+fibroblasts were not modulated by RA treatment for
+96 h. However, exposure to RA for 96 h did signifi-
+cantly decrease steady-state levels of Mn-SOD
+mRNA in lesional psoriatic fibroblasts ( p! 0.001, LP
+0Z 68.42 AUG 7.0, LP RAZ 32.55 AUG 4.7 nZ 4)
+and in non-lesional psoriatic fibroblasts [p! 0.001 nLP
+0Z 9.85 AUG 0.88, nLPRAZ 4.16 AUG 0.35 nZ 4].
+0 1 3 6 18 96
+
+1 3 6 18 96
+
+1 3 6 18 96Sdt
+
+25 kDa
+
+Mn-SOD B
+
+RA treatment (hours)
+
+C
+u
+
+,Z
+n
+
+-S
+O
+
+D
+/ 
+
+er
+yC
+
+u
+,Z
+
+n
+-S
+
+O
+D
+
+(%
+ o
+
+f 
+u
+
+n
+tr
+
+ea
+te
+
+d
+)
+
+M
+n
+
+-S
+O
+
+D
+/ 
+
+re
+c 
+
+M
+n
+
+-S
+O
+
+D
+(%
+
+ o
+f 
+
+u
+n
+
+tr
+ea
+
+te
+d
+
+)
+
+0
+
+40
+
+80
+
+120
+
+LP
+
+nLP
+
+N
+
+RA treatment (hours)
+
+D
+
+N
+
+nLP
+
+LP
+
+15
+kDa
+
+Cu,Zn-SOD A
+
+0
+
+40
+
+80
+
+120
+C
+
+N
+
+nLP
+
+LP LP
+
+nLP
+
+N
+
+Fig. 2. Effect of RA treatment of Normal (N), non-Lesional Psoriatic (nLP) and Lesional Psoriatic (LP) fibroblasts for increasing periods of time on
+
+Cu,Zn-SOD [panels A and B (densitometry)] and Mn-SOD [panels C and D (densitometry)]. Cells were treated with 1 mM RA for the times
+
+indicated. 0 indicates untreated cells and sdt indicates the positive standard controls: Controls were erythrocyte Cu,Zn-SOD for panel A, and the
+
+recombinant human Mn-SOD for panel C. Data are presented as meanG SEM (n Z 9). Each sample was assayed in triplicate in three independent
+experiments.
+
+
+
+74 P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+3.6. Analysis of Cu,Zn-SOD and Mn-SOD
+mRNA stability
+
+Todeterminewhether the increase ofMn-SODmRNA
+in psoriatic fibroblasts is due to a decrease of Mn-SOD
+
+***
+
+***
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Mn-SOD
+
+  RA 96hRA 96h
+C
+
+N nLP LP
+
+B
+
+M
+n-
+
+S
+O
+
+D
+/P
+
+0
+
+Real time RT-PCR
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+N nLP LP
+
+A C
+Cu,Zn-SOD
+
+C
+u,
+
+Z
+n-
+
+S
+O
+
+D
+/P
+
+0
+
+**
+
+Fig. 3. (A) Effect of RA treatment of Normal (N), non-Lesional
+
+Psoriatic (nLP) and Lesional Psoriatic (LP) fibroblasts on Cu,Zn-SOD
+
+mRNA levels as determined by real time RT-PCR. The cells were
+
+treated without (open bars) and with (filled bars) 1 mMRA. The results
+
+of the real time RT-PCR are expressed as a ratio of arbitrary units
+
+(AU) of Cu,Zn-SOD/P0 of duplicates of four different N, four and five
+
+different nLP and LP primary culture of fibroblasts. P0 is a house-
+
+keeping gene used as control. *p! 0.03 for nPL, p! 0.015 for PL. (B)
+Effect of RA treatment of Normal (N), non-Lesional Psoriatic (nLP)
+
+and Lesional Psoriatic (LP) fibroblasts on Mn-SOD mRNA levels as
+
+determined by real time RT-PCR. The cells were treated without (open
+
+bars) and with (filled bars) RA. The results of the real time RT-PCR
+
+are expressed as a ratio of arbitrary units (AU) of Mn-SOD/P0 of
+
+duplicates of three different N, four different nLP and LP primary
+
+culture of fibroblasts. P0 is a housekeeping gene used as con-
+
+trol.***p! 0.001.
+mRNA degradation, the stability of SOD mRNA was
+measured in the presence of the transcriptional inhibitor
+actinomycin D (ActD). The cells were treated or not by
+RA, after which 10 mg/mL ActD was added. Total
+mRNA was isolated at 0, 1, 3 and 6 h after ActD
+addition and analysed by real time RT-PCR (Fig. 5).
+The Cu,Zn-SOD mRNA and Mn-SOD mRNA were
+stable in the three different types of human dermal
+fibroblasts (non-lesional, lesional psoriatic, normal)
+without or after 1 mM RA treatment (Fig. 4, panel A).
+Thus we can conclude that the increased steady-state
+Mn-SOD mRNA levels in psoriatic fibroblasts were not
+due to an increase in mRNA stability.
+
+3.7. Analysis of Cu,Zn-SOD and Mn-SOD
+protein stability
+
+To investigate whether Cu,Zn- and Mn-SOD protein
+levels were stabilized by RA, normal and psoriatic
+fibroblasts were pretreated with 1 mM RA for 48 h and
+cycloheximide (10 mM/mL) added from 1 to 3 h to
+inhibit protein synthesis. Cycloheximide alone or with
+RA (1 mM) did not affect the expression of Cu,Zn-SOD
+protein in all types of human psoriatic fibroblast
+primary cultures (non-lesional, lesional psoriatic)
+(Fig. 5, panels A, B, C). In addition, RA treatment of
+normal and non-lesional and lesional psoriatic fibro-
+blasts under cycloheximide did not affect Mn-SOD
+CU,Zn-SOD
+
+ActD (hours) ActD (hours)
+
+nLP
+
+N
+
+LP
+
+C
+u,
+
+Z
+n-
+
+S
+O
+
+D
+/P
+
+O
+ (
+
+A
+U
+
+)
+
+1.0
+
+0
+
+0.5
+
+1.5
+1.0
+
+0
+
+0.5
+
+1.5
+
+1.0
+
+0
+0.5
+
+1.5
+
+1.0
+
+0
+
+0.5
+
+1.5
+
+1.0
+
+0
+0.5
+
+1.5
+
+1.0
+
+0
+
+0.5
+
+1.5
+
+10 3 6 10 3 6
+
+10 3 6
+
+10 3 610 3 6
+
+10 3 6
+
+mRNA stability
+
+Mn-SOD
+
+M
+n-
+
+S
+O
+
+D
+/P
+
+O
+ (
+
+A
+U
+
+)
+
+nLP RA
+
+LP RA
+
+N RA
+
+N
+
+nLP
+
+LP
+
+*
+
+*RA 48h
+
+Fig. 4. Increased Mn-SOD steady-state mRNA and decreased expression of Mn-SOD mRNA in response to RA in psoriatic fibroblasts. As shown in
+
+Fig. 4, panels A and B, the stability of Cu,Zn- and Mn-SOD mRNA in the presence (open) or absence (filled) of RA was determined utilizing
+
+actinomycin D (ActD) as described in Section 2. The results of the real time RT-PCR are expressed as a ratio of arbitrary units (AU) of Mn-SOD/P0
+
+of duplicates of two different N, two different nLP and LP primary culture of fibroblasts. P0 is a housekeeping gene used as control.
+
+
+
+75P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+0
+
+0.5
+
+1.0
+
+1.5
+
+N RA
+
+N
+
+0
+
+1.0
+
+2.0
+
+RA nLP
+
+nLP
+
+0
+
+1.0
+
+2.0
+
+3.0
+
+LP RA
+
+LP
+
+M
+n
+
+-S
+O
+
+D
+/ 
+
+A
+ct
+
+in
+
+D
+
+E
+
+F
+
+Cu,Zn-SOD (15 kDa)
+
+N
+
+nLP
+
+LP
+
+0 1 0 13 3
+
+CHX CHX
+
+nLP
+
+N
+
+LP
+
+Mn-SOD (25 kDa)
+
+0
+
+0.5
+
+1.0
+
+LP RA 
+
+LP
+
+0
+
+0.5
+
+1.0
+
+nLP RA 
+
+nLP
+
+0 1 3 0 1 3
+
+CHX (hours) CHX (hours)
+
+C
+u
+
+,Z
+n
+
+-S
+O
+
+D
+/ 
+
+A
+ct
+
+in
+
+B
+
+C
+
+0
+
+0.5
+
+1.0
+
+N RA
+
+N
+
+A
+
+RA 48H +
++-
+
+-
+
+hours 0 1 0 13 3
+
+CHX CHX
+
+hours
+
+RA 48H
+
+Fig. 5. Analysis of Cu,Zn- and Mn-SOD protein stability in Normal (N), non-Lesional Psoriatic (nLP) and Lesional Psoriatic (LP) fibroblasts. As
+
+shown in panels A and B, the three different primary cultures of fibroblasts were untreated or treated with RA for 48 h and cycloheximide (CHX)
+
+(10 mg/mL) was added for 1 and 3 h. The molecular mass for Cu,Zn-SOD, Mn-SOD and b-actin is 15, 25 and 45 kDa, respectively. b-Actin serves as
+
+loading control as shown in A and B. Immunoblots were quantified by densitometry and expressed as the ratio of the Cu,Zn-SOD/b-actin and Mn-
+
+SOD/b-actin for each sample. The band intensities were quantified using ImageQuant software, Amersham Biosciences. Each point in the plot
+
+represents the mean, and the error bars represent GSEM. (nZ 4).
+protein levels (Fig. 5, panels D, E, F). Thus we can rule
+out an effect of RA on Mn-SOD protein stability.
+
+4. Discussion
+
+The involvement of oxygen free radicals in a growing
+list of diseases indicates a need for pharmaceutical agents
+that may inhibit the production of free radicals. These
+molecules may enhance radical scavenging systems,
+which may then reverse oxidative damage to important
+cellular components including those of the signal trans-
+duction pathways. All-trans retinoic acid (RA), the
+active metabolite of vitamin A, is critical in the
+regulation of a number of biological processes, including
+embryogenesis and cell growth [22,23] and it also has
+been used in the treatment of psoriasis [24]. Previous
+results, which demonstrated that RA treatment of cells
+could reverse the oxidatively modified state of protein
+kinase C [25], and of PKA [14], indicated that RA might
+act to alter redox activities within the cell. However, its
+mechanism of action is still unclear. To assess the role of
+RA as an important regulator for treatment of psoriasis,
+we have investigated the effects of RA on Cu,Zn-SOD
+and Mn-SOD activity as well as mRNA and protein
+levels in normal and psoriatic fibroblasts.
+
+Retinoic acid treatment of psoriatic (nLP and
+LP) fibroblasts produced a significant, time-dependent
+decrease in Mn-SOD activity and mRNA to the basal
+levels observed in normal fibroblasts. As increased Mn-
+SOD activity occurs in response to an oxidative stress
+and particularly in response to superoxide anions, the
+antioxidant effects of RA treatment results in a reduction
+of Mn-SOD activity in the psoriatic cells to basal levels.
+Interestingly, the amount of Mn-SOD protein found in
+these cells was not modified by RA treatment. However,
+discrepancies between mRNA and protein levels have
+also been reported by others. Ahlemeyer et al. [26]
+showed that staurosporine did not influence the mRNA
+levels of Cu,Zn-SOD and Mn-SOD, but decreased the
+protein levels and the activity of both enzymes in
+cultures from neonatal rat hippocampus. Tsan et al. [27]
+
+
+
+76 P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+showed that hyperoxia-induced increase in the mRNA
+level of Mn-SOD in the lung was not associated with an
+increase in the protein level or enzymatic activity of Mn-
+SOD. Niu et al. [28] found an induction of the Mn-SOD
+mRNA by lipopolysaccharides in rat astrocytes, with
+a constant Mn-SOD protein level. These observations
+suggest that SOD protein levels could be dissociated
+from their synthesis and from their enzyme activities.
+The fact that RA decreases mRNA levels of Mn-SOD in
+psoriatic fibroblasts without a significant decrease in
+protein levels could be explained by the stability of these
+enzymes in time course of our experiments. Our results
+are in agreement with a 5e6 h half-life for Mn-SOD
+[29]. It is also possible that the RA treatment has altered
+the subcellular distribution of the protein. For example,
+if the RA treatment enhanced protein transport into the
+lysozome or proteosome through post-translational
+modifications such as ubiqutination, it is possible that
+while total cellular protein levels were not changed, the
+enzymatic activity was reduced due to the change in
+subcellular localization. This hypothesis awaits further
+investigation.
+
+Enzyme activities often are modulated by post-
+translational modification of the protein. Covalent
+modifications such as disulfide formation, phosphoryla-
+tion, acetylation, glycosylation and nitration all have
+been reported [30]. An additional modification termed
+retinoylation also has been observed in cells treated with
+retinoic acid [31,32]. Following activation of retinoic
+acid in a coenzyme A-mediated reaction, a thioester
+bond between protein and RA can be created. The RI
+and RII regulatory subunits of PKA were found to be
+retinoylated in HL 60 cells [32], and we also observed
+retinoylation of RI and RII in normal and psoriatic
+fibroblasts [33]. Retinoylation of the RII regulatory
+subunit, as well as total protein retinoylation, was
+observed to be increased in psoriatic cells. This raises the
+possibility that Mn-SOD could be covalently modified
+by retinoylation in response to RA treatment of
+psoriatic cells, thus explaining our observed decrease
+in enzyme activity. Finally we recently have shown an
+increase of carbonylation in psoriatic cells, which could
+also be responsible for protein modification and de-
+creased enzyme activity [34].
+
+Retinoic acid treatment had a differential effect on
+the modulation of Cu,Zn-SOD. The basal level of
+Cu,Zn-SOD mRNA was not significantly altered in
+psoriatic as compared to normal fibroblasts, whereas
+the basal Mn-SOD mRNA level was significantly
+elevated in psoriatic fibroblasts. In studies with
+psoriatic epidermis, Löntz et al. [35] reported that the
+expression of Cu,Zn-SOD mRNA was unchanged in
+psoriatic (nLP and LP) compared to normal skin. In
+our case, we have determined that retinoic acid
+treatment resulted in decreased levels of Cu,Zn-SOD
+mRNA in psoriatic cells. However, the mechanism(s)
+underlying the down-regulation of Cu,Zn-SOD expres-
+sion remains unclear. In fact, there is little information
+concerning factors which may regulate Cu,Zn-SOD
+transcription, as Cu,Zn-SOD is constitutively expressed
+in primary cultures of dermal fibroblasts, and is not
+regulated by cytokines and growth factors [36]. Re-
+cently, Frank et al. [37] showed a direct coupling of
+Cu,Zn-SOD mRNA expression levels to the presence
+of nitric oxide, since Cu,Zn-SOD levels declined during
+acute inflammation (endotoxemic shock) in the pres-
+ence of a selective inhibitor of iNOS and without
+involvement of the soluble guanylate cyclase. This
+suggested the possibility that under conditions of
+chronic inflammation, such as in psoriatic fibroblasts,
+Cu,Zn-SOD mRNA expression might be regulated by
+H2O2, NO and peroxinitrite.
+
+Results presented here showed that RA treatment of
+psoriatic fibroblasts for 18 h down-regulated Cu,Zn-
+SOD mRNA steady-state levels. These results suggest
+either transcriptional regulation or a modification of
+mRNA stability of Cu,Zn-SOD mRNA expression with
+RA treatment of psoriatic cells, but a translational
+regulation of Cu,Zn-SOD levels in normal cells.
+Retinoids appear to exert their biological effects through
+multiple gene regulatory nuclear factors [38e40]. An
+activated retinoidereceptor complex can regulate gene
+expression by two distinct mechanisms. It can activate
+transcription by binding to a retinoid response element
+in the promoter of specific genes. However, no retinoid
+response element was found within the promoter regions
+of the Cu,Zn-SOD and Mn-SOD genes. Alternatively,
+RA can indirectly repress the activity of other nuclear
+transcription factors such as AP-1 [41,42]. The activated
+retinoid receptor complex can interact with cofactor
+proteins that are required for AP-1 mediated gene
+transcription factor. However, no binding sequence for
+the AP-1 transcription factor has been found within the
+proximal promoter of Cu,Zn-SOD. Thus, RA regula-
+tion of Cu,Zn-SOD gene expression may require
+interaction with other cellular components, such as
+other cellular retinoic acid binding proteins (CRABPs,
+see for review Noy [43]). The possible involvement of
+CRABPs in mediating this down-regulatory effect of RA
+on Cu,Zn-SOD expression is of interest in view of the
+finding that CRABP II levels are elevated in psoriatic
+skin [44] and awaits further analysis. While in this report
+we studied the effect of RA on psoriatic fibroblasts, as
+an immunologic sentinel. RA has other cellular targets
+in psoriasis such as keratinocytes and T lymphocytes.
+Thus it is quite possible that Cu,Zn-SOD could also be
+involved in the prevention of T-cell apoptosis [46]. This
+hypothesis awaits further testing.
+
+In conclusion, RA treatment of primary psoriatic
+fibroblasts resulted in a significant decrease in the
+elevated level of Mn-SOD activity found in these cells
+at a level similar to that in normal fibroblasts. This
+
+
+
+77P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+regulatory effect of RA could be at the level of protein
+covalent modification or subcellular localization or at
+the Mn-SOD mRNA steady-state level, since there was
+no significant change in total cellular Mn-SOD protein
+levels. Retinoic acid treatment of both normal and
+psoriatic fibroblasts also caused a decrease in Cu,Zn-
+SOD activity that appeared to be at the level of
+transcriptional regulation. Thus our data begins to
+provide a biochemical basis for the use of RA in the
+treatment of psoriasis.
+
+Acknowledgements
+
+The authors thank Dr Isabelle Gorin from the
+Department of Dermatology, Hôpital Tarnier (Paris)
+for her kind clinical assistance. We gratefully acknowl-
+edged Pr Naoyuki Taniguchi from the Department of
+Biochemistry, Osaka University (Japan), for the gener-
+ous gift of the anti-Mn-SOD antibody. We thank Dr
+Howard A. Young from NCI-Frederick (Frederick,
+MD, USA) for his helpful discussion.
+
+References
+
+[1] Meier BHH, Radeke S, Selle M, Young H, Sies K, Resh K, et al.
+
+Human fibroblasts release reactive oxygen species in response
+
+to interleukin-1 or tumor necrosis factor. Biochem J 1989;263:
+
+539–45.
+
+[2] Irani K, Xia Y, Zweier JL, Sollott SJ, Der CJ, Fearon ER, et al.
+
+Mitogenic signaling mediated by oxidants in Ras-transformated
+
+fibroblasts. Science 1997;275:1649–52.
+
+[3] Finkel T. Oxygen radicals and signaling. Curr Opin Cell Biol
+
+1998;10:248–53.
+
+[4] Whisler RL, Goyette MA, Grants IS, Newhouse YG. Sublethal
+
+levels of oxidant stress stimulate multiple serine/threonine kinases
+
+and suppress protein phosphatases in jurkat cells. Arch Biochem
+
+Biophys 1995;319:23–35.
+
+[5] Mattson MP. Cellular actions of b-amyloid precursor protein
+
+and its soluble and fibrillogenic derivatives. Physiol Rev 1997;77;
+
+1081–132.
+
+[6] Beckman KB, Ames BN. The free radical theory of aging matures.
+
+Physiol Rev 1998;78:547–81.
+
+[7] Halliwell B. The role of oxygen radicals in human disease, with
+
+particular reference to the vascular system. Homeostasis Suppl
+
+1993;1:118–26.
+
+[8] Cerutti PA. Oxy-radicals and cancer. Lancet 1994;344:862–3.
+
+[9] Fridovich I. Superoxide anion radical (O
+�c2), superoxide dismu-
+
+tases, and related matters. J Biol Chem 1997;272:18515–7.
+
+[10] Michiels C, Raes M, Toussaint O, Remacle J. Importance of Se-
+
+glutathione peroxidase, catalase, and Cu/Zn-SOD for cell survival
+
+against oxidative stress. Free Radic Biol Med 1994;17:235–48.
+
+[11] Fridovich I. Superoxide radical and superoxide dismutases. Annu
+
+Rev Biochem 1995;64:97–112.
+
+[12] Plet A, Gerbaud P, Sherman MI, Anderson WB, Brion DE.
+
+Retinoic acid effect on cyclic AMP-dependent protein kinases in
+
+embryonal carcinoma cells: studies with differentiation-defective
+
+sublines. J Cell Physiol 1986;127:341–7.
+[13] Raynaud F, Leduc C, Anderson WB, Evain-Brion D. Retinoid
+
+acid treatment of human psoriatic fibroblasts increases cyclic-
+
+AMP-dependent protein kinase levels. J Invest Dermatol
+
+1987;89:105–10.
+
+[14] Raynaud F, Evain-Brion D, Gerbaud P, Marciano D, Gorin I,
+
+Liapi C, et al. Oxidative modulation of cAMP-dependent protein
+
+kinase in human fibroblasts: possible role in psoriasis. Free Radic
+
+Biol Med 1997;22:623–32.
+
+[15] Thérond P, Gerbaud P, Dimon S, Anderson WB, Evain-Brion D,
+
+Raynaud F. Antioxidant enzymes in psoriatic fibroblasts and
+
+erythrocytes. J Invest Dermatol 1996;106:1325–8.
+
+[16] Saurat JH. Retinoids and psoriasis. Novel issues in retinoid
+
+pharmacology and implications for psoriasis treatment. J Am
+
+Acad Dermatol 1999;41:S2–6.
+
+[17] Yamauchi PS, Rizk D, Kormeili T, Patnaik R, Lowe NJ. Current
+
+systemic therapies for psoriasis: where are we now? J Am Acad
+
+Dermatol 2003;49:S66–77.
+
+[18] Tournier S, Gerbaud P, Anderson WB, Lohmann SM, Evain-
+
+Brion D, Raynaud F. Post-translational abnormality of the type
+
+II cyclic AMP-dependent protein kinase in psoriasis: modulation
+
+by retinoic acid. J Cell Biochem 1995;57:647–54.
+
+[19] Bannister JV, Bannister WH, Rotilio G. Aspects of the structure,
+
+function and applications of superoxide dismutase. Crit Rev
+
+Biochem 1987;22:111–80.
+
+[20] O’Neill P, Davies S, Fielden EM. The various effect of pH and
+
+various salts upon the activities of a series of superoxide
+
+dismutase. Biochem J 1988;241:41–6.
+
+[21] Bièche I, Noguès C, Paradis V, Olivi M, Bedossa P, Lidereau R,
+
+et al. Quantitation of hTERT gene expression in sporadic breast
+
+tumors with a real-time reverse transcription-polymerase chain
+
+reaction assay. Clin Cancer Res 2000;6:452–9.
+
+[22] Lotan R. Effects of vitamin A and its analogs (retinoids) on
+
+normal and neoplastic cells. Biochem Biophys Acta 1980;605:
+
+33–91.
+
+[23] Ruberte E, Dolle P, Krust A, Zelent A, Morriss-Kay G,
+
+Chambon P. Specific spatial and temporal distribution of retinoic
+
+acid receptor gamma transcripts during mouse embryogenesis.
+
+Development 1990;108:213–22.
+
+[24] Gollnick H, Ehlert R, Orfanos CE. Retinoids: an overview of
+
+pharmacokinetics and therapeutic value. Methods Enzymol
+
+1990;190:291–304.
+
+[25] Gundimeda U, Hara SK, Anderson WB, Gopalakrishna R.
+
+Retinoid inhibit the oxidative modification of protein kinase C
+
+induced by oxidant tumors promoters. Arch Biochem Biophys
+
+1993;300:526–30.
+
+[26] Ahlemeyer B, Bauerbach E, Plath M, Steuber M, Heers C,
+
+Tegtmeier F, et al. Retinoic acid reduces apoptosis and oxidative
+
+stress by preservation of SOD protein level. Free Radic Biol Med
+
+2001;30:1067–77.
+
+[27] Tsan MF, White JE, Shaffer JB. Molecular basis for tumor
+
+necrosis factor-induced increase in pulmonary superoxide dis-
+
+mutase activities. Am J Physiol 1990;259:L506–12.
+
+[28] Niu CS, Chang CK, Lin LS, Jou SB, Kuo DH, Liao SS, et al.
+
+Modification of superoxide dismutase (SOD) mRNA and activity
+
+by a transient hypoxic stress in cultured glial cells. Neurosci Lett
+
+1998;251:145.
+
+[29] Gorecki M, Beck Y, Hartman JR, Fischer M, Weiss L,
+
+Tochner Z, et al. Recombinant human superoxide dismutases:
+
+production and potential therapeutical uses. Free Radic Res
+
+Commun 1991;12:401–10.
+
+[30] Arai K, Maguchi S, Fujii S, Ishibashi H, Oikawa K, Taniguchi N.
+
+Glycation and inactivation of human Cu-Zn-superoxide dismu-
+
+tase. J Biol Chem 1987;262:16969–72.
+
+[31] Renstrom B, DeLuca HF. Incorporation of retinoic acid into
+
+proteins via retinoyl-CoA. Biochem Biophys Acta 1989;998:
+
+69–74.
+
+
+
+78 P. Gerbaud et al. / Journal of Autoimmunity 24 (2005) 69e78
+[32] Takahashi N, Breitman TR. Retinoylation of HL-60 proteins.
+
+J Biol Chem 1990;265:19158–62.
+
+[33] Tournier S, Raynaud F, Gerbaud P, Lohmann SM,
+
+Anderson WB, Evain-Brion D. Retinoylation of the type II
+
+cAMP-binding regulatory subunit of cAMP-dependent protein
+
+kinase is increased in psoriatic human fibroblasts. J Cell Physiol
+
+1996;167:196–203.
+
+[34] Dimon-Gadal S, Gerbaud P, Thérond P, Guibourdanche J,
+
+Anderson WB, Evain-Brion D, et al. Increased oxidative damage
+
+to fibroblasts in skin with and without lesions in psoriasis. J Invest
+
+Dermatol 2000;114:984–9.
+
+[35] Löntz W, Sirsjö A, Liu W, Lindberg M, Rollman O, Törmä H.
+
+Increased mRNA expression of manganese superoxide dismutase
+
+in psoriasis skin lesions and in cultured human keratinocytes ex-
+
+posed to IL-1b and TNF-a. Free Radic Biol Med 1995;18:349–55.
+
+[36] Marklung SL. Regulation by cytokines of extracellular superoxide
+
+dismutase and other superoxide dismutase isoenzymes in fibro-
+
+blasts. J Biol Chem 1992;267:6696–701.
+
+[37] Frank S, Zacharowski K, Wray GM, Thiemermann C,
+
+Pfeilschifter J. Identification of copper/zinc superoxide dismutase
+
+as a novel nitric oxide-regulated gene in rat glomerular mesangial
+
+cells and kidneys of endoxemic rats. FASEB J 1999;13:869–82.
+
+[38] Chambon P. The retinoid signaling pathways: molecular and
+
+genetic analyses. Semin Cell Biol 1994;5:115–25.
+[39] Mangelsdorf DJ, Umesono K, Evans RM. The retinoid receptors.
+
+In: Sporn MB, Roberts AB, Goodman DS editors. The retinoids:
+
+biology, chemistry, and medecine. New York: Raven Press; 1994,
+
+p. 319–49.
+
+[40] Fisher GJ, Voorhees JJ. Molecular mechanisms of retinoid
+
+actions in skin. FASEB J 1996;10:1002–13.
+
+[41] Nagpal S, Athanikar J, Chandraratna RA. Separation of trans-
+
+activation and AP1 antagonism functions of retinoic acid receptor
+
+alpha. J Biol Chem 1995;270:923–7.
+
+[42] DiSepio D, Sutter M, Johnson AT, Chandraratna RA, Nagpal S.
+
+Identification of the AP1-antagonism domain of retinoic acid
+
+receptors. Mol Cell Biol Res Commun 1999;1:7–13.
+
+[43] Noy N. Retinoid-binding proteins: mediators of retinoid action.
+
+Biochem J 2000;348:481–95.
+
+[44] Fogh K, Voorhees JJ, Astrom A. Expression, purification, and
+
+binding properties of human cellular retinoic acid-binding
+
+protein type I and type II. Arch Biochem Biophys
+
+1993;300:751–5.
+
+[45] Frederiksson AJ, Peterssonn BC. Severe psoriasis-oral therapy
+
+with a new retinoid. Dermatologica 1978;157:238e44.
+
+[46] Onate AA, Cespedes S, Cabrera A, Rivers R, Gonzalez A, Munoz
+
+C, et al. A DNA vaccine encoding Cu,Zn superoxide dismutase of
+
+Brucella abortus induces protective immunity in BALB/c mice.
+
+Infect Immunol 2003;71:4857e61.
+
+
+	Differential regulation of Cu, Zn- and Mn-superoxide dismutases by retinoic acid in normal and psoriatic human fibroblasts
+	Introduction
+	Materials and methods
+	Experimental reagents
+	Cells
+	Preparation of cellular fractions
+	Superoxide dismutase (SOD) activities
+	Western blot analysis
+	Actinomycin D treatment
+	Cycloheximide treatment
+	RNA isolation and real time RT-PCR
+	Analysis of statistical significance
+
+	Results
+	Retinoic acid treatment of psoriatic fibroblasts decreased SOD enzymatic activities
+	Time dependency of decreased SOD enzymatic activities upon retinoic acid treatment
+	Retinoic acid effects on Cu,Zn-SOD and Mn-SOD protein levels
+	Analysis of Mn-SOD steady-state mRNA levels
+	Effects of retinoic acid treatment on Cu,Zn-SOD and Mn-SOD steady-state mRNA levels
+	Analysis of Cu,Zn-SOD and Mn-SOD mRNA stability
+	Analysis of Cu,Zn-SOD and Mn-SOD protein stability
+
+	Discussion
+	Acknowledgements
+	References

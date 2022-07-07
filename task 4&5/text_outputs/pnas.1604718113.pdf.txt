@@ -1,0 +1,357 @@
+pnas201604718 2347..2347
+
+
+Correction
+
+CELL BIOLOGY
+Correction for “Shox2 is a molecular determinant of depot-
+specific adipocyte function,” by Kevin Y. Lee, Yuji Yamamoto,
+Jeremie Boucher, Jonathon N. Winnay, Stephane Gesta, John
+Cobb, Matthias Blüher, and C. Ronald Kahn, which appeared in
+issue 28, July 9, 2013, of Proc Natl Acad Sci USA (110:11409–
+11414; first published June 24, 2013; 10.1073/pnas.1310331110).
+The authors wish to note the following: “It has been brought to
+
+our attention that the original Fig. 2D in our paper contained a
+duplicate image in which the panel showing SCF from Shox2f/f mice
+(Middle Left) was duplicated and also shown as PGF in F-Shox2−/−
+
+mice (Bottom Right). In the corrected version of Figure 2D shown
+below, we have replaced the duplicate image with the correct
+original data. After careful re-examination of the original data, we
+are confident that the error in assembling this figure does not affect
+the validity of the research or the conclusions that we have drawn.
+We are grateful to the careful reader who brought this mistake to
+our attention and apologize for any confusion that this error may
+have caused.” The corrected Fig. 2 and its legend appear below.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1604718113
+
+Shox2f/f
+
+Shox2f/f
+F-Shox2-/-
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+SCF PGF 
+
+Fa
+t P
+
+ad
+ W
+
+ei
+gh
+
+t
+
+B
+
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+
+Shox2f/f F-Shox2-/-
+
+W
+ei
+
+gh
+t R
+
+at
+io
+
+ (P
+G
+
+F/
+S
+
+C
+F)
+
+CA
+
+E
+
+*
+
+*
+
+F
+
+6
+15
+20
+25
+30
+35
+40
+45
+50
+55
+
+Start 4 8 10 12
+Weeks of HFD
+
+B
+od
+
+y 
+W
+
+ei
+gh
+
+t (
+g) **
+
+*
+*
+
+F-Shox2-/-
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+Day Night
+
+V
+O
+
+2 
+(m
+
+l/k
+g/
+
+hr
+)
+
+*
+*
+
+0
+20
+40
+60
+80
+100
+120
+140
+160
+
+SCF PGFM
+ed
+
+ia
+n 
+
+A
+di
+
+po
+cy
+
+te
+ D
+
+ia
+m
+
+et
+er
+
+ (
+uM
+
+)
+
+*
+
+*
+
+D Shox2f/f
+
+B
+AT
+
+S
+C
+
+F
+P
+
+G
+F
+
+F-Shox2-/-
+
+Fig. 2. F-Shox2−/− males are resistant to HFD-induced obesity. (A) Body weight
+measurement of F-Shox2−/−and control animals during 12 wk on HFD (started at
+6 wk of age). Data are shown as mean ± SEM of five to seven animals per group.
+*P < 0.05 for all panels. (B) Weight of fat pads from F-Shox2−/− and control males
+after 6 wk of HFD exposure. Data are shown as mean ± SEM (n = 4–5). (C) Ratio
+of perigonadal (intraabdominal) fat/flank (s.c.) fat pad weights for F-Shox2−/−
+
+and control males after 6 wk of HFD exposure. Data are shown as mean ± SEM
+(n = 4–5). (D) Hematoxylin/eosin-stained representative sections from F-Shox2−/−
+
+and control males after 12 wk of HFD exposure. Pictures were taken at 200×.
+(E) Calculation ofmedian adipocyte size in perigonadal and s.c. fat from F-Shox2−/−
+
+and control males after 12 wk of HFD exposure. Values represent median ± SEM
+of five digital images from four animals per group. (F) Oxygen consumption rate
+in the light and dark cycles of male F-Shox2−/− and control animals after 2 wk of
+HFD feeding. Data are shown as mean ± SEM (n = 4). BAT, brown adipose tissue;
+PGF, perigonadal fat; SCF, s.c. fat; VO2, oxygen uptake.
+
+www.pnas.org PNAS | April 19, 2016 | vol. 113 | no. 16 | E2347
+
+C
+O
+R
+R
+EC
+
+TI
+O
+N
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ h
+tt
+
+ps
+:/
+
+/w
+w
+
+w
+.p
+
+na
+s.
+
+or
+g 
+
+by
+ N
+
+or
+ri
+
+s 
+M
+
+ed
+ic
+
+al
+ L
+
+ib
+ra
+
+ry
+ U
+
+ni
+v 
+
+S
+ou
+
+th
+er
+
+n 
+C
+
+al
+if
+
+or
+ni
+
+a 
+on
+
+ J
+un
+
+e 
+19
+
+, 2
+02
+
+2 
+fr
+
+om
+ I
+
+P
+ a
+
+dd
+re
+
+ss
+ 1
+
+54
+.5
+
+9.
+12
+
+4.
+74
+
+.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1604718113
